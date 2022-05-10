@@ -1,0 +1,6 @@
+build/
+.canopy_watch.pid
+.canopy_watch_dev.pid
+.canopy_bulk_temp
+canopy_bulk_temp
+**/.DS_Store
