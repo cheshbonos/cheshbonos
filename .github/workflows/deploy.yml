@@ -14,7 +14,6 @@ jobs:
       with:
         node-version: 16
     - run: npm install -g canopy-js
-    - run: canopy build
     - env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
@@ -37,7 +36,7 @@ jobs:
             git commit -m "Rebuilt topics on main from online-edit ${rev}"
             git push -q origin HEAD:main
 
-
+            canopy build
             cd build
             git init
             git config user.name "Cheshbonos User"
@@ -75,7 +74,7 @@ jobs:
           git push -q origin HEAD:online-edit
           rm canopy_bulk_file
 
-
+          canopy build
           cd build
           git init
           git config user.name "Cheshbonos User"
