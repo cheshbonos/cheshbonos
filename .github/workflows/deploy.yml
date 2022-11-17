@@ -31,10 +31,12 @@ jobs:
             git reset origin/main
             canopy bulk --start
             rm .canopy_bulk_originally_selected_files_list
+            echo "* Edit the `canopy_bulk_file` file in order to make changes to the project *" > README.md
             git add -A
             git status
             git commit -m "Rebuilt topics on main from online-edit ${rev}"
             git push -q origin HEAD:main
+
 
             canopy build
             cd build
