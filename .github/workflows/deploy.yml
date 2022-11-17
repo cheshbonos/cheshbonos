@@ -31,7 +31,6 @@ jobs:
             git reset origin/main
             canopy bulk --start
             rm .canopy_bulk_originally_selected_files_list
-            echo "* Edit the `canopy_bulk_file` file in order to make changes to the project *" > README.md
             git add -A
             git status
             git commit -m "Rebuilt topics on main from online-edit ${rev}"
@@ -71,6 +70,8 @@ jobs:
           git add topics
           git add canopy_bulk_file
           git add .github
+          echo "* Edit the `canopy_bulk_file` file in order to make changes to the project *" > README.md
+          git add README.md
           git status
           git commit -m "Rebuilt bulk file at ${rev}" --allow-empty
           git push -q origin HEAD:online-edit
