@@ -70,7 +70,7 @@ jobs:
           git add topics
           git add canopy_bulk_file
           git add .github
-          echo "* Edit the `canopy_bulk_file` file in order to make changes to the project *" > README.md
+          echo "# Edit the `canopy_bulk_file` file in order to make changes to the project #" > README.md
           git add README.md
           git status
           git commit -m "Rebuilt bulk file at ${rev}" --allow-empty
