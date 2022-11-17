@@ -1,0 +1,71 @@
+name: Deploy to GitHub pages
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main, online-edit ]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - uses: actions/setup-node@v3
+      with:
+        node-version: 16
+    - run: npm install -g canopy-js
+    - run: canopy build
+    - env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        set -ex
+
+        rev=$(git rev-parse --short HEAD)
+
+        if [[ "$GITHUB_REF_NAME" == "online-edit" ]]; then
+          canopy bulk --finish
+          TOPICS_CHANGES=$(git status --porcelain | grep "topics/")
+          if [[ ! -z $TOPICS_CHANGES ]]; then
+            git config user.name "Cheshbonos User"
+            git config user.email "105236136+cheshbonos@users.noreply.github.com"
+            git fetch origin
+            git reset origin/main
+            canopy bulk --start
+            git add -A
+            git status
+            git commit -m "Rebuilt topics on main from online-edit ${rev}"
+            git push -q origin HEAD:main
+          fi
+        fi
+
+        if [[ "$GITHUB_REF_NAME" == "main" ]]; then
+          canopy bulk --start
+          git config user.name "Cheshbonos User"
+          git config user.email "105236136+cheshbonos@users.noreply.github.com"
+          git fetch origin
+          build_branch_exists="$(git ls-remote --heads origin online-edit)"
+          if [[ ! -z $build_branch_exists ]]; then
+            git reset origin/online-edit
+          fi
+          rm .gitignore
+          git add topics
+          git add canopy_bulk_file
+          git status
+          git commit -m "Rebuilt bulk file at ${rev}" --allow-empty
+          git push -q origin HEAD:online-edit
+          rm canopy_bulk_file
+
+          cd build
+          git init
+          git config user.name "Cheshbonos User"
+          git config user.email "105236136+cheshbonos@users.noreply.github.com"
+          git remote add origin "https://cheshbonos:${GITHUB_TOKEN}@github.com/cheshbonos/cheshbonos.git"
+          git fetch origin
+          build_branch_exists="$(git ls-remote --heads origin build)"
+          if [[ ! -z $build_branch_exists ]]; then
+            git reset origin/build
+          fi
+          cp ../.github/workflows/netlify.toml .
+          git add -A .
+          git status
+          git commit -m "Rebuild pages at ${rev}" --allow-empty
+          git push -q origin HEAD:build
+        fi
