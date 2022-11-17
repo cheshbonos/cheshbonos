@@ -1,0 +1,39 @@
+name: Deploy
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - online-edit
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - uses: actions/setup-node@v3
+      with:
+        node-version: 16
+    - run: npm install -g canopy-js
+    - name: Update Main from Online-Edit Branch
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      run: |
+        set -ex
+
+        rev=$(git rev-parse --short HEAD)
+
+        canopy bulk --finish
+        TOPICS_CHANGES=$(git status --porcelain | grep "topics/")
+        if [[ ! -z $TOPICS_CHANGES ]]; then
+          git config user.name "Cheshbonos User"
+          git config user.email "105236136+cheshbonos@users.noreply.github.com"
+          git fetch origin
+          git reset origin/main
+          canopy bulk --start
+          rm .canopy_bulk_originally_selected_files_list
+          git checkout origin/main -- README.md
+          git add -A
+          git status
+          git commit -m "Rebuilt topics on main from online-edit ${rev}"
+          git push -q origin HEAD:main
+        fi
