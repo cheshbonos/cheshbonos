@@ -1,8 +1,10 @@
-name: Deploy to GitHub pages
+name: Deploy
 on:
   workflow_dispatch:
   push:
-    branches: [ main, online-edit ]
+    branches:
+      - main
+      - online-edit
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -29,12 +31,31 @@ jobs:
             git fetch origin
             git reset origin/main
             canopy bulk --start
+            rm .canopy_bulk_originally_selected_files_list
             git add -A
             git status
             git commit -m "Rebuilt topics on main from online-edit ${rev}"
             git push -q origin HEAD:main
+
+
+            cd build
+            git init
+            git config user.name "Cheshbonos User"
+            git config user.email "105236136+cheshbonos@users.noreply.github.com"
+            git remote add origin "https://cheshbonos:${GITHUB_TOKEN}@github.com/cheshbonos/cheshbonos.git"
+            git fetch origin
+            build_branch_exists="$(git ls-remote --heads origin build)"
+            if [[ ! -z $build_branch_exists ]]; then
+              git reset origin/build
+            fi
+            cp ../.github/workflows/netlify.toml .
+            git add -A .
+            git status
+            git commit -m "Rebuild JSON at ${rev}" --allow-empty
+            git push -q origin HEAD:build
           fi
         fi
+
 
         if [[ "$GITHUB_REF_NAME" == "main" ]]; then
           canopy bulk --start
@@ -48,10 +69,12 @@ jobs:
           rm .gitignore
           git add topics
           git add canopy_bulk_file
+          git add .github
           git status
           git commit -m "Rebuilt bulk file at ${rev}" --allow-empty
           git push -q origin HEAD:online-edit
           rm canopy_bulk_file
+
 
           cd build
           git init
@@ -66,6 +89,6 @@ jobs:
           cp ../.github/workflows/netlify.toml .
           git add -A .
           git status
-          git commit -m "Rebuild pages at ${rev}" --allow-empty
+          git commit -m "Rebuild JSON at ${rev}" --allow-empty
           git push -q origin HEAD:build
         fi
