@@ -1,4 +1,4 @@
-name: Deploy
+name: Update main topics from online-edit change
 on:
   workflow_dispatch:
   push:

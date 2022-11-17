@@ -1,4 +1,4 @@
-name: Deploy
+name: Update online-edit from main change
 on:
   workflow_dispatch:
   push:
