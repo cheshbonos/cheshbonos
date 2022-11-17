@@ -1,4 +1,4 @@
-name: Update main topics from online-edit change
+name: Update main from online-edit change
 on:
   workflow_dispatch:
   push:
@@ -23,6 +23,7 @@ jobs:
         rev=$(git rev-parse --short HEAD)
 
         canopy bulk --finish
+
         TOPICS_CHANGES=$(git status --porcelain | grep "topics/")
         if [[ ! -z $TOPICS_CHANGES ]]; then
           git config user.name "Cheshbonos User"
