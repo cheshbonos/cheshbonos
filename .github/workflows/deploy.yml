@@ -31,6 +31,7 @@ jobs:
             git reset origin/main
             canopy bulk --start
             rm .canopy_bulk_originally_selected_files_list
+            git checkout origin/main -- README.md
             git add -A
             git status
             git commit -m "Rebuilt topics on main from online-edit ${rev}"
