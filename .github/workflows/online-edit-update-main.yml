@@ -34,6 +34,7 @@ jobs:
           git add -A
           git status
           AUTHOR=$(git log -1 | grep Author | cut -d" " -f2-)
+          echo git commit --author="$AUTHOR" -m "$(git log --format=%B -n 1)"
           git commit --author="$AUTHOR" -m "$(git log --format=%B -n 1)"
           git push -q origin HEAD:main
         fi
