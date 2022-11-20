@@ -34,6 +34,7 @@ jobs:
           rm .gitignore
           git add topics
           git add canopy_bulk_file
+          git add .canopy_bulk_original_selection
           git add .github
           echo "# Edit the \`canopy_bulk_file\` file in order to make changes to the project #" > README.md
           git add README.md
