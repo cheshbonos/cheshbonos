@@ -1,4 +1,4 @@
-name: Update main from online-edit change
+name: Online-edit change updating main
 on:
   workflow_dispatch:
   push:
@@ -26,15 +26,14 @@ jobs:
 
         TOPICS_CHANGES=$(git status --porcelain | grep "topics/")
         if [[ ! -z $TOPICS_CHANGES ]]; then
-          git config user.name "Cheshbonos User"
-          git config user.email "105236136+cheshbonos@users.noreply.github.com"
           git fetch origin
           git reset origin/main
           canopy bulk --start
-          rm .canopy_bulk_originally_selected_files_list
+          rm .canopy_bulk_original_selection
           git checkout origin/main -- README.md
           git add -A
           git status
-          git commit -m "Rebuilt topics on main from online-edit ${rev}"
+          AUTHOR=$(git log -1 | grep Author | cut -d" " -f2-)
+          git commit --author=$AUTHOR -m "$(git log --format=%B -n 1)"
           git push -q origin HEAD:main
         fi

@@ -1,4 +1,4 @@
-name: Update build from main change
+name: Main change updating build
 on:
   workflow_dispatch:
   push:

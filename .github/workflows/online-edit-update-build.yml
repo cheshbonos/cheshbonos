@@ -1,4 +1,4 @@
-name: Update build from online-edit change
+name: Online-edit change updating build
 on:
   workflow_dispatch:
   push:
