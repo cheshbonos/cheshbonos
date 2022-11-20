@@ -39,5 +39,5 @@ jobs:
         git add .canopy_bulk_original_selection
         git add canopy_bulk_file
         git status
-        git commit -m "Update selection from online-edit ${rev}"
+        git commit -m "Update selection from online-edit ${rev}" --allow-empty
         git push -q origin HEAD:online-edit
