@@ -26,6 +26,9 @@ jobs:
 
         TOPICS_CHANGES=$(git status --porcelain | grep "topics/")
         if [[ ! -z $TOPICS_CHANGES ]]; then
+          AUTHOR_NAME=\"$(git log --pretty=format:"%an" -1)\"
+          AUTHOR_EMAIL=\"$(git log --pretty=format:"%ae" -1)\"
+          COMMIT_MESSAGE="$(git log --format=%B -n 1)"
           git fetch origin
           git reset origin/main
           canopy bulk --start
@@ -33,9 +36,9 @@ jobs:
           git checkout origin/main -- README.md
           git add -A
           git status
-          AUTHOR=$(git log -1 | grep Author | cut -d" " -f2-)
-          git config user.name \"$(git log --pretty=format:"%an" -1)\"
-          git config user.email \"$(git log --pretty=format:"%ae" -1)\"
-          git commit -m "$(git log --format=%B -n 1)"
+
+          git config user.name "$AUTHOR_NAME"
+          git config user.email "$AUTHOR_EMAIL"
+          git commit -m "$COMMIT_MESSAGE"
           git push -q origin HEAD:main
         fi
