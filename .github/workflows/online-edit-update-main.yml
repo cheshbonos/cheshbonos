@@ -31,14 +31,13 @@ jobs:
           COMMIT_MESSAGE="$(git log --format=%B -n 1)"
           git fetch origin
           git reset origin/main
-          canopy bulk --start
-          rm .canopy_bulk_original_selection
           git checkout origin/main -- README.md
           git add -A
           git status
 
           git config user.name "$AUTHOR_NAME"
           git config user.email "$AUTHOR_EMAIL"
-          git commit -m "$COMMIT_MESSAGE"
+          NL=$'\n'
+          git commit -m "$COMMIT_MESSAGE$NL(Building main from online edit to $rev)"
           git push -q origin HEAD:main
         fi
