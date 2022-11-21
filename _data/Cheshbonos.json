@@ -3,21 +3,7 @@
  "paragraphsBySubtopic": {
   "Cheshbonos": [
    {
-    "text": "Text here. ",
-    "type": "text"
-   },
-   {
-    "text": "Test",
-    "type": "local",
-    "targetSubtopic": "Test",
-    "targetTopic": "Cheshbonos",
-    "enclosingTopic": "Cheshbonos",
-    "enclosingSubtopic": "Cheshbonos"
-   }
-  ],
-  "Test": [
-   {
-    "text": "Hello.",
+    "text": "Text here.",
     "type": "text"
    }
   ]
