@@ -24,6 +24,9 @@ jobs:
 
         canopy build
         cd build
+
+        cat ../.github/workflows/google_analytics_tag.txt >> index.html
+
         git init
         git config user.name "Cheshbonos User"
         git config user.email "105236136+cheshbonos@users.noreply.github.com"
