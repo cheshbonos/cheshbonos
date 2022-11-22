@@ -23,8 +23,9 @@ jobs:
         if [[ ! -z $TOPICS_CHANGES ]]; then
           canopy build
           cd build
-          sed '/</html>/e cat ../.github/workflows/google_analytics_tag.txt' index.html
-          cat index.html
+
+          cat ../.github/workflows/google_analytics_tag.txt
+
           git init
           git config user.name "Cheshbonos User"
           git config user.email "105236136+cheshbonos@users.noreply.github.com"

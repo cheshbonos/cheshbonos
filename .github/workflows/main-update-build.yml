@@ -25,7 +25,7 @@ jobs:
         canopy build
         cd build
 
-        cat ./google_analytics_tag >> index.html
+        cat ../.github/workflows/google_analytics_tag.txt >> index.html
 
         git init
         git config user.name "Cheshbonos User"
