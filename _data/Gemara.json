@@ -1,0 +1,23 @@
+{
+ "displayTopicName": "Gemara",
+ "paragraphsBySubtopic": {
+  "Gemara": [
+   {
+    "text": "There are six seders of Gemara. There is ",
+    "type": "text"
+   },
+   {
+    "text": "Gemara on Seder Nashim",
+    "type": "global",
+    "targetSubtopic": "Gemara on Seder Nashim",
+    "targetTopic": "Gemara on Seder Nashim",
+    "enclosingTopic": "Gemara",
+    "enclosingSubtopic": "Gemara"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ]
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "displayTopicName": "Perek Ha'isha Niknas",
+ "paragraphsBySubtopic": {
+  "Perek Ha'isha Niknas": [
+   {
+    "text": "Perek Ha'isha Niknas is the second perek of Masechtas Kedushin of Talmud Bavli. Perek Ha'Ishna Niknas has",
+    "type": "text"
+   },
+   {
+    "text": "text",
+    "type": "local",
+    "targetSubtopic": "Text",
+    "targetTopic": "Perek Ha'isha Niknas",
+    "enclosingTopic": "Perek Ha'isha Niknas",
+    "enclosingSubtopic": "Perek Ha'isha Niknas"
+   },
+   {
+    "text": " and ",
+    "type": "text"
+   },
+   {
+    "text": "shakla v'taria",
+    "type": "local",
+    "targetSubtopic": "Shakla v'taria",
+    "targetTopic": "Perek Ha'isha Niknas",
+    "enclosingTopic": "Perek Ha'isha Niknas",
+    "enclosingSubtopic": "Perek Ha'isha Niknas"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Text": [
+   {
+    "text": "Perek Ha'isha Niknas has 41a-58b",
+    "type": "text"
+   }
+  ],
+  "Shakla v'taria": [
+   {
+    "text": "The masechta begins with Mishna Kedushin X:X.",
+    "type": "text"
+   }
+  ]
+ }
+}

@@ -1,0 +1,137 @@
+{
+ "displayTopicName": "Halacha",
+ "paragraphsBySubtopic": {
+  "Halacha": [
+   {
+    "text": "Halacha can be organized ",
+    "type": "text"
+   },
+   {
+    "text": "by sefer",
+    "type": "local",
+    "targetSubtopic": "By sefer",
+    "targetTopic": "Halacha",
+    "enclosingTopic": "Halacha",
+    "enclosingSubtopic": "Halacha"
+   },
+   {
+    "text": " or ",
+    "type": "text"
+   },
+   {
+    "text": "by topic",
+    "type": "local",
+    "targetSubtopic": "By topic",
+    "targetTopic": "Halacha",
+    "enclosingTopic": "Halacha",
+    "enclosingSubtopic": "Halacha"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "By sefer": [
+   {
+    "text": "Halacha can be organized by ",
+    "type": "text"
+   },
+   {
+    "text": "Tur",
+    "type": "local",
+    "targetSubtopic": "Tur",
+    "targetTopic": "Halacha",
+    "enclosingTopic": "Halacha",
+    "enclosingSubtopic": "By sefer"
+   },
+   {
+    "text": " or by ",
+    "type": "text"
+   },
+   {
+    "text": "Rambam",
+    "type": "local",
+    "targetSubtopic": "Rambam",
+    "targetTopic": "Halacha",
+    "enclosingTopic": "Halacha",
+    "enclosingSubtopic": "By sefer"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Tur": [
+   {
+    "text": "The Tur discusses the halachos of marriage in Orech Chayim.",
+    "type": "text"
+   }
+  ],
+  "Rambam": [
+   {
+    "text": "The Rambam discusses the halachos of marriage in Hilchos Ishus.",
+    "type": "text"
+   }
+  ],
+  "By topic": [
+   {
+    "text": "There are ",
+    "type": "text"
+   },
+   {
+    "text": "halachos of marriage",
+    "type": "local",
+    "targetSubtopic": "Halachos of marriage",
+    "targetTopic": "Halacha",
+    "enclosingTopic": "Halacha",
+    "enclosingSubtopic": "By topic"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Halachos of marriage": [
+   {
+    "text": "There are ",
+    "type": "text"
+   },
+   {
+    "text": "halachos of kedushin",
+    "type": "local",
+    "targetSubtopic": "Halachos of kedushin",
+    "targetTopic": "Halacha",
+    "enclosingTopic": "Halacha",
+    "enclosingSubtopic": "Halachos of marriage"
+   },
+   {
+    "text": ", and ",
+    "type": "text"
+   },
+   {
+    "text": "halachos of nesuyin",
+    "type": "local",
+    "targetSubtopic": "Halachos of nesuyin",
+    "targetTopic": "Halacha",
+    "enclosingTopic": "Halacha",
+    "enclosingSubtopic": "Halachos of marriage"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Halachos of kedushin": [
+   {
+    "text": "There are three methods of creating kedushin.",
+    "type": "text"
+   }
+  ],
+  "Halachos of nesuyin": [
+   {
+    "text": "There are several methods of creating nesuyin.",
+    "type": "text"
+   }
+  ]
+ }
+}
