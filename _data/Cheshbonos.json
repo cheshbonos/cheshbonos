@@ -15,6 +15,15 @@
     "enclosingSubtopic": "Cheshbonos"
    },
    {
+    "text": ". You can navigate by clicking or using the arrow and return keys. Cheshbonos is built using ",
+    "type": "text"
+   },
+   {
+    "type": "url",
+    "text": "Canopy.js",
+    "url": "https://github.com/canopy-js/canopy-js"
+   },
+   {
     "text": ".",
     "type": "text"
    }
