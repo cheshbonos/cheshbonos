@@ -1,0 +1,439 @@
+{
+ "displayTopicName": "Hashta b'shlucho mekadesh bo meboya",
+ "paragraphsBySubtopic": {
+  "Hashta b'shlucho mekadesh bo meboya": [
+   {
+    "text": "_Hashta b'shlucho mekadesh bo meboya_ is the first sugya in ",
+    "type": "text"
+   },
+   {
+    "text": "Perek Ha'ish Mekadesh",
+    "type": "global",
+    "targetSubtopic": "Perek Ha'ish Mekadesh",
+    "targetTopic": "Perek Ha'ish Mekadesh",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingSubtopic": "Hashta b'shlucho mekadesh bo meboya"
+   },
+   {
+    "text": " appearing on ",
+    "type": "text"
+   },
+   {
+    "text": "Kiddushin 41a",
+    "type": "global",
+    "targetSubtopic": "Kiddushin 41a",
+    "targetTopic": "Kiddushin 41a",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingSubtopic": "Hashta b'shlucho mekadesh bo meboya"
+   },
+   {
+    "text": ". You can read the sugya's ",
+    "type": "text"
+   },
+   {
+    "text": "full text",
+    "type": "local",
+    "targetSubtopic": "Full text",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingSubtopic": "Hashta b'shlucho mekadesh bo meboya"
+   },
+   {
+    "text": ", and you can look at the sugya's various ",
+    "type": "text"
+   },
+   {
+    "text": "parts",
+    "type": "local",
+    "targetSubtopic": "Parts",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingSubtopic": "Hashta b'shlucho mekadesh bo meboya"
+   },
+   {
+    "text": ",",
+    "type": "text"
+   }
+  ],
+  "Full text": [
+   {
+    "text": "The full text of the sugya _hashta b'shlucho mekadesh bo meboya_ reads: ",
+    "type": "text"
+   },
+   {
+    "type": "quote",
+    "text": "גמ' השתא בשלוחו מקדש בו מיבעיא אמר\nרב יוסף מצוה בו יותר מבשלוחו כי הא דרב\nספרא מחריך רישא רבא מלח שיבוטא\nאיכא דאמרי בהא איסורא נמי אית בה\nכדרב יהודה אמר רב דאמר רב יהודה\nאמר רב אסור לאדם שיקדש את האשה\nעד שיראנה שמא יראה בה דבר מגונה\nותתגנה עליו ורחמנא אמר ואהבת לרעך\nכמוך וכי איתמר דרב יוסף אסיפא איתמר\nהאשה מתקדשת בה ובשלוחה השתא\nבשלוחה מיקדשא בה מיבעיא אמר רב יוסף\nמצוה בה יותר מבשלוחה כי הא דרב ספרא\nמחריך רישא רבא מלח שיבוטא אבל בהא\nאיסורא לית בה כדר״ל דאמר ר״ל טב\nלמיתב טן דו מלמיתב ארמלו\n"
+   }
+  ],
+  "Parts": [
+   {
+    "text": "The sugya of _hashta b'shlucho mekadesh bo meboya_ begins with an ",
+    "type": "text"
+   },
+   {
+    "text": "opening kasha",
+    "type": "local",
+    "targetSubtopic": "Opening kasha",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingSubtopic": "Parts"
+   },
+   {
+    "text": ", followed by ",
+    "type": "text"
+   },
+   {
+    "text": "two lishnas of the Gemara's terutz",
+    "type": "local",
+    "targetSubtopic": "Two lishnas of the Gemara's terutz",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingSubtopic": "Parts"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Opening kasha": [
+   {
+    "text": "The sugya of _hashta b'shlucho mekadesh bo meboya_ begins with a opening kasha, quoted below. You can read about the ",
+    "type": "text"
+   },
+   {
+    "text": "words of the opening kasha",
+    "type": "local",
+    "targetSubtopic": "Words of the opening kasha",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingSubtopic": "Opening kasha"
+   },
+   {
+    "text": ", a ",
+    "type": "text"
+   },
+   {
+    "text": "literal translation of the opening kasha",
+    "type": "local",
+    "targetSubtopic": "Literal translation of the opening kasha",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingSubtopic": "Opening kasha"
+   },
+   {
+    "text": ", a ",
+    "type": "text"
+   },
+   {
+    "text": "pshat in the opening kasha",
+    "type": "local",
+    "targetSubtopic": "Pshat in the opening kasha",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingSubtopic": "Opening kasha"
+   },
+   {
+    "text": ", and hear ",
+    "type": "text"
+   },
+   {
+    "text": "ha'aras on the opening kasha",
+    "type": "local",
+    "targetSubtopic": "Ha'aras on the opening kasha",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingSubtopic": "Opening kasha"
+   },
+   {
+    "text": ". ",
+    "type": "text"
+   },
+   {
+    "type": "quote",
+    "text": "[גמ'] השתא בשלוחו מקדש בו מיבעיא [אמר]\n"
+   }
+  ],
+  "Words of the opening kasha": [
+   {
+    "text": "The text of the opening kasha is composed of the word ",
+    "type": "text"
+   },
+   {
+    "text": "\"hashta\"",
+    "type": "global",
+    "targetSubtopic": "\"Hashta\"",
+    "targetTopic": "\"Hashta\"",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingSubtopic": "Words of the opening kasha"
+   },
+   {
+    "text": ", ",
+    "type": "text"
+   },
+   {
+    "text": "the word \"b'shlucho\"",
+    "type": "local",
+    "targetSubtopic": "The word \"b'shlucho\"",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingSubtopic": "Words of the opening kasha"
+   },
+   {
+    "text": ", ",
+    "type": "text"
+   },
+   {
+    "text": "the word \"mekadesh\"",
+    "type": "local",
+    "targetSubtopic": "The word \"mekadesh\"",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingSubtopic": "Words of the opening kasha"
+   },
+   {
+    "text": ", ",
+    "type": "text"
+   },
+   {
+    "text": "the word \"bo\"",
+    "type": "local",
+    "targetSubtopic": "The word \"bo\"",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingSubtopic": "Words of the opening kasha"
+   },
+   {
+    "text": ", and ",
+    "type": "text"
+   },
+   {
+    "text": "the word \"meboya\"",
+    "type": "local",
+    "targetSubtopic": "The word \"meboya\"",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingSubtopic": "Words of the opening kasha"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "The word \"b'shlucho\"": [],
+  "The word \"mekadesh\"": [],
+  "The word \"bo\"": [],
+  "The word \"meboya\"": [],
+  "Literal translation of the opening kasha": [
+   {
+    "text": "A literal (but unclear) translation of the opening kasha is: ",
+    "type": "text"
+   },
+   {
+    "type": "quote",
+    "text": "\"Now that with his agent he is mekadesh, with himself is needed.\"\n"
+   },
+   {
+    "text": "Questions on this translation might include: ",
+    "type": "text"
+   },
+   {
+    "text": "What is 'with his agent he is mekadesh' referring to?",
+    "type": "local",
+    "targetSubtopic": "What is 'with his agent he is mekadesh' referring to?",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingSubtopic": "Literal translation of the opening kasha"
+   },
+   {
+    "text": " ",
+    "type": "text"
+   },
+   {
+    "text": "What is 'with himself' refering to?",
+    "type": "local",
+    "targetSubtopic": "What is 'with himself' refering to?",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingSubtopic": "Literal translation of the opening kasha"
+   },
+   {
+    "text": " and ",
+    "type": "text"
+   },
+   {
+    "text": "What does \"is needed\" mean here?",
+    "type": "local",
+    "targetSubtopic": "What does \"is needed\" mean here?",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingSubtopic": "Literal translation of the opening kasha"
+   }
+  ],
+  "What is 'with his agent he is mekadesh' referring to?": [
+   {
+    "text": "You might wonder what the words \"with his agent he can mekadesh\" are referring to. They are a reference to the Mishna, which said that a man can be mekadesh with his agent.",
+    "type": "text"
+   }
+  ],
+  "What is 'with himself' refering to?": [
+   {
+    "text": "You might ask what does the word \"with himself\" mean in the sentence \"with himself is needed\". \"With himself\" is a quotation from the Mishna, and so the subject of the sentence is the word \"בו\", and the literal translation of the Gemara is that it is saying \"the word בו in the Mishna is needed\".",
+    "type": "text"
+   }
+  ],
+  "What does \"is needed\" mean here?": [
+   {
+    "text": "The Gemara uses the phrase \"is needed\" (coming from ",
+    "type": "text"
+   },
+   {
+    "text": "the shoresh בעה",
+    "type": "global",
+    "targetSubtopic": "The shoresh בעה",
+    "targetTopic": "The shoresh בעה",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingSubtopic": "What does \"is needed\" mean here?"
+   },
+   {
+    "text": ") to speak about words in the Mishna and why each one is needed. It is a basic assumption of the Gemara that every word of the Mishna is necessary, and so if we find a word that teaches something we can infer from another word, the Gemara will ask why it is needed.",
+    "type": "text"
+   }
+  ],
+  "Pshat in the opening kasha": [
+   {
+    "text": "The opening kasha seems to be asking: now that the Mishna has taught us that a man can be mekadesh via his agent, then I already know by implication that the lesser chiddush that he can be mekadesh himself is true, so why did the Mishna have to teach it to me?",
+    "type": "text"
+   }
+  ],
+  "Ha'aras on the opening kasha": [
+   {
+    "text": "From the opening kasha, we see certain assumptions the Gemara is making about the Mishna.",
+    "type": "text"
+   }
+  ],
+  "Two lishnas of the Gemara's terutz": [
+   {
+    "text": "After the opening kasha, the Gemara gives a ",
+    "type": "text"
+   },
+   {
+    "text": "first lishna",
+    "type": "local",
+    "targetSubtopic": "First lishna",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingSubtopic": "Two lishnas of the Gemara's terutz"
+   },
+   {
+    "text": ", and a ",
+    "type": "text"
+   },
+   {
+    "text": "second lishna",
+    "type": "local",
+    "targetSubtopic": "Second lishna",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingSubtopic": "Two lishnas of the Gemara's terutz"
+   },
+   {
+    "text": ". (",
+    "type": "text"
+   },
+   {
+    "text": "What is a \"lishna\"?",
+    "type": "global",
+    "targetSubtopic": "\"Lishna\"",
+    "targetTopic": "\"Lishna\"",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingSubtopic": "Two lishnas of the Gemara's terutz"
+   },
+   {
+    "text": ")",
+    "type": "text"
+   }
+  ],
+  "First lishna": [
+   {
+    "text": "The first lishna is an answer to the Gemara's kasha, quoted below. The first lishna is composed of the ",
+    "type": "text"
+   },
+   {
+    "text": "amira of R Yosef",
+    "type": "local",
+    "targetSubtopic": "Amira of R Yosef",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingSubtopic": "First lishna"
+   },
+   {
+    "text": " and ",
+    "type": "text"
+   },
+   {
+    "text": "ha d'Rav Safra",
+    "type": "local",
+    "targetSubtopic": "Ha d'Rav Safra",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingSubtopic": "First lishna"
+   },
+   {
+    "text": ". ",
+    "type": "text"
+   },
+   {
+    "type": "quote",
+    "text": "[גמ' השתא בשלוחו מקדש בו מיבעיא] אמר\nרב יוסף מצוה בו יותר מבשלוחו כי הא דרב\nספרא מחריך רישא רבא מלח שיבוטא\n"
+   }
+  ],
+  "Amira of R Yosef": [
+   {
+    "text": "The amira of R Yosef follows the Gemara's kasha and is the first portion of the first lishna, quoted below. ",
+    "type": "text"
+   },
+   {
+    "type": "quote",
+    "text": "[גמ' השתא בשלוחו מקדש בו מיבעיא] אמר\nרב יוסף מצוה בו יותר מבשלוחו [כי הא דרב]\n"
+   }
+  ],
+  "Ha d'Rav Safra": [
+   {
+    "text": "The section \"ha d'Rav Safra\" follows the amira of R Yosef, quoted below. You can read about the ",
+    "type": "text"
+   },
+   {
+    "text": "words of ha d'Rav Safra",
+    "type": "local",
+    "targetSubtopic": "Words of ha d'Rav Safra",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingSubtopic": "Ha d'Rav Safra"
+   },
+   {
+    "text": " ",
+    "type": "text"
+   },
+   {
+    "type": "quote",
+    "text": "כי הא דרב [רב יוסף מצוה בו יותר מבשלוחו]\nספרא מחריך רישא רבא מלח שיבוטא\n"
+   }
+  ],
+  "Words of ha d'Rav Safra": [
+   {
+    "text": "The section \"ha d'Rav Safra\" includes the word ki, the word ha, the phrase d'Rav Safra, the word machrich, the word reisha, the word Rava, the word malach, and the word shibuta.",
+    "type": "text"
+   }
+  ],
+  "Second lishna": [
+   {
+    "text": "The second lishna goes from the phrase \"ika d'amri\" until the two dots that end the sugya, quoted below. ",
+    "type": "text"
+   },
+   {
+    "type": "quote",
+    "text": "איכא דאמרי בהא איסורא נמי אית בה\nכדרב יהודה אמר רב דאמר רב יהודה\nאמר רב אסור לאדם שיקדש את האשה\nעד שיראנה שמא יראה בה דבר מגונה\nותתגנה עליו ורחמנא אמר ואהבת לרעך\nכמוך וכי איתמר דרב יוסף אסיפא איתמר\nהאשה מתקדשת בה ובשלוחה השתא\nבשלוחה מיקדשא בה מיבעיא אמר רב יוסף\nמצוה בה יותר מבשלוחה כי הא דרב ספרא\nמחריך רישא רבא מלח שיבוטא אבל בהא\nאיסורא לית בה כדר״ל דאמר ר״ל טב\nלמיתב טן דו מלמיתב ארמלו\n"
+   }
+  ]
+ }
+}

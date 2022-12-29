@@ -3,7 +3,7 @@
  "paragraphsBySubtopic": {
   "Perek Ha'ish Mekadesh": [
    {
-    "text": "_Perek Ha'ish Mekadesh_ is the second perek of ",
+    "text": "Perek Ha'ish Mekadesh is the second perek of ",
     "type": "text"
    },
    {
@@ -15,7 +15,7 @@
     "enclosingSubtopic": "Perek Ha'ish Mekadesh"
    },
    {
-    "text": ". Ha'ish Mekadesh includes a range of ",
+    "text": ". Perek Ha'ish Mekadesh covers a range of ",
     "type": "text"
    },
    {
@@ -63,14 +63,14 @@
   ],
   "Sugyos": [
    {
-    "text": "The first sugya in Perek Ha'ish Mekadesh is the ",
+    "text": "The first sugya in Perek Ha'ish Mekadesh is the sugya of ",
     "type": "text"
    },
    {
-    "text": "sugya of hashta b'shlucho mekadesh bo meboya",
+    "text": "hashta b'shlucho mekadesh bo meboya",
     "type": "global",
-    "targetSubtopic": "Sugya of hashta b'shlucho mekadesh bo meboya",
-    "targetTopic": "Sugya of hashta b'shlucho mekadesh bo meboya",
+    "targetSubtopic": "Hashta b'shlucho mekadesh bo meboya",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
     "enclosingTopic": "Perek Ha'ish Mekadesh",
     "enclosingSubtopic": "Sugyos"
    }

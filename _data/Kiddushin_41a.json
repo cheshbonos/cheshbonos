@@ -15,7 +15,7 @@
     "enclosingSubtopic": "Kiddushin 41a"
    },
    {
-    "text": " in ",
+    "text": ", is the first amud of ",
     "type": "text"
    },
    {
@@ -25,6 +25,22 @@
     "targetTopic": "Perek Ha'ish Mekadesh",
     "enclosingTopic": "Kiddushin 41a",
     "enclosingSubtopic": "Kiddushin 41a"
+   },
+   {
+    "text": ", and contains the sugya ",
+    "type": "text"
+   },
+   {
+    "text": "hashta b'shlucho mekadesh bo meboya",
+    "type": "global",
+    "targetSubtopic": "Hashta b'shlucho mekadesh bo meboya",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Kiddushin 41a",
+    "enclosingSubtopic": "Kiddushin 41a"
+   },
+   {
+    "text": ".",
+    "type": "text"
    }
   ]
  }
