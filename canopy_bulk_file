@@ -1,33 +1,57 @@
 [Cheshbonos]
 
-* Cheshbonos: This is Cheshbonos, a tool for improving learning skills. At the moment Cheshbonos offers help in learning [[Ha'ish Mekadesh]].
+* Cheshbonos: This is Cheshbonos, a tool for improving learning skills. At the moment Cheshbonos offers help in learning [[Perek Ha'ish Mekadesh]].
 
 
-[Kedushin]
+[Talmud Bavli]
 
-* Ha'ish Mekadesh: Ha'ish Mekadesh is the second perek of Masechtas Kedushin, and it has [[text]] and [[shakla v'taria]].
+* Talmud Bavli: The Talmud Bavli is a commentary on the Mishna. Talmud Bavli [[follows the six sedarim of the Mishna]].
 
-Text: Ha'ish Mekadesh begins on [[daf 41a]].
+Follows the six sedarim of the Mishna: There is Talmud Bavli on Seder Moed, [[Seder Nashim]], Seder Nezikin, Seder Kodashim, and Seder Tahoros.
 
-Daf 41a: Daf 41a begins with [[the text of the mishna]].
+Seder Nashim: Seder Nashim of Talmud Bavli includes Yevamot, Ketubot, Nedarim, Nazir, Sotah, Gittin, and [[Maseches Kiddushin|Kiddushin]].
 
--The text of the mishna: The mishna contains three sentences. There is [[the text of the first sentence of the mishna]], [[the text of the second sentence of the mishna]], and [[the text of the third sentence of the mishna]].
-- Reify Mishna as having text?
-- Text has identification, literal translation, and interpretation.
 
-Shakla v'taria: The masechta begins with [[the first mishna]].
+[Talmud Bavli/Kiddushin]
 
-The first mishna: The mishna teaches [[how a man can be mekadesh a woman]], [[how a woman can accept kedushin]], and [[how a father can accept kedushin for his daughter]].
+* Maseches Kiddushin: Maseches Kiddushin is a masechta of [[Talmud Bavli]].
 
-How a man can be mekadesh a woman: The mishna says that a man can be mekadesh a woman himself, or with a shaliach. Mefarshim ask [[why the mishna needed to specify the man can be mekadesh a woman himself when it can be derived from the fact that he can do it with a shaliach]]. Mefarshim note that the mishna is taught lechatchila,
 
-Why the mishna needed to specify the man can be mekadesh a woman himself when it can be derived from the fact that he can do it with a shaliach: ABC
+[Talmud Bavli/Kiddushin/Dafim/41a]
 
-How a woman can accept kedushin: The mishna says that a woman can accept kedushin herself or with a shaliach. Mefarshim ask [[why the mishna needed to specify the woman can accept kedushin herself when it can be derived from the fact that she can do it with a shaliach]].
+* Kiddushin 41a: Kiddushin 41a is an amud from [[Maseches Kiddushin]] in [[Perek Ha'ish Mekadesh]]
 
-Why the mishna needed to specify the woman can accept kedushin herself when it can be derived from the fact that she can do it with a shaliach: DEF.
 
-How a father can accept kedushin for his daughter: The mishna says that a father can accept kedushin for his naara daughter, himself or with a shialiach.
+[Talmud Bavli/Kiddushin/Perakim/Ha'ish Mekadesh]
+
+* Perek Ha'ish Mekadesh: _Perek Ha'ish Mekadesh_ is the second perek of [[Maseches Kiddushin]]. Ha'ish Mekadesh includes a range of [[dafim]]. Ha'ish Mekadesh includes many [[sugyos]].
+
+Dafim: Perek Ha'ish Mekadesh begins on [[Kiddushin 41a]].
+
+Sugyos: The first sugya in Perek Ha'ish Mekadesh is the [[sugya of hashta b'shlucho mekadesh bo meboya]]
+
+
+[Talmud Bavli/Kiddushin/Sugyos
+
+
+* Sugya of Hashta b'shlucho mekadesh bo meboya: This is the first sugya in [[Perek Ha'ish Mekadesh]] appearing on [[Kiddushin 41a]]. You can read the sugya's [[full text]].
+
+Full text: The full text of the sugya reads:
+> השתא בשלוחו מקדש בו מיבעיא אמר
+> רב יוסף מצוה בו יותר מבשלוחו כי הא דרב
+> ספרא מחריך רישא רבא מלח שיבוטא
+> איכא דאמרי בהא איסורא נמי אית בה
+> כדרב יהודה אמר רב דאמר רב יהודה
+> אמר רב אסור לאדם שיקדש את האשה
+> עד שיראנה שמא יראה בה דבר מגונה
+> ותתגנה עליו ורחמנא אמר ואהבת לרעך
+> כמוך וכי איתמר דרב יוסף אסיפא איתמר
+> האשה מתקדשת בה ובשלוחה השתא
+> בשלוחה מיקדשא בה מיבעיא אמר רב יוסף
+> מצוה בה יותר מבשלוחה כי הא דרב ספרא
+> מחריך רישא רבא מלח שיבוטא אבל בהא
+> איסורא לית בה כדר״ל דאמר ר״ל טב
+> למיתב טן דו מלמיתב ארמלו
 
 
 [Inbox]
@@ -36,7 +60,5 @@ This is a place for new notes.
 
 https://de.wikipedia.org/wiki/Cheder
 
-
 Rashi and Tosofos are daf subtopics?
-k
 
