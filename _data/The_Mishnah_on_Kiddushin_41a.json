@@ -85,7 +85,55 @@
   ],
   "First din": [
    {
-    "text": "The first din reads: ",
+    "text": "The first din of the Mishnah is quoted below. You can read about the ",
+    "type": "text"
+   },
+   {
+    "text": "words of the first din",
+    "type": "local",
+    "targetSubtopic": "Words of the first din",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "First din"
+   },
+   {
+    "text": ", a ",
+    "type": "text"
+   },
+   {
+    "text": "literal translation of the first din",
+    "type": "local",
+    "targetSubtopic": "Literal translation of the first din",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "First din"
+   },
+   {
+    "text": ", and a ",
+    "type": "text"
+   },
+   {
+    "text": "psht in the first din",
+    "type": "local",
+    "targetSubtopic": "Psht in the first din",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "First din"
+   },
+   {
+    "text": ". The first din is the subject of the perek's first sugya, ",
+    "type": "text"
+   },
+   {
+    "text": "hashta b'shlucho mekadesh bo meboya",
+    "type": "global",
+    "targetSubtopic": "Hashta b'shlucho mekadesh bo meboya",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "First din"
+   },
+   {
+    "text": ". ",
     "type": "text"
    },
    {
@@ -93,6 +141,153 @@
     "text": "האיש מקדש בו ובשלוחו\n"
    }
   ],
+  "Words of the first din": [
+   {
+    "text": "The first din includes ",
+    "type": "text"
+   },
+   {
+    "text": "the word ha'ish",
+    "type": "local",
+    "targetSubtopic": "The word ha'ish",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Words of the first din"
+   },
+   {
+    "text": ", ",
+    "type": "text"
+   },
+   {
+    "text": "the word mekadesh",
+    "type": "local",
+    "targetSubtopic": "The word mekadesh",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Words of the first din"
+   },
+   {
+    "text": ", ",
+    "type": "text"
+   },
+   {
+    "text": "the word bo",
+    "type": "local",
+    "targetSubtopic": "The word bo",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Words of the first din"
+   },
+   {
+    "text": ", and ",
+    "type": "text"
+   },
+   {
+    "text": "the word u'b'shlucho",
+    "type": "local",
+    "targetSubtopic": "The word u'b'shlucho",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Words of the first din"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "The word ha'ish": [
+   {
+    "text": "The word ha'ish (האיש) is composed of ",
+    "type": "text"
+   },
+   {
+    "text": "the word ish",
+    "type": "local",
+    "targetSubtopic": "The word ish",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "The word ha'ish"
+   },
+   {
+    "text": " and ",
+    "type": "text"
+   },
+   {
+    "text": "the prefix hay",
+    "type": "local",
+    "targetSubtopic": "The prefix hay",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "The word ha'ish"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "The word ish": [],
+  "The prefix hay": [],
+  "The word mekadesh": [
+   {
+    "text": "\"Mekadesh\" (מקדש) is the ",
+    "type": "text"
+   },
+   {
+    "text": "Hebrew masculine singular participial",
+    "type": "import",
+    "targetSubtopic": "Hebrew masculine singular participial",
+    "targetTopic": "The shoresh קדש",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "The word mekadesh"
+   },
+   {
+    "text": " of ",
+    "type": "text"
+   },
+   {
+    "text": "the shoresh קדש",
+    "type": "global",
+    "targetSubtopic": "The shoresh קדש",
+    "targetTopic": "The shoresh קדש",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "The word mekadesh"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "The word bo": [],
+  "The word u'b'shlucho": [],
+  "Literal translation of the first din": [
+   {
+    "text": "Once we identify what each of the words of the first din of the Mishnah mean in context, a literal translation might be: ",
+    "type": "text"
+   },
+   {
+    "type": "quote",
+    "text": "A man is being mekadesh, with himself or with an emissary\n"
+   },
+   {
+    "text": "Try to figure out what this means in context, then ask ",
+    "type": "text"
+   },
+   {
+    "text": "what does \"being mekadesh\" mean here?",
+    "type": "local",
+    "targetSubtopic": "What does \"being mekadesh\" mean here?",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Literal translation of the first din"
+   }
+  ],
+  "What does \"being mekadesh\" mean here?": [
+   {
+    "text": "We find here a klal of mishnayos that a \"present tense\" means a psak, and so \"the man is mekadesh\" means \"a man is _allowed_ to be mekadesh.\"",
+    "type": "text"
+   }
+  ],
+  "Psht in the first din": [],
   "Second din": [
    {
     "text": "The second din reads: ",

@@ -1,0 +1,119 @@
+{
+ "displayTopicName": "The shoresh קדש",
+ "paragraphsBySubtopic": {
+  "The shoresh קדש": [
+   {
+    "text": "\"קדש\" is a shoresh in Hebrew and Aramaic that has various meanings that involve the concept of \"holiness.\" It has simple, ",
+    "type": "text"
+   },
+   {
+    "text": "intensive",
+    "type": "local",
+    "targetSubtopic": "Intensive",
+    "targetTopic": "The shoresh קדש",
+    "enclosingTopic": "The shoresh קדש",
+    "enclosingSubtopic": "The shoresh קדש"
+   },
+   {
+    "text": ", causative, and reflexive forms.",
+    "type": "text"
+   }
+  ],
+  "Intensive": [
+   {
+    "text": "The intensive form of the shoresh קדש appears in both Hebrew and Aramaic. There is a ",
+    "type": "text"
+   },
+   {
+    "text": "meaning of the intensive",
+    "type": "local",
+    "targetSubtopic": "Meaning of the intensive",
+    "targetTopic": "The shoresh קדש",
+    "enclosingTopic": "The shoresh קדש",
+    "enclosingSubtopic": "Intensive"
+   },
+   {
+    "text": ", and there are ",
+    "type": "text"
+   },
+   {
+    "text": "forms of the intensive in Hebrew and Aramaic",
+    "type": "local",
+    "targetSubtopic": "Forms of the intensive in Hebrew and Aramaic",
+    "targetTopic": "The shoresh קדש",
+    "enclosingTopic": "The shoresh קדש",
+    "enclosingSubtopic": "Intensive"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Forms of the intensive in Hebrew and Aramaic": [
+   {
+    "text": "There are ",
+    "type": "text"
+   },
+   {
+    "text": "forms of the intensive of in Hebrew",
+    "type": "local",
+    "targetSubtopic": "Forms of the intensive of in Hebrew",
+    "targetTopic": "The shoresh קדש",
+    "enclosingTopic": "The shoresh קדש",
+    "enclosingSubtopic": "Forms of the intensive in Hebrew and Aramaic"
+   },
+   {
+    "text": " and forms of the intensive in Aramaic.",
+    "type": "text"
+   }
+  ],
+  "Forms of the intensive of in Hebrew": [
+   {
+    "text": "There is an intensive past tense, a ",
+    "type": "text"
+   },
+   {
+    "text": "Hebrew intensive participial tense",
+    "type": "local",
+    "targetSubtopic": "Hebrew intensive participial tense",
+    "targetTopic": "The shoresh קדש",
+    "enclosingTopic": "The shoresh קדש",
+    "enclosingSubtopic": "Forms of the intensive of in Hebrew"
+   },
+   {
+    "text": ", an intensive future tense, an intensive command tense, and an intensive infinitive tense.",
+    "type": "text"
+   }
+  ],
+  "Hebrew intensive participial tense": [
+   {
+    "text": "There is a ",
+    "type": "text"
+   },
+   {
+    "text": "Hebrew masculine singular participial",
+    "type": "local",
+    "targetSubtopic": "Hebrew masculine singular participial",
+    "targetTopic": "The shoresh קדש",
+    "enclosingTopic": "The shoresh קדש",
+    "enclosingSubtopic": "Hebrew intensive participial tense"
+   },
+   {
+    "text": ", a Hebrew feminine singular participial, a Hebrew masculine plural participial, and a Hebrew feminine plural participial.",
+    "type": "text"
+   }
+  ],
+  "Hebrew masculine singular participial": [
+   {
+    "text": "The Hebrew masculine singular participial of the shoresh \"קדש\" is מְקַדֵּשׁ, pronounced \"mekadesh.\"",
+    "type": "text"
+   }
+  ],
+  "Meaning of the intensive": [
+   {
+    "text": "It means \"to produce a stage called _kiddushin_ between a man and a woman.\" Kiddushin is a stage prior to full marriage (called nisuyin) in which the woman is halachically designated to the man.",
+    "type": "text"
+   }
+  ]
+ }
+}

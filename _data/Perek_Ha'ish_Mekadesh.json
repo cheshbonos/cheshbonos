@@ -27,7 +27,19 @@
     "enclosingSubtopic": "Perek Ha'ish Mekadesh"
    },
    {
-    "text": ". Ha'ish Mekadesh includes many ",
+    "text": ", ",
+    "type": "text"
+   },
+   {
+    "text": "mishnayos",
+    "type": "local",
+    "targetSubtopic": "Mishnayos",
+    "targetTopic": "Perek Ha'ish Mekadesh",
+    "enclosingTopic": "Perek Ha'ish Mekadesh",
+    "enclosingSubtopic": "Perek Ha'ish Mekadesh"
+   },
+   {
+    "text": ", and ",
     "type": "text"
    },
    {
@@ -58,6 +70,24 @@
    },
    {
     "text": " and ending on Kiddushin 58b.",
+    "type": "text"
+   }
+  ],
+  "Mishnayos": [
+   {
+    "text": "Perek Ha'ish Mekadesh begins with ",
+    "type": "text"
+   },
+   {
+    "text": "the Mishnah on Kiddushin 41a",
+    "type": "global",
+    "targetSubtopic": "The Mishnah on Kiddushin 41a",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "Perek Ha'ish Mekadesh",
+    "enclosingSubtopic": "Mishnayos"
+   },
+   {
+    "text": ".",
     "type": "text"
    }
   ],
