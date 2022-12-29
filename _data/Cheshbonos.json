@@ -3,26 +3,14 @@
  "paragraphsBySubtopic": {
   "Cheshbonos": [
    {
-    "text": "This is Cheshbonos, a tool for improving learning skills. Cheshbonos offers analysis of ",
+    "text": "This is Cheshbonos, a tool for improving learning skills. At the moment Cheshbonos offers help in learning ",
     "type": "text"
    },
    {
-    "text": "Gemara",
+    "text": "Perek Ha'ish Mekadesh",
     "type": "global",
-    "targetSubtopic": "Gemara",
-    "targetTopic": "Gemara",
-    "enclosingTopic": "Cheshbonos",
-    "enclosingSubtopic": "Cheshbonos"
-   },
-   {
-    "text": " and ",
-    "type": "text"
-   },
-   {
-    "text": "Halacha",
-    "type": "global",
-    "targetSubtopic": "Halacha",
-    "targetTopic": "Halacha",
+    "targetSubtopic": "Perek Ha'ish Mekadesh",
+    "targetTopic": "Perek Ha'ish Mekadesh",
     "enclosingTopic": "Cheshbonos",
     "enclosingSubtopic": "Cheshbonos"
    },

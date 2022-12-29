@@ -1,0 +1,59 @@
+{
+ "displayTopicName": "Talmud Bavli",
+ "paragraphsBySubtopic": {
+  "Talmud Bavli": [
+   {
+    "text": "The Talmud Bavli is a commentary on the Mishna. Talmud Bavli ",
+    "type": "text"
+   },
+   {
+    "text": "follows the six sedarim of the Mishna",
+    "type": "local",
+    "targetSubtopic": "Follows the six sedarim of the Mishna",
+    "targetTopic": "Talmud Bavli",
+    "enclosingTopic": "Talmud Bavli",
+    "enclosingSubtopic": "Talmud Bavli"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Follows the six sedarim of the Mishna": [
+   {
+    "text": "There is Talmud Bavli on Seder Moed, ",
+    "type": "text"
+   },
+   {
+    "text": "Seder Nashim",
+    "type": "local",
+    "targetSubtopic": "Seder Nashim",
+    "targetTopic": "Talmud Bavli",
+    "enclosingTopic": "Talmud Bavli",
+    "enclosingSubtopic": "Follows the six sedarim of the Mishna"
+   },
+   {
+    "text": ", Seder Nezikin, Seder Kodashim, and Seder Tahoros.",
+    "type": "text"
+   }
+  ],
+  "Seder Nashim": [
+   {
+    "text": "Seder Nashim of Talmud Bavli includes Yevamot, Ketubot, Nedarim, Nazir, Sotah, Gittin, and ",
+    "type": "text"
+   },
+   {
+    "text": "Kiddushin",
+    "type": "global",
+    "targetSubtopic": "Maseches Kiddushin",
+    "targetTopic": "Maseches Kiddushin",
+    "enclosingTopic": "Talmud Bavli",
+    "enclosingSubtopic": "Seder Nashim"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ]
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "displayTopicName": "Perek Ha'ish Mekadesh",
+ "paragraphsBySubtopic": {
+  "Perek Ha'ish Mekadesh": [
+   {
+    "text": "_Perek Ha'ish Mekadesh_ is the second perek of ",
+    "type": "text"
+   },
+   {
+    "text": "Maseches Kiddushin",
+    "type": "global",
+    "targetSubtopic": "Maseches Kiddushin",
+    "targetTopic": "Maseches Kiddushin",
+    "enclosingTopic": "Perek Ha'ish Mekadesh",
+    "enclosingSubtopic": "Perek Ha'ish Mekadesh"
+   },
+   {
+    "text": ". Ha'ish Mekadesh includes a range of ",
+    "type": "text"
+   },
+   {
+    "text": "dafim",
+    "type": "local",
+    "targetSubtopic": "Dafim",
+    "targetTopic": "Perek Ha'ish Mekadesh",
+    "enclosingTopic": "Perek Ha'ish Mekadesh",
+    "enclosingSubtopic": "Perek Ha'ish Mekadesh"
+   },
+   {
+    "text": ". Ha'ish Mekadesh includes many ",
+    "type": "text"
+   },
+   {
+    "text": "sugyos",
+    "type": "local",
+    "targetSubtopic": "Sugyos",
+    "targetTopic": "Perek Ha'ish Mekadesh",
+    "enclosingTopic": "Perek Ha'ish Mekadesh",
+    "enclosingSubtopic": "Perek Ha'ish Mekadesh"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Dafim": [
+   {
+    "text": "Perek Ha'ish Mekadesh begins on ",
+    "type": "text"
+   },
+   {
+    "text": "Kiddushin 41a",
+    "type": "global",
+    "targetSubtopic": "Kiddushin 41a",
+    "targetTopic": "Kiddushin 41a",
+    "enclosingTopic": "Perek Ha'ish Mekadesh",
+    "enclosingSubtopic": "Dafim"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Sugyos": [
+   {
+    "text": "The first sugya in Perek Ha'ish Mekadesh is the ",
+    "type": "text"
+   },
+   {
+    "text": "sugya of hashta b'shlucho mekadesh bo meboya",
+    "type": "global",
+    "targetSubtopic": "Sugya of Hashta b'shlucho mekadesh bo meboya",
+    "targetTopic": "Sugya of Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Perek Ha'ish Mekadesh",
+    "enclosingSubtopic": "Sugyos"
+   }
+  ]
+ }
+}

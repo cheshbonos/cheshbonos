@@ -1,0 +1,23 @@
+{
+ "displayTopicName": "Maseches Kiddushin",
+ "paragraphsBySubtopic": {
+  "Maseches Kiddushin": [
+   {
+    "text": "Maseches Kiddushin is a masechta of ",
+    "type": "text"
+   },
+   {
+    "text": "Talmud Bavli",
+    "type": "global",
+    "targetSubtopic": "Talmud Bavli",
+    "targetTopic": "Talmud Bavli",
+    "enclosingTopic": "Maseches Kiddushin",
+    "enclosingSubtopic": "Maseches Kiddushin"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ]
+ }
+}
