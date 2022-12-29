@@ -225,7 +225,7 @@
   "The word \"meboya\"": [],
   "Literal translation of the opening kasha": [
    {
-    "text": "A literal (but unclear) translation of the opening kasha is: ",
+    "text": "Once we know what the individual words mean in this context, a literal (but unclear) translation of the opening kasha would be: ",
     "type": "text"
    },
    {
@@ -233,13 +233,13 @@
     "text": "\"Now that with his agent he is mekadesh, with himself is needed.\"\n"
    },
    {
-    "text": "Questions on this translation might include: ",
+    "text": "Try to figure out what this might mean, then you can ask the following questions: ",
     "type": "text"
    },
    {
-    "text": "What is 'with his agent he is mekadesh' referring to?",
+    "text": "What does 'with his agent he is mekadesh' mean here?",
     "type": "local",
-    "targetSubtopic": "What is 'with his agent he is mekadesh' referring to?",
+    "targetSubtopic": "What does 'with his agent he is mekadesh' mean here?",
     "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
     "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
     "enclosingSubtopic": "Literal translation of the opening kasha"
@@ -249,15 +249,15 @@
     "type": "text"
    },
    {
-    "text": "What is 'with himself' refering to?",
+    "text": "What does 'with himself' mean here?",
     "type": "local",
-    "targetSubtopic": "What is 'with himself' refering to?",
+    "targetSubtopic": "What does 'with himself' mean here?",
     "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
     "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
     "enclosingSubtopic": "Literal translation of the opening kasha"
    },
    {
-    "text": " and ",
+    "text": " ",
     "type": "text"
    },
    {
@@ -269,21 +269,21 @@
     "enclosingSubtopic": "Literal translation of the opening kasha"
    }
   ],
-  "What is 'with his agent he is mekadesh' referring to?": [
+  "What does 'with his agent he is mekadesh' mean here?": [
    {
-    "text": "You might wonder what the words \"with his agent he can mekadesh\" are referring to. They are a reference to the Mishna, which said that a man can be mekadesh with his agent.",
+    "text": "You might wonder what the words \"with his agent he is mekadesh\" (בשלוחו מקדש) mean. They are a reference to the Mishna, which said that a man can be mekadesh with his agent.",
     "type": "text"
    }
   ],
-  "What is 'with himself' refering to?": [
+  "What does 'with himself' mean here?": [
    {
-    "text": "You might ask what does the word \"with himself\" mean in the sentence \"with himself is needed\". \"With himself\" is a quotation from the Mishna, and so the subject of the sentence is the word \"בו\", and the literal translation of the Gemara is that it is saying \"the word בו in the Mishna is needed\".",
+    "text": "You might ask what does the word \"with himself\" (בו) means in the sentence \"with himself is needed\". \"With himself\" is a quotation from the Mishna, and so the subject of the sentence is the word \"בו\", and the literal translation of the Gemara is that it is saying \"the word בו in the Mishna is needed\".",
     "type": "text"
    }
   ],
   "What does \"is needed\" mean here?": [
    {
-    "text": "The Gemara uses the phrase \"is needed\" (coming from ",
+    "text": "The Gemara uses the phrase \"is needed\" (מיבעיא), from ",
     "type": "text"
    },
    {
@@ -295,7 +295,7 @@
     "enclosingSubtopic": "What does \"is needed\" mean here?"
    },
    {
-    "text": ") to speak about words in the Mishna and why each one is needed. It is a basic assumption of the Gemara that every word of the Mishna is necessary, and so if we find a word that teaches something we can infer from another word, the Gemara will ask why it is needed.",
+    "text": ", to speak about words in the Mishna and to speak about why each one is necessary.",
     "type": "text"
    }
   ],
