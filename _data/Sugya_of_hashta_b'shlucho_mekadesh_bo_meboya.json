@@ -1,7 +1,7 @@
 {
- "displayTopicName": "Sugya of Hashta b'shlucho mekadesh bo meboya",
+ "displayTopicName": "Sugya of hashta b'shlucho mekadesh bo meboya",
  "paragraphsBySubtopic": {
-  "Sugya of Hashta b'shlucho mekadesh bo meboya": [
+  "Sugya of hashta b'shlucho mekadesh bo meboya": [
    {
     "text": "This is the first sugya in ",
     "type": "text"
@@ -11,8 +11,8 @@
     "type": "global",
     "targetSubtopic": "Perek Ha'ish Mekadesh",
     "targetTopic": "Perek Ha'ish Mekadesh",
-    "enclosingTopic": "Sugya of Hashta b'shlucho mekadesh bo meboya",
-    "enclosingSubtopic": "Sugya of Hashta b'shlucho mekadesh bo meboya"
+    "enclosingTopic": "Sugya of hashta b'shlucho mekadesh bo meboya",
+    "enclosingSubtopic": "Sugya of hashta b'shlucho mekadesh bo meboya"
    },
    {
     "text": " appearing on ",
@@ -23,8 +23,8 @@
     "type": "global",
     "targetSubtopic": "Kiddushin 41a",
     "targetTopic": "Kiddushin 41a",
-    "enclosingTopic": "Sugya of Hashta b'shlucho mekadesh bo meboya",
-    "enclosingSubtopic": "Sugya of Hashta b'shlucho mekadesh bo meboya"
+    "enclosingTopic": "Sugya of hashta b'shlucho mekadesh bo meboya",
+    "enclosingSubtopic": "Sugya of hashta b'shlucho mekadesh bo meboya"
    },
    {
     "text": ". You can read the sugya's ",
@@ -34,9 +34,9 @@
     "text": "full text",
     "type": "local",
     "targetSubtopic": "Full text",
-    "targetTopic": "Sugya of Hashta b'shlucho mekadesh bo meboya",
-    "enclosingTopic": "Sugya of Hashta b'shlucho mekadesh bo meboya",
-    "enclosingSubtopic": "Sugya of Hashta b'shlucho mekadesh bo meboya"
+    "targetTopic": "Sugya of hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Sugya of hashta b'shlucho mekadesh bo meboya",
+    "enclosingSubtopic": "Sugya of hashta b'shlucho mekadesh bo meboya"
    },
    {
     "text": ".",
