@@ -1,0 +1,117 @@
+{
+ "displayTopicName": "The Mishnah on Kiddushin 41a",
+ "paragraphsBySubtopic": {
+  "The Mishnah on Kiddushin 41a": [
+   {
+    "text": "The mishnah on Kiddushin 41a has a ",
+    "type": "text"
+   },
+   {
+    "text": "full text",
+    "type": "local",
+    "targetSubtopic": "Full text",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "The Mishnah on Kiddushin 41a"
+   },
+   {
+    "text": ", and ",
+    "type": "text"
+   },
+   {
+    "text": "three dinim",
+    "type": "local",
+    "targetSubtopic": "Three dinim",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "The Mishnah on Kiddushin 41a"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Full text": [
+   {
+    "text": "The full text of the Mishnah on Kiddushin 41a reads: ",
+    "type": "text"
+   },
+   {
+    "type": "quote",
+    "text": "האיש מקדש בו ובשלוחו האשה מתקדשת בה ובשלוחה האיש מקדש את בתו כשהיא נערה בו ובשלוחו\n"
+   }
+  ],
+  "Three dinim": [
+   {
+    "text": "The Mishnah on 41a has a ",
+    "type": "text"
+   },
+   {
+    "text": "first din",
+    "type": "local",
+    "targetSubtopic": "First din",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Three dinim"
+   },
+   {
+    "text": ", a ",
+    "type": "text"
+   },
+   {
+    "text": "second din",
+    "type": "local",
+    "targetSubtopic": "Second din",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Three dinim"
+   },
+   {
+    "text": ", and a ",
+    "type": "text"
+   },
+   {
+    "text": "third din",
+    "type": "local",
+    "targetSubtopic": "Third din",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Three dinim"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "First din": [
+   {
+    "text": "The first din reads: ",
+    "type": "text"
+   },
+   {
+    "type": "quote",
+    "text": "האיש מקדש בו ובשלוחו\n"
+   }
+  ],
+  "Second din": [
+   {
+    "text": "The second din reads: ",
+    "type": "text"
+   },
+   {
+    "type": "quote",
+    "text": "האשה מתקדשת בה ובשלוחה\n"
+   }
+  ],
+  "Third din": [
+   {
+    "text": "The third din reads: ",
+    "type": "text"
+   },
+   {
+    "type": "quote",
+    "text": "האיש מקדש את בתו כשהיא נערה בו ובשלוחו\n"
+   }
+  ]
+ }
+}

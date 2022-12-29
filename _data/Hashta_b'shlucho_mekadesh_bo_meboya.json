@@ -27,7 +27,31 @@
     "enclosingSubtopic": "Hashta b'shlucho mekadesh bo meboya"
    },
    {
-    "text": ". You can read the sugya's ",
+    "text": ". It discusses the ",
+    "type": "text"
+   },
+   {
+    "text": "first din",
+    "type": "import",
+    "targetSubtopic": "First din",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingSubtopic": "Hashta b'shlucho mekadesh bo meboya"
+   },
+   {
+    "text": " of ",
+    "type": "text"
+   },
+   {
+    "text": "the mishnah on Kiddushin 41a",
+    "type": "global",
+    "targetSubtopic": "The Mishnah on Kiddushin 41a",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingSubtopic": "Hashta b'shlucho mekadesh bo meboya"
+   },
+   {
+    "text": " You can read the sugya's ",
     "type": "text"
    },
    {
@@ -51,7 +75,19 @@
     "enclosingSubtopic": "Hashta b'shlucho mekadesh bo meboya"
    },
    {
-    "text": ",",
+    "text": ", and can review with an outside ",
+    "type": "text"
+   },
+   {
+    "text": "summary",
+    "type": "local",
+    "targetSubtopic": "Summary",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingSubtopic": "Hashta b'shlucho mekadesh bo meboya"
+   },
+   {
+    "text": ".",
     "type": "text"
    }
   ],
@@ -67,7 +103,7 @@
   ],
   "Parts": [
    {
-    "text": "The sugya of _hashta b'shlucho mekadesh bo meboya_ begins with an ",
+    "text": "The sugya of _hashta b'shlucho mekadesh bo meboya_ discusses [the first din of the mishnah on Kedushin 41a], and begins with an ",
     "type": "text"
    },
    {
@@ -271,13 +307,13 @@
   ],
   "What does 'with his agent he is mekadesh' mean here?": [
    {
-    "text": "You might wonder what the words \"with his agent he is mekadesh\" (בשלוחו מקדש) mean. They are a reference to the Mishna, which said that a man can be mekadesh with his agent.",
+    "text": "You might wonder what the words \"with his agent he is mekadesh\" (בשלוחו מקדש) mean. They are a reference to the Mishnah, which said that a man can be mekadesh with his agent.",
     "type": "text"
    }
   ],
   "What does 'with himself' mean here?": [
    {
-    "text": "You might ask what does the word \"with himself\" (בו) means in the sentence \"with himself is needed\". \"With himself\" is a quotation from the Mishna, and so the subject of the sentence is the word \"בו\", and the literal translation of the Gemara is that it is saying \"the word בו in the Mishna is needed\".",
+    "text": "You might ask what does the word \"with himself\" (בו) means in the sentence \"with himself is needed\". \"With himself\" is a quotation from the Mishnah, and so the subject of the sentence is the word \"בו\", and the literal translation of the Gemara is that it is saying \"the word בו in the Mishnah is needed\".",
     "type": "text"
    }
   ],
@@ -295,19 +331,19 @@
     "enclosingSubtopic": "What does \"is needed\" mean here?"
    },
    {
-    "text": ", to speak about words in the Mishna and to speak about why each one is necessary.",
+    "text": ", to speak about words in the Mishnah and to speak about why each one is necessary.",
     "type": "text"
    }
   ],
   "Pshat in the opening kasha": [
    {
-    "text": "The opening kasha seems to be asking: now that the Mishna has taught us that a man can be mekadesh via his agent, then I already know by implication that the lesser chiddush that he can be mekadesh himself is true, so why did the Mishna have to teach it to me?",
+    "text": "The opening kasha seems to be asking: now that the Mishnah has taught us that a man can be mekadesh via his agent, then I already know by implication that the lesser chiddush that he can be mekadesh himself is true, so why did the Mishnah have to teach it to me?",
     "type": "text"
    }
   ],
   "Ha'aras on the opening kasha": [
    {
-    "text": "From the opening kasha, we see certain assumptions the Gemara is making about the Mishna.",
+    "text": "From the opening kasha, we see certain assumptions the Gemara is making about the Mishnah.",
     "type": "text"
    }
   ],
@@ -433,6 +469,12 @@
    {
     "type": "quote",
     "text": "איכא דאמרי בהא איסורא נמי אית בה\nכדרב יהודה אמר רב דאמר רב יהודה\nאמר רב אסור לאדם שיקדש את האשה\nעד שיראנה שמא יראה בה דבר מגונה\nותתגנה עליו ורחמנא אמר ואהבת לרעך\nכמוך וכי איתמר דרב יוסף אסיפא איתמר\nהאשה מתקדשת בה ובשלוחה השתא\nבשלוחה מיקדשא בה מיבעיא אמר רב יוסף\nמצוה בה יותר מבשלוחה כי הא דרב ספרא\nמחריך רישא רבא מלח שיבוטא אבל בהא\nאיסורא לית בה כדר״ל דאמר ר״ל טב\nלמיתב טן דו מלמיתב ארמלו\n"
+   }
+  ],
+  "Summary": [
+   {
+    "text": "This is the summary.",
+    "type": "text"
    }
   ]
  }

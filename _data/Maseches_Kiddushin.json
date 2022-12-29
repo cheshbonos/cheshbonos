@@ -7,6 +7,18 @@
     "type": "text"
    },
    {
+    "text": "Seder Nashim",
+    "type": "import",
+    "targetSubtopic": "Seder Nashim",
+    "targetTopic": "Talmud Bavli",
+    "enclosingTopic": "Maseches Kiddushin",
+    "enclosingSubtopic": "Maseches Kiddushin"
+   },
+   {
+    "text": " in ",
+    "type": "text"
+   },
+   {
     "text": "Talmud Bavli",
     "type": "global",
     "targetSubtopic": "Talmud Bavli",

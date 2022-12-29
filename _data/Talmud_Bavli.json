@@ -3,13 +3,13 @@
  "paragraphsBySubtopic": {
   "Talmud Bavli": [
    {
-    "text": "The Talmud Bavli is a commentary on the Mishna. Talmud Bavli ",
+    "text": "The Talmud Bavli is a commentary on the Mishnah. Talmud Bavli ",
     "type": "text"
    },
    {
-    "text": "follows the six sedarim of the Mishna",
+    "text": "follows the six sedarim of the Mishnah",
     "type": "local",
-    "targetSubtopic": "Follows the six sedarim of the Mishna",
+    "targetSubtopic": "Follows the six sedarim of the Mishnah",
     "targetTopic": "Talmud Bavli",
     "enclosingTopic": "Talmud Bavli",
     "enclosingSubtopic": "Talmud Bavli"
@@ -19,7 +19,7 @@
     "type": "text"
    }
   ],
-  "Follows the six sedarim of the Mishna": [
+  "Follows the six sedarim of the Mishnah": [
    {
     "text": "There is Talmud Bavli on Seder Moed, ",
     "type": "text"
@@ -30,7 +30,7 @@
     "targetSubtopic": "Seder Nashim",
     "targetTopic": "Talmud Bavli",
     "enclosingTopic": "Talmud Bavli",
-    "enclosingSubtopic": "Follows the six sedarim of the Mishna"
+    "enclosingSubtopic": "Follows the six sedarim of the Mishnah"
    },
    {
     "text": ", Seder Nezikin, Seder Kodashim, and Seder Tahoros.",
