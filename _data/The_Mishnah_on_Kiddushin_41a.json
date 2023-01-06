@@ -3,19 +3,7 @@
  "paragraphsBySubtopic": {
   "The Mishnah on Kiddushin 41a": [
    {
-    "text": "The mishnah on Kiddushin 41a has a ",
-    "type": "text"
-   },
-   {
-    "text": "full text",
-    "type": "local",
-    "targetSubtopic": "Full text",
-    "targetTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "The Mishnah on Kiddushin 41a"
-   },
-   {
-    "text": ", and ",
+    "text": "The mishnah on Kiddushin 41a, printed below, has ",
     "type": "text"
    },
    {
@@ -27,18 +15,12 @@
     "enclosingSubtopic": "The Mishnah on Kiddushin 41a"
    },
    {
-    "text": ".",
-    "type": "text"
-   }
-  ],
-  "Full text": [
-   {
-    "text": "The full text of the Mishnah on Kiddushin 41a reads: ",
+    "text": ". ",
     "type": "text"
    },
    {
-    "type": "quote",
-    "text": "האיש מקדש בו ובשלוחו האשה מתקדשת בה ובשלוחה האיש מקדש את בתו כשהיא נערה בו ובשלוחו\n"
+    "text": "< האיש מקדש בו ובשלוחו האשה מתקדשת בה ובשלוחה האיש מקדש את בתו כשהיא נערה בו ובשלוחו",
+    "type": "text"
    }
   ],
   "Three dinim": [
@@ -85,7 +67,11 @@
   ],
   "First din": [
    {
-    "text": "The first din of the Mishnah is quoted below. You can read about the ",
+    "text": "< האיש מקדש בו ובשלוחו ",
+    "type": "text"
+   },
+   {
+    "text": "This is the first din of the Mishna. You can read about the ",
     "type": "text"
    },
    {
@@ -113,9 +99,9 @@
     "type": "text"
    },
    {
-    "text": "psht in the first din",
+    "text": "pshat in the first din",
     "type": "local",
-    "targetSubtopic": "Psht in the first din",
+    "targetSubtopic": "Pshat in the first din",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
     "enclosingSubtopic": "First din"
@@ -133,12 +119,8 @@
     "enclosingSubtopic": "First din"
    },
    {
-    "text": ". ",
+    "text": ".",
     "type": "text"
-   },
-   {
-    "type": "quote",
-    "text": "האיש מקדש בו ובשלוחו\n"
    }
   ],
   "Words of the first din": [
@@ -261,21 +243,33 @@
   "The word u'b'shlucho": [],
   "Literal translation of the first din": [
    {
-    "text": "Once we identify what each of the words of the first din of the Mishnah mean in context, a literal translation might be: ",
+    "text": "Once we have identified which meanings to assign to the individual words, a literal translation might be: ",
     "type": "text"
    },
    {
     "type": "quote",
-    "text": "A man is being mekadesh, with himself or with an emissary\n"
+    "text": "The man is being mekadesh, with himself or with an emissary\n"
    },
    {
-    "text": "Try to figure out what this means in context, then ask ",
+    "text": "Try to figure out what this means in context. You might ask: ",
     "type": "text"
    },
    {
-    "text": "what does \"being mekadesh\" mean here?",
+    "text": "What does \"being mekadesh\" mean here?",
     "type": "local",
     "targetSubtopic": "What does \"being mekadesh\" mean here?",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Literal translation of the first din"
+   },
+   {
+    "text": " ",
+    "type": "text"
+   },
+   {
+    "text": "Why does ha'ish have a hay ha'yedia?",
+    "type": "local",
+    "targetSubtopic": "Why does ha'ish have a hay ha'yedia?",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
     "enclosingSubtopic": "Literal translation of the first din"
@@ -283,11 +277,82 @@
   ],
   "What does \"being mekadesh\" mean here?": [
    {
-    "text": "We find here a klal of mishnayos that a \"present tense\" means a psak, and so \"the man is mekadesh\" means \"a man is _allowed_ to be mekadesh.\"",
+    "text": "We find here a klal of mishnayos that a \"present tense\" statement means a psak, and so \"the man is being mekadesh himself or with an emissary\" in this context means \"the man is _allowed_ to be mekadesh, himself or with an emissary.\"",
     "type": "text"
    }
   ],
-  "Psht in the first din": [],
+  "Why does ha'ish have a hay ha'yedia?": [
+   {
+    "text": "It seems as if the Mishnah should not be using a hay ha'yedia",
+    "type": "local",
+    "targetSubtopic": "It seems as if the Mishnah should not be using a hay ha'yedia",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Why does ha'ish have a hay ha'yedia?"
+   },
+   {
+    "text": ", but ",
+    "type": "text"
+   },
+   {
+    "text": "perhaps the Mishnah uses the hay ha'yedia because of the Mishnah it is following",
+    "type": "local",
+    "targetSubtopic": "Perhaps the Mishnah uses the hay ha'yedia because of the Mishnah it is following",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Why does ha'ish have a hay ha'yedia?"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "It seems as if the Mishnah should not be using a hay ha'yedia": [
+   {
+    "text": "If the Mishnah wanted to say \"any man can be mekadesh an isha using these methods,\" why did it say \"_the_ man can be mekadesh\", as if only some specific man can do it, instead of saying \"_a_ man can be mekadesh,\" ie any man? (Then it would read: איש מקדש, instead of האיש מקדש, because ",
+    "type": "text"
+   },
+   {
+    "text": "Hebrew nouns",
+    "type": "global",
+    "targetSubtopic": "Hebrew nouns",
+    "targetTopic": "Hebrew nouns",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "It seems as if the Mishnah should not be using a hay ha'yedia"
+   },
+   {
+    "text": " ",
+    "type": "text"
+   },
+   {
+    "text": "by default have an indefinite article",
+    "type": "import",
+    "targetSubtopic": "By default have an indefinite article",
+    "targetTopic": "Hebrew nouns",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "It seems as if the Mishnah should not be using a hay ha'yedia"
+   },
+   {
+    "text": ".)",
+    "type": "text"
+   }
+  ],
+  "Perhaps the Mishnah uses the hay ha'yedia because of the Mishnah it is following": [
+   {
+    "text": "Perhaps we can say that this Mishnah is following the first Mishnah of the masechta, which spoke about ways \"the woman\" is niknas, and so maybe the \"the\" in \"the woman\" and the \"the\" in \"the man\" are being used to exclude one another - \"_the_ woman\" (as opposed to the man in the interaction,) and \"_the_ man\" (as opposed to the woman in the interaction.)",
+    "type": "text"
+   }
+  ],
+  "Pshat in the first din": [
+   {
+    "text": "A pshat in the first din of the Mishna might be: ",
+    "type": "text"
+   },
+   {
+    "type": "quote",
+    "text": "A man is allowed to be mekadesh an isha, himself or with a shaliach\n"
+   }
+  ],
   "Second din": [
    {
     "text": "The second din reads: ",
@@ -304,8 +369,8 @@
     "type": "text"
    },
    {
-    "type": "quote",
-    "text": "האיש מקדש את בתו כשהיא נערה בו ובשלוחו\n"
+    "text": "< האיש מקדש את בתו כשהיא נערה בו ובשלוחו",
+    "type": "text"
    }
   ]
  }

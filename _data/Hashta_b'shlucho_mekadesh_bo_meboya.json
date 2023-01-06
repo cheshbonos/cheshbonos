@@ -51,19 +51,7 @@
     "enclosingSubtopic": "Hashta b'shlucho mekadesh bo meboya"
    },
    {
-    "text": " You can read the sugya's ",
-    "type": "text"
-   },
-   {
-    "text": "full text",
-    "type": "local",
-    "targetSubtopic": "Full text",
-    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
-    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
-    "enclosingSubtopic": "Hashta b'shlucho mekadesh bo meboya"
-   },
-   {
-    "text": ", and learn the sugya's various ",
+    "text": ". You can read the sugya's full text below, and learn the sugya's various ",
     "type": "text"
    },
    {
@@ -87,23 +75,73 @@
     "enclosingSubtopic": "Hashta b'shlucho mekadesh bo meboya"
    },
    {
-    "text": ".",
-    "type": "text"
-   }
-  ],
-  "Full text": [
-   {
-    "text": "The full text of the sugya _hashta b'shlucho mekadesh bo meboya_ reads: ",
+    "text": ". ",
     "type": "text"
    },
    {
-    "type": "quote",
-    "text": "גמ' השתא בשלוחו מקדש בו מיבעיא אמר\nרב יוסף מצוה בו יותר מבשלוחו כי הא דרב\nספרא מחריך רישא רבא מלח שיבוטא\nאיכא דאמרי בהא איסורא נמי אית בה\nכדרב יהודה אמר רב דאמר רב יהודה\nאמר רב אסור לאדם שיקדש את האשה\nעד שיראנה שמא יראה בה דבר מגונה\nותתגנה עליו ורחמנא אמר ואהבת לרעך\nכמוך וכי איתמר דרב יוסף אסיפא איתמר\nהאשה מתקדשת בה ובשלוחה השתא\nבשלוחה מיקדשא בה מיבעיא אמר רב יוסף\nמצוה בה יותר מבשלוחה כי הא דרב ספרא\nמחריך רישא רבא מלח שיבוטא אבל בהא\nאיסורא לית בה כדר״ל דאמר ר״ל טב\nלמיתב טן דו מלמיתב ארמלו\n"
+    "text": "< גמ' השתא בשלוחו מקדש בו מיבעיא אמר ",
+    "type": "text"
+   },
+   {
+    "text": "< רב יוסף מצוה בו יותר מבשלוחו כי הא דרב ",
+    "type": "text"
+   },
+   {
+    "text": "< ספרא מחריך רישא רבא מלח שיבוטא ",
+    "type": "text"
+   },
+   {
+    "text": "< איכא דאמרי בהא איסורא נמי אית בה ",
+    "type": "text"
+   },
+   {
+    "text": "< כדרב יהודה אמר רב דאמר רב יהודה ",
+    "type": "text"
+   },
+   {
+    "text": "< אמר רב אסור לאדם שיקדש את האשה ",
+    "type": "text"
+   },
+   {
+    "text": "< עד שיראנה שמא יראה בה דבר מגונה ",
+    "type": "text"
+   },
+   {
+    "text": "< ותתגנה עליו ורחמנא אמר ואהבת לרעך ",
+    "type": "text"
+   },
+   {
+    "text": "< כמוך וכי איתמר דרב יוסף אסיפא איתמר ",
+    "type": "text"
+   },
+   {
+    "text": "< האשה מתקדשת בה ובשלוחה השתא ",
+    "type": "text"
+   },
+   {
+    "text": "< בשלוחה מיקדשא בה מיבעיא אמר רב יוסף ",
+    "type": "text"
+   },
+   {
+    "text": "< מצוה בה יותר מבשלוחה כי הא דרב ספרא ",
+    "type": "text"
+   },
+   {
+    "text": "< מחריך רישא רבא מלח שיבוטא אבל בהא ",
+    "type": "text"
+   },
+   {
+    "text": "< איסורא לית בה כדר״ל דאמר ר״ל טב ",
+    "type": "text"
+   },
+   {
+    "text": "< למיתב טן דו מלמיתב ארמלו",
+    "type": "text"
    }
   ],
   "Parts": [
    {
-    "text": "The sugya of _hashta b'shlucho mekadesh bo meboya_ discusses [the first din of the mishnah on Kedushin 41a], and begins with an ",
+    "text": "The sugya of _hashta b'shlucho mekadesh bo meboya_ begins with an ",
     "type": "text"
    },
    {
@@ -185,8 +223,8 @@
     "type": "text"
    },
    {
-    "type": "quote",
-    "text": "[גמ'] השתא בשלוחו מקדש בו מיבעיא [אמר]\n"
+    "text": "< [גמ'] השתא בשלוחו מקדש בו מיבעיא [אמר]",
+    "type": "text"
    }
   ],
   "Words of the opening kasha": [
@@ -261,7 +299,7 @@
   "The word \"meboya\"": [],
   "Literal translation of the opening kasha": [
    {
-    "text": "Once we know what the individual words mean in this context, a literal (but unclear) translation of the opening kasha would be: ",
+    "text": "Once we have identified which meanings to assign to the individual words, a literal (but unclear) translation of the opening kasha would be: ",
     "type": "text"
    },
    {
@@ -419,8 +457,16 @@
     "type": "text"
    },
    {
-    "type": "quote",
-    "text": "[גמ' השתא בשלוחו מקדש בו מיבעיא] אמר\nרב יוסף מצוה בו יותר מבשלוחו כי הא דרב\nספרא מחריך רישא רבא מלח שיבוטא\n"
+    "text": "< [גמ' השתא בשלוחו מקדש בו מיבעיא] אמר ",
+    "type": "text"
+   },
+   {
+    "text": "< רב יוסף מצוה בו יותר מבשלוחו כי הא דרב ",
+    "type": "text"
+   },
+   {
+    "text": "< ספרא מחריך רישא רבא מלח שיבוטא",
+    "type": "text"
    }
   ],
   "Amira of R Yosef": [
@@ -429,8 +475,12 @@
     "type": "text"
    },
    {
-    "type": "quote",
-    "text": "[גמ' השתא בשלוחו מקדש בו מיבעיא] אמר\nרב יוסף מצוה בו יותר מבשלוחו [כי הא דרב]\n"
+    "text": "< [גמ' השתא בשלוחו מקדש בו מיבעיא] אמר ",
+    "type": "text"
+   },
+   {
+    "text": "< רב יוסף מצוה בו יותר מבשלוחו [כי הא דרב]",
+    "type": "text"
    }
   ],
   "Ha d'Rav Safra": [
@@ -451,8 +501,12 @@
     "type": "text"
    },
    {
-    "type": "quote",
-    "text": "כי הא דרב [רב יוסף מצוה בו יותר מבשלוחו]\nספרא מחריך רישא רבא מלח שיבוטא\n"
+    "text": "< כי הא דרב [רב יוסף מצוה בו יותר מבשלוחו] ",
+    "type": "text"
+   },
+   {
+    "text": "< ספרא מחריך רישא רבא מלח שיבוטא",
+    "type": "text"
    }
   ],
   "Words of ha d'Rav Safra": [
@@ -467,8 +521,52 @@
     "type": "text"
    },
    {
-    "type": "quote",
-    "text": "איכא דאמרי בהא איסורא נמי אית בה\nכדרב יהודה אמר רב דאמר רב יהודה\nאמר רב אסור לאדם שיקדש את האשה\nעד שיראנה שמא יראה בה דבר מגונה\nותתגנה עליו ורחמנא אמר ואהבת לרעך\nכמוך וכי איתמר דרב יוסף אסיפא איתמר\nהאשה מתקדשת בה ובשלוחה השתא\nבשלוחה מיקדשא בה מיבעיא אמר רב יוסף\nמצוה בה יותר מבשלוחה כי הא דרב ספרא\nמחריך רישא רבא מלח שיבוטא אבל בהא\nאיסורא לית בה כדר״ל דאמר ר״ל טב\nלמיתב טן דו מלמיתב ארמלו\n"
+    "text": "< איכא דאמרי בהא איסורא נמי אית בה ",
+    "type": "text"
+   },
+   {
+    "text": "< כדרב יהודה אמר רב דאמר רב יהודה ",
+    "type": "text"
+   },
+   {
+    "text": "< אמר רב אסור לאדם שיקדש את האשה ",
+    "type": "text"
+   },
+   {
+    "text": "< עד שיראנה שמא יראה בה דבר מגונה ",
+    "type": "text"
+   },
+   {
+    "text": "< ותתגנה עליו ורחמנא אמר ואהבת לרעך ",
+    "type": "text"
+   },
+   {
+    "text": "< כמוך וכי איתמר דרב יוסף אסיפא איתמר ",
+    "type": "text"
+   },
+   {
+    "text": "< האשה מתקדשת בה ובשלוחה השתא ",
+    "type": "text"
+   },
+   {
+    "text": "< בשלוחה מיקדשא בה מיבעיא אמר רב יוסף ",
+    "type": "text"
+   },
+   {
+    "text": "< מצוה בה יותר מבשלוחה כי הא דרב ספרא ",
+    "type": "text"
+   },
+   {
+    "text": "< מחריך רישא רבא מלח שיבוטא אבל בהא ",
+    "type": "text"
+   },
+   {
+    "text": "< איסורא לית בה כדר״ל דאמר ר״ל טב ",
+    "type": "text"
+   },
+   {
+    "text": "< למיתב טן דו מלמיתב ארמלו",
+    "type": "text"
    }
   ],
   "Summary": [

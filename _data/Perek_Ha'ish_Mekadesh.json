@@ -3,7 +3,31 @@
  "paragraphsBySubtopic": {
   "Perek Ha'ish Mekadesh": [
    {
-    "text": "Perek Ha'ish Mekadesh is the second perek of ",
+    "text": "The sugyos of Perek Ha'ish Mekadesh can be accessed ",
+    "type": "text"
+   },
+   {
+    "text": "by Mishnah",
+    "type": "local",
+    "targetSubtopic": "By Mishnah",
+    "targetTopic": "Perek Ha'ish Mekadesh",
+    "enclosingTopic": "Perek Ha'ish Mekadesh",
+    "enclosingSubtopic": "Perek Ha'ish Mekadesh"
+   },
+   {
+    "text": ", or ",
+    "type": "text"
+   },
+   {
+    "text": "by daf",
+    "type": "local",
+    "targetSubtopic": "By daf",
+    "targetTopic": "Perek Ha'ish Mekadesh",
+    "enclosingTopic": "Perek Ha'ish Mekadesh",
+    "enclosingSubtopic": "Perek Ha'ish Mekadesh"
+   },
+   {
+    "text": ". (Perek Ha'ish Mekadesh is the second perek of ",
     "type": "text"
    },
    {
@@ -15,47 +39,11 @@
     "enclosingSubtopic": "Perek Ha'ish Mekadesh"
    },
    {
-    "text": ". Perek Ha'ish Mekadesh includes many ",
-    "type": "text"
-   },
-   {
-    "text": "dafim",
-    "type": "local",
-    "targetSubtopic": "Dafim",
-    "targetTopic": "Perek Ha'ish Mekadesh",
-    "enclosingTopic": "Perek Ha'ish Mekadesh",
-    "enclosingSubtopic": "Perek Ha'ish Mekadesh"
-   },
-   {
-    "text": ", ",
-    "type": "text"
-   },
-   {
-    "text": "mishnayos",
-    "type": "local",
-    "targetSubtopic": "Mishnayos",
-    "targetTopic": "Perek Ha'ish Mekadesh",
-    "enclosingTopic": "Perek Ha'ish Mekadesh",
-    "enclosingSubtopic": "Perek Ha'ish Mekadesh"
-   },
-   {
-    "text": ", and ",
-    "type": "text"
-   },
-   {
-    "text": "sugyos",
-    "type": "local",
-    "targetSubtopic": "Sugyos",
-    "targetTopic": "Perek Ha'ish Mekadesh",
-    "enclosingTopic": "Perek Ha'ish Mekadesh",
-    "enclosingSubtopic": "Perek Ha'ish Mekadesh"
-   },
-   {
-    "text": ".",
+    "text": ".)",
     "type": "text"
    }
   ],
-  "Dafim": [
+  "By daf": [
    {
     "text": "Perek Ha'ish Mekadesh covers eighteen dafim, beginning on ",
     "type": "text"
@@ -66,14 +54,14 @@
     "targetSubtopic": "Kiddushin 41a",
     "targetTopic": "Kiddushin 41a",
     "enclosingTopic": "Perek Ha'ish Mekadesh",
-    "enclosingSubtopic": "Dafim"
+    "enclosingSubtopic": "By daf"
    },
    {
     "text": " and ending on Kiddushin 58b.",
     "type": "text"
    }
   ],
-  "Mishnayos": [
+  "By Mishnah": [
    {
     "text": "Perek Ha'ish Mekadesh begins with ",
     "type": "text"
@@ -84,25 +72,11 @@
     "targetSubtopic": "The Mishnah on Kiddushin 41a",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "Perek Ha'ish Mekadesh",
-    "enclosingSubtopic": "Mishnayos"
+    "enclosingSubtopic": "By Mishnah"
    },
    {
     "text": ".",
     "type": "text"
-   }
-  ],
-  "Sugyos": [
-   {
-    "text": "The first sugya in Perek Ha'ish Mekadesh is the sugya of ",
-    "type": "text"
-   },
-   {
-    "text": "hashta b'shlucho mekadesh bo meboya",
-    "type": "global",
-    "targetSubtopic": "Hashta b'shlucho mekadesh bo meboya",
-    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
-    "enclosingTopic": "Perek Ha'ish Mekadesh",
-    "enclosingSubtopic": "Sugyos"
    }
   ]
  }

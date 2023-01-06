@@ -27,6 +27,36 @@
     "enclosingSubtopic": "Maseches Kiddushin"
    },
    {
+    "text": ". It has several ",
+    "type": "text"
+   },
+   {
+    "text": "perakim",
+    "type": "local",
+    "targetSubtopic": "Perakim",
+    "targetTopic": "Maseches Kiddushin",
+    "enclosingTopic": "Maseches Kiddushin",
+    "enclosingSubtopic": "Maseches Kiddushin"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Perakim": [
+   {
+    "text": "The first perek of Meseches Kiddushin is Perek Ha'isha Niknas. The second perek of Maseches Kiddushin is ",
+    "type": "text"
+   },
+   {
+    "text": "Perek Ha'Ish Mekadesh",
+    "type": "global",
+    "targetSubtopic": "Perek Ha'ish Mekadesh",
+    "targetTopic": "Perek Ha'ish Mekadesh",
+    "enclosingTopic": "Maseches Kiddushin",
+    "enclosingSubtopic": "Perakim"
+   },
+   {
     "text": ".",
     "type": "text"
    }
