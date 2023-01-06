@@ -9,6 +9,12 @@
    {
     "text": "lishnas",
     "type": "global",
+    "tokens": [
+     {
+      "text": "lishnas",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "\"Lishna\"",
     "targetTopic": "\"Lishna\"",
     "enclosingTopic": "Ika d'amri",

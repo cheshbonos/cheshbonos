@@ -9,6 +9,12 @@
    {
     "text": "by Mishnah",
     "type": "local",
+    "tokens": [
+     {
+      "text": "by Mishnah",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "By Mishnah",
     "targetTopic": "Perek Ha'ish Mekadesh",
     "enclosingTopic": "Perek Ha'ish Mekadesh",
@@ -21,6 +27,12 @@
    {
     "text": "by daf",
     "type": "local",
+    "tokens": [
+     {
+      "text": "by daf",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "By daf",
     "targetTopic": "Perek Ha'ish Mekadesh",
     "enclosingTopic": "Perek Ha'ish Mekadesh",
@@ -33,6 +45,12 @@
    {
     "text": "Maseches Kiddushin",
     "type": "global",
+    "tokens": [
+     {
+      "text": "Maseches Kiddushin",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "Maseches Kiddushin",
     "targetTopic": "Maseches Kiddushin",
     "enclosingTopic": "Perek Ha'ish Mekadesh",
@@ -51,6 +69,12 @@
    {
     "text": "Kiddushin 41a",
     "type": "global",
+    "tokens": [
+     {
+      "text": "Kiddushin 41a",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "Kiddushin 41a",
     "targetTopic": "Kiddushin 41a",
     "enclosingTopic": "Perek Ha'ish Mekadesh",
@@ -69,6 +93,12 @@
    {
     "text": "the Mishnah on Kiddushin 41a",
     "type": "global",
+    "tokens": [
+     {
+      "text": "the Mishnah on Kiddushin 41a",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "The Mishnah on Kiddushin 41a",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "Perek Ha'ish Mekadesh",

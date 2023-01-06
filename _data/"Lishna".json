@@ -5,6 +5,12 @@
    {
     "text": "What is the literal definition of \"lishna\"?",
     "type": "local",
+    "tokens": [
+     {
+      "text": "What is the literal definition of \"lishna\"?",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "What is the literal definition of \"lishna\"?",
     "targetTopic": "\"Lishna\"",
     "enclosingTopic": "\"Lishna\"",
@@ -17,6 +23,12 @@
    {
     "text": "What does \"lishna\" mean when speaking about Gemara?",
     "type": "local",
+    "tokens": [
+     {
+      "text": "What does \"lishna\" mean when speaking about Gemara?",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "What does \"lishna\" mean when speaking about Gemara?",
     "targetTopic": "\"Lishna\"",
     "enclosingTopic": "\"Lishna\"",
@@ -37,6 +49,12 @@
    {
     "text": "How can there be multiple versions of the text?",
     "type": "local",
+    "tokens": [
+     {
+      "text": "How can there be multiple versions of the text?",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "How can there be multiple versions of the text?",
     "targetTopic": "\"Lishna\"",
     "enclosingTopic": "\"Lishna\"",
@@ -49,6 +67,12 @@
    {
     "text": "Is one version wrong?",
     "type": "local",
+    "tokens": [
+     {
+      "text": "Is one version wrong?",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "Is one version wrong?",
     "targetTopic": "\"Lishna\"",
     "enclosingTopic": "\"Lishna\"",
@@ -61,6 +85,12 @@
    {
     "text": "distinguish between different lishnas",
     "type": "local",
+    "tokens": [
+     {
+      "text": "distinguish between different lishnas",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "Distinguish between different lishnas",
     "targetTopic": "\"Lishna\"",
     "enclosingTopic": "\"Lishna\"",
@@ -85,7 +115,20 @@
   ],
   "Use the second lishna to determine where the first lishna starts": [
    {
-    "text": "Sometimes it is not clear at what point in the text the \"first lishna\" began, ie what portion of the text the \"ika d'amri\" is a second version _of_, and so sometimes one has to look at what question the second lishna is answering, and then find where in the first lishna this question is answered, and then one can infer that this is the start of the first lishna.",
+    "text": "Sometimes it is not clear at what point in the text the \"first lishna\" began, ie what portion of the text the \"ika d'amri\" is a second version ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "of",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ", and so sometimes one has to look at what question the second lishna is answering, and then find where in the first lishna this question is answered, and then one can infer that this is the start of the first lishna.",
     "type": "text"
    }
   ],
@@ -97,6 +140,12 @@
    {
     "text": "ika d'amri",
     "type": "global",
+    "tokens": [
+     {
+      "text": "ika d'amri",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "Ika d'amri",
     "targetTopic": "Ika d'amri",
     "enclosingTopic": "\"Lishna\"",
@@ -109,6 +158,12 @@
    {
     "text": "use the second lishna to determine where the first lishna starts",
     "type": "local",
+    "tokens": [
+     {
+      "text": "use the second lishna to determine where the first lishna starts",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "Use the second lishna to determine where the first lishna starts",
     "targetTopic": "\"Lishna\"",
     "enclosingTopic": "\"Lishna\"",

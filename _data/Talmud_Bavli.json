@@ -9,6 +9,12 @@
    {
     "text": "follows the six sedarim of the Mishnah",
     "type": "local",
+    "tokens": [
+     {
+      "text": "follows the six sedarim of the Mishnah",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "Follows the six sedarim of the Mishnah",
     "targetTopic": "Talmud Bavli",
     "enclosingTopic": "Talmud Bavli",
@@ -27,6 +33,12 @@
    {
     "text": "Seder Nashim",
     "type": "local",
+    "tokens": [
+     {
+      "text": "Seder Nashim",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "Seder Nashim",
     "targetTopic": "Talmud Bavli",
     "enclosingTopic": "Talmud Bavli",
@@ -45,6 +57,12 @@
    {
     "text": "Kiddushin",
     "type": "global",
+    "tokens": [
+     {
+      "text": "Kiddushin",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "Maseches Kiddushin",
     "targetTopic": "Maseches Kiddushin",
     "enclosingTopic": "Talmud Bavli",

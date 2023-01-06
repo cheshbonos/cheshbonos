@@ -9,6 +9,12 @@
    {
     "text": "by default have an indefinite article",
     "type": "local",
+    "tokens": [
+     {
+      "text": "by default have an indefinite article",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "By default have an indefinite article",
     "targetTopic": "Hebrew nouns",
     "enclosingTopic": "Hebrew nouns",

@@ -9,6 +9,12 @@
    {
     "text": "three dinim",
     "type": "local",
+    "tokens": [
+     {
+      "text": "three dinim",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "Three dinim",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
@@ -19,8 +25,14 @@
     "type": "text"
    },
    {
-    "text": "< האיש מקדש בו ובשלוחו האשה מתקדשת בה ובשלוחה האיש מקדש את בתו כשהיא נערה בו ובשלוחו",
-    "type": "text"
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "האיש מקדש בו ובשלוחו האשה מתקדשת בה ובשלוחה האיש מקדש את בתו כשהיא נערה בו ובשלוחו",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
    }
   ],
   "Three dinim": [
@@ -31,6 +43,12 @@
    {
     "text": "first din",
     "type": "local",
+    "tokens": [
+     {
+      "text": "first din",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "First din",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
@@ -43,6 +61,12 @@
    {
     "text": "second din",
     "type": "local",
+    "tokens": [
+     {
+      "text": "second din",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "Second din",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
@@ -55,6 +79,12 @@
    {
     "text": "third din",
     "type": "local",
+    "tokens": [
+     {
+      "text": "third din",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "Third din",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
@@ -67,8 +97,14 @@
   ],
   "First din": [
    {
-    "text": "< האיש מקדש בו ובשלוחו ",
-    "type": "text"
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "האיש מקדש בו ובשלוחו",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
    },
    {
     "text": "This is the first din of the Mishna. You can read about the ",
@@ -77,6 +113,12 @@
    {
     "text": "words of the first din",
     "type": "local",
+    "tokens": [
+     {
+      "text": "words of the first din",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "Words of the first din",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
@@ -89,6 +131,12 @@
    {
     "text": "literal translation of the first din",
     "type": "local",
+    "tokens": [
+     {
+      "text": "literal translation of the first din",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "Literal translation of the first din",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
@@ -101,6 +149,12 @@
    {
     "text": "pshat in the first din",
     "type": "local",
+    "tokens": [
+     {
+      "text": "pshat in the first din",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "Pshat in the first din",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
@@ -113,6 +167,12 @@
    {
     "text": "hashta b'shlucho mekadesh bo meboya",
     "type": "global",
+    "tokens": [
+     {
+      "text": "hashta b'shlucho mekadesh bo meboya",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "Hashta b'shlucho mekadesh bo meboya",
     "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
@@ -131,6 +191,12 @@
    {
     "text": "the word ha'ish",
     "type": "local",
+    "tokens": [
+     {
+      "text": "the word ha'ish",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "The word ha'ish",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
@@ -143,6 +209,12 @@
    {
     "text": "the word mekadesh",
     "type": "local",
+    "tokens": [
+     {
+      "text": "the word mekadesh",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "The word mekadesh",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
@@ -155,6 +227,12 @@
    {
     "text": "the word bo",
     "type": "local",
+    "tokens": [
+     {
+      "text": "the word bo",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "The word bo",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
@@ -167,6 +245,12 @@
    {
     "text": "the word u'b'shlucho",
     "type": "local",
+    "tokens": [
+     {
+      "text": "the word u'b'shlucho",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "The word u'b'shlucho",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
@@ -185,6 +269,12 @@
    {
     "text": "the word ish",
     "type": "local",
+    "tokens": [
+     {
+      "text": "the word ish",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "The word ish",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
@@ -197,6 +287,12 @@
    {
     "text": "the prefix hay",
     "type": "local",
+    "tokens": [
+     {
+      "text": "the prefix hay",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "The prefix hay",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
@@ -217,6 +313,12 @@
    {
     "text": "Hebrew masculine singular participial",
     "type": "import",
+    "tokens": [
+     {
+      "text": "Hebrew masculine singular participial",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "Hebrew masculine singular participial",
     "targetTopic": "The shoresh קדש",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
@@ -229,6 +331,12 @@
    {
     "text": "the shoresh קדש",
     "type": "global",
+    "tokens": [
+     {
+      "text": "the shoresh קדש",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "The shoresh קדש",
     "targetTopic": "The shoresh קדש",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
@@ -247,8 +355,14 @@
     "type": "text"
    },
    {
-    "type": "quote",
-    "text": "The man is being mekadesh, with himself or with an emissary\n"
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "The man is being mekadesh, with himself or with an emissary",
+      "type": "text"
+     }
+    ],
+    "direction": "ltr"
    },
    {
     "text": "Try to figure out what this means in context. You might ask: ",
@@ -257,6 +371,12 @@
    {
     "text": "What does \"being mekadesh\" mean here?",
     "type": "local",
+    "tokens": [
+     {
+      "text": "What does \"being mekadesh\" mean here?",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "What does \"being mekadesh\" mean here?",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
@@ -269,6 +389,12 @@
    {
     "text": "Why does ha'ish have a hay ha'yedia?",
     "type": "local",
+    "tokens": [
+     {
+      "text": "Why does ha'ish have a hay ha'yedia?",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "Why does ha'ish have a hay ha'yedia?",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
@@ -277,7 +403,20 @@
   ],
   "What does \"being mekadesh\" mean here?": [
    {
-    "text": "We find here a klal of mishnayos that a \"present tense\" statement means a psak, and so \"the man is being mekadesh himself or with an emissary\" in this context means \"the man is _allowed_ to be mekadesh, himself or with an emissary.\"",
+    "text": "We find here a klal of mishnayos that a \"present tense\" statement means a psak, and so \"the man is being mekadesh himself or with an emissary\" in this context means \"the man is ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "allowed",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " to be mekadesh, himself or with an emissary.\"",
     "type": "text"
    }
   ],
@@ -285,6 +424,12 @@
    {
     "text": "It seems as if the Mishnah should not be using a hay ha'yedia",
     "type": "local",
+    "tokens": [
+     {
+      "text": "It seems as if the Mishnah should not be using a hay ha'yedia",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "It seems as if the Mishnah should not be using a hay ha'yedia",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
@@ -297,6 +442,12 @@
    {
     "text": "perhaps the Mishnah uses the hay ha'yedia because of the Mishnah it is following",
     "type": "local",
+    "tokens": [
+     {
+      "text": "perhaps the Mishnah uses the hay ha'yedia because of the Mishnah it is following",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "Perhaps the Mishnah uses the hay ha'yedia because of the Mishnah it is following",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
@@ -309,12 +460,44 @@
   ],
   "It seems as if the Mishnah should not be using a hay ha'yedia": [
    {
-    "text": "If the Mishnah wanted to say \"any man can be mekadesh an isha using these methods,\" why did it say \"_the_ man can be mekadesh\", as if only some specific man can do it, instead of saying \"_a_ man can be mekadesh,\" ie any man? (Then it would read: איש מקדש, instead of האיש מקדש, because ",
+    "text": "If the Mishnah wanted to say \"any man can be mekadesh an isha using these methods,\" why did it say \"",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "the",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " man can be mekadesh\", as if only some specific man can do it, instead of saying \"",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "a",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " man can be mekadesh,\" ie any man? (Then it would read: איש מקדש, instead of האיש מקדש, because ",
     "type": "text"
    },
    {
     "text": "Hebrew nouns",
     "type": "global",
+    "tokens": [
+     {
+      "text": "Hebrew nouns",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "Hebrew nouns",
     "targetTopic": "Hebrew nouns",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
@@ -327,6 +510,12 @@
    {
     "text": "by default have an indefinite article",
     "type": "import",
+    "tokens": [
+     {
+      "text": "by default have an indefinite article",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "By default have an indefinite article",
     "targetTopic": "Hebrew nouns",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
@@ -339,7 +528,33 @@
   ],
   "Perhaps the Mishnah uses the hay ha'yedia because of the Mishnah it is following": [
    {
-    "text": "Perhaps we can say that this Mishnah is following the first Mishnah of the masechta, which spoke about ways \"the woman\" is niknas, and so maybe the \"the\" in \"the woman\" and the \"the\" in \"the man\" are being used to exclude one another - \"_the_ woman\" (as opposed to the man in the interaction,) and \"_the_ man\" (as opposed to the woman in the interaction.)",
+    "text": "Perhaps we can say that this Mishnah is following the first Mishnah of the masechta, which spoke about ways \"the woman\" is niknas, and so maybe the \"the\" in \"the woman\" and the \"the\" in \"the man\" are being used to exclude one another - \"",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "the",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " woman\" (as opposed to the man in the interaction,) and \"",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "the",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " man\" (as opposed to the woman in the interaction.)",
     "type": "text"
    }
   ],
@@ -349,8 +564,14 @@
     "type": "text"
    },
    {
-    "type": "quote",
-    "text": "A man is allowed to be mekadesh an isha, himself or with a shaliach\n"
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "A man is allowed to be mekadesh an isha, himself or with a shaliach",
+      "type": "text"
+     }
+    ],
+    "direction": "ltr"
    }
   ],
   "Second din": [
@@ -359,8 +580,14 @@
     "type": "text"
    },
    {
-    "type": "quote",
-    "text": "האשה מתקדשת בה ובשלוחה\n"
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "האשה מתקדשת בה ובשלוחה",
+      "type": "text"
+     }
+    ],
+    "direction": "ltr"
    }
   ],
   "Third din": [
@@ -369,8 +596,14 @@
     "type": "text"
    },
    {
-    "text": "< האיש מקדש את בתו כשהיא נערה בו ובשלוחו",
-    "type": "text"
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "האיש מקדש את בתו כשהיא נערה בו ובשלוחו",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
    }
   ]
  }

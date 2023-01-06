@@ -9,6 +9,12 @@
    {
     "text": "Seder Nashim",
     "type": "import",
+    "tokens": [
+     {
+      "text": "Seder Nashim",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "Seder Nashim",
     "targetTopic": "Talmud Bavli",
     "enclosingTopic": "Maseches Kiddushin",
@@ -21,6 +27,12 @@
    {
     "text": "Talmud Bavli",
     "type": "global",
+    "tokens": [
+     {
+      "text": "Talmud Bavli",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "Talmud Bavli",
     "targetTopic": "Talmud Bavli",
     "enclosingTopic": "Maseches Kiddushin",
@@ -33,6 +45,12 @@
    {
     "text": "perakim",
     "type": "local",
+    "tokens": [
+     {
+      "text": "perakim",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "Perakim",
     "targetTopic": "Maseches Kiddushin",
     "enclosingTopic": "Maseches Kiddushin",
@@ -51,6 +69,12 @@
    {
     "text": "Perek Ha'Ish Mekadesh",
     "type": "global",
+    "tokens": [
+     {
+      "text": "Perek Ha'Ish Mekadesh",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "Perek Ha'ish Mekadesh",
     "targetTopic": "Perek Ha'ish Mekadesh",
     "enclosingTopic": "Maseches Kiddushin",

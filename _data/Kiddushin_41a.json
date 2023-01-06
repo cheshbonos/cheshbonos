@@ -9,6 +9,12 @@
    {
     "text": "Maseches Kiddushin",
     "type": "global",
+    "tokens": [
+     {
+      "text": "Maseches Kiddushin",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "Maseches Kiddushin",
     "targetTopic": "Maseches Kiddushin",
     "enclosingTopic": "Kiddushin 41a",
@@ -21,6 +27,12 @@
    {
     "text": "Perek Ha'ish Mekadesh",
     "type": "global",
+    "tokens": [
+     {
+      "text": "Perek Ha'ish Mekadesh",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "Perek Ha'ish Mekadesh",
     "targetTopic": "Perek Ha'ish Mekadesh",
     "enclosingTopic": "Kiddushin 41a",
@@ -33,6 +45,12 @@
    {
     "text": "hashta b'shlucho mekadesh bo meboya",
     "type": "global",
+    "tokens": [
+     {
+      "text": "hashta b'shlucho mekadesh bo meboya",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "Hashta b'shlucho mekadesh bo meboya",
     "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
     "enclosingTopic": "Kiddushin 41a",

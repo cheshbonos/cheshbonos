@@ -9,6 +9,12 @@
    {
     "text": "intensive",
     "type": "local",
+    "tokens": [
+     {
+      "text": "intensive",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "Intensive",
     "targetTopic": "The shoresh קדש",
     "enclosingTopic": "The shoresh קדש",
@@ -27,6 +33,12 @@
    {
     "text": "meaning of the intensive",
     "type": "local",
+    "tokens": [
+     {
+      "text": "meaning of the intensive",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "Meaning of the intensive",
     "targetTopic": "The shoresh קדש",
     "enclosingTopic": "The shoresh קדש",
@@ -39,6 +51,12 @@
    {
     "text": "forms of the intensive in Hebrew and Aramaic",
     "type": "local",
+    "tokens": [
+     {
+      "text": "forms of the intensive in Hebrew and Aramaic",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "Forms of the intensive in Hebrew and Aramaic",
     "targetTopic": "The shoresh קדש",
     "enclosingTopic": "The shoresh קדש",
@@ -57,6 +75,12 @@
    {
     "text": "forms of the intensive of in Hebrew",
     "type": "local",
+    "tokens": [
+     {
+      "text": "forms of the intensive of in Hebrew",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "Forms of the intensive of in Hebrew",
     "targetTopic": "The shoresh קדש",
     "enclosingTopic": "The shoresh קדש",
@@ -75,6 +99,12 @@
    {
     "text": "Hebrew intensive participial tense",
     "type": "local",
+    "tokens": [
+     {
+      "text": "Hebrew intensive participial tense",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "Hebrew intensive participial tense",
     "targetTopic": "The shoresh קדש",
     "enclosingTopic": "The shoresh קדש",
@@ -93,6 +123,12 @@
    {
     "text": "Hebrew masculine singular participial",
     "type": "local",
+    "tokens": [
+     {
+      "text": "Hebrew masculine singular participial",
+      "type": "text"
+     }
+    ],
     "targetSubtopic": "Hebrew masculine singular participial",
     "targetTopic": "The shoresh קדש",
     "enclosingTopic": "The shoresh קדש",
@@ -111,7 +147,20 @@
   ],
   "Meaning of the intensive": [
    {
-    "text": "It means \"to produce a stage called _kiddushin_ between a man and a woman.\" Kiddushin is a stage prior to full marriage (called nisuyin) in which the woman is halachically designated to the man.",
+    "text": "It means \"to produce a stage called ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "kiddushin",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " between a man and a woman.\" Kiddushin is a stage prior to full marriage (called nisuyin) in which the woman is halachically designated to the man.",
     "type": "text"
    }
   ]
