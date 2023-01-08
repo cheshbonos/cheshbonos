@@ -1,13 +1,12 @@
 [Cheshbonos]
 
-* Cheshbonos: This is Cheshbonos, a tool for improving Gemara skills. At the moment Cheshbonos offers help in learning [[Perek Ha'ish Mekadesh]]. You can [[navigate by mouse and arrow keys]]. Cheshbonos is published with various [[disclaimers]]. You can post your questions or comments on the [issues page](https://github.com/cheshbonos/cheshbonos/issues). Sign up for occasional [[email updates]]. Cheshbonos is built using [Canopy.js](https://github.com/canopy-js/canopy-js).
-<!-- MailerLite Universal --><script>(function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[]).push(arguments);},l=d.createElement(e),l.async=1,l.src=u,n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})(window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');ml('account', '281081');</script><!-- End MailerLite Universal -->
+* Cheshbonos: This is a beta version of Cheshbonos, a tool for improving Gemara skills. At the moment Cheshbonos offers help in learning [[Perek Ha'ish Mekadesh]]. You can [[navigate by mouse and arrow keys]]. Cheshbonos is published with various [[disclaimers]]. You can post your questions or comments on the [issues page](https://github.com/cheshbonos/cheshbonos/issues). Sign up for occasional [[email updates]]. Cheshbonos is built using [Canopy.js](https://github.com/canopy-js/canopy-js).
 
 Navigate by mouse and arrow keys: You can navigate Cheshbonos clicking (and option/alt clicking), or by using the arrow and return keys. Additionally, the  "z" key zooms onto the current local selection, the "d" key duplicates the current tab, "shift-up" goes to the previous topic, and "tab" iterates through the paragraphs of a topic.
 
 Disclaimers: Cheshbonos is published without expert endorsement and is a product of novice efforts. Persons wishing to improve their Gemara skills who have the resources should enroll in a full-time yeshiva program. Short of that, such persons should find a Gemara rebbe with whom they can form a relationship and learn from directly. Cheshbonos is intended for people who lack these resources, or as a tool for reviewing content already learned in a yeshiva setting. Individuals should ask their communal rabbinic advisors if Cheshbonos is the appropriate tool for their learning.
 
-Email updates: <br><div class="ml-embedded" data-form="OW1QxJ"></div>
+Email updates: <!-- MailerLite Universal --><script>(function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[]).push(arguments);},l=d.createElement(e),l.async=1,l.src=u,n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})(window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');ml('account', '281081');</script><!-- End MailerLite Universal --><br><div class="ml-embedded" data-form="OW1QxJ"></div>
 
 
 [Lashonos/Expressions]
@@ -83,7 +82,7 @@ Perakim: The first perek of Meseches Kiddushin is Perek Ha'isha Niknas. The seco
 * Kiddushin 41a: Kiddushin 41a is an amud from [[Maseches Kiddushin]], and is the first amud of [[Perek Ha'ish Mekadesh]]. It contains the sugya [[hashta b'shlucho mekadesh bo meboya]].
 
 
-* The Mishnah on Kiddushin 41a: The mishnah on Kiddushin 41a, printed below, has [[three dinim]].
+* The mishnah on Kiddushin 41a: The mishnah on Kiddushin 41a, printed below, has [[three dinim]].
 < האיש מקדש בו ובשלוחו האשה מתקדשת בה ובשלוחה האיש מקדש את בתו כשהיא נערה בו ובשלוחו
 
 Three dinim: The Mishnah on 41a has a [[first din]], a [[second din]], and a [[third din]].
@@ -131,11 +130,11 @@ Third din: The third din reads:
 
 [Talmud Bavli/Kiddushin/Perakim/Ha'ish Mekadesh]
 
-* Perek Ha'ish Mekadesh: The sugyos of Perek Ha'ish Mekadesh can be accessed [[by Mishnah]], or [[by daf]]. (Perek Ha'ish Mekadesh is the second perek of [[Maseches Kiddushin]].)
+* Perek Ha'ish Mekadesh: The sugyos of Perek Ha'ish Mekadesh can be accessed [[by mishnah]], or [[by daf]]. Perek Ha'ish Mekadesh is the second perek of [[Maseches Kiddushin]].
 
 By daf: Perek Ha'ish Mekadesh covers eighteen dafim, beginning on [[Kiddushin 41a]] and ending on Kiddushin 58b.
 
-By Mishnah: Perek Ha'ish Mekadesh begins with [[the Mishnah on Kiddushin 41a]].
+By Mishnah: Perek Ha'ish Mekadesh begins with [[the mishnah on Kiddushin 41a]].
 
 
 [Talmud Bavli/Kiddushin/Sugyos]
