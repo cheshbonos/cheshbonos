@@ -7,15 +7,15 @@
     "type": "text"
    },
    {
-    "text": "three dinim",
+    "text": "three clauses",
     "type": "local",
     "tokens": [
      {
-      "text": "three dinim",
+      "text": "three clauses",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Three dinim",
+    "targetSubtopic": "Three clauses",
     "targetTopic": "The mishnah on Kiddushin 41a",
     "enclosingTopic": "The mishnah on Kiddushin 41a",
     "enclosingSubtopic": "The mishnah on Kiddushin 41a"
@@ -35,67 +35,67 @@
     "direction": "rtl"
    }
   ],
-  "Three dinim": [
+  "Three clauses": [
    {
     "text": "The Mishnah on 41a has a ",
     "type": "text"
    },
    {
-    "text": "first din",
+    "text": "first clause",
     "type": "local",
     "tokens": [
      {
-      "text": "first din",
+      "text": "first clause",
       "type": "text"
      }
     ],
-    "targetSubtopic": "First din",
+    "targetSubtopic": "First clause",
     "targetTopic": "The mishnah on Kiddushin 41a",
     "enclosingTopic": "The mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Three dinim"
+    "enclosingSubtopic": "Three clauses"
    },
    {
     "text": ", a ",
     "type": "text"
    },
    {
-    "text": "second din",
+    "text": "second clause",
     "type": "local",
     "tokens": [
      {
-      "text": "second din",
+      "text": "second clause",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Second din",
+    "targetSubtopic": "Second clause",
     "targetTopic": "The mishnah on Kiddushin 41a",
     "enclosingTopic": "The mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Three dinim"
+    "enclosingSubtopic": "Three clauses"
    },
    {
     "text": ", and a ",
     "type": "text"
    },
    {
-    "text": "third din",
+    "text": "third clause",
     "type": "local",
     "tokens": [
      {
-      "text": "third din",
+      "text": "third clause",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Third din",
+    "targetSubtopic": "Third clause",
     "targetTopic": "The mishnah on Kiddushin 41a",
     "enclosingTopic": "The mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Three dinim"
+    "enclosingSubtopic": "Three clauses"
    },
    {
     "text": ".",
     "type": "text"
    }
   ],
-  "First din": [
+  "First clause": [
    {
     "type": "block_quote",
     "tokens": [
@@ -107,61 +107,61 @@
     "direction": "rtl"
    },
    {
-    "text": "This is the first din of the Mishna. You can read about the ",
+    "text": "This is the first clause of the Mishna. You can read about the ",
     "type": "text"
    },
    {
-    "text": "words of the first din",
+    "text": "words of the first clause",
     "type": "local",
     "tokens": [
      {
-      "text": "words of the first din",
+      "text": "words of the first clause",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Words of the first din",
+    "targetSubtopic": "Words of the first clause",
     "targetTopic": "The mishnah on Kiddushin 41a",
     "enclosingTopic": "The mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "First din"
+    "enclosingSubtopic": "First clause"
    },
    {
     "text": ", a ",
     "type": "text"
    },
    {
-    "text": "literal translation of the first din",
+    "text": "literal translation of the first clause",
     "type": "local",
     "tokens": [
      {
-      "text": "literal translation of the first din",
+      "text": "literal translation of the first clause",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Literal translation of the first din",
+    "targetSubtopic": "Literal translation of the first clause",
     "targetTopic": "The mishnah on Kiddushin 41a",
     "enclosingTopic": "The mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "First din"
+    "enclosingSubtopic": "First clause"
    },
    {
     "text": ", and a ",
     "type": "text"
    },
    {
-    "text": "pshat in the first din",
+    "text": "pshat in the first clause",
     "type": "local",
     "tokens": [
      {
-      "text": "pshat in the first din",
+      "text": "pshat in the first clause",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Pshat in the first din",
+    "targetSubtopic": "Pshat in the first clause",
     "targetTopic": "The mishnah on Kiddushin 41a",
     "enclosingTopic": "The mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "First din"
+    "enclosingSubtopic": "First clause"
    },
    {
-    "text": ". The first din is the subject of the perek's first sugya, ",
+    "text": ". The first clause is the subject of the perek's first sugya, ",
     "type": "text"
    },
    {
@@ -176,16 +176,16 @@
     "targetSubtopic": "Hashta b'shlucho mekadesh bo meboya",
     "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
     "enclosingTopic": "The mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "First din"
+    "enclosingSubtopic": "First clause"
    },
    {
     "text": ".",
     "type": "text"
    }
   ],
-  "Words of the first din": [
+  "Words of the first clause": [
    {
-    "text": "The first din includes ",
+    "text": "The first clause includes ",
     "type": "text"
    },
    {
@@ -200,7 +200,7 @@
     "targetSubtopic": "The word ha'ish",
     "targetTopic": "The mishnah on Kiddushin 41a",
     "enclosingTopic": "The mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Words of the first din"
+    "enclosingSubtopic": "Words of the first clause"
    },
    {
     "text": ", ",
@@ -218,7 +218,7 @@
     "targetSubtopic": "The word mekadesh",
     "targetTopic": "The mishnah on Kiddushin 41a",
     "enclosingTopic": "The mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Words of the first din"
+    "enclosingSubtopic": "Words of the first clause"
    },
    {
     "text": ", ",
@@ -236,7 +236,7 @@
     "targetSubtopic": "The word bo",
     "targetTopic": "The mishnah on Kiddushin 41a",
     "enclosingTopic": "The mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Words of the first din"
+    "enclosingSubtopic": "Words of the first clause"
    },
    {
     "text": ", and ",
@@ -254,7 +254,7 @@
     "targetSubtopic": "The word u'b'shlucho",
     "targetTopic": "The mishnah on Kiddushin 41a",
     "enclosingTopic": "The mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Words of the first din"
+    "enclosingSubtopic": "Words of the first clause"
    },
    {
     "text": ".",
@@ -349,7 +349,7 @@
   ],
   "The word bo": [],
   "The word u'b'shlucho": [],
-  "Literal translation of the first din": [
+  "Literal translation of the first clause": [
    {
     "text": "Once we have identified which meanings to assign to the individual words, a literal translation might be: ",
     "type": "text"
@@ -380,7 +380,7 @@
     "targetSubtopic": "What does \"being mekadesh\" mean here?",
     "targetTopic": "The mishnah on Kiddushin 41a",
     "enclosingTopic": "The mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Literal translation of the first din"
+    "enclosingSubtopic": "Literal translation of the first clause"
    },
    {
     "text": " ",
@@ -398,7 +398,7 @@
     "targetSubtopic": "Why does ha'ish have a hay ha'yedia?",
     "targetTopic": "The mishnah on Kiddushin 41a",
     "enclosingTopic": "The mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Literal translation of the first din"
+    "enclosingSubtopic": "Literal translation of the first clause"
    }
   ],
   "What does \"being mekadesh\" mean here?": [
@@ -558,9 +558,9 @@
     "type": "text"
    }
   ],
-  "Pshat in the first din": [
+  "Pshat in the first clause": [
    {
-    "text": "A pshat in the first din of the Mishna might be: ",
+    "text": "A pshat in the first clause of the Mishna might be: ",
     "type": "text"
    },
    {
@@ -574,9 +574,9 @@
     "direction": "ltr"
    }
   ],
-  "Second din": [
+  "Second clause": [
    {
-    "text": "The second din reads: ",
+    "text": "The second clause reads: ",
     "type": "text"
    },
    {
@@ -590,9 +590,9 @@
     "direction": "ltr"
    }
   ],
-  "Third din": [
+  "Third clause": [
    {
-    "text": "The third din reads: ",
+    "text": "The third clause reads: ",
     "type": "text"
    },
    {

@@ -52,15 +52,15 @@
     "type": "text"
    },
    {
-    "text": "first din",
+    "text": "first clause",
     "type": "import",
     "tokens": [
      {
-      "text": "first din",
+      "text": "first clause",
       "type": "text"
      }
     ],
-    "targetSubtopic": "First din",
+    "targetSubtopic": "First clause",
     "targetTopic": "The mishnah on Kiddushin 41a",
     "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
     "enclosingSubtopic": "Hashta b'shlucho mekadesh bo meboya"
