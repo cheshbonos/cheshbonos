@@ -7,11 +7,11 @@
     "type": "text"
    },
    {
-    "text": "by Mishnah",
+    "text": "by mishnah",
     "type": "local",
     "tokens": [
      {
-      "text": "by Mishnah",
+      "text": "by mishnah",
       "type": "text"
      }
     ],
@@ -39,7 +39,7 @@
     "enclosingSubtopic": "Perek Ha'ish Mekadesh"
    },
    {
-    "text": ". (Perek Ha'ish Mekadesh is the second perek of ",
+    "text": ". Perek Ha'ish Mekadesh is the second perek of ",
     "type": "text"
    },
    {
@@ -57,7 +57,7 @@
     "enclosingSubtopic": "Perek Ha'ish Mekadesh"
    },
    {
-    "text": ".)",
+    "text": ".",
     "type": "text"
    }
   ],
@@ -91,16 +91,16 @@
     "type": "text"
    },
    {
-    "text": "the Mishnah on Kiddushin 41a",
+    "text": "the mishnah on Kiddushin 41a",
     "type": "global",
     "tokens": [
      {
-      "text": "the Mishnah on Kiddushin 41a",
+      "text": "the mishnah on Kiddushin 41a",
       "type": "text"
      }
     ],
-    "targetSubtopic": "The Mishnah on Kiddushin 41a",
-    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "targetSubtopic": "The mishnah on Kiddushin 41a",
+    "targetTopic": "The mishnah on Kiddushin 41a",
     "enclosingTopic": "Perek Ha'ish Mekadesh",
     "enclosingSubtopic": "By Mishnah"
    },

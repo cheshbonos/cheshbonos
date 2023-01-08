@@ -3,7 +3,7 @@
  "paragraphsBySubtopic": {
   "Cheshbonos": [
    {
-    "text": "This is Cheshbonos, a tool for improving Gemara skills. At the moment Cheshbonos offers help in learning ",
+    "text": "This is a beta version of Cheshbonos, a tool for improving Gemara skills. At the moment Cheshbonos offers help in learning ",
     "type": "text"
    },
    {
@@ -103,12 +103,8 @@
     ]
    },
    {
-    "text": ". ",
+    "text": ".",
     "type": "text"
-   },
-   {
-    "type": "html_element",
-    "html": "<!-- MailerLite Universal --><script>(function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[]).push(arguments);},l=d.createElement(e),l.async=1,l.src=u,n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})(window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');ml('account', '281081');</script><!-- End MailerLite Universal -->"
    }
   ],
   "Navigate by mouse and arrow keys": [
@@ -126,7 +122,7 @@
   "Email updates": [
    {
     "type": "html_element",
-    "html": "<br><div class=\"ml-embedded\" data-form=\"OW1QxJ\"></div>"
+    "html": "<!-- MailerLite Universal --><script>(function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[]).push(arguments);},l=d.createElement(e),l.async=1,l.src=u,n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})(window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');ml('account', '281081');</script><!-- End MailerLite Universal --><br><div class=\"ml-embedded\" data-form=\"OW1QxJ\"></div>"
    }
   ]
  }
