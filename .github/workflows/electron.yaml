@@ -1,0 +1,111 @@
+name: Building Electron apps
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+jobs:
+  build_json:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16
+      - run: npm install -g canopy-js
+        name: Install Canopy CLI
+      - env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        name: Build JSON changes
+        run: |
+          canopy build --hash-urls
+          npm install -g electron-icon-builder
+          npx electron-icon-builder --input=build/_assets/electron-icon.png --output=./build/_assets
+          mv build/_assets/icons/win/icon.ico build/_assets/electron-icon.ico
+          mv build/_assets/icons/mac/icon.icns build/_assets/electron-icon.icns
+          mv build/_assets/icons/png/1024x1024.png build/_assets/electron-icon.png
+          mkdir container
+          mv build container
+      - uses: actions/upload-artifact@v3
+        with:
+          name: build
+          path: container
+  build_electron:
+    needs: build_json
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: [macos-latest, ubuntu-latest, windows-latest]
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        repository: canopy-js/canopy-electron
+    - uses: actions/setup-node@v3
+      with:
+        node-version: 16
+    - uses: actions/download-artifact@v3
+      with:
+        name: build
+    - env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_OS: ${{ matrix.os }}
+        GITHUB_REPO_NAME:  ${{ github.event.repository.name }}
+      name: Build Electron project
+      run: |
+        npm install
+        npm run set-name
+        npm run make
+    - uses: actions/upload-artifact@v3
+      with:
+        name: electron-${{matrix.os}}
+        path: out/make
+  commit_files:
+    needs: build_electron
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/download-artifact@v3
+        with:
+          name: electron-macos-latest
+      - uses: actions/download-artifact@v3
+        with:
+          name: electron-ubuntu-latest
+      - uses: actions/download-artifact@v3
+        with:
+          name: electron-windows-latest
+      - name: Commit Binary
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPO_PATH: ${{ github.repository }}
+          GITHUB_REPO_NAME:  ${{ github.event.repository.name }}
+        run: |
+          set -ex
+
+          rev=$(git rev-parse --short HEAD)
+
+          AUTHOR_NAME=\"$(git log --pretty=format:"%an" -1)\"
+          AUTHOR_EMAIL=\"$(git log --pretty=format:"%ae" -1)\"
+          COMMIT_MESSAGE="$(git log --format=%B -n 1)"
+
+          git config --global user.name "$AUTHOR_NAME"
+          git config --global user.email "$AUTHOR_EMAIL"
+
+          git fetch origin
+
+          electron_branch_exists="$(git ls-remote --heads origin "electron")"
+          if [[ ! -z $electron_branch_exists ]]; then
+            git reset "origin/electron"
+          fi
+
+          # deb squirrel.windows zip
+      - uses: "marvinpinto/action-automatic-releases@latest"
+        with:
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          automatic_release_tag: "latest"
+          prerelease: true
+          title: "Binary Release"
+          files: |
+            deb
+            squirrel.windows
+            zip/linux
+            zip/darwin
