@@ -1,5 +1,11 @@
 {
  "displayTopicName": "Perek Ha'ish Mekadesh",
+ "topicTokens": [
+  {
+   "text": "Perek Ha'ish Mekadesh",
+   "type": "text"
+  }
+ ],
  "paragraphsBySubtopic": {
   "Perek Ha'ish Mekadesh": [
    {

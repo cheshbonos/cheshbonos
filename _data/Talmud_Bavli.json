@@ -1,5 +1,11 @@
 {
  "displayTopicName": "Talmud Bavli",
+ "topicTokens": [
+  {
+   "text": "Talmud Bavli",
+   "type": "text"
+  }
+ ],
  "paragraphsBySubtopic": {
   "Talmud Bavli": [
    {

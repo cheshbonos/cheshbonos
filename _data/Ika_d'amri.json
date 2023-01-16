@@ -1,5 +1,11 @@
 {
  "displayTopicName": "Ika d'amri",
+ "topicTokens": [
+  {
+   "text": "Ika d'amri",
+   "type": "text"
+  }
+ ],
  "paragraphsBySubtopic": {
   "Ika d'amri": [
    {

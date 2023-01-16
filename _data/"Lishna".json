@@ -1,5 +1,11 @@
 {
  "displayTopicName": "\"Lishna\"",
+ "topicTokens": [
+  {
+   "text": "\"Lishna\"",
+   "type": "text"
+  }
+ ],
  "paragraphsBySubtopic": {
   "\"Lishna\"": [
    {

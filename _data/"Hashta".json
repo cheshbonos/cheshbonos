@@ -1,5 +1,11 @@
 {
  "displayTopicName": "\"Hashta\"",
+ "topicTokens": [
+  {
+   "text": "\"Hashta\"",
+   "type": "text"
+  }
+ ],
  "paragraphsBySubtopic": {
   "\"Hashta\"": [
    {

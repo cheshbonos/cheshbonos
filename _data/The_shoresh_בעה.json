@@ -1,5 +1,11 @@
 {
  "displayTopicName": "The shoresh בעה",
+ "topicTokens": [
+  {
+   "text": "The shoresh בעה",
+   "type": "text"
+  }
+ ],
  "paragraphsBySubtopic": {
   "The shoresh בעה": [
    {

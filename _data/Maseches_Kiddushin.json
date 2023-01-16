@@ -1,5 +1,11 @@
 {
  "displayTopicName": "Maseches Kiddushin",
+ "topicTokens": [
+  {
+   "text": "Maseches Kiddushin",
+   "type": "text"
+  }
+ ],
  "paragraphsBySubtopic": {
   "Maseches Kiddushin": [
    {

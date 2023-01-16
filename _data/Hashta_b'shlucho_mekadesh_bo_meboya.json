@@ -1,5 +1,11 @@
 {
  "displayTopicName": "Hashta b'shlucho mekadesh bo meboya",
+ "topicTokens": [
+  {
+   "text": "Hashta b'shlucho mekadesh bo meboya",
+   "type": "text"
+  }
+ ],
  "paragraphsBySubtopic": {
   "Hashta b'shlucho mekadesh bo meboya": [
    {
