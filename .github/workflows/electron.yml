@@ -27,5 +27,5 @@ jobs:
       name: Build and deploy JSON changes
       run: |
         set -ex
-
+        cd ..
         ls
