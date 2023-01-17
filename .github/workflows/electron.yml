@@ -5,7 +5,27 @@ on:
     branches:
       - main
 jobs:
-  build:
+  build_json:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - uses: actions/setup-node@v3
+      with:
+        node-version: 16
+    - run: npm install -g canopy-js
+      name: Install Canopy CLI
+    - env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      name: Build JSON changes
+      run: |
+        set -ex
+
+        rev=$(git rev-parse --short HEAD)
+
+        canopy build
+
+  build_electron:
+    needs: build_json
     runs-on: ${{ matrix.os }}
 
     strategy:
@@ -28,4 +48,4 @@ jobs:
       run: |
         set -ex
         cd ..
-        ls
+        find .
