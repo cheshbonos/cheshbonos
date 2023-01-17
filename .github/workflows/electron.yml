@@ -8,21 +8,25 @@ jobs:
   build_json:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
-    - uses: actions/setup-node@v3
-      with:
-        node-version: 16
-    - run: npm install -g canopy-js
-      name: Install Canopy CLI
-    - env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      name: Build JSON changes
-      run: |
-        set -ex
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16
+      - run: npm install -g canopy-js
+        name: Install Canopy CLI
+      - env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        name: Build JSON changes
+        run: |
+          set -ex
 
-        rev=$(git rev-parse --short HEAD)
+          rev=$(git rev-parse --short HEAD)
 
-        canopy build
+          canopy build
+      - uses: actions/upload-artifact@v2
+        with:
+          name: build
+          path: build
 
   build_electron:
     needs: build_json
@@ -36,10 +40,12 @@ jobs:
     - uses: actions/checkout@v3
       with:
         repository: canopy-js/canopy-electron
-    - uses: actions/checkout@v3
     - uses: actions/setup-node@v3
       with:
         node-version: 16
+    - uses: actions/download-artifact@v2
+      with:
+        name: build
     - env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       name: Build and deploy JSON changes
