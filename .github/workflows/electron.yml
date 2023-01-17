@@ -40,8 +40,6 @@ jobs:
     - uses: actions/setup-node@v3
       with:
         node-version: 16
-    - run: npm install -g canopy-js
-      name: Install Canopy CLI
     - env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       name: Build and deploy JSON changes
