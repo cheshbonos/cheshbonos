@@ -285,8 +285,18 @@
     "type": "text"
    }
   ],
-  "The word איש": [],
-  "The prefix ה": [],
+  "The word איש": [
+   {
+    "text": "This is the noun \"man\".",
+    "type": "text"
+   }
+  ],
+  "The prefix ה": [
+   {
+    "text": "This is the word \"the\".",
+    "type": "text"
+   }
+  ],
   "The word מקדש": [
    {
     "text": "מקדש (\"mekadesh\") is the ",
@@ -329,8 +339,18 @@
     "type": "text"
    }
   ],
-  "The word בו": [],
-  "The word ובשלוחו": [],
+  "The word בו": [
+   {
+    "text": "This is the prefix ב with a third-person masculine conjugation.",
+    "type": "text"
+   }
+  ],
+  "The word ובשלוחו": [
+   {
+    "text": "This is the prefix ו, followed by the prefix ב, followed by the word שלוח, followed by the suffix ו.",
+    "type": "text"
+   }
+  ],
   "Literal translation of the first clause": [
    {
     "text": "Once we have identified which meanings to assign to the individual words, a literal translation might be: ",
@@ -558,10 +578,6 @@
   ],
   "Second clause": [
    {
-    "text": "The second clause reads: ",
-    "type": "text"
-   },
-   {
     "type": "block_quote",
     "tokens": [
      {
@@ -570,13 +586,85 @@
      }
     ],
     "direction": "ltr"
+   },
+   {
+    "text": "This is the second clause of the Mishnah. You can read about the ",
+    "type": "text"
+   },
+   {
+    "text": "words of the second clause",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "words of the second clause",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Words of the second clause",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Second clause"
+   },
+   {
+    "text": ", a ",
+    "type": "text"
+   },
+   {
+    "text": "literal translation of the second clause",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "literal translation of the second clause",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Literal translation of the second clause",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Second clause"
+   },
+   {
+    "text": ", and a ",
+    "type": "text"
+   },
+   {
+    "text": "pshat in the second clause",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "pshat in the second clause",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Pshat in the second clause",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Second clause"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Words of the second clause": [
+   {
+    "text": "This is a work in progress.",
+    "type": "text"
+   }
+  ],
+  "Literal translation of the second clause": [
+   {
+    "text": "This is a work in progress.",
+    "type": "text"
+   }
+  ],
+  "Pshat in the second clause": [
+   {
+    "text": "This is a work in progress.",
+    "type": "text"
    }
   ],
   "Third clause": [
-   {
-    "text": "The third clause reads: ",
-    "type": "text"
-   },
    {
     "type": "block_quote",
     "tokens": [
@@ -586,6 +674,82 @@
      }
     ],
     "direction": "rtl"
+   },
+   {
+    "text": "This is the third clause of the Mishnah. You can read about the ",
+    "type": "text"
+   },
+   {
+    "text": "words of the third clause",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "words of the third clause",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Words of the third clause",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Third clause"
+   },
+   {
+    "text": ", a ",
+    "type": "text"
+   },
+   {
+    "text": "literal translation of the third clause",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "literal translation of the third clause",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Literal translation of the third clause",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Third clause"
+   },
+   {
+    "text": ", and a ",
+    "type": "text"
+   },
+   {
+    "text": "pshat in the third clause",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "pshat in the third clause",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Pshat in the third clause",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Third clause"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Words of the third clause": [
+   {
+    "text": "This is a work in progress.",
+    "type": "text"
+   }
+  ],
+  "Literal translation of the third clause": [
+   {
+    "text": "This is a work in progress.",
+    "type": "text"
+   }
+  ],
+  "Pshat in the third clause": [
+   {
+    "text": "This is a work in progress.",
+    "type": "text"
    }
   ]
  }

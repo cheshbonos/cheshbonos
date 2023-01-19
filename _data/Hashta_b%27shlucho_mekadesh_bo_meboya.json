@@ -23,43 +23,7 @@
     "direction": "rtl"
    },
    {
-    "text": "This Gemara discusses the ",
-    "type": "text"
-   },
-   {
-    "text": "first clause",
-    "type": "import",
-    "tokens": [
-     {
-      "text": "first clause",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "First clause",
-    "targetTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
-    "enclosingSubtopic": "Hashta b'shlucho mekadesh bo meboya"
-   },
-   {
-    "text": " of ",
-    "type": "text"
-   },
-   {
-    "text": "the mishnah on Kiddushin 41a",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "the mishnah on Kiddushin 41a",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "The Mishnah on Kiddushin 41a",
-    "targetTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
-    "enclosingSubtopic": "Hashta b'shlucho mekadesh bo meboya"
-   },
-   {
-    "text": ". You can read the sugya's full text below, and learn the sugya's various ",
+    "text": "You can learn the sugya's various ",
     "type": "text"
    },
    {
@@ -95,7 +59,43 @@
     "enclosingSubtopic": "Hashta b'shlucho mekadesh bo meboya"
    },
    {
-    "text": ". \"Hashta b'shlucho mekadesh bo meboya\" is the first sugya in ",
+    "text": ". This Gemara discusses the ",
+    "type": "text"
+   },
+   {
+    "text": "first clause",
+    "type": "import",
+    "tokens": [
+     {
+      "text": "first clause",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "First clause",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingSubtopic": "Hashta b'shlucho mekadesh bo meboya"
+   },
+   {
+    "text": " of ",
+    "type": "text"
+   },
+   {
+    "text": "the mishnah on Kiddushin 41a",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "the mishnah on Kiddushin 41a",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "The Mishnah on Kiddushin 41a",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingSubtopic": "Hashta b'shlucho mekadesh bo meboya"
+   },
+   {
+    "text": ", and is the first sugya in ",
     "type": "text"
    },
    {
@@ -137,20 +137,7 @@
   ],
   "Parts": [
    {
-    "text": "The sugya of ",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "hashta b'shlucho mekadesh bo meboya",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " begins with an ",
+    "text": "The sugya of \"hashta b'shlucho mekadesh bo meboya\" begins with an ",
     "type": "text"
    },
    {
@@ -192,20 +179,7 @@
   ],
   "Opening kasha": [
    {
-    "text": "The sugya of ",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "hashta b'shlucho mekadesh bo meboya",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " begins with a opening kasha, quoted below. You can read about the ",
+    "text": "The sugya of \"hashta b'shlucho mekadesh bo meboya\" begins with an opening kasha, quoted below. You can read about the ",
     "type": "text"
    },
    {
@@ -387,10 +361,30 @@
     "type": "text"
    }
   ],
-  "The word \"b'shlucho\"": [],
-  "The word \"mekadesh\"": [],
-  "The word \"bo\"": [],
-  "The word \"meboya\"": [],
+  "The word \"b'shlucho\"": [
+   {
+    "text": "This is a work in progress.",
+    "type": "text"
+   }
+  ],
+  "The word \"mekadesh\"": [
+   {
+    "text": "This is a work in progress.",
+    "type": "text"
+   }
+  ],
+  "The word \"bo\"": [
+   {
+    "text": "This is a work in progress.",
+    "type": "text"
+   }
+  ],
+  "The word \"meboya\"": [
+   {
+    "text": "This is a work in progress.",
+    "type": "text"
+   }
+  ],
   "Literal translation of the opening kasha": [
    {
     "text": "Once we have identified which meanings to assign to the individual words, a literal (but unclear) translation of the opening kasha would be: ",
@@ -533,15 +527,15 @@
     "type": "text"
    },
    {
-    "text": "second lishna",
+    "text": "second lishna and discussion",
     "type": "local",
     "tokens": [
      {
-      "text": "second lishna",
+      "text": "second lishna and discussion",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Second lishna",
+    "targetSubtopic": "Second lishna and discussion",
     "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
     "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
     "enclosingSubtopic": "Two lishnas of the Gemara's terutz"
@@ -673,7 +667,7 @@
     "type": "text"
    }
   ],
-  "Second lishna": [
+  "Second lishna and discussion": [
    {
     "type": "block_quote",
     "tokens": [
@@ -685,13 +679,81 @@
     "direction": "rtl"
    },
    {
-    "text": "The second lishna goes from the phrase \"ika d'amri\" until the two dots that end the sugya, quoted below.",
+    "text": "The second lishna and discussion includes a ",
+    "type": "text"
+   },
+   {
+    "text": "second lishna",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "second lishna",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Second lishna",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingSubtopic": "Second lishna and discussion"
+   },
+   {
+    "text": " and the Gemara's ",
+    "type": "text"
+   },
+   {
+    "text": "discussion of the second lishna",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "discussion of the second lishna",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Discussion of the second lishna",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingSubtopic": "Second lishna and discussion"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Second lishna": [
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "איכא דאמרי בהא איסורא נמי אית בה\nכדרב יהודה אמר רב דאמר רב יהודה\nאמר רב אסור לאדם שיקדש את האשה\nעד שיראנה שמא יראה בה דבר מגונה\nותתגנה עליו ורחמנא אמר ואהבת לרעך\nכמוך",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   },
+   {
+    "text": "This is the Gemara's second lishna.",
+    "type": "text"
+   }
+  ],
+  "Discussion of the second lishna": [
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "וכי איתמר דרב יוסף אסיפא איתמר\nהאשה מתקדשת בה ובשלוחה השתא\nבשלוחה מיקדשא בה מיבעיא אמר רב יוסף\nמצוה בה יותר מבשלוחה כי הא דרב ספרא\nמחריך רישא רבא מלח שיבוטא אבל בהא\nאיסורא לית בה כדר״ל דאמר ר״ל טב\nלמיתב טן דו מלמיתב ארמלו",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   },
+   {
+    "text": "This is the Gemara's discussion of the second lishna, and is composed of several parts.",
     "type": "text"
    }
   ],
   "Summary": [
    {
-    "text": "This is the summary.",
+    "text": "This is a work in progress.",
     "type": "text"
    }
   ]
