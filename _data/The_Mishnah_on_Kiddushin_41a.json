@@ -1,35 +1,13 @@
 {
- "displayTopicName": "The mishnah on Kiddushin 41a",
+ "displayTopicName": "The Mishnah on Kiddushin 41a",
  "topicTokens": [
   {
-   "text": "The mishnah on Kiddushin 41a",
+   "text": "The Mishnah on Kiddushin 41a",
    "type": "text"
   }
  ],
  "paragraphsBySubtopic": {
-  "The mishnah on Kiddushin 41a": [
-   {
-    "text": "The mishnah on Kiddushin 41a, printed below, has ",
-    "type": "text"
-   },
-   {
-    "text": "three clauses",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "three clauses",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Three clauses",
-    "targetTopic": "The mishnah on Kiddushin 41a",
-    "enclosingTopic": "The mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "The mishnah on Kiddushin 41a"
-   },
-   {
-    "text": ". ",
-    "type": "text"
-   },
+  "The Mishnah on Kiddushin 41a": [
    {
     "type": "block_quote",
     "tokens": [
@@ -39,11 +17,9 @@
      }
     ],
     "direction": "rtl"
-   }
-  ],
-  "Three clauses": [
+   },
    {
-    "text": "The Mishnah on 41a has a ",
+    "text": "This is the Mishnah on Kiddushin 41a. It has a ",
     "type": "text"
    },
    {
@@ -56,9 +32,9 @@
      }
     ],
     "targetSubtopic": "First clause",
-    "targetTopic": "The mishnah on Kiddushin 41a",
-    "enclosingTopic": "The mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Three clauses"
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "The Mishnah on Kiddushin 41a"
    },
    {
     "text": ", a ",
@@ -74,9 +50,9 @@
      }
     ],
     "targetSubtopic": "Second clause",
-    "targetTopic": "The mishnah on Kiddushin 41a",
-    "enclosingTopic": "The mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Three clauses"
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "The Mishnah on Kiddushin 41a"
    },
    {
     "text": ", and a ",
@@ -92,9 +68,9 @@
      }
     ],
     "targetSubtopic": "Third clause",
-    "targetTopic": "The mishnah on Kiddushin 41a",
-    "enclosingTopic": "The mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Three clauses"
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "The Mishnah on Kiddushin 41a"
    },
    {
     "text": ".",
@@ -113,7 +89,7 @@
     "direction": "rtl"
    },
    {
-    "text": "This is the first clause of the Mishna. You can read about the ",
+    "text": "This is the first clause of the Mishnah. You can read about the ",
     "type": "text"
    },
    {
@@ -126,8 +102,8 @@
      }
     ],
     "targetSubtopic": "Words of the first clause",
-    "targetTopic": "The mishnah on Kiddushin 41a",
-    "enclosingTopic": "The mishnah on Kiddushin 41a",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
     "enclosingSubtopic": "First clause"
    },
    {
@@ -144,8 +120,8 @@
      }
     ],
     "targetSubtopic": "Literal translation of the first clause",
-    "targetTopic": "The mishnah on Kiddushin 41a",
-    "enclosingTopic": "The mishnah on Kiddushin 41a",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
     "enclosingSubtopic": "First clause"
    },
    {
@@ -162,8 +138,8 @@
      }
     ],
     "targetSubtopic": "Pshat in the first clause",
-    "targetTopic": "The mishnah on Kiddushin 41a",
-    "enclosingTopic": "The mishnah on Kiddushin 41a",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
     "enclosingSubtopic": "First clause"
    },
    {
@@ -181,7 +157,7 @@
     ],
     "targetSubtopic": "Hashta b'shlucho mekadesh bo meboya",
     "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
-    "enclosingTopic": "The mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
     "enclosingSubtopic": "First clause"
    },
    {
@@ -195,17 +171,17 @@
     "type": "text"
    },
    {
-    "text": "the word ha'ish",
+    "text": "the word האיש",
     "type": "local",
     "tokens": [
      {
-      "text": "the word ha'ish",
+      "text": "the word האיש",
       "type": "text"
      }
     ],
-    "targetSubtopic": "The word ha'ish",
-    "targetTopic": "The mishnah on Kiddushin 41a",
-    "enclosingTopic": "The mishnah on Kiddushin 41a",
+    "targetSubtopic": "The word האיש",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
     "enclosingSubtopic": "Words of the first clause"
    },
    {
@@ -213,17 +189,17 @@
     "type": "text"
    },
    {
-    "text": "the word mekadesh",
+    "text": "the word מקדש",
     "type": "local",
     "tokens": [
      {
-      "text": "the word mekadesh",
+      "text": "the word מקדש",
       "type": "text"
      }
     ],
-    "targetSubtopic": "The word mekadesh",
-    "targetTopic": "The mishnah on Kiddushin 41a",
-    "enclosingTopic": "The mishnah on Kiddushin 41a",
+    "targetSubtopic": "The word מקדש",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
     "enclosingSubtopic": "Words of the first clause"
    },
    {
@@ -231,17 +207,17 @@
     "type": "text"
    },
    {
-    "text": "the word bo",
+    "text": "the word בו",
     "type": "local",
     "tokens": [
      {
-      "text": "the word bo",
+      "text": "the word בו",
       "type": "text"
      }
     ],
-    "targetSubtopic": "The word bo",
-    "targetTopic": "The mishnah on Kiddushin 41a",
-    "enclosingTopic": "The mishnah on Kiddushin 41a",
+    "targetSubtopic": "The word בו",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
     "enclosingSubtopic": "Words of the first clause"
    },
    {
@@ -249,17 +225,17 @@
     "type": "text"
    },
    {
-    "text": "the word u'b'shlucho",
+    "text": "the word ובשלוחו",
     "type": "local",
     "tokens": [
      {
-      "text": "the word u'b'shlucho",
+      "text": "the word ובשלוחו",
       "type": "text"
      }
     ],
-    "targetSubtopic": "The word u'b'shlucho",
-    "targetTopic": "The mishnah on Kiddushin 41a",
-    "enclosingTopic": "The mishnah on Kiddushin 41a",
+    "targetSubtopic": "The word ובשלוחו",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
     "enclosingSubtopic": "Words of the first clause"
    },
    {
@@ -267,53 +243,53 @@
     "type": "text"
    }
   ],
-  "The word ha'ish": [
+  "The word האיש": [
    {
-    "text": "The word ha'ish (האיש) is composed of ",
+    "text": "The word האיש is composed of ",
     "type": "text"
    },
    {
-    "text": "the word ish",
+    "text": "the word איש",
     "type": "local",
     "tokens": [
      {
-      "text": "the word ish",
+      "text": "the word איש",
       "type": "text"
      }
     ],
-    "targetSubtopic": "The word ish",
-    "targetTopic": "The mishnah on Kiddushin 41a",
-    "enclosingTopic": "The mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "The word ha'ish"
+    "targetSubtopic": "The word איש",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "The word האיש"
    },
    {
     "text": " and ",
     "type": "text"
    },
    {
-    "text": "the prefix hay",
+    "text": "the prefix ה",
     "type": "local",
     "tokens": [
      {
-      "text": "the prefix hay",
+      "text": "the prefix ה",
       "type": "text"
      }
     ],
-    "targetSubtopic": "The prefix hay",
-    "targetTopic": "The mishnah on Kiddushin 41a",
-    "enclosingTopic": "The mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "The word ha'ish"
+    "targetSubtopic": "The prefix ה",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "The word האיש"
    },
    {
     "text": ".",
     "type": "text"
    }
   ],
-  "The word ish": [],
-  "The prefix hay": [],
-  "The word mekadesh": [
+  "The word איש": [],
+  "The prefix ה": [],
+  "The word מקדש": [
    {
-    "text": "\"Mekadesh\" (מקדש) is the ",
+    "text": "מקדש (\"mekadesh\") is the ",
     "type": "text"
    },
    {
@@ -327,8 +303,8 @@
     ],
     "targetSubtopic": "Hebrew masculine singular participial",
     "targetTopic": "The shoresh קדש",
-    "enclosingTopic": "The mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "The word mekadesh"
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "The word מקדש"
    },
    {
     "text": " of ",
@@ -345,16 +321,16 @@
     ],
     "targetSubtopic": "The shoresh קדש",
     "targetTopic": "The shoresh קדש",
-    "enclosingTopic": "The mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "The word mekadesh"
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "The word מקדש"
    },
    {
     "text": ".",
     "type": "text"
    }
   ],
-  "The word bo": [],
-  "The word u'b'shlucho": [],
+  "The word בו": [],
+  "The word ובשלוחו": [],
   "Literal translation of the first clause": [
    {
     "text": "Once we have identified which meanings to assign to the individual words, a literal translation might be: ",
@@ -384,8 +360,8 @@
      }
     ],
     "targetSubtopic": "What does \"being mekadesh\" mean here?",
-    "targetTopic": "The mishnah on Kiddushin 41a",
-    "enclosingTopic": "The mishnah on Kiddushin 41a",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
     "enclosingSubtopic": "Literal translation of the first clause"
    },
    {
@@ -393,17 +369,17 @@
     "type": "text"
    },
    {
-    "text": "Why does ha'ish have a hay ha'yedia?",
+    "text": "Why does האיש begin with ה?",
     "type": "local",
     "tokens": [
      {
-      "text": "Why does ha'ish have a hay ha'yedia?",
+      "text": "Why does האיש begin with ה?",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Why does ha'ish have a hay ha'yedia?",
-    "targetTopic": "The mishnah on Kiddushin 41a",
-    "enclosingTopic": "The mishnah on Kiddushin 41a",
+    "targetSubtopic": "Why does האיש begin with ה?",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
     "enclosingSubtopic": "Literal translation of the first clause"
    }
   ],
@@ -426,45 +402,45 @@
     "type": "text"
    }
   ],
-  "Why does ha'ish have a hay ha'yedia?": [
+  "Why does האיש begin with ה?": [
    {
-    "text": "It seems as if the Mishnah should not be using a hay ha'yedia",
+    "text": "It seems as if the Mishnah should not be using a ה-prefix",
     "type": "local",
     "tokens": [
      {
-      "text": "It seems as if the Mishnah should not be using a hay ha'yedia",
+      "text": "It seems as if the Mishnah should not be using a ה-prefix",
       "type": "text"
      }
     ],
-    "targetSubtopic": "It seems as if the Mishnah should not be using a hay ha'yedia",
-    "targetTopic": "The mishnah on Kiddushin 41a",
-    "enclosingTopic": "The mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Why does ha'ish have a hay ha'yedia?"
+    "targetSubtopic": "It seems as if the Mishnah should not be using a ה-prefix",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Why does האיש begin with ה?"
    },
    {
     "text": ", but ",
     "type": "text"
    },
    {
-    "text": "perhaps the Mishnah uses the hay ha'yedia because of the Mishnah it is following",
+    "text": "perhaps the Mishnah uses a ה-prefix because of the Mishnah it is following",
     "type": "local",
     "tokens": [
      {
-      "text": "perhaps the Mishnah uses the hay ha'yedia because of the Mishnah it is following",
+      "text": "perhaps the Mishnah uses a ה-prefix because of the Mishnah it is following",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Perhaps the Mishnah uses the hay ha'yedia because of the Mishnah it is following",
-    "targetTopic": "The mishnah on Kiddushin 41a",
-    "enclosingTopic": "The mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Why does ha'ish have a hay ha'yedia?"
+    "targetSubtopic": "Perhaps the Mishnah uses a ה-prefix because of the Mishnah it is following",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Why does האיש begin with ה?"
    },
    {
     "text": ".",
     "type": "text"
    }
   ],
-  "It seems as if the Mishnah should not be using a hay ha'yedia": [
+  "It seems as if the Mishnah should not be using a ה-prefix": [
    {
     "text": "If the Mishnah wanted to say \"any man can be mekadesh an isha using these methods,\" why did it say \"",
     "type": "text"
@@ -506,8 +482,8 @@
     ],
     "targetSubtopic": "Hebrew nouns",
     "targetTopic": "Hebrew nouns",
-    "enclosingTopic": "The mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "It seems as if the Mishnah should not be using a hay ha'yedia"
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "It seems as if the Mishnah should not be using a ה-prefix"
    },
    {
     "text": " ",
@@ -524,15 +500,15 @@
     ],
     "targetSubtopic": "By default have an indefinite article",
     "targetTopic": "Hebrew nouns",
-    "enclosingTopic": "The mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "It seems as if the Mishnah should not be using a hay ha'yedia"
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "It seems as if the Mishnah should not be using a ה-prefix"
    },
    {
     "text": ".)",
     "type": "text"
    }
   ],
-  "Perhaps the Mishnah uses the hay ha'yedia because of the Mishnah it is following": [
+  "Perhaps the Mishnah uses a ה-prefix because of the Mishnah it is following": [
    {
     "text": "Perhaps we can say that this Mishnah is following the first Mishnah of the masechta, which spoke about ways \"the woman\" is niknas, and so maybe the \"the\" in \"the woman\" and the \"the\" in \"the man\" are being used to exclude one another - \"",
     "type": "text"

@@ -9,52 +9,21 @@
  "paragraphsBySubtopic": {
   "Hashta b'shlucho mekadesh bo meboya": [
    {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "Hashta b'shlucho mekadesh bo meboya",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " is the first sugya in ",
+    "text": "The full text of the sugya \"Hashta b'shlucho mekadesh bo meboya\" reads: ",
     "type": "text"
    },
    {
-    "text": "Perek Ha'ish Mekadesh",
-    "type": "global",
+    "type": "block_quote",
     "tokens": [
      {
-      "text": "Perek Ha'ish Mekadesh",
+      "text": "גמ' השתא בשלוחו מקדש בו מיבעיא אמר\nרב יוסף מצוה בו יותר מבשלוחו כי הא דרב\nספרא מחריך רישא רבא מלח שיבוטא\nאיכא דאמרי בהא איסורא נמי אית בה\nכדרב יהודה אמר רב דאמר רב יהודה\nאמר רב אסור לאדם שיקדש את האשה\nעד שיראנה שמא יראה בה דבר מגונה\nותתגנה עליו ורחמנא אמר ואהבת לרעך\nכמוך וכי איתמר דרב יוסף אסיפא איתמר\nהאשה מתקדשת בה ובשלוחה השתא\nבשלוחה מיקדשא בה מיבעיא אמר רב יוסף\nמצוה בה יותר מבשלוחה כי הא דרב ספרא\nמחריך רישא רבא מלח שיבוטא אבל בהא\nאיסורא לית בה כדר״ל דאמר ר״ל טב\nלמיתב טן דו מלמיתב ארמלו",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Perek Ha'ish Mekadesh",
-    "targetTopic": "Perek Ha'ish Mekadesh",
-    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
-    "enclosingSubtopic": "Hashta b'shlucho mekadesh bo meboya"
+    "direction": "rtl"
    },
    {
-    "text": " appearing on ",
-    "type": "text"
-   },
-   {
-    "text": "Kiddushin 41a",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "Kiddushin 41a",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Kiddushin 41a",
-    "targetTopic": "Kiddushin 41a",
-    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
-    "enclosingSubtopic": "Hashta b'shlucho mekadesh bo meboya"
-   },
-   {
-    "text": ". It discusses the ",
+    "text": "This Gemara discusses the ",
     "type": "text"
    },
    {
@@ -67,7 +36,7 @@
      }
     ],
     "targetSubtopic": "First clause",
-    "targetTopic": "The mishnah on Kiddushin 41a",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
     "enclosingSubtopic": "Hashta b'shlucho mekadesh bo meboya"
    },
@@ -84,8 +53,8 @@
       "type": "text"
      }
     ],
-    "targetSubtopic": "The mishnah on Kiddushin 41a",
-    "targetTopic": "The mishnah on Kiddushin 41a",
+    "targetSubtopic": "The Mishnah on Kiddushin 41a",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
     "enclosingSubtopic": "Hashta b'shlucho mekadesh bo meboya"
    },
@@ -126,18 +95,44 @@
     "enclosingSubtopic": "Hashta b'shlucho mekadesh bo meboya"
    },
    {
-    "text": ". ",
+    "text": ". \"Hashta b'shlucho mekadesh bo meboya\" is the first sugya in ",
     "type": "text"
    },
    {
-    "type": "block_quote",
+    "text": "Perek Ha'ish Mekadesh",
+    "type": "global",
     "tokens": [
      {
-      "text": "גמ' השתא בשלוחו מקדש בו מיבעיא אמר\nרב יוסף מצוה בו יותר מבשלוחו כי הא דרב\nספרא מחריך רישא רבא מלח שיבוטא\nאיכא דאמרי בהא איסורא נמי אית בה\nכדרב יהודה אמר רב דאמר רב יהודה\nאמר רב אסור לאדם שיקדש את האשה\nעד שיראנה שמא יראה בה דבר מגונה\nותתגנה עליו ורחמנא אמר ואהבת לרעך\nכמוך וכי איתמר דרב יוסף אסיפא איתמר\nהאשה מתקדשת בה ובשלוחה השתא\nבשלוחה מיקדשא בה מיבעיא אמר רב יוסף\nמצוה בה יותר מבשלוחה כי הא דרב ספרא\nמחריך רישא רבא מלח שיבוטא אבל בהא\nאיסורא לית בה כדר״ל דאמר ר״ל טב\nלמיתב טן דו מלמיתב ארמלו",
+      "text": "Perek Ha'ish Mekadesh",
       "type": "text"
      }
     ],
-    "direction": "rtl"
+    "targetSubtopic": "Perek Ha'ish Mekadesh",
+    "targetTopic": "Perek Ha'ish Mekadesh",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingSubtopic": "Hashta b'shlucho mekadesh bo meboya"
+   },
+   {
+    "text": " appearing on ",
+    "type": "text"
+   },
+   {
+    "text": "Kiddushin 41a",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Kiddushin 41a",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Kiddushin 41a",
+    "targetTopic": "Kiddushin 41a",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingSubtopic": "Hashta b'shlucho mekadesh bo meboya"
+   },
+   {
+    "text": ".",
+    "type": "text"
    }
   ],
   "Parts": [
@@ -576,6 +571,16 @@
   ],
   "First lishna": [
    {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "[גמ' השתא בשלוחו מקדש בו מיבעיא] אמר\nרב יוסף מצוה בו יותר מבשלוחו כי הא דרב\nספרא מחריך רישא רבא מלח שיבוטא",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   },
+   {
     "text": "The first lishna is an answer to the Gemara's kasha, quoted below. The first lishna is composed of the ",
     "type": "text"
    },
@@ -612,25 +617,11 @@
     "enclosingSubtopic": "First lishna"
    },
    {
-    "text": ". ",
+    "text": ".",
     "type": "text"
-   },
-   {
-    "type": "block_quote",
-    "tokens": [
-     {
-      "text": "[גמ' השתא בשלוחו מקדש בו מיבעיא] אמר\nרב יוסף מצוה בו יותר מבשלוחו כי הא דרב\nספרא מחריך רישא רבא מלח שיבוטא",
-      "type": "text"
-     }
-    ],
-    "direction": "rtl"
    }
   ],
   "Amira of R Yosef": [
-   {
-    "text": "The amira of R Yosef follows the Gemara's kasha and is the first portion of the first lishna, quoted below. ",
-    "type": "text"
-   },
    {
     "type": "block_quote",
     "tokens": [
@@ -640,9 +631,23 @@
      }
     ],
     "direction": "rtl"
+   },
+   {
+    "text": "The amira of R Yosef follows the Gemara's kasha and is the first portion of the first lishna, quoted below.",
+    "type": "text"
    }
   ],
   "Ha d'Rav Safra": [
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "כי הא דרב [רב יוסף מצוה בו יותר מבשלוחו]\nספרא מחריך רישא רבא מלח שיבוטא",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   },
    {
     "text": "The section \"ha d'Rav Safra\" follows the amira of R Yosef, quoted below. You can read about the ",
     "type": "text"
@@ -660,20 +665,6 @@
     "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
     "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
     "enclosingSubtopic": "Ha d'Rav Safra"
-   },
-   {
-    "text": " ",
-    "type": "text"
-   },
-   {
-    "type": "block_quote",
-    "tokens": [
-     {
-      "text": "כי הא דרב [רב יוסף מצוה בו יותר מבשלוחו]\nספרא מחריך רישא רבא מלח שיבוטא",
-      "type": "text"
-     }
-    ],
-    "direction": "rtl"
    }
   ],
   "Words of ha d'Rav Safra": [
@@ -684,10 +675,6 @@
   ],
   "Second lishna": [
    {
-    "text": "The second lishna goes from the phrase \"ika d'amri\" until the two dots that end the sugya, quoted below. ",
-    "type": "text"
-   },
-   {
     "type": "block_quote",
     "tokens": [
      {
@@ -696,6 +683,10 @@
      }
     ],
     "direction": "rtl"
+   },
+   {
+    "text": "The second lishna goes from the phrase \"ika d'amri\" until the two dots that end the sugya, quoted below.",
+    "type": "text"
    }
   ],
   "Summary": [
