@@ -16,6 +16,7 @@ jobs:
     - name: Build and deploy JSON changes
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_OWNER_AND_REPO: ${{ github.repository }}
       run: |
         set -ex
 
@@ -25,7 +26,7 @@ jobs:
         TOPICS_CHANGES=$(git status --porcelain | grep "topics/")
         AUTHOR_NAME=\"$(git log --pretty=format:"%an" -1)\"
         AUTHOR_EMAIL=\"$(git log --pretty=format:"%ae" -1)\"
-        OWNER=$(echo $GITHUB_REPO | cut -d/ -f1)
+        OWNER=$(echo $GITHUB_OWNER_AND_REPO | cut -d/ -f1)
 
         if [[ ! -z $TOPICS_CHANGES ]]; then
           canopy build
@@ -35,7 +36,7 @@ jobs:
           git config --global user.name "$AUTHOR_NAME"
           git config --global user.email "$AUTHOR_EMAIL"
 
-          git remote add origin "https://$OWNER:${GITHUB_TOKEN}@github.com/$GITHUB_REPO.git"
+          git remote add origin "https://$OWNER:${GITHUB_TOKEN}@github.com/$GITHUB_OWNER_AND_REPO.git"
           git fetch origin
           build_branch_exists="$(git ls-remote --heads origin build)"
           if [[ ! -z $build_branch_exists ]]; then
