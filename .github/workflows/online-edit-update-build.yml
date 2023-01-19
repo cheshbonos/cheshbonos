@@ -23,7 +23,7 @@ jobs:
         TOPICS_CHANGES=$(git status --porcelain | grep "topics/")
         AUTHOR_NAME=\"$(git log --pretty=format:"%an" -1)\"
         AUTHOR_EMAIL=\"$(git log --pretty=format:"%ae" -1)\"
-        OWNER=$(cat $GITHUB_REPO | cut -d/ -f1)
+        OWNER=$(echo $GITHUB_REPO | cut -d/ -f1)
 
         if [[ ! -z $TOPICS_CHANGES ]]; then
           canopy build
