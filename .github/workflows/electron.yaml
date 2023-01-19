@@ -103,7 +103,7 @@ jobs:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
           automatic_release_tag: "latest"
           prerelease: true
-          title: "Binaries Release"
+          title: "Binary Release"
           files: |
             deb
             squirrel.windows
