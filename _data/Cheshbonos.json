@@ -78,6 +78,21 @@
     "enclosingSubtopic": "Cheshbonos"
    },
    {
+    "text": ". Cheshbonos can be downloaded for offline use ",
+    "type": "text"
+   },
+   {
+    "type": "url",
+    "url": "https://github.com/cheshbonos/cheshbonos/releases/tag/latest",
+    "text": "here",
+    "tokens": [
+     {
+      "text": "here",
+      "type": "text"
+     }
+    ]
+   },
+   {
     "text": ". Cheshbonos is built using ",
     "type": "text"
    },
