@@ -17,6 +17,8 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
+        set -ex
+
         canopy bulk --finish -n canopy_bulk_file
 
         rev=$(git rev-parse --short HEAD)

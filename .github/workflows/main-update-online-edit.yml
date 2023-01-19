@@ -25,7 +25,7 @@ jobs:
         AUTHOR_EMAIL=\"$(git log --pretty=format:"%ae" -1)\"
 
         if [[ "$GITHUB_REF_NAME" == "main" ]]; then
-          canopy bulk --start -n canopy_bulk_file
+          canopy bulk --start -n EDIT_ME
           git config --global user.name "$AUTHOR_NAME"
           git config --global user.email "$AUTHOR_EMAIL"
 
@@ -36,10 +36,10 @@ jobs:
           fi
           rm .gitignore
           git add topics
-          git add canopy_bulk_file
+          git add EDIT_ME
           git add .canopy_bulk_original_selection
           git add .github
-          echo "# Edit the \`canopy_bulk_file\` file in order to make changes to the project #" > README.md
+          echo "# Edit the \`EDIT_ME\` file in order to make changes to the project #" > README.md
           git add README.md
           git status
           git commit -m "Rebuilt bulk file at ${rev}" --allow-empty

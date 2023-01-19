@@ -31,8 +31,8 @@ jobs:
         # and so after each bulk file edit we have to update the selection dotfile, like in sync mode,
         # so that additional changes to the file are interpreted by contrast to the most recent verison of the file.
 
-        canopy bulk --finish -n canopy_bulk_file
-        canopy bulk --start -n canopy_bulk_file
+        canopy bulk --finish -n EDIT_ME
+        canopy bulk --start -n EDIT_ME
 
         git config user.name "$AUTHOR_NAME"
         git config user.email "$AUTHOR_EMAIL"
@@ -40,7 +40,7 @@ jobs:
         git fetch origin
         git checkout origin/main -- README.md
         git add .canopy_bulk_original_selection
-        git add canopy_bulk_file
+        git add EDIT_ME
         git status
         git commit -m "Update selection from online-edit ${rev}" --allow-empty
         git push -q origin HEAD:online-edit
