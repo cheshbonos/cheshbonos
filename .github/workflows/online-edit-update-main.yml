@@ -29,14 +29,15 @@ jobs:
           AUTHOR_NAME=\"$(git log --pretty=format:"%an" -1)\"
           AUTHOR_EMAIL=\"$(git log --pretty=format:"%ae" -1)\"
           COMMIT_MESSAGE="$(git log --format=%B -n 1)"
+          git config user.name "$AUTHOR_NAME"
+          git config user.email "$AUTHOR_EMAIL"
+
           git fetch origin
           git reset origin/main
           git checkout origin/main -- README.md
           git add -A
           git status
 
-          git config user.name "$AUTHOR_NAME"
-          git config user.email "$AUTHOR_EMAIL"
           NL=$'\n'
           git commit -m "$COMMIT_MESSAGE$NL$NL(Rebuilding topics on main from online-edit at $rev)"
           git push -q origin HEAD:main

@@ -32,8 +32,11 @@ jobs:
         canopy bulk --finish
         canopy bulk --start
 
-        git config user.name "Cheshbonos User"
-        git config user.email "105236136+cheshbonos@users.noreply.github.com"
+        AUTHOR_NAME=\"$(git log --pretty=format:"%an" -1)\"
+        AUTHOR_EMAIL=\"$(git log --pretty=format:"%ae" -1)\"
+        git config user.name "$AUTHOR_NAME"
+        git config user.email "$AUTHOR_EMAIL"
+
         git fetch origin
         git checkout origin/main -- README.md
         git add .canopy_bulk_original_selection

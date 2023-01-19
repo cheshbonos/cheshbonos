@@ -16,6 +16,7 @@ jobs:
       name: Install Canopy CLI
     - env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_REPO: ${{ github.repository }}
       name: Build and deploy JSON changes
       run: |
         set -ex
@@ -25,12 +26,15 @@ jobs:
         canopy build
         cd build
 
-        cat ../.github/workflows/google_analytics_tag.txt >> index.html
-
         git init
-        git config user.name "Cheshbonos User"
-        git config user.email "105236136+cheshbonos@users.noreply.github.com"
-        git remote add origin "https://cheshbonos:${GITHUB_TOKEN}@github.com/cheshbonos/cheshbonos.git"
+
+        AUTHOR_NAME=\"$(git log --pretty=format:"%an" -1)\"
+        AUTHOR_EMAIL=\"$(git log --pretty=format:"%ae" -1)\"
+        git config --global user.name "$AUTHOR_NAME"
+        git config --global user.email "$AUTHOR_EMAIL"
+        OWNER=$(cat $GITHUB_REPO | cut -d/ -f1)
+
+        git remote add origin "https://$OWNER:${GITHUB_TOKEN}@github.com/$GITHUB_REPO.git"
         git fetch origin
         build_branch_exists="$(git ls-remote --heads origin build)"
         if [[ ! -z $build_branch_exists ]]; then
