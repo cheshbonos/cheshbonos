@@ -27,25 +27,7 @@
     "enclosingSubtopic": "Cheshbonos"
    },
    {
-    "text": ". You can ",
-    "type": "text"
-   },
-   {
-    "text": "navigate by mouse and arrow keys",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "navigate by mouse and arrow keys",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Navigate by mouse and arrow keys",
-    "targetTopic": "Cheshbonos",
-    "enclosingTopic": "Cheshbonos",
-    "enclosingSubtopic": "Cheshbonos"
-   },
-   {
-    "text": ". Cheshbonos is published with various ",
+    "text": ". You can navigate by using the mouse or arrow keys. Cheshbonos is published with various ",
     "type": "text"
    },
    {
@@ -112,12 +94,6 @@
    },
    {
     "text": ".",
-    "type": "text"
-   }
-  ],
-  "Navigate by mouse and arrow keys": [
-   {
-    "text": "You can navigate Cheshbonos clicking (and option/alt clicking), or by using the arrow and return keys. Additionally, the  \"z\" key zooms onto the current local selection, the \"d\" key duplicates the current tab, \"shift-up\" goes to the previous topic, and \"tab\" iterates through the paragraphs of a topic.",
     "type": "text"
    }
   ],
