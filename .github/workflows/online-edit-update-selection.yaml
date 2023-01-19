@@ -21,6 +21,8 @@ jobs:
         set -ex
 
         rev=$(git rev-parse --short HEAD)
+        AUTHOR_NAME=\"$(git log --pretty=format:"%an" -1)\"
+        AUTHOR_EMAIL=\"$(git log --pretty=format:"%ae" -1)\"
 
         # In theory the user should be able to keep editing the bulk file and each time
         # have it build the topics files on main from it, but if the user makes a new file
@@ -29,11 +31,9 @@ jobs:
         # and so after each bulk file edit we have to update the selection dotfile, like in sync mode,
         # so that additional changes to the file are interpreted by contrast to the most recent verison of the file.
 
-        canopy bulk --finish
-        canopy bulk --start
+        canopy bulk --finish -n canopy_bulk_file
+        canopy bulk --start -n canopy_bulk_file
 
-        AUTHOR_NAME=\"$(git log --pretty=format:"%an" -1)\"
-        AUTHOR_EMAIL=\"$(git log --pretty=format:"%ae" -1)\"
         git config user.name "$AUTHOR_NAME"
         git config user.email "$AUTHOR_EMAIL"
 

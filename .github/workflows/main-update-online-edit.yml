@@ -21,11 +21,11 @@ jobs:
         set -ex
 
         rev=$(git rev-parse --short HEAD)
+        AUTHOR_NAME=\"$(git log --pretty=format:"%an" -1)\"
+        AUTHOR_EMAIL=\"$(git log --pretty=format:"%ae" -1)\"
 
         if [[ "$GITHUB_REF_NAME" == "main" ]]; then
           canopy bulk --start -n canopy_bulk_file
-          AUTHOR_NAME=\"$(git log --pretty=format:"%an" -1)\"
-          AUTHOR_EMAIL=\"$(git log --pretty=format:"%ae" -1)\"
           git config --global user.name "$AUTHOR_NAME"
           git config --global user.email "$AUTHOR_EMAIL"
 

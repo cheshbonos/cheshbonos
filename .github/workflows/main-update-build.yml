@@ -22,17 +22,16 @@ jobs:
         set -ex
 
         rev=$(git rev-parse --short HEAD)
+        AUTHOR_NAME=\"$(git log --pretty=format:"%an" -1)\"
+        AUTHOR_EMAIL=\"$(git log --pretty=format:"%ae" -1)\"
+        OWNER=$(cat $GITHUB_REPO | cut -d/ -f1)
 
         canopy build
         cd build
 
         git init
-
-        AUTHOR_NAME=\"$(git log --pretty=format:"%an" -1)\"
-        AUTHOR_EMAIL=\"$(git log --pretty=format:"%ae" -1)\"
         git config --global user.name "$AUTHOR_NAME"
         git config --global user.email "$AUTHOR_EMAIL"
-        OWNER=$(cat $GITHUB_REPO | cut -d/ -f1)
 
         git remote add origin "https://$OWNER:${GITHUB_TOKEN}@github.com/$GITHUB_REPO.git"
         git fetch origin
