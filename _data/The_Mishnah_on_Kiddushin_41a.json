@@ -147,22 +147,18 @@
     "type": "text"
    },
    {
-    "text": "hashta b'shlucho mekadesh bo meboya",
+    "text": "\"hashta b'shlucho mekadesh.\"",
     "type": "global",
     "tokens": [
      {
-      "text": "hashta b'shlucho mekadesh bo meboya",
+      "text": "\"hashta b'shlucho mekadesh.\"",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Hashta b'shlucho mekadesh bo meboya",
-    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "targetSubtopic": "\"Hashta b'shlucho mekadesh\"",
+    "targetTopic": "\"Hashta b'shlucho mekadesh\"",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
     "enclosingSubtopic": "First clause"
-   },
-   {
-    "text": ".",
-    "type": "text"
    }
   ],
   "Words of the first clause": [

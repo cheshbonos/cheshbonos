@@ -9,7 +9,7 @@
  "paragraphsBySubtopic": {
   "Cheshbonos": [
    {
-    "text": "This is a beta version of Cheshbonos, a tool for improving Gemara skills. At the moment Cheshbonos offers help in learning ",
+    "text": "This is a beta version of Cheshbonos, a tool for improving Gemara skills. You can navigate by using the mouse or arrow keys. At the moment Cheshbonos offers help in learning ",
     "type": "text"
    },
    {
@@ -27,7 +27,7 @@
     "enclosingSubtopic": "Cheshbonos"
    },
    {
-    "text": ". You can navigate by using the mouse or arrow keys. Cheshbonos is published with various ",
+    "text": ". Cheshbonos is published with various ",
     "type": "text"
    },
    {
@@ -153,7 +153,7 @@
    },
    {
     "type": "html_element",
-    "html": "<script>\nsetTimeout(() => {\n  if (document.getElementById('email_updates').innerText === '') {\n    document.getElementById('email_updates_offline').innerText = 'Sorry, this feature is only available online.'\n  }\n}, 1000);\n</script>"
+    "html": "<script>\nsetTimeout(() => {\n  if (document.getElementById('email_updates').innerText === '') {\n    document.getElementById('email_updates_offline').innerText = 'Sorry, this feature is only available online.'\n  }}, 1000);\n</script>"
    }
   ]
  }
