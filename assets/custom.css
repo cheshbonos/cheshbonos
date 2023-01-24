@@ -1,0 +1,46 @@
+@font-face {
+    font-family: 'Taamey David CLM';
+    src: url('TaameyDavidCLM/TaameyDavidCLM-MediumOblique.woff2') format('woff2'),
+        url('TaameyDavidCLM/TaameyDavidCLM-MediumOblique.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: block;
+    unicode-range:  U+0590-05FF, U+FB1D-FB4F;
+}
+
+@font-face {
+    font-family: 'Taamey David CLM';
+    src: url('TaameyDavidCLM/TaameyDavidCLM-Medium.woff2') format('woff2'),
+        url('TaameyDavidCLM/TaameyDavidCLM-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: block;
+    unicode-range:  U+0590-05FF, U+FB1D-FB4F;
+}
+
+@font-face {
+    font-family: 'Taamey David CLM';
+    src: url('TaameyDavidCLM/TaameyDavidCLM-Bold.woff2') format('woff2'),
+        url('TaameyDavidCLM/TaameyDavidCLM-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: block;
+    unicode-range:  U+0590-05FF, U+FB1D-FB4F;
+}
+
+@font-face {
+    font-family: 'Taamey David CLM';
+    src: url('TaameyDavidCLM/TaameyDavidCLM-BoldOblique.woff2') format('woff2'),
+        url('TaameyDavidCLM/TaameyDavidCLM-BoldOblique.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: block;
+    unicode-range:  U+0590-05FF, U+FB1D-FB4F;
+}
+
+
+
+#_canopy section p {
+    font-family: 'Taamey David CLM', Times, Serif;
+}
+
