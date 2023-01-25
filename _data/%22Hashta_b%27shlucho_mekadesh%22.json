@@ -141,33 +141,33 @@
     "type": "text"
    },
    {
-    "text": "hashta b'shlucho mekadesh bo meboya",
+    "text": "השתא בשלוחו מקדש בו מיבעיא",
     "type": "local",
     "tokens": [
      {
-      "text": "hashta b'shlucho mekadesh bo meboya",
+      "text": "השתא בשלוחו מקדש בו מיבעיא",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Hashta b'shlucho mekadesh bo meboya",
+    "targetSubtopic": "השתא בשלוחו מקדש בו מיבעיא",
     "targetTopic": "\"Hashta b'shlucho mekadesh\"",
     "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
     "enclosingSubtopic": "Parts"
    },
    {
-    "text": ", and is followed by the section ",
+    "text": ", and is followed by the section beginning ",
     "type": "text"
    },
    {
-    "text": "amar R Yosef",
+    "text": "אמר ר' יוסף",
     "type": "local",
     "tokens": [
      {
-      "text": "amar R Yosef",
+      "text": "אמר ר' יוסף",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Amar R Yosef",
+    "targetSubtopic": "אמר ר' יוסף",
     "targetTopic": "\"Hashta b'shlucho mekadesh\"",
     "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
     "enclosingSubtopic": "Parts"
@@ -249,25 +249,12 @@
     "type": "text"
    }
   ],
-  "Hashta b'shlucho mekadesh bo meboya": [
+  "השתא בשלוחו מקדש בו מיבעיא": [
    {
     "type": "block_quote",
     "tokens": [
      {
-      "text": "גמ' ",
-      "type": "text"
-     },
-     {
-      "type": "bold",
-      "tokens": [
-       {
-        "text": "השתא בשלוחו מקדש בו מיבעיא",
-        "type": "text"
-       }
-      ]
-     },
-     {
-      "text": " אמר",
+      "text": "גמ' השתא בשלוחו מקדש בו מיבעיא",
       "type": "text"
      }
     ],
@@ -289,7 +276,7 @@
     "targetSubtopic": "How to know the sentence השתא בשלוחו מקדש בו מיבעיא ends here",
     "targetTopic": "\"Hashta b'shlucho mekadesh\"",
     "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
-    "enclosingSubtopic": "Hashta b'shlucho mekadesh bo meboya"
+    "enclosingSubtopic": "השתא בשלוחו מקדש בו מיבעיא"
    },
    {
     "text": ". You can review ",
@@ -307,7 +294,7 @@
     "targetSubtopic": "Where we're holding before השתא בשלוחו מקדש בו מיבעיא",
     "targetTopic": "\"Hashta b'shlucho mekadesh\"",
     "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
-    "enclosingSubtopic": "Hashta b'shlucho mekadesh bo meboya"
+    "enclosingSubtopic": "השתא בשלוחו מקדש בו מיבעיא"
    },
    {
     "text": ", and learn ",
@@ -325,7 +312,7 @@
     "targetSubtopic": "Background information that might be necessary to understand the Gemara's next step",
     "targetTopic": "\"Hashta b'shlucho mekadesh\"",
     "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
-    "enclosingSubtopic": "Hashta b'shlucho mekadesh bo meboya"
+    "enclosingSubtopic": "השתא בשלוחו מקדש בו מיבעיא"
    },
    {
     "text": ", so that we can ",
@@ -343,7 +330,7 @@
     "targetSubtopic": "Speculate about what sort of thing the Gemara might be doing with השתא בשלוחו מקדש בו מיבעיא",
     "targetTopic": "\"Hashta b'shlucho mekadesh\"",
     "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
-    "enclosingSubtopic": "Hashta b'shlucho mekadesh bo meboya"
+    "enclosingSubtopic": "השתא בשלוחו מקדש בו מיבעיא"
    },
    {
     "text": ". You can read about the ",
@@ -361,7 +348,7 @@
     "targetSubtopic": "Words of \"hashta b'shlucho mekadesh\"",
     "targetTopic": "\"Hashta b'shlucho mekadesh\"",
     "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
-    "enclosingSubtopic": "Hashta b'shlucho mekadesh bo meboya"
+    "enclosingSubtopic": "השתא בשלוחו מקדש בו מיבעיא"
    },
    {
     "text": ", a ",
@@ -379,7 +366,7 @@
     "targetSubtopic": "Literal translation of the opening kasha",
     "targetTopic": "\"Hashta b'shlucho mekadesh\"",
     "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
-    "enclosingSubtopic": "Hashta b'shlucho mekadesh bo meboya"
+    "enclosingSubtopic": "השתא בשלוחו מקדש בו מיבעיא"
    },
    {
     "text": ", a ",
@@ -397,7 +384,7 @@
     "targetSubtopic": "Pshat in the opening kasha",
     "targetTopic": "\"Hashta b'shlucho mekadesh\"",
     "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
-    "enclosingSubtopic": "Hashta b'shlucho mekadesh bo meboya"
+    "enclosingSubtopic": "השתא בשלוחו מקדש בו מיבעיא"
    },
    {
     "text": ", and hear ",
@@ -415,7 +402,7 @@
     "targetSubtopic": "Ha'aras on the opening kasha",
     "targetTopic": "\"Hashta b'shlucho mekadesh\"",
     "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
-    "enclosingSubtopic": "Hashta b'shlucho mekadesh bo meboya"
+    "enclosingSubtopic": "השתא בשלוחו מקדש בו מיבעיא"
    },
    {
     "text": ".",
@@ -424,7 +411,7 @@
   ],
   "How to know the sentence השתא בשלוחו מקדש בו מיבעיא ends here": [
    {
-    "text": "How do we know that \"השתא בשלוחו מקדש בו מיבעיא\" is one sentence, ending with the word \"מיבעיא\"? Because words after \"השתא בשלוחו מקדש בו מיבעיא\" are אמר ר' יוסף, \"amar Rav Yosef\", ie \"says Rav Yosef\", we see that the Gemara is introducing an opinion of R Yosef, and so by implication the Gemara's first sentence ended before the word אמר.",
+    "text": "How do we know that \"השתא בשלוחו מקדש בו מיבעיא\" is one sentence, ending with the word \"מיבעיא\"? Because the words after \"השתא בשלוחו מקדש בו מיבעיא\" are אמר ר' יוסף, \"amar Rav Yosef\", ie \"says Rav Yosef\", we see that the Gemara is introducing an opinion of R Yosef, and so by implication the Gemara's first sentence ended before the word אמר.",
     "type": "text"
    }
   ],
@@ -756,7 +743,7 @@
     "type": "text"
    }
   ],
-  "Amar R Yosef": [
+  "אמר ר' יוסף": [
    {
     "type": "block_quote",
     "tokens": [
@@ -783,7 +770,7 @@
     "targetSubtopic": "Amira of R Yosef",
     "targetTopic": "\"Hashta b'shlucho mekadesh\"",
     "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
-    "enclosingSubtopic": "Amar R Yosef"
+    "enclosingSubtopic": "אמר ר' יוסף"
    },
    {
     "text": " and ",
@@ -801,7 +788,7 @@
     "targetSubtopic": "Ha d'Rav Safra",
     "targetTopic": "\"Hashta b'shlucho mekadesh\"",
     "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
-    "enclosingSubtopic": "Amar R Yosef"
+    "enclosingSubtopic": "אמר ר' יוסף"
    },
    {
     "text": ".",
