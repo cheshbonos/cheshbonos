@@ -1,6 +1,6 @@
 [Cheshbonos]
 
-* Cheshbonos: This is a beta version of Cheshbonos, a tool for improving Gemara skills. You can navigate by using the mouse or arrow keys. At the moment Cheshbonos offers help in learning [[Perek Ha'ish Mekadesh]]. Cheshbonos is published with various [[disclaimers]]. You can post your questions or comments on the [issues page](https://github.com/cheshbonos/cheshbonos/issues). Sign up for occasional [[email updates]]. Cheshbonos can be downloaded for offline use [here](https://github.com/cheshbonos/cheshbonos/releases/tag/latest). Cheshbonos is built using [Canopy.js](https://github.com/canopy-js/canopy-js).
+* Cheshbonos: This is a beta version of Cheshbonos, a tool for improving Gemara skills. You can navigate by using the mouse or arrow keys. At the moment Cheshbonos offers help in learning [[Perek Ha'ish Mekadesh]]. Cheshbonos is published with various [[disclaimers]]. Cheshbonos has [[a dedication]]. You can post your questions or comments on the [issues page](https://github.com/cheshbonos/cheshbonos/issues). Sign up for occasional [[email updates]]. Cheshbonos can be downloaded for offline use [here](https://github.com/cheshbonos/cheshbonos/releases/tag/latest). Cheshbonos is built using [Canopy.js](https://github.com/canopy-js/canopy-js).
 
 Disclaimers: Cheshbonos is published without expert endorsement and is a product of novice efforts. Persons wishing to improve their Gemara skills who have the resources should enroll in a full-time yeshiva program. Short of that, such people should find a Gemara rebbe with whom they can form a relationship and learn from directly. Cheshbonos is intended for individuals who lack these resources, or as a tool for reviewing content already learned in a yeshiva setting. Individuals should ask their communal rabbinic advisors if Cheshbonos is the appropriate tool for their learning. Cheshbonos can be downloaded and used without an internet connection, and the existence of web access does not represent an endorsement of internet use.
 
@@ -13,6 +13,8 @@ setTimeout(() => {
     document.getElementById('email_updates_offline').innerText = 'Sorry, this feature is only available online.'
   }}, 1000);
 </script>
+
+A Dedication: Cheshbonos is dedicated to the memory of Rav Dov Zemmel z'l, a talmid muvak of R Chayim Pinchas Scheinberg, who taught dozens of talmidim to learn Gemara in an authentic and accurate way. This tool is inspired by the derech halimud he imparted to his talmidim.
 
 
 [Lashonos/Expressions]
@@ -85,20 +87,23 @@ Perakim: The first perek of Meseches Kiddushin is Perek Ha'isha Niknas. The seco
 
 [Talmud Bavli/Kiddushin/Dafim/41a]
 
-* Kiddushin 41a: Kiddushin 41a is an amud from [[Maseches Kiddushin]], and is the first amud of [[Perek Ha'ish Mekadesh]]. It contains [[the mishnah on Kiddushin 41a]], and the sugya of [["hashta b'shlucho mekadesh"]].
+* Kiddushin 41a: Kiddushin 41a is an amud from [[Maseches Kiddushin]], and is the first amud of [[Perek Ha'ish Mekadesh]]. It contains [[the mishnah on Kiddushin 41a]], and the sugya of [[hashta b'shlucho mekadesh bo meboya]].
 
 
 * The Mishnah on Kiddushin 41a:
+This is the Mishnah on Kiddushin 41a:
 < האיש מקדש בו ובשלוחו האשה
 < מתקדשת בה ובשלוחה האיש
 < מקדש את בתו כשהיא נערה בו ובשלוחו
-This is the Mishnah on Kiddushin 41a. It has a [[first clause]], a [[second clause]], and a [[third clause]].
+It has a [[first clause]], a [[second clause]], and a [[third clause]].
 
 First clause:
 < האיש מקדש בו ובשלוחו
-This is the first clause of the Mishnah. You can read about the [[words of the first clause]], a [[literal translation of the first clause]], and a [[pshat in the first clause]]. The first clause is the subject of the perek's first sugya, [["hashta b'shlucho mekadesh"|"hashta b'shlucho mekadesh."]]
+This is the first clause of the Mishnah. You can read about the [[words of the first clause]], a [[literal translation of the first clause]], a [[pshat in the first clause]], and [[Gemaras on the first clause]].
 
-Words of the first clause: The first clause includes [[the word האיש]], [[the word מקדש]], [[the word בו]], and [[the word ובשלוחו]].
+Gemaras on the first clause: The first clause of the Mishnah is the subject of the perek's first sugya, [[hashta b'shlucho mekadesh bo meboya]].
+
+Words of the first clause: The first clause of the Mishnah includes [[the word האיש]], [[the word מקדש]], [[the word בו]], and [[the word ובשלוחו]].
 
 The word האיש: The word האיש is composed of [[the word איש]] and [[the prefix ה]].
 
@@ -113,22 +118,22 @@ The word בו: This is the prefix ב with a third-person masculine conjugation.
 The word ובשלוחו: This is the prefix ו, followed by the prefix ב, followed by the word שלוח, followed by the suffix ו.
 
 Literal translation of the first clause: Once we have identified which meanings to assign to the individual words, a literal translation might be:
-> The man is being mekadesh, with himself or with an emissary
-Try to figure out what this means in context. You might ask: [[What does "being mekadesh" mean here?]] [[Why does האיש begin with ה?]]
+> The man is being mekadesh, with himself or with a shaliach
+Try to figure out what this means in context. You might ask: [[What does "being mekadesh" mean here?]] [[Why does it say _the_ man?]]
 
 What does "being mekadesh" mean here? We find here a klal of mishnayos that a "present tense" statement means a psak, and so "the man is being mekadesh himself or with an emissary" in this context means "the man is _allowed_ to be mekadesh, himself or with an emissary."
 
-Why does האיש begin with ה? [[It seems as if the Mishnah should not be using a ה-prefix]], but [[perhaps the Mishnah uses a ה-prefix because of the Mishnah it is following]].
+Why does it say _the_ man? [[It seems as though the Mishnah should not use the word "the"]], but [[perhaps the Mishnah uses the word "the" because of the prior Mishnah]].
 
-It seems as if the Mishnah should not be using a ה-prefix: If the Mishnah wanted to say "any man can be mekadesh an isha using these methods," why did it say "_the_ man can be mekadesh", as if only some specific man can do it, instead of saying "_a_ man can be mekadesh," ie any man? (Then it would read: איש מקדש, instead of האיש מקדש, because [[Hebrew nouns]] [[by default have an indefinite article]].)
+It seems as though the Mishnah should not use the word "the": If the Mishnah wanted to say "any man can be mekadesh an isha using these methods," why did it say "_the_ man can be mekadesh", as if only some specific man can do it, instead of saying "_a_ man can be mekadesh," ie any man? (Then it would read: איש מקדש, instead of האיש מקדש, because [[Hebrew nouns]] [[by default have an indefinite article]].)
 
-Perhaps the Mishnah uses a ה-prefix because of the Mishnah it is following: Perhaps we can say that this Mishnah is following the first Mishnah of the masechta, which spoke about ways "the woman" is niknas, and so maybe the "the" in "the woman" and the "the" in "the man" are being used to exclude one another - "_the_ woman" (as opposed to the man in the interaction,) and "_the_ man" (as opposed to the woman in the interaction.)
+Perhaps the Mishnah uses the word "the" because of the prior Mishnah: Perhaps we can say that this Mishnah is following the first Mishnah of the masechta, which spoke about ways "the woman" is niknas, and so maybe the "the" in "the woman" and the "the" in "the man" are being used to exclude one another - "_the_ woman" (as opposed to the man in the interaction,) and "_the_ man" (as opposed to the woman in the interaction.)
 
 Pshat in the first clause: A pshat in the first clause of the Mishna might be:
-> A man is allowed to be mekadesh an isha, himself or with a shaliach
+> A man is _allowed_ to be mekadesh a woman, himself or with a shaliach
 
 Second clause:
-> האשה מתקדשת בה ובשלוחה
+< האשה מתקדשת בה ובשלוחה
 This is the second clause of the Mishnah. You can read about the [[words of the second clause]], a [[literal translation of the second clause]], and a [[pshat in the second clause]].
 
 Words of the second clause: This is a work in progress.
@@ -160,8 +165,11 @@ By Mishnah: Perek Ha'ish Mekadesh begins with [[the mishnah on Kiddushin 41a]].
 
 [Talmud Bavli/Kiddushin/Sugyos]
 
-* "Hashta b'shlucho mekadesh":
-The full text of the sugya "hashta b'shlucho mekadesh" reads:
+* Hashta b'shlucho mekadesh bo meboya:
+The sugya "Hashta b'shlucho mekadesh bo meboya" has various [[parts]]. It discusses the [[first clause]] of [[the mishnah on Kiddushin 41a]], and is the first sugya in [[Perek Ha'ish Mekadesh]], appearing on [[Kiddushin 41a]]. You can read the [[full text of the sugya here]].
+
+Full text of the sugya here:
+The full text of the sugya reads:
 < גמ' השתא בשלוחו מקדש בו מיבעיא אמר
 < רב יוסף מצוה בו יותר מבשלוחו כי הא דרב
 < ספרא מחריך רישא רבא מלח שיבוטא
@@ -177,15 +185,14 @@ The full text of the sugya "hashta b'shlucho mekadesh" reads:
 < מחריך רישא רבא מלח שיבוטא אבל בהא
 < איסורא לית בה כדר״ל דאמר ר״ל טב
 < למיתב טן דו מלמיתב ארמלו:
-You can learn the sugya's various [[parts]], and can review with an outside [[summary]]. This sugya discusses the [[first clause]] of [[the mishnah on Kiddushin 41a]], and is the first sugya in [[Perek Ha'ish Mekadesh]] appearing on [[Kiddushin 41a]].
 
-Parts: The sugya of "hashta b'shlucho mekadesh" begins with [[השתא בשלוחו מקדש בו מיבעיא]], and is followed by the section beginning [[אמר ר' יוסף]] and then by [[the ika d'amri]], followed by [[v'chi itmar d'Rav Yosef]], and finally by [[aval b'ha isura leis ba]]. Once the parts are clear we can [[compare R Yosef and the ika d'amri]].
+Parts: The sugya of "hashta b'shlucho mekadesh" begins with the sentence [[השתא בשלוחו מקדש בו מיבעיא]], and is followed by the section beginning [[אמר ר' יוסף]] and then by the section beginning [[איכא דאמרי]], followed by the section beginning [[וכי איתמר דרב יוסף]], and finally by the section beginning [[אבל בהא איסורא לית בה]]. Once the parts are clear we can [[compare R Yosef and the ika d'amri]].
 
 השתא בשלוחו מקדש בו מיבעיא:
-< גמ' השתא בשלוחו מקדש בו מיבעיא
-The sugya of "hashta b'shlucho mekadesh" begins with the sentence above. You can learn [[how to know the sentence השתא בשלוחו מקדש בו מיבעיא ends here|how to know the sentence ends here]]. You can review [[where we're holding before השתא בשלוחו מקדש בו מיבעיא|where we're holding]], and learn [[background information that might be necessary to understand the Gemara's next step]], so that we can [[speculate about what sort of thing the Gemara might be doing with השתא בשלוחו מקדש בו מיבעיא|speculate about what the Gemara might be doing next]]. You can read about the [[words of "hashta b'shlucho mekadesh"]], a [[literal translation of the opening kasha]], a [[pshat in the opening kasha]], and hear [[ha'aras on the opening kasha]].
+< *גמ' השתא בשלוחו מקדש בו מיבעיא* (אמר)
+The sugya of "hashta b'shlucho mekadesh bo meboya" begins with the sentence above. You can learn [[how to determine the sentence השתא בשלוחו מקדש בו מיבעיא ends here|how to determine the sentence ends here]]. You can review [[where we're holding before השתא בשלוחו מקדש בו מיבעיא|where we're holding]], and learn [[background information that might be necessary to understand the Gemara's next step]], so that we can [[speculate about what sort of thing the Gemara might be doing with השתא בשלוחו מקדש בו מיבעיא|speculate about what the Gemara might be doing next]]. You can read about the [[words of "hashta b'shlucho mekadesh"]], a [[literal translation of the opening kasha]], a [[pshat in the opening kasha]], and hear [[ha'aras on the opening kasha]].
 
-How to know the sentence השתא בשלוחו מקדש בו מיבעיא ends here: How do we know that "השתא בשלוחו מקדש בו מיבעיא" is one sentence, ending with the word "מיבעיא"? Because the words after "השתא בשלוחו מקדש בו מיבעיא" are אמר ר' יוסף, "amar Rav Yosef", ie "says Rav Yosef", we see that the Gemara is introducing an opinion of R Yosef, and so by implication the Gemara's first sentence ended before the word אמר.
+How to determine the sentence השתא בשלוחו מקדש בו מיבעיא ends here: How do we know that "השתא בשלוחו מקדש בו מיבעיא" is one sentence, ending with the word "מיבעיא"? Because the words after "השתא בשלוחו מקדש בו מיבעיא" are אמר ר' יוסף, "amar Rav Yosef", ie "says Rav Yosef", we see that the Gemara is introducing an opinion of R Yosef, and so by implication the Gemara's first sentence ended before the word אמר.
 
 Where we're holding before השתא בשלוחו מקדש בו מיבעיא: This sentence in the Gemara is discussing the [[first clause]] of [[the Mishnah on Kiddushin 41a]], so review that Mishnah and try to guess what the Gemara might be saying about it here.
 
@@ -219,63 +226,42 @@ Pshat in the opening kasha: The opening kasha seems to be asking: now that the M
 Ha'aras on the opening kasha: From the opening kasha, we see certain assumptions the Gemara is making about the Mishnah.
 
 אמר ר' יוסף:
-< [גמ' השתא בשלוחו מקדש בו מיבעיא] אמר
+< (גמ' השתא בשלוחו מקדש בו מיבעיא) *אמר
 < רב יוסף מצוה בו יותר מבשלוחו כי הא דרב
-< ספרא מחריך רישא רבא מלח שיבוטא
+< ספרא מחריך רישא רבא מלח שיבוטא*
 The first lishna is an answer to the Gemara's kasha, quoted below. The first lishna is composed of the [[amira of R Yosef]] and [[ha d'Rav Safra]].
 
 Amira of R Yosef:
-< [גמ' השתא בשלוחו מקדש בו מיבעיא] אמר
-< רב יוסף מצוה בו יותר מבשלוחו [כי הא דרב]
+< (גמ' השתא בשלוחו מקדש בו מיבעיא) אמר
+< רב יוסף מצוה בו יותר מבשלוחו (כי הא דרב)
 The amira of R Yosef follows the Gemara's kasha and is the first portion of the first lishna, quoted below.
 
 Ha d'Rav Safra:
-< כי הא דרב [רב יוסף מצוה בו יותר מבשלוחו]
+< כי הא דרב (רב יוסף מצוה בו יותר מבשלוחו)
 < ספרא מחריך רישא רבא מלח שיבוטא
 The section "ha d'Rav Safra" follows the amira of R Yosef, quoted below. You can read about the [[words of ha d'Rav Safra]]
 
 Words of ha d'Rav Safra: The section "ha d'Rav Safra" includes the word ki, the word ha, the phrase d'Rav Safra, the word machrich, the word reisha, the word Rava, the word malach, and the word shibuta.
 
-The ika d'amri:
-< איכא דאמרי בהא איסורא נמי אית בה
+איכא דאמרי:
+< *איכא דאמרי בהא איסורא נמי אית בה
 < כדרב יהודה אמר רב דאמר רב יהודה
 < אמר רב אסור לאדם שיקדש את האשה
 < עד שיראנה שמא יראה בה דבר מגונה
 < ותתגנה עליו ורחמנא אמר ואהבת לרעך
-< כמוך
+< כמוך* (וכי איתמר דרב יוסף אסיפא איתמר)
 
-The ika d'amri and discussion includes a [[second lishna]] and the Gemara's [[discussion of the second lishna]].
-
-V'chi itmar d'Rav Yosef:
-< וכי איתמר דרב יוסף אסיפא איתמר
+וכי איתמר דרב יוסף:
+< (כמוך) *וכי איתמר דרב יוסף אסיפא איתמר
 < האשה מתקדשת בה ובשלוחה השתא
 < בשלוחה מיקדשא בה מיבעיא אמר רב יוסף
 < מצוה בה יותר מבשלוחה כי הא דרב ספרא
-< מחריך רישא רבא מלח שיבוטא
+< מחריך רישא רבא מלח שיבוטא* (אבל בהא)
 
-Aval b'ha isura leis ba:
-< אבל בהא
+אבל בהא איסורא לית בה:
+< (מחריך רישא רבא מלח שיבוטא) *אבל בהא
 < איסורא לית בה כדר״ל דאמר ר״ל טב
-< למיתב טן דו מלמיתב ארמלו
-
-Second lishna:
-< איכא דאמרי בהא איסורא נמי אית בה
-< כדרב יהודה אמר רב דאמר רב יהודה
-< אמר רב אסור לאדם שיקדש את האשה
-< עד שיראנה שמא יראה בה דבר מגונה
-< ותתגנה עליו ורחמנא אמר ואהבת לרעך
-< כמוך
-This is the Gemara's second lishna.
-
-Discussion of the second lishna:
-< וכי איתמר דרב יוסף אסיפא איתמר
-< האשה מתקדשת בה ובשלוחה השתא
-< בשלוחה מיקדשא בה מיבעיא אמר רב יוסף
-< מצוה בה יותר מבשלוחה כי הא דרב ספרא
-< מחריך רישא רבא מלח שיבוטא אבל בהא
-< איסורא לית בה כדר״ל דאמר ר״ל טב
-< למיתב טן דו מלמיתב ארמלו
-This is the Gemara's discussion of the second lishna, and is composed of
+< למיתב טן דו מלמיתב ארמלו:* (האיש)
 
 Compare R Yosef and the ika d'amri: This is a work in progress.
 
