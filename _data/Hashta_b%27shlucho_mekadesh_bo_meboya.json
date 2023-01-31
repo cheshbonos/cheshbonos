@@ -1,29 +1,15 @@
 {
- "displayTopicName": "\"Hashta b'shlucho mekadesh\"",
+ "displayTopicName": "Hashta b'shlucho mekadesh bo meboya",
  "topicTokens": [
   {
-   "text": "\"Hashta b'shlucho mekadesh\"",
+   "text": "Hashta b'shlucho mekadesh bo meboya",
    "type": "text"
   }
  ],
  "paragraphsBySubtopic": {
-  "\"Hashta b'shlucho mekadesh\"": [
+  "Hashta b'shlucho mekadesh bo meboya": [
    {
-    "text": "The full text of the sugya \"hashta b'shlucho mekadesh\" reads: ",
-    "type": "text"
-   },
-   {
-    "type": "block_quote",
-    "tokens": [
-     {
-      "text": "גמ' השתא בשלוחו מקדש בו מיבעיא אמר\nרב יוסף מצוה בו יותר מבשלוחו כי הא דרב\nספרא מחריך רישא רבא מלח שיבוטא\nאיכא דאמרי בהא איסורא נמי אית בה\nכדרב יהודה אמר רב דאמר רב יהודה\nאמר רב אסור לאדם שיקדש את האשה\nעד שיראנה שמא יראה בה דבר מגונה\nותתגנה עליו ורחמנא אמר ואהבת לרעך\nכמוך וכי איתמר דרב יוסף אסיפא איתמר\nהאשה מתקדשת בה ובשלוחה השתא\nבשלוחה מיקדשא בה מיבעיא אמר רב יוסף\nמצוה בה יותר מבשלוחה כי הא דרב ספרא\nמחריך רישא רבא מלח שיבוטא אבל בהא\nאיסורא לית בה כדר״ל דאמר ר״ל טב\nלמיתב טן דו מלמיתב ארמלו:",
-      "type": "text"
-     }
-    ],
-    "direction": "rtl"
-   },
-   {
-    "text": "You can learn the sugya's various ",
+    "text": "The sugya \"Hashta b'shlucho mekadesh bo meboya\" has various ",
     "type": "text"
    },
    {
@@ -36,30 +22,12 @@
      }
     ],
     "targetSubtopic": "Parts",
-    "targetTopic": "\"Hashta b'shlucho mekadesh\"",
-    "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
-    "enclosingSubtopic": "\"Hashta b'shlucho mekadesh\""
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingSubtopic": "Hashta b'shlucho mekadesh bo meboya"
    },
    {
-    "text": ", and can review with an outside ",
-    "type": "text"
-   },
-   {
-    "text": "summary",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "summary",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Summary",
-    "targetTopic": "\"Hashta b'shlucho mekadesh\"",
-    "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
-    "enclosingSubtopic": "\"Hashta b'shlucho mekadesh\""
-   },
-   {
-    "text": ". This sugya discusses the ",
+    "text": ". It discusses the ",
     "type": "text"
    },
    {
@@ -73,8 +41,8 @@
     ],
     "targetSubtopic": "First clause",
     "targetTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
-    "enclosingSubtopic": "\"Hashta b'shlucho mekadesh\""
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingSubtopic": "Hashta b'shlucho mekadesh bo meboya"
    },
    {
     "text": " of ",
@@ -91,8 +59,8 @@
     ],
     "targetSubtopic": "The Mishnah on Kiddushin 41a",
     "targetTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
-    "enclosingSubtopic": "\"Hashta b'shlucho mekadesh\""
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingSubtopic": "Hashta b'shlucho mekadesh bo meboya"
    },
    {
     "text": ", and is the first sugya in ",
@@ -109,11 +77,11 @@
     ],
     "targetSubtopic": "Perek Ha'ish Mekadesh",
     "targetTopic": "Perek Ha'ish Mekadesh",
-    "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
-    "enclosingSubtopic": "\"Hashta b'shlucho mekadesh\""
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingSubtopic": "Hashta b'shlucho mekadesh bo meboya"
    },
    {
-    "text": " appearing on ",
+    "text": ", appearing on ",
     "type": "text"
    },
    {
@@ -127,17 +95,51 @@
     ],
     "targetSubtopic": "Kiddushin 41a",
     "targetTopic": "Kiddushin 41a",
-    "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
-    "enclosingSubtopic": "\"Hashta b'shlucho mekadesh\""
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingSubtopic": "Hashta b'shlucho mekadesh bo meboya"
+   },
+   {
+    "text": ". You can read the ",
+    "type": "text"
+   },
+   {
+    "text": "full text of the sugya here",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "full text of the sugya here",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Full text of the sugya here",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingSubtopic": "Hashta b'shlucho mekadesh bo meboya"
    },
    {
     "text": ".",
     "type": "text"
    }
   ],
+  "Full text of the sugya here": [
+   {
+    "text": "The full text of the sugya reads: ",
+    "type": "text"
+   },
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "גמ' השתא בשלוחו מקדש בו מיבעיא אמר\nרב יוסף מצוה בו יותר מבשלוחו כי הא דרב\nספרא מחריך רישא רבא מלח שיבוטא\nאיכא דאמרי בהא איסורא נמי אית בה\nכדרב יהודה אמר רב דאמר רב יהודה\nאמר רב אסור לאדם שיקדש את האשה\nעד שיראנה שמא יראה בה דבר מגונה\nותתגנה עליו ורחמנא אמר ואהבת לרעך\nכמוך וכי איתמר דרב יוסף אסיפא איתמר\nהאשה מתקדשת בה ובשלוחה השתא\nבשלוחה מיקדשא בה מיבעיא אמר רב יוסף\nמצוה בה יותר מבשלוחה כי הא דרב ספרא\nמחריך רישא רבא מלח שיבוטא אבל בהא\nאיסורא לית בה כדר״ל דאמר ר״ל טב\nלמיתב טן דו מלמיתב ארמלו:",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   }
+  ],
   "Parts": [
    {
-    "text": "The sugya of \"hashta b'shlucho mekadesh\" begins with ",
+    "text": "The sugya of \"hashta b'shlucho mekadesh\" begins with the sentence ",
     "type": "text"
    },
    {
@@ -150,8 +152,8 @@
      }
     ],
     "targetSubtopic": "השתא בשלוחו מקדש בו מיבעיא",
-    "targetTopic": "\"Hashta b'shlucho mekadesh\"",
-    "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
     "enclosingSubtopic": "Parts"
    },
    {
@@ -168,62 +170,62 @@
      }
     ],
     "targetSubtopic": "אמר ר' יוסף",
-    "targetTopic": "\"Hashta b'shlucho mekadesh\"",
-    "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
     "enclosingSubtopic": "Parts"
    },
    {
-    "text": " and then by ",
+    "text": " and then by the section beginning ",
     "type": "text"
    },
    {
-    "text": "the ika d'amri",
+    "text": "איכא דאמרי",
     "type": "local",
     "tokens": [
      {
-      "text": "the ika d'amri",
+      "text": "איכא דאמרי",
       "type": "text"
      }
     ],
-    "targetSubtopic": "The ika d'amri",
-    "targetTopic": "\"Hashta b'shlucho mekadesh\"",
-    "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
+    "targetSubtopic": "איכא דאמרי",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
     "enclosingSubtopic": "Parts"
    },
    {
-    "text": ", followed by ",
+    "text": ", followed by the section beginning ",
     "type": "text"
    },
    {
-    "text": "v'chi itmar d'Rav Yosef",
+    "text": "וכי איתמר דרב יוסף",
     "type": "local",
     "tokens": [
      {
-      "text": "v'chi itmar d'Rav Yosef",
+      "text": "וכי איתמר דרב יוסף",
       "type": "text"
      }
     ],
-    "targetSubtopic": "V'chi itmar d'Rav Yosef",
-    "targetTopic": "\"Hashta b'shlucho mekadesh\"",
-    "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
+    "targetSubtopic": "וכי איתמר דרב יוסף",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
     "enclosingSubtopic": "Parts"
    },
    {
-    "text": ", and finally by ",
+    "text": ", and finally by the section beginning ",
     "type": "text"
    },
    {
-    "text": "aval b'ha isura leis ba",
+    "text": "אבל בהא איסורא לית בה",
     "type": "local",
     "tokens": [
      {
-      "text": "aval b'ha isura leis ba",
+      "text": "אבל בהא איסורא לית בה",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Aval b'ha isura leis ba",
-    "targetTopic": "\"Hashta b'shlucho mekadesh\"",
-    "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
+    "targetSubtopic": "אבל בהא איסורא לית בה",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
     "enclosingSubtopic": "Parts"
    },
    {
@@ -240,8 +242,8 @@
      }
     ],
     "targetSubtopic": "Compare R Yosef and the ika d'amri",
-    "targetTopic": "\"Hashta b'shlucho mekadesh\"",
-    "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
     "enclosingSubtopic": "Parts"
    },
    {
@@ -254,28 +256,37 @@
     "type": "block_quote",
     "tokens": [
      {
-      "text": "גמ' השתא בשלוחו מקדש בו מיבעיא",
+      "type": "bold",
+      "tokens": [
+       {
+        "text": "גמ' השתא בשלוחו מקדש בו מיבעיא",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " (אמר)",
       "type": "text"
      }
     ],
     "direction": "rtl"
    },
    {
-    "text": "The sugya of \"hashta b'shlucho mekadesh\" begins with the sentence above. You can learn ",
+    "text": "The sugya of \"hashta b'shlucho mekadesh bo meboya\" begins with the sentence above. You can learn ",
     "type": "text"
    },
    {
-    "text": "how to know the sentence ends here",
+    "text": "how to determine the sentence ends here",
     "type": "local",
     "tokens": [
      {
-      "text": "how to know the sentence ends here",
+      "text": "how to determine the sentence ends here",
       "type": "text"
      }
     ],
-    "targetSubtopic": "How to know the sentence השתא בשלוחו מקדש בו מיבעיא ends here",
-    "targetTopic": "\"Hashta b'shlucho mekadesh\"",
-    "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
+    "targetSubtopic": "How to determine the sentence השתא בשלוחו מקדש בו מיבעיא ends here",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
     "enclosingSubtopic": "השתא בשלוחו מקדש בו מיבעיא"
    },
    {
@@ -292,8 +303,8 @@
      }
     ],
     "targetSubtopic": "Where we're holding before השתא בשלוחו מקדש בו מיבעיא",
-    "targetTopic": "\"Hashta b'shlucho mekadesh\"",
-    "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
     "enclosingSubtopic": "השתא בשלוחו מקדש בו מיבעיא"
    },
    {
@@ -310,8 +321,8 @@
      }
     ],
     "targetSubtopic": "Background information that might be necessary to understand the Gemara's next step",
-    "targetTopic": "\"Hashta b'shlucho mekadesh\"",
-    "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
     "enclosingSubtopic": "השתא בשלוחו מקדש בו מיבעיא"
    },
    {
@@ -328,8 +339,8 @@
      }
     ],
     "targetSubtopic": "Speculate about what sort of thing the Gemara might be doing with השתא בשלוחו מקדש בו מיבעיא",
-    "targetTopic": "\"Hashta b'shlucho mekadesh\"",
-    "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
     "enclosingSubtopic": "השתא בשלוחו מקדש בו מיבעיא"
    },
    {
@@ -346,8 +357,8 @@
      }
     ],
     "targetSubtopic": "Words of \"hashta b'shlucho mekadesh\"",
-    "targetTopic": "\"Hashta b'shlucho mekadesh\"",
-    "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
     "enclosingSubtopic": "השתא בשלוחו מקדש בו מיבעיא"
    },
    {
@@ -364,8 +375,8 @@
      }
     ],
     "targetSubtopic": "Literal translation of the opening kasha",
-    "targetTopic": "\"Hashta b'shlucho mekadesh\"",
-    "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
     "enclosingSubtopic": "השתא בשלוחו מקדש בו מיבעיא"
    },
    {
@@ -382,8 +393,8 @@
      }
     ],
     "targetSubtopic": "Pshat in the opening kasha",
-    "targetTopic": "\"Hashta b'shlucho mekadesh\"",
-    "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
     "enclosingSubtopic": "השתא בשלוחו מקדש בו מיבעיא"
    },
    {
@@ -400,8 +411,8 @@
      }
     ],
     "targetSubtopic": "Ha'aras on the opening kasha",
-    "targetTopic": "\"Hashta b'shlucho mekadesh\"",
-    "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
     "enclosingSubtopic": "השתא בשלוחו מקדש בו מיבעיא"
    },
    {
@@ -409,7 +420,7 @@
     "type": "text"
    }
   ],
-  "How to know the sentence השתא בשלוחו מקדש בו מיבעיא ends here": [
+  "How to determine the sentence השתא בשלוחו מקדש בו מיבעיא ends here": [
    {
     "text": "How do we know that \"השתא בשלוחו מקדש בו מיבעיא\" is one sentence, ending with the word \"מיבעיא\"? Because the words after \"השתא בשלוחו מקדש בו מיבעיא\" are אמר ר' יוסף, \"amar Rav Yosef\", ie \"says Rav Yosef\", we see that the Gemara is introducing an opinion of R Yosef, and so by implication the Gemara's first sentence ended before the word אמר.",
     "type": "text"
@@ -431,7 +442,7 @@
     ],
     "targetSubtopic": "First clause",
     "targetTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
     "enclosingSubtopic": "Where we're holding before השתא בשלוחו מקדש בו מיבעיא"
    },
    {
@@ -449,7 +460,7 @@
     ],
     "targetSubtopic": "The Mishnah on Kiddushin 41a",
     "targetTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
     "enclosingSubtopic": "Where we're holding before השתא בשלוחו מקדש בו מיבעיא"
    },
    {
@@ -473,7 +484,7 @@
     ],
     "targetSubtopic": "First clause",
     "targetTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
     "enclosingSubtopic": "Background information that might be necessary to understand the Gemara's next step"
    },
    {
@@ -491,7 +502,7 @@
     ],
     "targetSubtopic": "The Mishnah on Kiddushin 41a",
     "targetTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
     "enclosingSubtopic": "Background information that might be necessary to understand the Gemara's next step"
    },
    {
@@ -521,7 +532,7 @@
     ],
     "targetSubtopic": "\"Hashta\"",
     "targetTopic": "\"Hashta\"",
-    "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
     "enclosingSubtopic": "Words of \"hashta b'shlucho mekadesh\""
    },
    {
@@ -538,8 +549,8 @@
      }
     ],
     "targetSubtopic": "The word \"b'shlucho\"",
-    "targetTopic": "\"Hashta b'shlucho mekadesh\"",
-    "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
     "enclosingSubtopic": "Words of \"hashta b'shlucho mekadesh\""
    },
    {
@@ -556,8 +567,8 @@
      }
     ],
     "targetSubtopic": "The word \"mekadesh\"",
-    "targetTopic": "\"Hashta b'shlucho mekadesh\"",
-    "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
     "enclosingSubtopic": "Words of \"hashta b'shlucho mekadesh\""
    },
    {
@@ -574,8 +585,8 @@
      }
     ],
     "targetSubtopic": "The word \"bo\"",
-    "targetTopic": "\"Hashta b'shlucho mekadesh\"",
-    "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
     "enclosingSubtopic": "Words of \"hashta b'shlucho mekadesh\""
    },
    {
@@ -592,8 +603,8 @@
      }
     ],
     "targetSubtopic": "The word \"meboya\"",
-    "targetTopic": "\"Hashta b'shlucho mekadesh\"",
-    "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
     "enclosingSubtopic": "Words of \"hashta b'shlucho mekadesh\""
    },
    {
@@ -654,8 +665,8 @@
      }
     ],
     "targetSubtopic": "What does 'with his agent he is mekadesh' mean here?",
-    "targetTopic": "\"Hashta b'shlucho mekadesh\"",
-    "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
     "enclosingSubtopic": "Literal translation of the opening kasha"
    },
    {
@@ -672,8 +683,8 @@
      }
     ],
     "targetSubtopic": "What does 'with himself' mean here?",
-    "targetTopic": "\"Hashta b'shlucho mekadesh\"",
-    "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
     "enclosingSubtopic": "Literal translation of the opening kasha"
    },
    {
@@ -690,8 +701,8 @@
      }
     ],
     "targetSubtopic": "What does \"is needed\" mean here?",
-    "targetTopic": "\"Hashta b'shlucho mekadesh\"",
-    "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
     "enclosingSubtopic": "Literal translation of the opening kasha"
    }
   ],
@@ -723,7 +734,7 @@
     ],
     "targetSubtopic": "The shoresh בעה",
     "targetTopic": "The shoresh בעה",
-    "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
     "enclosingSubtopic": "What does \"is needed\" mean here?"
    },
    {
@@ -748,8 +759,17 @@
     "type": "block_quote",
     "tokens": [
      {
-      "text": "[גמ' השתא בשלוחו מקדש בו מיבעיא] אמר\nרב יוסף מצוה בו יותר מבשלוחו כי הא דרב\nספרא מחריך רישא רבא מלח שיבוטא",
+      "text": "(גמ' השתא בשלוחו מקדש בו מיבעיא) ",
       "type": "text"
+     },
+     {
+      "type": "bold",
+      "tokens": [
+       {
+        "text": "אמר\nרב יוסף מצוה בו יותר מבשלוחו כי הא דרב\nספרא מחריך רישא רבא מלח שיבוטא",
+        "type": "text"
+       }
+      ]
      }
     ],
     "direction": "rtl"
@@ -768,8 +788,8 @@
      }
     ],
     "targetSubtopic": "Amira of R Yosef",
-    "targetTopic": "\"Hashta b'shlucho mekadesh\"",
-    "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
     "enclosingSubtopic": "אמר ר' יוסף"
    },
    {
@@ -786,8 +806,8 @@
      }
     ],
     "targetSubtopic": "Ha d'Rav Safra",
-    "targetTopic": "\"Hashta b'shlucho mekadesh\"",
-    "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
     "enclosingSubtopic": "אמר ר' יוסף"
    },
    {
@@ -800,7 +820,7 @@
     "type": "block_quote",
     "tokens": [
      {
-      "text": "[גמ' השתא בשלוחו מקדש בו מיבעיא] אמר\nרב יוסף מצוה בו יותר מבשלוחו [כי הא דרב]",
+      "text": "(גמ' השתא בשלוחו מקדש בו מיבעיא) אמר\nרב יוסף מצוה בו יותר מבשלוחו (כי הא דרב)",
       "type": "text"
      }
     ],
@@ -816,7 +836,7 @@
     "type": "block_quote",
     "tokens": [
      {
-      "text": "כי הא דרב [רב יוסף מצוה בו יותר מבשלוחו]\nספרא מחריך רישא רבא מלח שיבוטא",
+      "text": "כי הא דרב (רב יוסף מצוה בו יותר מבשלוחו)\nספרא מחריך רישא רבא מלח שיבוטא",
       "type": "text"
      }
     ],
@@ -836,8 +856,8 @@
      }
     ],
     "targetSubtopic": "Words of ha d'Rav Safra",
-    "targetTopic": "\"Hashta b'shlucho mekadesh\"",
-    "enclosingTopic": "\"Hashta b'shlucho mekadesh\"",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboya",
     "enclosingSubtopic": "Ha d'Rav Safra"
    }
   ],
@@ -847,72 +867,75 @@
     "type": "text"
    }
   ],
-  "The ika d'amri": [
+  "איכא דאמרי": [
    {
     "type": "block_quote",
     "tokens": [
      {
-      "text": "איכא דאמרי בהא איסורא נמי אית בה\nכדרב יהודה אמר רב דאמר רב יהודה\nאמר רב אסור לאדם שיקדש את האשה\nעד שיראנה שמא יראה בה דבר מגונה\nותתגנה עליו ורחמנא אמר ואהבת לרעך\nכמוך",
+      "type": "bold",
+      "tokens": [
+       {
+        "text": "איכא דאמרי בהא איסורא נמי אית בה\nכדרב יהודה אמר רב דאמר רב יהודה\nאמר רב אסור לאדם שיקדש את האשה\nעד שיראנה שמא יראה בה דבר מגונה\nותתגנה עליו ורחמנא אמר ואהבת לרעך\nכמוך",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " (וכי איתמר דרב יוסף אסיפא איתמר)",
       "type": "text"
      }
     ],
     "direction": "rtl"
    }
   ],
-  "V'chi itmar d'Rav Yosef": [
+  "וכי איתמר דרב יוסף": [
    {
     "type": "block_quote",
     "tokens": [
      {
-      "text": "וכי איתמר דרב יוסף אסיפא איתמר\nהאשה מתקדשת בה ובשלוחה השתא\nבשלוחה מיקדשא בה מיבעיא אמר רב יוסף\nמצוה בה יותר מבשלוחה כי הא דרב ספרא\nמחריך רישא רבא מלח שיבוטא",
+      "text": "(כמוך) ",
+      "type": "text"
+     },
+     {
+      "type": "bold",
+      "tokens": [
+       {
+        "text": "וכי איתמר דרב יוסף אסיפא איתמר\nהאשה מתקדשת בה ובשלוחה השתא\nבשלוחה מיקדשא בה מיבעיא אמר רב יוסף\nמצוה בה יותר מבשלוחה כי הא דרב ספרא\nמחריך רישא רבא מלח שיבוטא",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " (אבל בהא)",
       "type": "text"
      }
     ],
     "direction": "rtl"
    }
   ],
-  "Aval b'ha isura leis ba": [
+  "אבל בהא איסורא לית בה": [
    {
     "type": "block_quote",
     "tokens": [
      {
-      "text": "אבל בהא\nאיסורא לית בה כדר״ל דאמר ר״ל טב\nלמיתב טן דו מלמיתב ארמלו",
+      "text": "(מחריך רישא רבא מלח שיבוטא) ",
       "type": "text"
-     }
-    ],
-    "direction": "rtl"
-   }
-  ],
-  "Second lishna": [
-   {
-    "type": "block_quote",
-    "tokens": [
+     },
      {
-      "text": "איכא דאמרי בהא איסורא נמי אית בה\nכדרב יהודה אמר רב דאמר רב יהודה\nאמר רב אסור לאדם שיקדש את האשה\nעד שיראנה שמא יראה בה דבר מגונה\nותתגנה עליו ורחמנא אמר ואהבת לרעך\nכמוך",
-      "type": "text"
-     }
-    ],
-    "direction": "rtl"
-   },
-   {
-    "text": "This is the Gemara's second lishna.",
-    "type": "text"
-   }
-  ],
-  "Discussion of the second lishna": [
-   {
-    "type": "block_quote",
-    "tokens": [
+      "type": "bold",
+      "tokens": [
+       {
+        "text": "אבל בהא\nאיסורא לית בה כדר״ל דאמר ר״ל טב\nלמיתב טן דו מלמיתב ארמלו:",
+        "type": "text"
+       }
+      ]
+     },
      {
-      "text": "וכי איתמר דרב יוסף אסיפא איתמר\nהאשה מתקדשת בה ובשלוחה השתא\nבשלוחה מיקדשא בה מיבעיא אמר רב יוסף\nמצוה בה יותר מבשלוחה כי הא דרב ספרא\nמחריך רישא רבא מלח שיבוטא אבל בהא\nאיסורא לית בה כדר״ל דאמר ר״ל טב\nלמיתב טן דו מלמיתב ארמלו",
+      "text": " (האיש)",
       "type": "text"
      }
     ],
     "direction": "rtl"
-   },
-   {
-    "text": "This is the Gemara's discussion of the second lishna, and is composed of",
-    "type": "text"
    }
   ],
   "Compare R Yosef and the ika d'amri": [

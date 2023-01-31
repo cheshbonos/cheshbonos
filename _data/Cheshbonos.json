@@ -45,6 +45,24 @@
     "enclosingSubtopic": "Cheshbonos"
    },
    {
+    "text": ". Cheshbonos has ",
+    "type": "text"
+   },
+   {
+    "text": "a dedication",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "a dedication",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "A Dedication",
+    "targetTopic": "Cheshbonos",
+    "enclosingTopic": "Cheshbonos",
+    "enclosingSubtopic": "Cheshbonos"
+   },
+   {
     "text": ". You can post your questions or comments on the ",
     "type": "text"
    },
@@ -154,6 +172,12 @@
    {
     "type": "html_element",
     "html": "<script>\nsetTimeout(() => {\n  if (document.getElementById('email_updates').innerText === '') {\n    document.getElementById('email_updates_offline').innerText = 'Sorry, this feature is only available online.'\n  }}, 1000);\n</script>"
+   }
+  ],
+  "A Dedication": [
+   {
+    "text": "Cheshbonos is dedicated to the memory of Rav Dov Zemmel z'l, a talmid muvak of R Chayim Pinchas Scheinberg, who taught dozens of talmidim to learn Gemara in an authentic and accurate way. This tool is inspired by the derech halimud he imparted to his talmidim.",
+    "type": "text"
    }
   ]
  }

@@ -67,16 +67,16 @@
     "type": "text"
    },
    {
-    "text": "\"hashta b'shlucho mekadesh\"",
+    "text": "hashta b'shlucho mekadesh bo meboya",
     "type": "global",
     "tokens": [
      {
-      "text": "\"hashta b'shlucho mekadesh\"",
+      "text": "hashta b'shlucho mekadesh bo meboya",
       "type": "text"
      }
     ],
-    "targetSubtopic": "\"Hashta b'shlucho mekadesh\"",
-    "targetTopic": "\"Hashta b'shlucho mekadesh\"",
+    "targetSubtopic": "Hashta b'shlucho mekadesh bo meboya",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboya",
     "enclosingTopic": "Kiddushin 41a",
     "enclosingSubtopic": "Kiddushin 41a"
    },
