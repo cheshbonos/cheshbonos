@@ -120,16 +120,16 @@
     "enclosingSubtopic": "Learn more about the project"
    },
    {
-    "text": ". Cheshbonos can be downloaded for ",
+    "text": ". You can download the Cheshbonos ",
     "type": "text"
    },
    {
     "type": "url",
     "url": "https://github.com/cheshbonos/cheshbonos/releases/tag/latest",
-    "text": "offline use",
+    "text": "desktop app",
     "tokens": [
      {
-      "text": "offline use",
+      "text": "desktop app",
       "type": "text"
      }
     ]
