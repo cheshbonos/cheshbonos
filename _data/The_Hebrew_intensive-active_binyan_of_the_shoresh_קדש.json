@@ -1,0 +1,108 @@
+{
+ "displayTopicName": "The Hebrew intensive-active binyan of the shoresh קדש",
+ "topicTokens": [
+  {
+   "text": "The Hebrew intensive-active binyan of the shoresh קדש",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "The Hebrew intensive-active binyan of the shoresh קדש": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "text": "the shoresh קדש",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "the shoresh קדש",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "The shoresh קדש",
+    "targetTopic": "The shoresh קדש",
+    "enclosingTopic": "The Hebrew intensive-active binyan of the shoresh קדש",
+    "enclosingSubtopic": "The Hebrew intensive-active binyan of the shoresh קדש"
+   },
+   {
+    "text": " has an ",
+    "type": "text"
+   },
+   {
+    "text": "intensive-active binyan",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "intensive-active binyan",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Intensive-active binyan",
+    "targetTopic": "Intensive-active binyan",
+    "enclosingTopic": "The Hebrew intensive-active binyan of the shoresh קדש",
+    "enclosingSubtopic": "The Hebrew intensive-active binyan of the shoresh קדש"
+   },
+   {
+    "text": " (also called the pi'el), which has a past tense, a ",
+    "type": "text"
+   },
+   {
+    "text": "participle tense",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "participle tense",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "The participle tense of the Hebrew intensive-active binyan of the shoresh קדש",
+    "targetTopic": "The participle tense of the Hebrew intensive-active binyan of the shoresh קדש",
+    "enclosingTopic": "The Hebrew intensive-active binyan of the shoresh קדש",
+    "enclosingSubtopic": "The Hebrew intensive-active binyan of the shoresh קדש"
+   },
+   {
+    "text": ", an future tense, a command tense, and an infinitive. There is a ",
+    "type": "text"
+   },
+   {
+    "text": "meaning of the Hebrew intensive of the shoresh קדש",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "meaning of the Hebrew intensive of the shoresh קדש",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Meaning of the Hebrew intensive of the shoresh קדש",
+    "targetTopic": "The Hebrew intensive-active binyan of the shoresh קדש",
+    "enclosingTopic": "The Hebrew intensive-active binyan of the shoresh קדש",
+    "enclosingSubtopic": "The Hebrew intensive-active binyan of the shoresh קדש"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Meaning of the Hebrew intensive of the shoresh קדש": [
+   {
+    "text": "The intensive binyan of the shoresh קדש can mean \"to produce a stage called ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "kiddushin",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " between a man and a woman.\" Kiddushin is a stage prior to full marriage (called nisuyin) in which the woman is halachically designated to the man. It can also mean to make something holy, as in \"mekadesh ha'shabbos.\"",
+    "type": "text"
+   }
+  ]
+ }
+}

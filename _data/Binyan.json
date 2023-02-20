@@ -1,0 +1,143 @@
+{
+ "displayTopicName": "Binyan",
+ "topicTokens": [
+  {
+   "text": "Binyan",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Binyan": [
+   {
+    "text": "Binyan has a ",
+    "type": "text"
+   },
+   {
+    "text": "definition",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "definition",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Definition",
+    "targetTopic": "Binyan",
+    "enclosingTopic": "Binyan",
+    "enclosingSubtopic": "Binyan"
+   },
+   {
+    "text": ". There are ",
+    "type": "text"
+   },
+   {
+    "text": "seven binyanim",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "seven binyanim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Seven binyanim",
+    "targetTopic": "Binyan",
+    "enclosingTopic": "Binyan",
+    "enclosingSubtopic": "Binyan"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Definition": [
+   {
+    "text": "A binyan is a permutation of a ",
+    "type": "text"
+   },
+   {
+    "text": "shoresh",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "shoresh",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Shoresh",
+    "targetTopic": "Shoresh",
+    "enclosingTopic": "Binyan",
+    "enclosingSubtopic": "Definition"
+   },
+   {
+    "text": " in Hebrew and Aramaic that realizes the general meaning of the shoresh into a particular action or quality. A shoresh might have a general meaning of \"holy,\" whereas a particular binyan of that shoresh might mean \"to make something holy,\" or \"to be holy.\"",
+    "type": "text"
+   }
+  ],
+  "Seven binyanim": [
+   {
+    "text": "Both Hebrew and Aramaic have seven binyanim, although they have slightly different names due to the ",
+    "type": "text"
+   },
+   {
+    "text": "binyan naming convention",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "binyan naming convention",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Binyan naming convention",
+    "targetTopic": "Binyan",
+    "enclosingTopic": "Binyan",
+    "enclosingSubtopic": "Seven binyanim"
+   },
+   {
+    "text": ". The binyanim are the simple-active, the simple-passive, the ",
+    "type": "text"
+   },
+   {
+    "text": "intensive-active",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "intensive-active",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Intensive-active binyan",
+    "targetTopic": "Intensive-active binyan",
+    "enclosingTopic": "Binyan",
+    "enclosingSubtopic": "Seven binyanim"
+   },
+   {
+    "text": ", the intensive-passive, the causative-active, the causative-passive, and the reflexive.",
+    "type": "text"
+   }
+  ],
+  "Binyan naming convention": [
+   {
+    "text": "Binyanim in Hebrew and Aramaic are named after the third-person masculine conjugation of the shoresh פעל in that binyan. So, for example, the ",
+    "type": "text"
+   },
+   {
+    "text": "intensive-active binyan",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "intensive-active binyan",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Intensive-active binyan",
+    "targetTopic": "Intensive-active binyan",
+    "enclosingTopic": "Binyan",
+    "enclosingSubtopic": "Binyan naming convention"
+   },
+   {
+    "text": " is called the \"pi'el\", (פִּעֵל),",
+    "type": "text"
+   }
+  ]
+ }
+}

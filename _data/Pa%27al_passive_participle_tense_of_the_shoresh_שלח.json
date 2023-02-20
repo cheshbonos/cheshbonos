@@ -1,0 +1,94 @@
+{
+ "displayTopicName": "_Pa'al_ passive participle tense of the shoresh שלח",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Pa'al",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " passive participle tense of the shoresh שלח",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Pa'al passive participle tense of the shoresh שלח": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pa'al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " passive participle, or the \"pa'ul\" tense has a ",
+    "type": "text"
+   },
+   {
+    "text": "masculine singular",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "masculine singular",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Masculine singular",
+    "targetTopic": "Pa'al passive participle tense of the shoresh שלח",
+    "enclosingTopic": "Pa'al passive participle tense of the shoresh שלח",
+    "enclosingSubtopic": "Pa'al passive participle tense of the shoresh שלח"
+   },
+   {
+    "text": ", masculine plural, feminine singular, and feminine plural.",
+    "type": "text"
+   }
+  ],
+  "Masculine singular": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pa'al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " passive participle masculine singular of the shoresh שלח is שָׁלוּחַ, \"shaluach.\" If it is used as a noun, it means \"someone or something (masculine) that is or has been sent.\" If it is used as an adjective, it means \"sent,\" as in \"the sent man.\" If it is used as a verb, it means \"is sent.\"",
+    "type": "text"
+   }
+  ],
+  "Simple-active passive participle feminine singular": [
+   {
+    "text": "The simple-active, passive participle, feminine singular, of the shoresh שלח is שְׁלוּחָה, \"sh'luchah.\" If it is used as a noun, it means \"someone or something (feminine) that is or has been sent.\" If it is used as an adjective, it means \"sent,\" as in \"the sent woman.\" If it is used as a verb, it means \"is sent.\"",
+    "type": "text"
+   }
+  ],
+  "Simple-active passive participle masculine plural": [
+   {
+    "text": "The simple-active, passive participle, masculine singular of the shoresh שלח is שְׁלוּחִים, \"sh'luchim.\" If it is used as a noun, it means \"people or things (masculine) that are or have been sent.\" If it is used as an adjective, it means \"sent,\" as in \"the sent men.\" If it is used as a verb, it means \"are sent.\"",
+    "type": "text"
+   }
+  ],
+  "Simple-active passive participle feminine plural": [
+   {
+    "text": "The simple-active, passive participle, feminine plural, of the shoresh שלח is שְׁלוּחוֹת, \"sh'lucho(s/t).\" If it is used as a noun, it means \"people or things (feminine) that are or have been sent.\" If it is used as an adjective, it means \"sent,\" as in \"the sent women.\" If it is used as a verb, it means \"are sent.\"",
+    "type": "text"
+   }
+  ]
+ }
+}

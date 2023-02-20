@@ -9,25 +9,20 @@
  "paragraphsBySubtopic": {
   "Perek Ha'ish Mekadesh": [
    {
-    "text": "The sugyos of Perek Ha'ish Mekadesh can be accessed ",
+    "text": "You can  navigate ",
     "type": "text"
    },
    {
-    "text": "by mishnah",
-    "type": "local",
+    "type": "italics",
     "tokens": [
      {
-      "text": "by mishnah",
+      "text": "Perek Ha'ish Mekadesh",
       "type": "text"
      }
-    ],
-    "targetSubtopic": "By Mishnah",
-    "targetTopic": "Perek Ha'ish Mekadesh",
-    "enclosingTopic": "Perek Ha'ish Mekadesh",
-    "enclosingSubtopic": "Perek Ha'ish Mekadesh"
+    ]
    },
    {
-    "text": ", or ",
+    "text": " ",
     "type": "text"
    },
    {
@@ -40,6 +35,24 @@
      }
     ],
     "targetSubtopic": "By daf",
+    "targetTopic": "Perek Ha'ish Mekadesh",
+    "enclosingTopic": "Perek Ha'ish Mekadesh",
+    "enclosingSubtopic": "Perek Ha'ish Mekadesh"
+   },
+   {
+    "text": " or ",
+    "type": "text"
+   },
+   {
+    "text": "by Mishnah",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "by Mishnah",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "By Mishnah",
     "targetTopic": "Perek Ha'ish Mekadesh",
     "enclosingTopic": "Perek Ha'ish Mekadesh",
     "enclosingSubtopic": "Perek Ha'ish Mekadesh"
@@ -69,7 +82,7 @@
   ],
   "By daf": [
    {
-    "text": "Perek Ha'ish Mekadesh covers eighteen dafim, beginning on ",
+    "text": "Perek Ha'ish Mekadesh covers eighteen daf, beginning on ",
     "type": "text"
    },
    {

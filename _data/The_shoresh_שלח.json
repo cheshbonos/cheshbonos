@@ -1,0 +1,129 @@
+{
+ "displayTopicName": "The shoresh שלח",
+ "topicTokens": [
+  {
+   "text": "The shoresh שלח",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "The shoresh שלח": [
+   {
+    "text": "The shoresh שלח is a shoresh that has forms in ",
+    "type": "text"
+   },
+   {
+    "text": "Hebrew",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "Hebrew",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Hebrew",
+    "targetTopic": "The shoresh שלח",
+    "enclosingTopic": "The shoresh שלח",
+    "enclosingSubtopic": "The shoresh שלח"
+   },
+   {
+    "text": " and Aramaic.",
+    "type": "text"
+   }
+  ],
+  "Hebrew": [
+   {
+    "text": "The shoresh שלח has seven \"binyanim\" in Hebrew, the ",
+    "type": "text"
+   },
+   {
+    "text": "_pa'al_",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pa'al",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Pa'al of the shoresh שלח",
+    "targetTopic": "Pa'al of the shoresh שלח",
+    "enclosingTopic": "The shoresh שלח",
+    "enclosingSubtopic": "Hebrew"
+   },
+   {
+    "text": ", the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "nifal",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ", the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pi'el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ", the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pu'al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ", the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "hif'il",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ", the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "huf'al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ", and the hispa'el.",
+    "type": "text"
+   }
+  ]
+ }
+}
