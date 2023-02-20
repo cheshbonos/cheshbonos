@@ -1,4 +1,6 @@
-Cheshbonos: This is a beta version of Cheshbonos, a tool for improving Gemara skills. You can navigate by using the mouse or arrow keys. At the moment Cheshbonos offers help in learning [[Perek Ha'ish Mekadesh]]. Cheshbonos is published with various [[disclaimers]]. Cheshbonos has [[a dedication]]. You can post your questions or comments on the [issues page](https://github.com/cheshbonos/cheshbonos/issues). Sign up for occasional [[email updates]]. Cheshbonos can be downloaded for offline use [here](https://github.com/cheshbonos/cheshbonos/releases/tag/latest). Cheshbonos is built using [Canopy.js](https://github.com/canopy-js/canopy-js).
+Cheshbonos: This is a beta version of Cheshbonos, a tool for improving Gemara skills. You can navigate by using the mouse or arrow keys. Cheshbonos should be used with a Gemara. At the moment Cheshbonos offers help in learning [[Perek Ha'ish Mekadesh]]. You can also [[learn more about the project]].
+
+Learn more about the project: Cheshbonos has a [[dedication]]. Cheshbonos is published with various [[disclaimers]]. You can post your questions or comments on the [issues page](https://github.com/cheshbonos/cheshbonos/issues). You can sign up for occasional [[email updates]]. You can download the Cheshbonos [desktop app](https://github.com/cheshbonos/cheshbonos/releases/tag/latest). Cheshbonos is built using [Canopy.js](https://github.com/canopy-js/canopy-js).
 
 Disclaimers: Cheshbonos is published without expert endorsement and is a product of novice efforts. Persons wishing to improve their Gemara skills who have the resources should enroll in a full-time yeshiva program. Short of that, such people should find a Gemara rebbe with whom they can form a relationship and learn from directly. Cheshbonos is intended for individuals who lack these resources, or as a tool for reviewing content already learned in a yeshiva setting. Individuals should ask their communal rabbinic advisors if Cheshbonos is the appropriate tool for their learning. Cheshbonos can be downloaded and used without an internet connection, and the existence of web access does not represent an endorsement of internet use.
 
@@ -12,4 +14,4 @@ setTimeout(() => {
   }}, 1000);
 </script>
 
-A Dedication: Cheshbonos is dedicated to the memory of Rav Dov Zemmel z'l, a talmid muvak of R Chayim Pinchas Scheinberg, who taught dozens of talmidim to learn Gemara in an authentic and accurate way. This tool is inspired by the derech halimud he imparted to his talmidim.
+Dedication: Cheshbonos is dedicated to the memory of Rav Dov Zemmel z'l, a talmid muvak of R Chayim Pinchas Scheinberg, who taught dozens of talmidim to learn Gemara in an authentic and accurate way. This tool is inspired by the derech halimud he imparted to his talmidim.
