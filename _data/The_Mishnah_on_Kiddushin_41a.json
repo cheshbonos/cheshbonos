@@ -9,7 +9,25 @@
  "paragraphsBySubtopic": {
   "The Mishnah on Kiddushin 41a": [
    {
-    "text": "The text of the Mishnah on Kiddushin 41a reads: ",
+    "text": "There is a Mishnah on Kiddushin 41a that is ",
+    "type": "text"
+   },
+   {
+    "text": "pictured here",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "pictured here",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Picture",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "The Mishnah on Kiddushin 41a"
+   },
+   {
+    "text": ". The text of the Mishnah reads: ",
     "type": "text"
    },
    {
@@ -23,25 +41,7 @@
     "direction": "rtl"
    },
    {
-    "text": "You can see ",
-    "type": "text"
-   },
-   {
-    "text": "where the Mishnah is on the daf",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "where the Mishnah is on the daf",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Where the Mishnah is on the daf",
-    "targetTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "The Mishnah on Kiddushin 41a"
-   },
-   {
-    "text": ". The Mishnah has a ",
+    "text": "The Mishnah has a ",
     "type": "text"
    },
    {
@@ -99,7 +99,7 @@
     "type": "text"
    }
   ],
-  "Where the Mishnah is on the daf": [
+  "Picture": [
    {
     "type": "image",
     "resourceUrl": "/_assets/dafim/Kiddushin_41a_mishnah.png",
@@ -344,7 +344,25 @@
   ],
   "The word מקדש": [
    {
-    "text": "The word מקדש (\"mekadesh\") means someone making something holy, usually used in the context of a man creating the legal status of \"kiddushin\" with a woman prior to marriage. For those interested in grammar, it is the ",
+    "text": "The word מקדש (\"mekadesh\") means making something holy, usually used in the context of a man creating the legal status of \"kiddushin\" with a woman prior to marriage. For those interested in grammar, it has several ",
+    "type": "text"
+   },
+   {
+    "text": "parts of speech",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "parts of speech",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Parts of speech",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "The word מקדש"
+   },
+   {
+    "text": ". For an even more precise understanding, it is the ",
     "type": "text"
    },
    {
@@ -381,6 +399,12 @@
    },
    {
     "text": ".",
+    "type": "text"
+   }
+  ],
+  "Parts of speech": [
+   {
+    "text": "The word מקדש can function as a noun, meaning \"someone who makes something holy\", a verb, \"making holy\", or an adjective, \"the quality of making something holy.\"",
     "type": "text"
    }
   ],
