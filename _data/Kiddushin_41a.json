@@ -99,6 +99,34 @@
     "altText": "Kiddushin 41a Vilna Edition",
     "caption": "Kiddushin 41a Vilna Romm Edition 1880-86CE, courtesy of Sefaria.org",
     "anchorUrl": null
+   },
+   {
+    "text": " This is a ",
+    "type": "text"
+   },
+   {
+    "text": "test",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "test",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Test",
+    "targetTopic": "Kiddushin 41a",
+    "enclosingTopic": "Kiddushin 41a",
+    "enclosingSubtopic": "Picture"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Test": [
+   {
+    "text": "ABC.",
+    "type": "text"
    }
   ]
  }
