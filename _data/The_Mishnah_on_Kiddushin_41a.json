@@ -163,6 +163,24 @@
     "enclosingSubtopic": "First clause"
    },
    {
+    "text": ", a ",
+    "type": "text"
+   },
+   {
+    "text": "contextual translation of the first clause",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "contextual translation of the first clause",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Contextual translation of the first clause",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "First clause"
+   },
+   {
     "text": ", ",
     "type": "text"
    },
@@ -203,7 +221,76 @@
     "type": "text"
    }
   ],
-  "Rishonim on the first clause": [],
+  "Contextual translation of the first clause": [
+   {
+    "text": "Because it is a rule of ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "mishnayos",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " that a present-tense sentence in a Mishnah is generally not telling a story but is giving a ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "psak",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ", a contextual translation of the first clause of the Mishnah would read: ",
+    "type": "text"
+   },
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "A man is allowed to be ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "mekadesh",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " (a woman), either via himself or via a ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "shaliach",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "direction": "ltr"
+   }
+  ],
+  "Rishonim on the first clause": [
+   {
+    "text": "Rashi and Tosofos discuss the first clause.",
+    "type": "text"
+   }
+  ],
   "Gemaras on the first clause": [
    {
     "text": "The first clause of the Mishnah is the subject of the perek's first sugya, hashta b'shlucho mekadesh bo meboya.",
@@ -600,8 +687,30 @@
     "type": "block_quote",
     "tokens": [
      {
-      "text": "The man is being mekadesh, with himself or with a shaliach",
+      "text": "The man is being ",
       "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "mekadesh",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": ", with himself or with a ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "shaliach",
+        "type": "text"
+       }
+      ]
      }
     ],
     "direction": "ltr"
@@ -677,44 +786,6 @@
   ],
   "Why does it say the man?": [
    {
-    "text": "It seems as though the Mishnah should not use the word \"the\"",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "It seems as though the Mishnah should not use the word \"the\"",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "It seems as though the Mishnah should not use the word \"the\"",
-    "targetTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Why does it say the man?"
-   },
-   {
-    "text": ", but ",
-    "type": "text"
-   },
-   {
-    "text": "perhaps the Mishnah uses the word \"the\" because of the prior Mishnah",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "perhaps the Mishnah uses the word \"the\" because of the prior Mishnah",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Perhaps the Mishnah uses the word \"the\" because of the prior Mishnah",
-    "targetTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Why does it say the man?"
-   },
-   {
-    "text": ".",
-    "type": "text"
-   }
-  ],
-  "It seems as though the Mishnah should not use the word \"the\"": [
-   {
     "text": "If the Mishnah wanted to say \"any man can be mekadesh an isha using these methods,\" why did it say \"",
     "type": "text"
    },
@@ -756,7 +827,7 @@
     "targetSubtopic": "Hebrew nouns",
     "targetTopic": "Hebrew nouns",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "It seems as though the Mishnah should not use the word \"the\""
+    "enclosingSubtopic": "Why does it say the man?"
    },
    {
     "text": " ",
@@ -774,42 +845,10 @@
     "targetSubtopic": "By default have an indefinite article",
     "targetTopic": "Hebrew nouns",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "It seems as though the Mishnah should not use the word \"the\""
+    "enclosingSubtopic": "Why does it say the man?"
    },
    {
     "text": ".)",
-    "type": "text"
-   }
-  ],
-  "Perhaps the Mishnah uses the word \"the\" because of the prior Mishnah": [
-   {
-    "text": "Perhaps we can say that this Mishnah is following the first Mishnah of the masechta, which spoke about ways \"the woman\" is niknas, and so maybe the \"the\" in \"the woman\" and the \"the\" in \"the man\" are being used to exclude one another - \"",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "the",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " woman\" (as opposed to the man in the interaction,) and \"",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "the",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " man\" (as opposed to the woman in the interaction.)",
     "type": "text"
    }
   ],
