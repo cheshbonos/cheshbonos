@@ -1,0 +1,71 @@
+{
+ "displayTopicName": "Seven binyanim",
+ "topicTokens": [
+  {
+   "text": "Seven binyanim",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Seven binyanim": [
+   {
+    "text": "Both ",
+    "type": "text"
+   },
+   {
+    "text": "Hebrew",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Hebrew",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Hebrew Binyanim",
+    "targetTopic": "Hebrew Binyanim",
+    "enclosingTopic": "Seven binyanim",
+    "enclosingSubtopic": "Seven binyanim"
+   },
+   {
+    "text": " and ",
+    "type": "text"
+   },
+   {
+    "text": "Aramaic",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Aramaic",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Aramaic Binyanim",
+    "targetTopic": "Aramaic Binyanim",
+    "enclosingTopic": "Seven binyanim",
+    "enclosingSubtopic": "Seven binyanim"
+   },
+   {
+    "text": " have seven binyanim, although they have slightly different names due to the ",
+    "type": "text"
+   },
+   {
+    "text": "binyan naming convention",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "binyan naming convention",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Binyan naming convention",
+    "targetTopic": "Binyan naming convention",
+    "enclosingTopic": "Seven binyanim",
+    "enclosingSubtopic": "Seven binyanim"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ]
+ }
+}

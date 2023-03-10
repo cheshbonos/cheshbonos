@@ -1,51 +1,69 @@
 {
- "displayTopicName": "The Hebrew intensive-active binyan of the shoresh קדש",
+ "displayTopicName": "The _pi'el_ binyan of the shoresh קדש",
  "topicTokens": [
   {
-   "text": "The Hebrew intensive-active binyan of the shoresh קדש",
+   "text": "The ",
+   "type": "text"
+  },
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "pi'el",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " binyan of the shoresh קדש",
    "type": "text"
   }
  ],
  "paragraphsBySubtopic": {
-  "The Hebrew intensive-active binyan of the shoresh קדש": [
+  "The pi'el binyan of the shoresh קדש": [
    {
-    "text": "The ",
-    "type": "text"
-   },
-   {
-    "text": "the shoresh קדש",
+    "text": "The shoresh קדש",
     "type": "global",
     "tokens": [
      {
-      "text": "the shoresh קדש",
+      "text": "The shoresh קדש",
       "type": "text"
      }
     ],
     "targetSubtopic": "The shoresh קדש",
     "targetTopic": "The shoresh קדש",
-    "enclosingTopic": "The Hebrew intensive-active binyan of the shoresh קדש",
-    "enclosingSubtopic": "The Hebrew intensive-active binyan of the shoresh קדש"
+    "enclosingTopic": "The pi'el binyan of the shoresh קדש",
+    "enclosingSubtopic": "The pi'el binyan of the shoresh קדש"
    },
    {
-    "text": " has an ",
+    "text": " has a ",
     "type": "text"
    },
    {
-    "text": "intensive-active binyan",
+    "text": "_pi'el_ binyan",
     "type": "global",
     "tokens": [
      {
-      "text": "intensive-active binyan",
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pi'el",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " binyan",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Intensive-active binyan",
-    "targetTopic": "Intensive-active binyan",
-    "enclosingTopic": "The Hebrew intensive-active binyan of the shoresh קדש",
-    "enclosingSubtopic": "The Hebrew intensive-active binyan of the shoresh קדש"
+    "targetSubtopic": "Pi'el",
+    "targetTopic": "Pi'el",
+    "enclosingTopic": "The pi'el binyan of the shoresh קדש",
+    "enclosingSubtopic": "The pi'el binyan of the shoresh קדש"
    },
    {
-    "text": " (also called the pi'el), which has a past tense, a ",
+    "text": " which has a past tense, a ",
     "type": "text"
    },
    {
@@ -57,10 +75,10 @@
       "type": "text"
      }
     ],
-    "targetSubtopic": "The participle tense of the Hebrew intensive-active binyan of the shoresh קדש",
-    "targetTopic": "The participle tense of the Hebrew intensive-active binyan of the shoresh קדש",
-    "enclosingTopic": "The Hebrew intensive-active binyan of the shoresh קדש",
-    "enclosingSubtopic": "The Hebrew intensive-active binyan of the shoresh קדש"
+    "targetSubtopic": "The pi'el participle of the shoresh קדש",
+    "targetTopic": "The pi'el participle of the shoresh קדש",
+    "enclosingTopic": "The pi'el binyan of the shoresh קדש",
+    "enclosingSubtopic": "The pi'el binyan of the shoresh קדש"
    },
    {
     "text": ", an future tense, a command tense, and an infinitive. There is a ",
@@ -76,9 +94,9 @@
      }
     ],
     "targetSubtopic": "Meaning of the Hebrew intensive of the shoresh קדש",
-    "targetTopic": "The Hebrew intensive-active binyan of the shoresh קדש",
-    "enclosingTopic": "The Hebrew intensive-active binyan of the shoresh קדש",
-    "enclosingSubtopic": "The Hebrew intensive-active binyan of the shoresh קדש"
+    "targetTopic": "The pi'el binyan of the shoresh קדש",
+    "enclosingTopic": "The pi'el binyan of the shoresh קדש",
+    "enclosingSubtopic": "The pi'el binyan of the shoresh קדש"
    },
    {
     "text": ".",

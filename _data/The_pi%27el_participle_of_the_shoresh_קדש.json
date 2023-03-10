@@ -1,0 +1,85 @@
+{
+ "displayTopicName": "The _pi'el_ participle of the shoresh קדש",
+ "topicTokens": [
+  {
+   "text": "The ",
+   "type": "text"
+  },
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "pi'el",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " participle of the shoresh קדש",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "The pi'el participle of the shoresh קדש": [
+   {
+    "text": "There is a participle tense of ",
+    "type": "text"
+   },
+   {
+    "text": "the _pi'el_ binyan of the shoresh קדש",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "the ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pi'el",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " binyan of the shoresh קדש",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "The pi'el binyan of the shoresh קדש",
+    "targetTopic": "The pi'el binyan of the shoresh קדש",
+    "enclosingTopic": "The pi'el participle of the shoresh קדש",
+    "enclosingSubtopic": "The pi'el participle of the shoresh קדש"
+   },
+   {
+    "text": " with a participle tense, which has a ",
+    "type": "text"
+   },
+   {
+    "text": "masculine singular",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "masculine singular",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Masculine singular",
+    "targetTopic": "The pi'el participle of the shoresh קדש",
+    "enclosingTopic": "The pi'el participle of the shoresh קדש",
+    "enclosingSubtopic": "The pi'el participle of the shoresh קדש"
+   },
+   {
+    "text": ", feminine singular, masculine plural, and feminine plural.",
+    "type": "text"
+   }
+  ],
+  "Masculine singular": [
+   {
+    "text": "The Hebrew masculine singular participle of the shoresh \"קדש\" is מְקַדֵּשׁ, pronounced \"mekadesh.\"",
+    "type": "text"
+   }
+  ]
+ }
+}

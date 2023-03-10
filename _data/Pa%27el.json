@@ -1,0 +1,62 @@
+{
+ "displayTopicName": "Pa'el",
+ "topicTokens": [
+  {
+   "text": "Pa'el",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Pa'el": [
+   {
+    "text": "The \"pa'el\" (פַּעֵל) binyan, also known as the Aramaic active intensive binyan, is a ",
+    "type": "text"
+   },
+   {
+    "text": "binyan",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "binyan",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Binyan",
+    "targetTopic": "Binyan",
+    "enclosingTopic": "Pa'el",
+    "enclosingSubtopic": "Pa'el"
+   },
+   {
+    "text": " that exists in Aramaic corresponding to the ",
+    "type": "text"
+   },
+   {
+    "text": "_pi'el_ in Hebrew",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pi'el",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " in Hebrew",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Pi'el",
+    "targetTopic": "Pi'el",
+    "enclosingTopic": "Pa'el",
+    "enclosingSubtopic": "Pa'el"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ]
+ }
+}

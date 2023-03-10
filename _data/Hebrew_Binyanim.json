@@ -1,39 +1,15 @@
 {
- "displayTopicName": "The shoresh קדש",
+ "displayTopicName": "Hebrew Binyanim",
  "topicTokens": [
   {
-   "text": "The shoresh קדש",
+   "text": "Hebrew Binyanim",
    "type": "text"
   }
  ],
  "paragraphsBySubtopic": {
-  "The shoresh קדש": [
+  "Hebrew Binyanim": [
    {
-    "text": "קדש is a shoresh with forms in ",
-    "type": "text"
-   },
-   {
-    "text": "Hebrew",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "Hebrew",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Hebrew",
-    "targetTopic": "The shoresh קדש",
-    "enclosingTopic": "The shoresh קדש",
-    "enclosingSubtopic": "The shoresh קדש"
-   },
-   {
-    "text": " and Aramaic.",
-    "type": "text"
-   }
-  ],
-  "Hebrew": [
-   {
-    "text": "The shoresh קדש has seven \"binyanim\" in Hebrew, the ",
+    "text": "The seven binyanim of Hebrew are the ",
     "type": "text"
    },
    {
@@ -59,22 +35,17 @@
     ]
    },
    {
-    "text": ", ",
+    "text": ", the ",
     "type": "text"
    },
    {
-    "text": "the pi'el binyan of the shoresh קדש",
-    "type": "global",
+    "type": "italics",
     "tokens": [
      {
-      "text": "the pi'el binyan of the shoresh קדש",
+      "text": "pi'el",
       "type": "text"
      }
-    ],
-    "targetSubtopic": "The pi'el binyan of the shoresh קדש",
-    "targetTopic": "The pi'el binyan of the shoresh קדש",
-    "enclosingTopic": "The shoresh קדש",
-    "enclosingSubtopic": "Hebrew"
+    ]
    },
    {
     "text": ", the ",

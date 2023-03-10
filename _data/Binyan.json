@@ -9,19 +9,19 @@
  "paragraphsBySubtopic": {
   "Binyan": [
    {
-    "text": "Binyan has a ",
+    "text": "\"Binyan\" is ",
     "type": "text"
    },
    {
-    "text": "definition",
+    "text": "a grammatical concept in Hebrew and Aramaic",
     "type": "local",
     "tokens": [
      {
-      "text": "definition",
+      "text": "a grammatical concept in Hebrew and Aramaic",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Definition",
+    "targetSubtopic": "A grammatical concept in Hebrew and Aramaic",
     "targetTopic": "Binyan",
     "enclosingTopic": "Binyan",
     "enclosingSubtopic": "Binyan"
@@ -32,7 +32,7 @@
    },
    {
     "text": "seven binyanim",
-    "type": "local",
+    "type": "global",
     "tokens": [
      {
       "text": "seven binyanim",
@@ -40,7 +40,7 @@
      }
     ],
     "targetSubtopic": "Seven binyanim",
-    "targetTopic": "Binyan",
+    "targetTopic": "Seven binyanim",
     "enclosingTopic": "Binyan",
     "enclosingSubtopic": "Binyan"
    },
@@ -49,9 +49,9 @@
     "type": "text"
    }
   ],
-  "Definition": [
+  "A grammatical concept in Hebrew and Aramaic": [
    {
-    "text": "A binyan is a permutation of a ",
+    "text": "Whereas a ",
     "type": "text"
    },
    {
@@ -66,76 +66,49 @@
     "targetSubtopic": "Shoresh",
     "targetTopic": "Shoresh",
     "enclosingTopic": "Binyan",
-    "enclosingSubtopic": "Definition"
+    "enclosingSubtopic": "A grammatical concept in Hebrew and Aramaic"
    },
    {
-    "text": " in Hebrew and Aramaic that realizes the general meaning of the shoresh into a particular action or quality. A shoresh might have a general meaning of \"holy,\" whereas a particular binyan of that shoresh might mean \"to make something holy,\" or \"to be holy.\"",
-    "type": "text"
-   }
-  ],
-  "Seven binyanim": [
-   {
-    "text": "Both Hebrew and Aramaic have seven binyanim, although they have slightly different names due to the ",
+    "text": " represents a vague and general category of meaning, a ",
     "type": "text"
    },
    {
-    "text": "binyan naming convention",
-    "type": "local",
+    "type": "italics",
     "tokens": [
      {
-      "text": "binyan naming convention",
+      "text": "binyan",
       "type": "text"
      }
-    ],
-    "targetSubtopic": "Binyan naming convention",
-    "targetTopic": "Binyan",
-    "enclosingTopic": "Binyan",
-    "enclosingSubtopic": "Seven binyanim"
+    ]
    },
    {
-    "text": ". The binyanim are the simple-active, the simple-passive, the ",
+    "text": " takes a ",
     "type": "text"
    },
    {
-    "text": "intensive-active",
-    "type": "global",
+    "type": "italics",
     "tokens": [
      {
-      "text": "intensive-active",
+      "text": "shoresh",
       "type": "text"
      }
-    ],
-    "targetSubtopic": "Intensive-active binyan",
-    "targetTopic": "Intensive-active binyan",
-    "enclosingTopic": "Binyan",
-    "enclosingSubtopic": "Seven binyanim"
+    ]
    },
    {
-    "text": ", the intensive-passive, the causative-active, the causative-passive, and the reflexive.",
-    "type": "text"
-   }
-  ],
-  "Binyan naming convention": [
-   {
-    "text": "Binyanim in Hebrew and Aramaic are named after the third-person masculine conjugation of the shoresh פעל in that binyan. So, for example, the ",
+    "text": " and instantiates the ",
     "type": "text"
    },
    {
-    "text": "intensive-active binyan",
-    "type": "global",
+    "type": "italics",
     "tokens": [
      {
-      "text": "intensive-active binyan",
+      "text": "shoresh's",
       "type": "text"
      }
-    ],
-    "targetSubtopic": "Intensive-active binyan",
-    "targetTopic": "Intensive-active binyan",
-    "enclosingTopic": "Binyan",
-    "enclosingSubtopic": "Binyan naming convention"
+    ]
    },
    {
-    "text": " is called the \"pi'el\", (פִּעֵל),",
+    "text": " general meaning into a specific verb or adjective. A shoresh like קדש might have the general meaning of \"holiness\" whereas a particular binyan of that shoresh might produce the specific verb \"to make something holy,\" or \"to be holy.\"",
     "type": "text"
    }
   ]

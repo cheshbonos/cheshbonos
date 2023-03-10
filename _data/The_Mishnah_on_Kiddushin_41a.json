@@ -127,22 +127,64 @@
     "direction": "rtl"
    },
    {
-    "text": "This is the first clause of the Mishnah. You can read about the ",
+    "text": "This is the first clause of the Mishnah. You can learn ",
     "type": "text"
    },
    {
-    "text": "words of the first clause",
+    "text": "how to read the first clause",
     "type": "local",
     "tokens": [
      {
-      "text": "words of the first clause",
+      "text": "how to read the first clause",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Words of the first clause",
+    "targetSubtopic": "How to read the first clause",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
     "enclosingSubtopic": "First clause"
+   },
+   {
+    "text": ", and ",
+    "type": "text"
+   },
+   {
+    "text": "what is said about the first clause",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "what is said about the first clause",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "What is said about the first clause",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "First clause"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "How to read the first clause": [
+   {
+    "text": "You can read about ",
+    "type": "text"
+   },
+   {
+    "text": "the words of the first clause",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "the words of the first clause",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "The words of the first clause",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "How to read the first clause"
    },
    {
     "text": ", a ",
@@ -160,10 +202,10 @@
     "targetSubtopic": "Literal translation of the first clause",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "First clause"
+    "enclosingSubtopic": "How to read the first clause"
    },
    {
-    "text": ", a ",
+    "text": ", and a ",
     "type": "text"
    },
    {
@@ -178,25 +220,31 @@
     "targetSubtopic": "Contextual translation of the first clause",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "First clause"
+    "enclosingSubtopic": "How to read the first clause"
    },
    {
-    "text": ", ",
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "What is said about the first clause": [
+   {
+    "text": "There are ",
     "type": "text"
    },
    {
-    "text": "Rishonim on the first clause",
+    "text": "mefarshim on the first clause",
     "type": "local",
     "tokens": [
      {
-      "text": "Rishonim on the first clause",
+      "text": "mefarshim on the first clause",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Rishonim on the first clause",
+    "targetSubtopic": "Mefarshim on the first clause",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "First clause"
+    "enclosingSubtopic": "What is said about the first clause"
    },
    {
     "text": ", and ",
@@ -214,7 +262,7 @@
     "targetSubtopic": "Gemaras on the first clause",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "First clause"
+    "enclosingSubtopic": "What is said about the first clause"
    },
    {
     "text": ".",
@@ -285,7 +333,7 @@
     "direction": "ltr"
    }
   ],
-  "Rishonim on the first clause": [
+  "Mefarshim on the first clause": [
    {
     "text": "Rashi and Tosofos discuss the first clause.",
     "type": "text"
@@ -293,11 +341,29 @@
   ],
   "Gemaras on the first clause": [
    {
-    "text": "The first clause of the Mishnah is the subject of the perek's first sugya, hashta b'shlucho mekadesh bo meboya.",
+    "text": "The first clause of the Mishnah is the subject of the perek's first sugya, ",
+    "type": "text"
+   },
+   {
+    "text": "hashta b'shlucho mekadesh bo meboya",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "hashta b'shlucho mekadesh bo meboya",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Hashta B'shlucho mekadesh bo meboya",
+    "targetTopic": "Hashta B'shlucho mekadesh bo meboya",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Gemaras on the first clause"
+   },
+   {
+    "text": ".",
     "type": "text"
    }
   ],
-  "Words of the first clause": [
+  "The words of the first clause": [
    {
     "text": "The first clause of the Mishnah includes ",
     "type": "text"
@@ -314,7 +380,7 @@
     "targetSubtopic": "The word האיש",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Words of the first clause"
+    "enclosingSubtopic": "The words of the first clause"
    },
    {
     "text": ", ",
@@ -332,7 +398,7 @@
     "targetSubtopic": "The word מקדש",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Words of the first clause"
+    "enclosingSubtopic": "The words of the first clause"
    },
    {
     "text": ", ",
@@ -350,7 +416,7 @@
     "targetSubtopic": "The word בו",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Words of the first clause"
+    "enclosingSubtopic": "The words of the first clause"
    },
    {
     "text": ", and ",
@@ -368,7 +434,7 @@
     "targetSubtopic": "The word ובשלוחו",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Words of the first clause"
+    "enclosingSubtopic": "The words of the first clause"
    },
    {
     "text": ".",
@@ -431,40 +497,96 @@
   ],
   "The word מקדש": [
    {
-    "text": "The word מקדש (\"mekadesh\") means making something holy, usually used in the context of a man creating the legal status of \"kiddushin\" with a woman prior to marriage. For those interested in grammar, it can be used in several ",
+    "text": "The word מקדש (\"mekadesh\") has a ",
     "type": "text"
    },
    {
-    "text": "parts of speech",
+    "text": "basic meaning",
     "type": "local",
     "tokens": [
      {
-      "text": "parts of speech",
+      "text": "basic meaning",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Parts of speech",
+    "targetSubtopic": "Basic meaning",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
     "enclosingSubtopic": "The word מקדש"
    },
    {
-    "text": ", and is the ",
+    "text": " and ",
     "type": "text"
    },
    {
-    "text": "the participle tense of the Hebrew intensive-active binyan of the shoresh קדש",
-    "type": "global",
+    "text": "advanced dikduk",
+    "type": "local",
     "tokens": [
      {
-      "text": "the participle tense of the Hebrew intensive-active binyan of the shoresh קדש",
+      "text": "advanced dikduk",
       "type": "text"
      }
     ],
-    "targetSubtopic": "The participle tense of the Hebrew intensive-active binyan of the shoresh קדש",
-    "targetTopic": "The participle tense of the Hebrew intensive-active binyan of the shoresh קדש",
+    "targetSubtopic": "Advanced dikduk",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
     "enclosingSubtopic": "The word מקדש"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Basic meaning": [
+   {
+    "text": "The word מקדש (\"mekadesh\") means making something holy, usually used in the context of a man creating the legal status of \"kiddushin\" with a woman prior to marriage, but also, for example, Hashem being ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "mekadesh es ha'shabbos",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " ie making the Shabbos holy.",
+    "type": "text"
+   }
+  ],
+  "Advanced dikduk": [
+   {
+    "text": "For those interested in grammar, the word מקדש is the ",
+    "type": "text"
+   },
+   {
+    "text": "the _pi'el_ participle of the shoresh קדש",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "the ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pi'el",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " participle of the shoresh קדש",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "The pi'el participle of the shoresh קדש",
+    "targetTopic": "The pi'el participle of the shoresh קדש",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Advanced dikduk"
    },
    {
     "text": " in the ",
@@ -480,9 +602,9 @@
      }
     ],
     "targetSubtopic": "Masculine singular",
-    "targetTopic": "The participle tense of the Hebrew intensive-active binyan of the shoresh קדש",
+    "targetTopic": "The pi'el participle of the shoresh קדש",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "The word מקדש"
+    "enclosingSubtopic": "Advanced dikduk"
    },
    {
     "text": ".",
@@ -680,7 +802,7 @@
   ],
   "Literal translation of the first clause": [
    {
-    "text": "Once we have identified which meanings to assign to the individual words, a literal translation might be: ",
+    "text": "A literal translation of the first clause of the Mishnah might be: ",
     "type": "text"
    },
    {

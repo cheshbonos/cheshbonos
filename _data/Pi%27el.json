@@ -1,0 +1,62 @@
+{
+ "displayTopicName": "Pi'el",
+ "topicTokens": [
+  {
+   "text": "Pi'el",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Pi'el": [
+   {
+    "text": "The \"pi'el\" (פִּעֵל), also known as the Hebrew active intensive binyan, is a ",
+    "type": "text"
+   },
+   {
+    "text": "binyan",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "binyan",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Binyan",
+    "targetTopic": "Binyan",
+    "enclosingTopic": "Pi'el",
+    "enclosingSubtopic": "Pi'el"
+   },
+   {
+    "text": " that exists in Hebrew corresponding to the ",
+    "type": "text"
+   },
+   {
+    "text": "_pa'el_ in Aramaic",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pa'el",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " in Aramaic",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Pa'el",
+    "targetTopic": "Pa'el",
+    "enclosingTopic": "Pi'el",
+    "enclosingSubtopic": "Pi'el"
+   },
+   {
+    "text": ". It is called the \"intensive\" because shorushim that are converted into verbs by putting them in the intensive often assume a meaning that is a more \"intense\" version of the idea that is represented by the shoresh itself. [Add example].",
+    "type": "text"
+   }
+  ]
+ }
+}

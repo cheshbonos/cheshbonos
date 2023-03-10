@@ -9,7 +9,7 @@
  "paragraphsBySubtopic": {
   "Perek Ha'ish Mekadesh": [
    {
-    "text": "You can  navigate ",
+    "text": "You can navigate ",
     "type": "text"
    },
    {
@@ -58,24 +58,6 @@
     "enclosingSubtopic": "Perek Ha'ish Mekadesh"
    },
    {
-    "text": ". Perek Ha'ish Mekadesh is the second perek of ",
-    "type": "text"
-   },
-   {
-    "text": "Maseches Kiddushin",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "Maseches Kiddushin",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Maseches Kiddushin",
-    "targetTopic": "Maseches Kiddushin",
-    "enclosingTopic": "Perek Ha'ish Mekadesh",
-    "enclosingSubtopic": "Perek Ha'ish Mekadesh"
-   },
-   {
     "text": ".",
     "type": "text"
    }
@@ -110,11 +92,11 @@
     "type": "text"
    },
    {
-    "text": "the mishnah on Kiddushin 41a",
+    "text": "the Mishnah on Kiddushin 41a",
     "type": "global",
     "tokens": [
      {
-      "text": "the mishnah on Kiddushin 41a",
+      "text": "the Mishnah on Kiddushin 41a",
       "type": "text"
      }
     ],
