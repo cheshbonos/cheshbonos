@@ -19,29 +19,20 @@ setTimeout(() => {
 Dedication: Cheshbonos is dedicated to the memory of Rav Dov Zemmel z'l, a talmid muvak of R Chayim Pinchas Scheinberg, who taught dozens of talmidim to learn Gemara in an authentic and accurate way. This tool is inspired by the derech halimud he imparted to his talmidim.
 
 
-[Gemara]
-
-* Talmud Bavli: The Talmud Bavli is a commentary on the Mishnah. Talmud Bavli [[follows the six sedarim of the Mishnah]].
-
-Follows the six sedarim of the Mishnah: There is Talmud Bavli on Seder Moed, [[Seder Nashim]], Seder Nezikin, Seder Kodashim, and Seder Tahoros.
-
-Seder Nashim: Seder Nashim of Talmud Bavli includes Yevamot, Ketubot, Nedarim, Nazir, Sotah, Gittin, and [[Maseches Kiddushin|Kiddushin]].
-
-
-[Gemara/Kiddushin]
-
-* Maseches Kiddushin: Maseches Kiddushin is a masechta of [[Seder Nashim]] in [[Talmud Bavli]]. It has several [[perakim]].
-
-Perakim: The first perek of Meseches Kiddushin is Perek Ha'isha Niknas. The second perek of Maseches Kiddushin is [[Perek Ha'Ish Mekadesh]].
-
-
 [Gemara/Kiddushin/Dafim/41a]
 
 * Kiddushin 41a:
-Kiddushin 41a can be seen [[{{picture}}d here]]. It contains [[{the|a}{ mishnah} on Kiddushin 41a]], and the sugya of hashta b'shlucho mekadesh bo meboya.
+Kiddushin 41a can be seen [[{{picture}}d here]]. It contains [[{the|a}{ mishnah} on Kiddushin 41a]], and the sugya of [[hashta b'shlucho mekadesh bo meboya]].
 
 Picture: ![Kiddushin 41a Vilna Edition](/_assets/dafim/Kiddushin_41a.png "Kiddushin 41a" "Kiddushin 41a Vilna Romm Edition 1880-86CE, courtesy of Sefaria.org")
 
+
+[Gemara/Kiddushin/Dafim/41a/Hashta B'shlucho Mekadesh Bo Meboya]
+
+* Hashta B'shlucho mekadesh bo meboya: This is a sugya.
+
+
+[Gemara/Kiddushin/Dafim/41a/Mishna]
 
 * The Mishnah on Kiddushin 41a:
 The Mishnah on Kiddushin 41a is [[{{picture}}d here]]. The text of the Mishnah reads:
@@ -54,16 +45,20 @@ Picture: ![Kiddushin 41a Vilna Edition](/_assets/dafim/Kiddushin_41a_mishnah.png
 
 First clause:
 < האיש מקדש בו ובשלוחו
-This is the first clause of the Mishnah. You can read about the [[words of the first clause]], a [[literal translation of the first clause]], a [[contextual translation of the first clause]], [[Rishonim on the first clause]], and [[Gemaras on the first clause]].
+This is the first clause of the Mishnah. You can learn [[how to read the first clause]], and [[what is said about the first clause]].
+
+How to read the first clause: You can read about [[the words of the first clause]], a [[literal translation of the first clause]], and a [[contextual translation of the first clause]].
+
+What is said about the first clause: There are [[mefarshim on the first clause]], and [[Gemaras on the first clause]].
 
 Contextual translation of the first clause: Because it is a rule of _mishnayos_ that a present-tense sentence in a Mishnah is generally not telling a story but is giving a _psak_, a contextual translation of the first clause of the Mishnah would read:
 > A man is allowed to be _mekadesh_ (a woman), either via himself or via a _shaliach_
 
-Rishonim on the first clause: Rashi and Tosofos discuss the first clause.
+Mefarshim on the first clause: Rashi and Tosofos discuss the first clause.
 
-Gemaras on the first clause: The first clause of the Mishnah is the subject of the perek's first sugya, hashta b'shlucho mekadesh bo meboya.
+Gemaras on the first clause: The first clause of the Mishnah is the subject of the perek's first sugya, [[hashta b'shlucho mekadesh bo meboya]].
 
-Words of the first clause: The first clause of the Mishnah includes [[the word האיש]], [[the word מקדש]], [[the word בו]], and [[the word ובשלוחו]].
+The words of the first clause: The first clause of the Mishnah includes [[the word האיש]], [[the word מקדש]], [[the word בו]], and [[the word ובשלוחו]].
 
 The word האיש: The word האיש is composed of [[the word איש]] and [[the prefix ה]].
 
@@ -71,7 +66,11 @@ The word איש: The word איש in Hebrew means "man."
 
 The prefix ה: The prefix ה in Hebrew means "the."
 
-The word מקדש: The word מקדש ("mekadesh") means making something holy, usually used in the context of a man creating the legal status of "kiddushin" with a woman prior to marriage. For those interested in grammar, it can be used in several [[parts of speech]], and is the [[the participle tense of the Hebrew intensive-active binyan of the shoresh קדש]] in the [[masculine singular]].
+The word מקדש: The word מקדש ("mekadesh") has a [[basic meaning]] and [[advanced dikduk]].
+
+Basic meaning: The word מקדש ("mekadesh") means making something holy, usually used in the context of a man creating the legal status of "kiddushin" with a woman prior to marriage, but also, for example, Hashem being _mekadesh es ha'shabbos_ ie making the Shabbos holy.
+
+Advanced dikduk: For those interested in grammar, the word מקדש is the [[the _pi'el_ participle of the shoresh קדש]] in the [[masculine singular]].
 
 Parts of speech: The word מקדש can function as a noun, meaning "someone who makes something holy", a verb, someone or something "is making holy," or an adjective, something has "the quality of making something holy."
 
@@ -85,7 +84,7 @@ The word שלוח: The word שלוח means "someone or something that is sent." 
 
 The noun suffix ו: The suffix ו when applied to a noun means "of him" or "of it."
 
-Literal translation of the first clause: Once we have identified which meanings to assign to the individual words, a literal translation might be:
+Literal translation of the first clause: A literal translation of the first clause of the Mishnah might be:
 > The man is being _mekadesh_, with himself or with a _shaliach_
 Try to figure out what this means in context. You might ask: [[What does "being mekadesh" mean here?]] [[Why does it say _the_ man?]]
 
@@ -119,25 +118,36 @@ Pshat in the third clause: This is a work in progress.
 
 [Gemara/Kiddushin/Perakim/Ha'ish Mekadesh]
 
-* Perek Ha'ish Mekadesh: You can  navigate _Perek Ha'ish Mekadesh_ [[by daf]] or [[by Mishnah]]. Perek Ha'ish Mekadesh is the second perek of [[Maseches Kiddushin]].
+* Perek Ha'ish Mekadesh: You can navigate _Perek Ha'ish Mekadesh_ [[by daf]] or [[by Mishnah]].
 
 By daf: Perek Ha'ish Mekadesh covers eighteen daf, beginning on [[Kiddushin 41a]] and ending on Kiddushin 58b.
 
-By Mishnah: Perek Ha'ish Mekadesh begins with [[the mishnah on Kiddushin 41a]].
+By Mishnah: Perek Ha'ish Mekadesh begins with [[the Mishnah on Kiddushin 41a]].
 
 
 [Lashonos/Binyanim]
 
-* Binyan: Binyan has a [[definition]]. There are [[seven binyanim]].
-
-Definition: A binyan is a permutation of a [[shoresh]] in Hebrew and Aramaic that realizes the general meaning of the shoresh into a particular action or quality. A shoresh might have a general meaning of "holy," whereas a particular binyan of that shoresh might mean "to make something holy," or "to be holy."
-
-Seven binyanim: Both Hebrew and Aramaic have seven binyanim, although they have slightly different names due to the [[binyan naming convention]]. The binyanim are the simple-active, the simple-passive, the [[intensive-active binyan|intensive-active]], the intensive-passive, the causative-active, the causative-passive, and the reflexive.
-
-Binyan naming convention: Binyanim in Hebrew and Aramaic are named after the third-person masculine conjugation of the shoresh פעל in that binyan. So, for example, the [[intensive-active binyan]] is called the "pi'el", (פִּעֵל),
+* Aramaic Binyanim: The seven binyanim of Aramaic are the _pe'al_, the _ispe'el_, the _pa'el_, the _pa'el_, the _hif'il_, the _huf'al_, and the _hispa'el_.
 
 
-* Intensive-active binyan: The intensive-active binyan, also known as the "pi'el" (פִּעֵל) in Hebrew, is a [[binyan]] that exists in Hebrew and Aramaic. It is called the "intensive" because shorushim that are converted into verbs by putting them in the intensive often assume a meaning that is a more "intense" version of the idea that is represented by the shoresh itself. [Add example].
+* Binyan: "Binyan" is [[a grammatical concept in Hebrew and Aramaic]]. There are [[seven binyanim]].
+
+A grammatical concept in Hebrew and Aramaic: Whereas a [[shoresh]] represents a vague and general category of meaning, a _binyan_ takes a _shoresh_ and instantiates the _shoresh's_ general meaning into a specific verb or adjective. A shoresh like קדש might have the general meaning of "holiness" whereas a particular binyan of that shoresh might produce the specific verb "to make something holy," or "to be holy."
+
+
+* Binyan naming convention: Binyanim in Hebrew and Aramaic are named after the third-person masculine conjugation of the shoresh פעל in that binyan. So, for example, theintensive-active binyan is called the "pi'el", (פִּעֵל),
+
+
+* Hebrew Binyanim: The seven binyanim of Hebrew are the _pa'al_, the _nif'al_, the _pi'el_, the _pu'al_, the _hif'il_, the _huf'al_, and the _hispa'el_.
+
+
+* Pa'el: The "pa'el" (פַּעֵל) binyan, also known as the Aramaic active intensive binyan, is a [[binyan]] that exists in Aramaic corresponding to the [[{{_pi'el_}} in Hebrew]].
+
+
+* Pi'el: The "pi'el" (פִּעֵל), also known as the Hebrew active intensive binyan, is a [[binyan]] that exists in Hebrew corresponding to the [[{{_pa'el_}} in Aramaic]]. It is called the "intensive" because shorushim that are converted into verbs by putting them in the intensive often assume a meaning that is a more "intense" version of the idea that is represented by the shoresh itself. [Add example].
+
+
+* Seven binyanim: Both [[{Hebrew} Binyanim]] and [[{Aramaic} Binyanim]] have seven binyanim, although they have slightly different names due to the [[binyan naming convention]].
 
 
 [Lashonos/Concepts]
@@ -198,7 +208,29 @@ Short for various words: The prefix ב is often short for one of several words b
 By default have an indefinite article: The Hebrew word איש, for example, means "a man", not just "man" and there is no specific word in Hebrew for "a".
 
 
-[Lashonos/Shorushim]
+[Lashonos/Shorushim/בעה]
+
+* The shoresh בעה: "בעה" is a shoresh in Aramaic that can mean "requesting", "searching" or "needing".
+
+
+[Lashonos/Shorushim/קדש]
+
+* The _pi'el_ binyan of the shoresh קדש: [[The shoresh קדש]] has a [[{{_pi'el_}} binyan]] which has a past tense, a [[The _pi'el_ {participle}{| tense} of the shoresh קדש]], an future tense, a command tense, and an infinitive. There is a [[meaning of the Hebrew intensive of the shoresh קדש]].
+
+Meaning of the Hebrew intensive of the shoresh קדש: The intensive binyan of the shoresh קדש can mean "to produce a stage called _kiddushin_ between a man and a woman." Kiddushin is a stage prior to full marriage (called nisuyin) in which the woman is halachically designated to the man. It can also mean to make something holy, as in "mekadesh ha'shabbos."
+
+
+* The _pi'el_ participle of the shoresh קדש: There is a participle tense of [[{the _pi'el_ binyan of the shoresh קדש]] with a participle tense, which has a [[masculine singular]], feminine singular, masculine plural, and feminine plural.
+
+Masculine singular: The Hebrew masculine singular participle of the shoresh "קדש" is מְקַדֵּשׁ, pronounced "mekadesh."
+
+
+* The shoresh קדש: קדש is a shoresh with forms in [[Hebrew]] and Aramaic.
+
+Hebrew: The shoresh קדש has seven "binyanim" in Hebrew, the _pa'al_, the _nif'al_, [[the pi'el binyan of the shoresh קדש]], the _pu'al_, the _hif'il_, the _huf'al_, and the _hispa'el_.
+
+
+[Lashonos/Shorushim/שלח]
 
 * _Pa'al_ of the shoresh שלח: The simple-active or "pa'al" binyan has an active participle tense, a [[pa'al {passive participle tense} of the shoresh שלח]], a past tense, a future tense, an imperative tense, and an infinitive.
 
@@ -212,24 +244,6 @@ Simple-active passive participle feminine singular: The simple-active, passive p
 Simple-active passive participle masculine plural: The simple-active, passive participle, masculine singular of the shoresh שלח is שְׁלוּחִים, "sh'luchim." If it is used as a noun, it means "people or things (masculine) that are or have been sent." If it is used as an adjective, it means "sent," as in "the sent men." If it is used as a verb, it means "are sent."
 
 Simple-active passive participle feminine plural: The simple-active, passive participle, feminine plural, of the shoresh שלח is שְׁלוּחוֹת, "sh'lucho(s/t)." If it is used as a noun, it means "people or things (feminine) that are or have been sent." If it is used as an adjective, it means "sent," as in "the sent women." If it is used as a verb, it means "are sent."
-
-
-* The Hebrew intensive-active binyan of the shoresh קדש: The [[the shoresh קדש]] has an [[intensive-active binyan]] (also called the pi'el), which has a past tense, a [[The participle tense of the Hebrew intensive-active binyan of the shoresh קדש|participle tense]], an future tense, a command tense, and an infinitive. There is a [[meaning of the Hebrew intensive of the shoresh קדש]].
-
-Meaning of the Hebrew intensive of the shoresh קדש: The intensive binyan of the shoresh קדש can mean "to produce a stage called _kiddushin_ between a man and a woman." Kiddushin is a stage prior to full marriage (called nisuyin) in which the woman is halachically designated to the man. It can also mean to make something holy, as in "mekadesh ha'shabbos."
-
-
-* The participle tense of the Hebrew intensive-active binyan of the shoresh קדש: The shoresh קדש [[The Hebrew intensive-active binyan of the shoresh קדש|has an intensive-active binyan]] with a participle tense, which has a [[masculine singular]], feminine singular, masculine plural, and feminine plural.
-
-Masculine singular: The Hebrew masculine singular participle of the shoresh "קדש" is מְקַדֵּשׁ, pronounced "mekadesh."
-
-
-* The shoresh בעה: "בעה" is a shoresh in Aramaic that can mean "requesting", "searching" or "needing".
-
-
-* The shoresh קדש: קדש is a shoresh with forms in [[Hebrew]] and Aramaic.
-
-Hebrew: The shoresh קדש has seven "binyanim" in Hebrew, the simple-active, the simple-passive, the [[The Hebrew intensive-active binyan of the shoresh קדש|intensive-active]], the intensive-passive, the causative-active, the causative-passive, and the reflexive.
 
 
 * The shoresh שלח: The shoresh שלח is a shoresh that has forms in [[Hebrew]] and Aramaic.
