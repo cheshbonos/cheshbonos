@@ -9,29 +9,47 @@
  "paragraphsBySubtopic": {
   "The shoresh קדש": [
    {
-    "text": "קדש is a shoresh with forms in ",
+    "text": "קדש is a ",
     "type": "text"
    },
    {
-    "text": "Hebrew",
-    "type": "local",
+    "text": "shoresh",
+    "type": "global",
     "tokens": [
      {
-      "text": "Hebrew",
+      "text": "shoresh",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Hebrew",
+    "targetSubtopic": "Shoresh",
+    "targetTopic": "Shoresh",
+    "enclosingTopic": "The shoresh קדש",
+    "enclosingSubtopic": "The shoresh קדש"
+   },
+   {
+    "text": " with ",
+    "type": "text"
+   },
+   {
+    "text": "forms in Hebrew",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "forms in Hebrew",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Forms in Hebrew",
     "targetTopic": "The shoresh קדש",
     "enclosingTopic": "The shoresh קדש",
     "enclosingSubtopic": "The shoresh קדש"
    },
    {
-    "text": " and Aramaic.",
+    "text": " and forms in Aramaic.",
     "type": "text"
    }
   ],
-  "Hebrew": [
+  "Forms in Hebrew": [
    {
     "text": "The shoresh קדש has seven \"binyanim\" in Hebrew, the ",
     "type": "text"
@@ -63,18 +81,27 @@
     "type": "text"
    },
    {
-    "text": "the pi'el binyan of the shoresh קדש",
+    "text": "the _pi'el_",
     "type": "global",
     "tokens": [
      {
-      "text": "the pi'el binyan of the shoresh קדש",
+      "text": "the ",
       "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pi'el",
+        "type": "text"
+       }
+      ]
      }
     ],
     "targetSubtopic": "The pi'el binyan of the shoresh קדש",
     "targetTopic": "The pi'el binyan of the shoresh קדש",
     "enclosingTopic": "The shoresh קדש",
-    "enclosingSubtopic": "Hebrew"
+    "enclosingSubtopic": "Forms in Hebrew"
    },
    {
     "text": ", the ",

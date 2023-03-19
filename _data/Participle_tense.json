@@ -1,0 +1,314 @@
+{
+ "displayTopicName": "Participle tense",
+ "topicTokens": [
+  {
+   "text": "Participle tense",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Participle tense": [
+   {
+    "text": "The participle is a verb tense in many languages including Hebrew and Aramaic. Participles in English include the \"-ing\" verbs like \"running.\" The participle has different ",
+    "type": "text"
+   },
+   {
+    "text": "forms",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "forms",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Forms",
+    "targetTopic": "Participle tense",
+    "enclosingTopic": "Participle tense",
+    "enclosingSubtopic": "Participle tense"
+   },
+   {
+    "text": ", and can function in various ",
+    "type": "text"
+   },
+   {
+    "text": "roles",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "roles",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Roles",
+    "targetTopic": "Participle tense",
+    "enclosingTopic": "Participle tense",
+    "enclosingSubtopic": "Participle tense"
+   },
+   {
+    "text": " and ",
+    "type": "text"
+   },
+   {
+    "text": "constructions",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "constructions",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Constructions",
+    "targetTopic": "Participle tense",
+    "enclosingTopic": "Participle tense",
+    "enclosingSubtopic": "Participle tense"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Forms": [
+   {
+    "text": "The spelling of a participle depends on the language and ",
+    "type": "text"
+   },
+   {
+    "text": "binyan",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "binyan",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Binyan",
+    "targetTopic": "Binyan",
+    "enclosingTopic": "Participle tense",
+    "enclosingSubtopic": "Forms"
+   },
+   {
+    "text": ". There are ",
+    "type": "text"
+   },
+   {
+    "text": "several forms of participle in Hebrew",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "several forms of participle in Hebrew",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Several forms of participle in Hebrew",
+    "targetTopic": "Participle tense",
+    "enclosingTopic": "Participle tense",
+    "enclosingSubtopic": "Forms"
+   },
+   {
+    "text": ", and ",
+    "type": "text"
+   },
+   {
+    "text": "several forms of participle in Aramaic",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "several forms of participle in Aramaic",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Several forms of participle in Aramaic",
+    "targetTopic": "Participle tense",
+    "enclosingTopic": "Participle tense",
+    "enclosingSubtopic": "Forms"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Several forms of participle in Hebrew": [
+   {
+    "text": "There are different forms of the participle for each of the seven binyanim. There are two pa'al participles, a nif'al participle, a piel participle, a pu'al participle, a hif'il participle, a huf'al participle, and a hispa'el participle.",
+    "type": "text"
+   }
+  ],
+  "Several forms of participle in Aramaic": [
+   {
+    "text": "There are two pe'al participles, a ispe'el participle, a pa'el participle, an ispa'al participle, and af'el participle, and an isaph'al participle.",
+    "type": "text"
+   }
+  ],
+  "Roles": [
+   {
+    "text": "In Hebrew and Aramaic the participle can function as a ",
+    "type": "text"
+   },
+   {
+    "text": "verb",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "verb",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Verb",
+    "targetTopic": "Participle tense",
+    "enclosingTopic": "Participle tense",
+    "enclosingSubtopic": "Roles"
+   },
+   {
+    "text": ", a ",
+    "type": "text"
+   },
+   {
+    "text": "noun",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "noun",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Noun",
+    "targetTopic": "Participle tense",
+    "enclosingTopic": "Participle tense",
+    "enclosingSubtopic": "Roles"
+   },
+   {
+    "text": ", or an ",
+    "type": "text"
+   },
+   {
+    "text": "adjective",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "adjective",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Adjective",
+    "targetTopic": "Participle tense",
+    "enclosingTopic": "Participle tense",
+    "enclosingSubtopic": "Roles"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Verb": [
+   {
+    "text": "A participle can be used as a verb, eg הילד הולך, \"the boy is walking.\" (For those interested in grammar, a more precise understanding is that ",
+    "type": "text"
+   },
+   {
+    "text": "there is no present tense verb conjugation in Hebrew or Aramaic",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "there is no present tense verb conjugation in Hebrew or Aramaic",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "There is no present tense verb conjugation in Hebrew or Aramaic",
+    "targetTopic": "Participle tense",
+    "enclosingTopic": "Participle tense",
+    "enclosingSubtopic": "Verb"
+   },
+   {
+    "text": ", and ",
+    "type": "text"
+   },
+   {
+    "text": "the participle functions as the present tense and gerund",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "the participle functions as the present tense and gerund",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "The participle functions as the present tense and gerund",
+    "targetTopic": "Participle tense",
+    "enclosingTopic": "Participle tense",
+    "enclosingSubtopic": "Verb"
+   },
+   {
+    "text": ".)",
+    "type": "text"
+   }
+  ],
+  "There is no present tense verb conjugation in Hebrew or Aramaic": [
+   {
+    "text": "In English, one can say \"the boy runs\" (the present tense,) or \"the boy is running\" (the \"gerund.\") In Hebrew and Aramaic however, there is no tense corresponding to \"the boy runs.\"",
+    "type": "text"
+   }
+  ],
+  "The participle functions as the present tense and gerund": [
+   {
+    "text": "Because there is no distinction between the present tense and the gerund, and the words הילד הולך could mean either the present tense (\"the boy runs\"), or the gerund (\"the boy is running,\") and we would have to know from context which was intended.",
+    "type": "text"
+   }
+  ],
+  "Noun": [
+   {
+    "text": "A participle can function as a noun, eg רץ צריך נעליים, ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "ratz tzarich na'alayim",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ", \"a person who is running needs shoes.\" Here, the word ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "ratz",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " \"running,\" functions as a noun, \"a person who is running.\"",
+    "type": "text"
+   }
+  ],
+  "Adjective": [
+   {
+    "text": "A participle can function as an adjective, eg שמעון קודש, ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "Shimeon kodesh",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ", \"Shimeon is holy,\" or \"Shimeon is being holy.\"",
+    "type": "text"
+   }
+  ],
+  "Constructions": [
+   {
+    "text": "The participle can be combined with other words to produce different constructions, such as the past participle.",
+    "type": "text"
+   }
+  ]
+ }
+}

@@ -22,11 +22,29 @@
  "paragraphsBySubtopic": {
   "The pi'el participle of the shoresh קדש": [
    {
-    "text": "There is a participle tense of ",
+    "text": "The ",
     "type": "text"
    },
    {
-    "text": "the _pi'el_ binyan of the shoresh קדש",
+    "text": "participle tense",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "participle tense",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Participle tense",
+    "targetTopic": "Participle tense",
+    "enclosingTopic": "The pi'el participle of the shoresh קדש",
+    "enclosingSubtopic": "The pi'el participle of the shoresh קדש"
+   },
+   {
+    "text": " of ",
+    "type": "text"
+   },
+   {
+    "text": "the _pi'el_ of קדש",
     "type": "global",
     "tokens": [
      {
@@ -43,7 +61,7 @@
       ]
      },
      {
-      "text": " binyan of the shoresh קדש",
+      "text": " of קדש",
       "type": "text"
      }
     ],
@@ -53,7 +71,7 @@
     "enclosingSubtopic": "The pi'el participle of the shoresh קדש"
    },
    {
-    "text": " with a participle tense, which has a ",
+    "text": " has a ",
     "type": "text"
    },
    {

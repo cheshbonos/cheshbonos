@@ -9,7 +9,103 @@
  "paragraphsBySubtopic": {
   "Shoresh": [
    {
-    "text": "A shoresh is a short series of letters that gets combined into different permutations to produce different words in Hebrew and Aramaic. Most shorushim have three clear letters, although some have only two clear letters, and grammarians differ as to whether to consider these \"weak\" shorushim as really having only two letters, or whether to think of them as containing a third letter like י or ה",
+    "text": "A shoresh is a grammatical entity in Hebrew and Aramaic. Shorushim have an ",
+    "type": "text"
+   },
+   {
+    "text": "appearance",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "appearance",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Appearance",
+    "targetTopic": "Shoresh",
+    "enclosingTopic": "Shoresh",
+    "enclosingSubtopic": "Shoresh"
+   },
+   {
+    "text": ", a ",
+    "type": "text"
+   },
+   {
+    "text": "meaning",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "meaning",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Meaning",
+    "targetTopic": "Shoresh",
+    "enclosingTopic": "Shoresh",
+    "enclosingSubtopic": "Shoresh"
+   },
+   {
+    "text": ", a ",
+    "type": "text"
+   },
+   {
+    "text": "function",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "function",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Function",
+    "targetTopic": "Shoresh",
+    "enclosingTopic": "Shoresh",
+    "enclosingSubtopic": "Shoresh"
+   },
+   {
+    "text": ", and a ",
+    "type": "text"
+   },
+   {
+    "text": "more precise definition",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "more precise definition",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "More precise definition",
+    "targetTopic": "Shoresh",
+    "enclosingTopic": "Shoresh",
+    "enclosingSubtopic": "Shoresh"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Appearance": [
+   {
+    "text": "A shoresh looks like a series of 2-3 letters like קדש or מת.",
+    "type": "text"
+   }
+  ],
+  "Meaning": [
+   {
+    "text": "A shoresh represents a broad category of meaning, like \"holiness\" for קדש, or \"death\" for מת.",
+    "type": "text"
+   }
+  ],
+  "Function": [
+   {
+    "text": "A shoresh is used to generate many more specific words. For example, the shoresh קדש \"holiness\" is used to generate the verb להקדיש, \"to donate something to the beis hamikdash.\"",
+    "type": "text"
+   }
+  ],
+  "More precise definition": [
+   {
+    "text": "Most shorushim have three clear letters, although some like מת have only two clear letters, and traditional grammarians differ as to whether to consider these \"weak\" shorushim as being \"two letter shorushim,\" or whether to think of them as being three letter shorushim with a hidden third letter like י or ה.",
     "type": "text"
    }
   ]

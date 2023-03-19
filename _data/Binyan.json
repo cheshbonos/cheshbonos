@@ -9,19 +9,19 @@
  "paragraphsBySubtopic": {
   "Binyan": [
    {
-    "text": "\"Binyan\" is ",
+    "text": "\"Binyan\" is a grammatical concept in Hebrew and Aramaic that has no direct corollary in English. Binyanim are ",
     "type": "text"
    },
    {
-    "text": "a grammatical concept in Hebrew and Aramaic",
+    "text": "related to shorushim",
     "type": "local",
     "tokens": [
      {
-      "text": "a grammatical concept in Hebrew and Aramaic",
+      "text": "related to shorushim",
       "type": "text"
      }
     ],
-    "targetSubtopic": "A grammatical concept in Hebrew and Aramaic",
+    "targetSubtopic": "Related to shorushim",
     "targetTopic": "Binyan",
     "enclosingTopic": "Binyan",
     "enclosingSubtopic": "Binyan"
@@ -31,16 +31,34 @@
     "type": "text"
    },
    {
-    "text": "seven binyanim",
+    "text": "seven Hebrew binyanim",
     "type": "global",
     "tokens": [
      {
-      "text": "seven binyanim",
+      "text": "seven Hebrew binyanim",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Seven binyanim",
-    "targetTopic": "Seven binyanim",
+    "targetSubtopic": "Hebrew binyanim",
+    "targetTopic": "Hebrew binyanim",
+    "enclosingTopic": "Binyan",
+    "enclosingSubtopic": "Binyan"
+   },
+   {
+    "text": " and ",
+    "type": "text"
+   },
+   {
+    "text": "six Aramaic binyanim",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "six Aramaic binyanim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Aramaic binyanim",
+    "targetTopic": "Aramaic binyanim",
     "enclosingTopic": "Binyan",
     "enclosingSubtopic": "Binyan"
    },
@@ -49,7 +67,7 @@
     "type": "text"
    }
   ],
-  "A grammatical concept in Hebrew and Aramaic": [
+  "Related to shorushim": [
    {
     "text": "Whereas a ",
     "type": "text"
@@ -66,7 +84,7 @@
     "targetSubtopic": "Shoresh",
     "targetTopic": "Shoresh",
     "enclosingTopic": "Binyan",
-    "enclosingSubtopic": "A grammatical concept in Hebrew and Aramaic"
+    "enclosingSubtopic": "Related to shorushim"
    },
    {
     "text": " represents a vague and general category of meaning, a ",
@@ -82,33 +100,7 @@
     ]
    },
    {
-    "text": " takes a ",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "shoresh",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " and instantiates the ",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "shoresh's",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " general meaning into a specific verb or adjective. A shoresh like קדש might have the general meaning of \"holiness\" whereas a particular binyan of that shoresh might produce the specific verb \"to make something holy,\" or \"to be holy.\"",
+    "text": " of that shoresh would represent a specific verb or adjective within that range of meaning. A shoresh like קדש might have the general meaning \"holiness\" whereas a particular binyan of that shoresh might produce the specific verb \"to make something holy,\" or \"to be holy.\"",
     "type": "text"
    }
   ]

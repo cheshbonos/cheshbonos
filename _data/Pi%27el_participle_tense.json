@@ -1,0 +1,75 @@
+{
+ "displayTopicName": "Pi'el participle tense",
+ "topicTokens": [
+  {
+   "text": "Pi'el participle tense",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Pi'el participle tense": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "Pi'el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " participle tense is the ",
+    "type": "text"
+   },
+   {
+    "text": "participle tense",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "participle tense",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Participle tense",
+    "targetTopic": "Participle tense",
+    "enclosingTopic": "Pi'el participle tense",
+    "enclosingSubtopic": "Pi'el participle tense"
+   },
+   {
+    "text": " of the ",
+    "type": "text"
+   },
+   {
+    "text": "_pi'el_ binyan",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pi'el",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " binyan",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Pi'el",
+    "targetTopic": "Pi'el",
+    "enclosingTopic": "Pi'el participle tense",
+    "enclosingSubtopic": "Pi'el participle tense"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ]
+ }
+}

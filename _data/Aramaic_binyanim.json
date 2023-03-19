@@ -1,0 +1,143 @@
+{
+ "displayTopicName": "Aramaic binyanim",
+ "topicTokens": [
+  {
+   "text": "Aramaic binyanim",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Aramaic binyanim": [
+   {
+    "text": "There six binyanim in Aramaic, the ",
+    "type": "text"
+   },
+   {
+    "text": "pe'al",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "pe'al",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Pe'al",
+    "targetTopic": "Pe'al",
+    "enclosingTopic": "Aramaic binyanim",
+    "enclosingSubtopic": "Aramaic binyanim"
+   },
+   {
+    "text": ", the ",
+    "type": "text"
+   },
+   {
+    "text": "ispe'el",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "ispe'el",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Ispe'el",
+    "targetTopic": "Ispe'el",
+    "enclosingTopic": "Aramaic binyanim",
+    "enclosingSubtopic": "Aramaic binyanim"
+   },
+   {
+    "text": ", the ",
+    "type": "text"
+   },
+   {
+    "text": "pa'el",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "pa'el",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Pa'el",
+    "targetTopic": "Pa'el",
+    "enclosingTopic": "Aramaic binyanim",
+    "enclosingSubtopic": "Aramaic binyanim"
+   },
+   {
+    "text": ", the ",
+    "type": "text"
+   },
+   {
+    "text": "ispa'al",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "ispa'al",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Ispa'al",
+    "targetTopic": "Ispa'al",
+    "enclosingTopic": "Aramaic binyanim",
+    "enclosingSubtopic": "Aramaic binyanim"
+   },
+   {
+    "text": ", the ",
+    "type": "text"
+   },
+   {
+    "text": "af'el",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "af'el",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Af'el",
+    "targetTopic": "Af'el",
+    "enclosingTopic": "Aramaic binyanim",
+    "enclosingSubtopic": "Aramaic binyanim"
+   },
+   {
+    "text": ", and the ",
+    "type": "text"
+   },
+   {
+    "text": "isaf'al",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "isaf'al",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Isaf'al",
+    "targetTopic": "Isaf'al",
+    "enclosingTopic": "Aramaic binyanim",
+    "enclosingSubtopic": "Aramaic binyanim"
+   },
+   {
+    "text": ". Aramaic is missing a passive intensive binyan corresponding to the ",
+    "type": "text"
+   },
+   {
+    "text": "Hebrew pu'al",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Hebrew pu'al",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Pu'al",
+    "targetTopic": "Pu'al",
+    "enclosingTopic": "Aramaic binyanim",
+    "enclosingSubtopic": "Aramaic binyanim"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ]
+ }
+}

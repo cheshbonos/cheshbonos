@@ -1,0 +1,135 @@
+{
+ "displayTopicName": "Intensive",
+ "topicTokens": [
+  {
+   "text": "Intensive",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Intensive": [
+   {
+    "text": "There are several ",
+    "type": "text"
+   },
+   {
+    "text": "\"intensive\" binyanim",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "\"intensive\" binyanim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "\"Intensive\" binyanim",
+    "targetTopic": "Intensive",
+    "enclosingTopic": "Intensive",
+    "enclosingSubtopic": "Intensive"
+   },
+   {
+    "text": " in Hebrew and Aramaic. They are called \"intensive\" because the verbs that are produced by putting shorushim in those binyanim often assume a meaning that is a more \"intense\" or repetitive version of the idea that is represented by the shoresh itself. For example, the shoresh שבר expresses the general idea of things breaking, whereas the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pi'el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " verb of שבר,‎ לְשַׁבֵּר, means \"to shatter.\"",
+    "type": "text"
+   }
+  ],
+  "\"Intensive\" binyanim": [
+   {
+    "text": "There are several intensive binyanim in Hebrew and Aramaic, in Hebrew the ",
+    "type": "text"
+   },
+   {
+    "text": "active _pi'el_",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "active ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pi'el",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Pi'el",
+    "targetTopic": "Pi'el",
+    "enclosingTopic": "Intensive",
+    "enclosingSubtopic": "\"Intensive\" binyanim"
+   },
+   {
+    "text": " and the ",
+    "type": "text"
+   },
+   {
+    "text": "passive pu'al",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "passive pu'al",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Pu'al",
+    "targetTopic": "Pu'al",
+    "enclosingTopic": "Intensive",
+    "enclosingSubtopic": "\"Intensive\" binyanim"
+   },
+   {
+    "text": ", and in Aramaic the ",
+    "type": "text"
+   },
+   {
+    "text": "active pa'el",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "active pa'el",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Pa'el",
+    "targetTopic": "Pa'el",
+    "enclosingTopic": "Intensive",
+    "enclosingSubtopic": "\"Intensive\" binyanim"
+   },
+   {
+    "text": " and the ",
+    "type": "text"
+   },
+   {
+    "text": "passive ispa'al",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "passive ispa'al",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Ispa'al",
+    "targetTopic": "Ispa'al",
+    "enclosingTopic": "Intensive",
+    "enclosingSubtopic": "\"Intensive\" binyanim"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ]
+ }
+}

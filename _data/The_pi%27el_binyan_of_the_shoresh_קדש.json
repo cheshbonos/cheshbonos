@@ -22,21 +22,7 @@
  "paragraphsBySubtopic": {
   "The pi'el binyan of the shoresh קדש": [
    {
-    "text": "The shoresh קדש",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "The shoresh קדש",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "The shoresh קדש",
-    "targetTopic": "The shoresh קדש",
-    "enclosingTopic": "The pi'el binyan of the shoresh קדש",
-    "enclosingSubtopic": "The pi'el binyan of the shoresh קדש"
-   },
-   {
-    "text": " has a ",
+    "text": "The ",
     "type": "text"
    },
    {
@@ -63,7 +49,112 @@
     "enclosingSubtopic": "The pi'el binyan of the shoresh קדש"
    },
    {
-    "text": " which has a past tense, a ",
+    "text": " of ",
+    "type": "text"
+   },
+   {
+    "text": "the shoresh קדש",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "the shoresh קדש",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "The shoresh קדש",
+    "targetTopic": "The shoresh קדש",
+    "enclosingTopic": "The pi'el binyan of the shoresh קדש",
+    "enclosingSubtopic": "The pi'el binyan of the shoresh קדש"
+   },
+   {
+    "text": " has a ",
+    "type": "text"
+   },
+   {
+    "text": "meaning",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "meaning",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Meaning",
+    "targetTopic": "The pi'el binyan of the shoresh קדש",
+    "enclosingTopic": "The pi'el binyan of the shoresh קדש",
+    "enclosingSubtopic": "The pi'el binyan of the shoresh קדש"
+   },
+   {
+    "text": ", and various ",
+    "type": "text"
+   },
+   {
+    "text": "tenses",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "tenses",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Tenses",
+    "targetTopic": "The pi'el binyan of the shoresh קדש",
+    "enclosingTopic": "The pi'el binyan of the shoresh קדש",
+    "enclosingSubtopic": "The pi'el binyan of the shoresh קדש"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Tenses": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "text": "_pi'el_ binyan",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pi'el",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " binyan",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Pi'el",
+    "targetTopic": "Pi'el",
+    "enclosingTopic": "The pi'el binyan of the shoresh קדש",
+    "enclosingSubtopic": "Tenses"
+   },
+   {
+    "text": " of ",
+    "type": "text"
+   },
+   {
+    "text": "the shoresh קדש",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "the shoresh קדש",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "The shoresh קדש",
+    "targetTopic": "The shoresh קדש",
+    "enclosingTopic": "The pi'el binyan of the shoresh קדש",
+    "enclosingSubtopic": "Tenses"
+   },
+   {
+    "text": " has a past tense, a ",
     "type": "text"
    },
    {
@@ -78,32 +169,14 @@
     "targetSubtopic": "The pi'el participle of the shoresh קדש",
     "targetTopic": "The pi'el participle of the shoresh קדש",
     "enclosingTopic": "The pi'el binyan of the shoresh קדש",
-    "enclosingSubtopic": "The pi'el binyan of the shoresh קדש"
+    "enclosingSubtopic": "Tenses"
    },
    {
-    "text": ", an future tense, a command tense, and an infinitive. There is a ",
-    "type": "text"
-   },
-   {
-    "text": "meaning of the Hebrew intensive of the shoresh קדש",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "meaning of the Hebrew intensive of the shoresh קדש",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Meaning of the Hebrew intensive of the shoresh קדש",
-    "targetTopic": "The pi'el binyan of the shoresh קדש",
-    "enclosingTopic": "The pi'el binyan of the shoresh קדש",
-    "enclosingSubtopic": "The pi'el binyan of the shoresh קדש"
-   },
-   {
-    "text": ".",
+    "text": ", an future tense, a command tense, and an infinitive.",
     "type": "text"
    }
   ],
-  "Meaning of the Hebrew intensive of the shoresh קדש": [
+  "Meaning": [
    {
     "text": "The intensive binyan of the shoresh קדש can mean \"to produce a stage called ",
     "type": "text"

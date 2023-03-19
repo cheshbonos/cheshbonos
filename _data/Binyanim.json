@@ -1,0 +1,53 @@
+{
+ "displayTopicName": "Binyanim",
+ "topicTokens": [
+  {
+   "text": "Binyanim",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Binyanim": [
+   {
+    "text": "There are ",
+    "type": "text"
+   },
+   {
+    "text": "seven Hebrew binyanim",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "seven Hebrew binyanim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Hebrew binyanim",
+    "targetTopic": "Hebrew binyanim",
+    "enclosingTopic": "Binyanim",
+    "enclosingSubtopic": "Binyanim"
+   },
+   {
+    "text": " and ",
+    "type": "text"
+   },
+   {
+    "text": "six Aramaic binyanim",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "six Aramaic binyanim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Aramaic binyanim",
+    "targetTopic": "Aramaic binyanim",
+    "enclosingTopic": "Binyanim",
+    "enclosingSubtopic": "Binyanim"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ]
+ }
+}

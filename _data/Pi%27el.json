@@ -54,7 +54,38 @@
     "enclosingSubtopic": "Pi'el"
    },
    {
-    "text": ". It is called the \"intensive\" because shorushim that are converted into verbs by putting them in the intensive often assume a meaning that is a more \"intense\" version of the idea that is represented by the shoresh itself. [Add example].",
+    "text": ". The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pi'el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " is an ",
+    "type": "text"
+   },
+   {
+    "text": "intensive binyan",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "intensive binyan",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Intensive",
+    "targetTopic": "Intensive",
+    "enclosingTopic": "Pi'el",
+    "enclosingSubtopic": "Pi'el"
+   },
+   {
+    "text": ".",
     "type": "text"
    }
   ]
