@@ -1,13 +1,13 @@
 {
- "displayTopicName": "Pi'el participle tense",
+ "displayTopicName": "Pi'el participle",
  "topicTokens": [
   {
-   "text": "Pi'el participle tense",
+   "text": "Pi'el participle",
    "type": "text"
   }
  ],
  "paragraphsBySubtopic": {
-  "Pi'el participle tense": [
+  "Pi'el participle": [
    {
     "text": "The ",
     "type": "text"
@@ -16,7 +16,7 @@
     "type": "italics",
     "tokens": [
      {
-      "text": "Pi'el",
+      "text": "pi'el",
       "type": "text"
      }
     ]
@@ -36,8 +36,8 @@
     ],
     "targetSubtopic": "Participle tense",
     "targetTopic": "Participle tense",
-    "enclosingTopic": "Pi'el participle tense",
-    "enclosingSubtopic": "Pi'el participle tense"
+    "enclosingTopic": "Pi'el participle",
+    "enclosingSubtopic": "Pi'el participle"
    },
    {
     "text": " of the ",
@@ -63,11 +63,24 @@
     ],
     "targetSubtopic": "Pi'el",
     "targetTopic": "Pi'el",
-    "enclosingTopic": "Pi'el participle tense",
-    "enclosingSubtopic": "Pi'el participle tense"
+    "enclosingTopic": "Pi'el participle",
+    "enclosingSubtopic": "Pi'el participle"
    },
    {
-    "text": ".",
+    "text": ". The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pi'el participle",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " is usually formed by adding a מ to the beginning of the shoresh, like מְקַדֵּשׁ for the shoresh קדש.",
     "type": "text"
    }
   ]

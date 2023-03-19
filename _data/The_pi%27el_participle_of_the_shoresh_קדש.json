@@ -71,6 +71,106 @@
     "enclosingSubtopic": "The pi'el participle of the shoresh קדש"
    },
    {
+    "text": " is a ",
+    "type": "text"
+   },
+   {
+    "text": "_pi'el_ participle",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pi'el",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " participle",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Pi'el participle",
+    "targetTopic": "Pi'el participle",
+    "enclosingTopic": "The pi'el participle of the shoresh קדש",
+    "enclosingSubtopic": "The pi'el participle of the shoresh קדש"
+   },
+   {
+    "text": " and has various ",
+    "type": "text"
+   },
+   {
+    "text": "conjugations",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "conjugations",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Conjugations",
+    "targetTopic": "The pi'el participle of the shoresh קדש",
+    "enclosingTopic": "The pi'el participle of the shoresh קדש",
+    "enclosingSubtopic": "The pi'el participle of the shoresh קדש"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Conjugations": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "text": "participle tense",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "participle tense",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Participle tense",
+    "targetTopic": "Participle tense",
+    "enclosingTopic": "The pi'el participle of the shoresh קדש",
+    "enclosingSubtopic": "Conjugations"
+   },
+   {
+    "text": " of ",
+    "type": "text"
+   },
+   {
+    "text": "the _pi'el_ of קדש",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "the ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pi'el",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " of קדש",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "The pi'el binyan of the shoresh קדש",
+    "targetTopic": "The pi'el binyan of the shoresh קדש",
+    "enclosingTopic": "The pi'el participle of the shoresh קדש",
+    "enclosingSubtopic": "Conjugations"
+   },
+   {
     "text": " has a ",
     "type": "text"
    },
@@ -86,7 +186,7 @@
     "targetSubtopic": "Masculine singular",
     "targetTopic": "The pi'el participle of the shoresh קדש",
     "enclosingTopic": "The pi'el participle of the shoresh קדש",
-    "enclosingSubtopic": "The pi'el participle of the shoresh קדש"
+    "enclosingSubtopic": "Conjugations"
    },
    {
     "text": ", feminine singular, masculine plural, and feminine plural.",
