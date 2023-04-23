@@ -9,7 +9,7 @@
  "paragraphsBySubtopic": {
   "Cheshbonos": [
    {
-    "text": "This is a beta version of Cheshbonos, a tool for improving Gemara skills. You can navigate by using the mouse or arrow keys. Cheshbonos should be used with a Gemara. At the moment Cheshbonos offers help in learning ",
+    "text": "This is a beta version of Cheshbonos, a tool for improving Gemara skills. You can navigate by using the mouse or arrow keys. You can use Cheshbonos to learn ",
     "type": "text"
    },
    {
@@ -23,6 +23,24 @@
     ],
     "targetSubtopic": "Perek Ha'ish Mekadesh",
     "targetTopic": "Perek Ha'ish Mekadesh",
+    "enclosingTopic": "Cheshbonos",
+    "enclosingSubtopic": "Cheshbonos"
+   },
+   {
+    "text": ". If you are new to Gemara, you can use the ",
+    "type": "text"
+   },
+   {
+    "text": "getting started guide",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "getting started guide",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Getting Started",
+    "targetTopic": "Getting Started",
     "enclosingTopic": "Cheshbonos",
     "enclosingSubtopic": "Cheshbonos"
    },

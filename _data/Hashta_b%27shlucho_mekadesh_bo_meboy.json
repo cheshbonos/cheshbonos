@@ -1,0 +1,1318 @@
+{
+ "displayTopicName": "Hashta b'shlucho mekadesh bo meboy",
+ "topicTokens": [
+  {
+   "text": "Hashta b'shlucho mekadesh bo meboy",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Hashta b'shlucho mekadesh bo meboy": [
+   {
+    "text": "The sugya of ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "hashta b'shlucho mekadesh bo meboy",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " reads: ",
+    "type": "text"
+   },
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "גמ' השתא בשלוחו מקדש בו מיבעיא אמר\nרב יוסף מצוה בו יותר מבשלוחו כי הא דרב\nספרא מחריך רישא רבא מלח שיבוטא\nאיכא דאמרי בהא איסורא נמי אית בה\nכדרב יהודה אמר רב דאמר רב יהודה\nאמר רב אסור לאדם שיקדש את האשה\nעד שיראנה שמא יראה בה דבר מגונה\nותתגנה עליו ורחמנא אמר ואהבת לרעך\nכמוך וכי איתמר דרב יוסף אסיפא איתמר\nהאשה מתקדשת בה ובשלוחה השתא\nבשלוחה מיקדשא בה מיבעיא אמר רב יוסף\nמצוה בה יותר מבשלוחה כי הא דרב ספרא\nמחריך רישא רבא מלח שיבוטא אבל בהא\nאיסורא לית בה כדר״ל דאמר ר״ל טב\nלמיתב טן דו מלמיתב ארמלו:",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   },
+   {
+    "text": "The sugya, ",
+    "type": "text"
+   },
+   {
+    "text": "pictured here",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "pictured here",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Picture",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboy",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboy",
+    "enclosingSubtopic": "Hashta b'shlucho mekadesh bo meboy"
+   },
+   {
+    "text": ", has several ",
+    "type": "text"
+   },
+   {
+    "text": "sections",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "sections",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Sections",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboy",
+    "enclosingTopic": "Hashta b'shlucho mekadesh bo meboy",
+    "enclosingSubtopic": "Hashta b'shlucho mekadesh bo meboy"
+   },
+   {
+    "text": ", and an [[]].",
+    "type": "text"
+   }
+  ],
+  "Sections": [
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The sugya begins with the sentence ",
+        "type": "text"
+       },
+       {
+        "text": "השתא בשלוחו מקדש בו מיבעיא",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "השתא בשלוחו מקדש בו מיבעיא",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "השתא בשלוחו מקדש בו מיבעיא",
+        "targetTopic": "השתא בשלוחו מקדש בו מיבעיא",
+        "enclosingTopic": "Hashta b'shlucho mekadesh bo meboy",
+        "enclosingSubtopic": "Sections"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "It continues with the section of ",
+        "type": "text"
+       },
+       {
+        "text": "אמר ר' יוסף until מלח שיבוטא",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "אמר ר' יוסף until מלח שיבוטא",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "אמר ר' יוסף until מלח שיבוטא",
+        "targetTopic": "Hashta b'shlucho mekadesh bo meboy",
+        "enclosingTopic": "Hashta b'shlucho mekadesh bo meboy",
+        "enclosingSubtopic": "Sections"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "It concludes with the section of ",
+        "type": "text"
+       },
+       {
+        "text": "איכא דאמרי until מלמיתב ארמלו",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "איכא דאמרי until מלמיתב ארמלו",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "איכא דאמרי until מלמיתב ארמלו",
+        "targetTopic": "Hashta b'shlucho mekadesh bo meboy",
+        "enclosingTopic": "Hashta b'shlucho mekadesh bo meboy",
+        "enclosingSubtopic": "Sections"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "אמר ר' יוסף until מלח שיבוטא": [
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "... אמר\nרב יוסף מצוה בו יותר מבשלוחו כי הא דרב\nספרא מחריך רישא רבא מלח שיבוטא",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   },
+   {
+    "text": "This section has several subsections: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "It begins with the sentence ",
+        "type": "text"
+       },
+       {
+        "text": "אמר רב יוסף מצוה בו יותר מבשלוחו",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "אמר רב יוסף מצוה בו יותר מבשלוחו",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "אמר רב יוסף מצוה בו יותר מבשלוחו",
+        "targetTopic": "Hashta b'shlucho mekadesh bo meboy",
+        "enclosingTopic": "Hashta b'shlucho mekadesh bo meboy",
+        "enclosingSubtopic": "אמר ר' יוסף until מלח שיבוטא"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "It continues with the sentence ",
+        "type": "text"
+       },
+       {
+        "text": "כי הא דרב ספרא מחריך רישא רבא מלח שיבוטא",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "כי הא דרב ספרא מחריך רישא רבא מלח שיבוטא",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "כי הא דרב ספרא מחריך רישא רבא מלח שיבוטא",
+        "targetTopic": "Hashta b'shlucho mekadesh bo meboy",
+        "enclosingTopic": "Hashta b'shlucho mekadesh bo meboy",
+        "enclosingSubtopic": "אמר ר' יוסף until מלח שיבוטא"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "אמר רב יוסף מצוה בו יותר מבשלוחו": [
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "... אמר\nרב יוסף מצוה בו יותר מבשלוחו ...",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   }
+  ],
+  "כי הא דרב ספרא מחריך רישא רבא מלח שיבוטא": [
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "... כי הא דרב\nספרא מחריך רישא רבא מלח שיבוטא",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   }
+  ],
+  "איכא דאמרי until מלמיתב ארמלו": [
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "איכא דאמרי בהא איסורא נמי אית בה\nכדרב יהודה אמר רב דאמר רב יהודה\nאמר רב אסור לאדם שיקדש את האשה\nעד שיראנה שמא יראה בה דבר מגונה\nותתגנה עליו ורחמנא אמר ואהבת לרעך\nכמוך וכי איתמר דרב יוסף אסיפא איתמר\nהאשה מתקדשת בה ובשלוחה השתא\nבשלוחה מיקדשא בה מיבעיא אמר רב יוסף\nמצוה בה יותר מבשלוחה כי הא דרב ספרא\nמחריך רישא רבא מלח שיבוטא אבל בהא\nאיסורא לית בה כדר״ל דאמר ר״ל טב\nלמיתב טן דו מלמיתב ארמלו:",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   },
+   {
+    "text": "This section is composed of several subsections: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The section of ",
+        "type": "text"
+       },
+       {
+        "text": "איכא דאמרי until ואהבת לרעך כמוך",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "איכא דאמרי until ואהבת לרעך כמוך",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "איכא דאמרי until ואהבת לרעך כמוך",
+        "targetTopic": "Hashta b'shlucho mekadesh bo meboy",
+        "enclosingTopic": "Hashta b'shlucho mekadesh bo meboy",
+        "enclosingSubtopic": "איכא דאמרי until מלמיתב ארמלו"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The section of ",
+        "type": "text"
+       },
+       {
+        "text": "וכי איתמר דרב יוסף until רבא מלח שיבוטא",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "וכי איתמר דרב יוסף until רבא מלח שיבוטא",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "וכי איתמר דרב יוסף until רבא מלח שיבוטא",
+        "targetTopic": "Hashta b'shlucho mekadesh bo meboy",
+        "enclosingTopic": "Hashta b'shlucho mekadesh bo meboy",
+        "enclosingSubtopic": "איכא דאמרי until מלמיתב ארמלו"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The section of ",
+        "type": "text"
+       },
+       {
+        "text": "אבל until מלמיתב ארמלו",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "אבל until מלמיתב ארמלו",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "אבל until מלמיתב ארמלו",
+        "targetTopic": "Hashta b'shlucho mekadesh bo meboy",
+        "enclosingTopic": "Hashta b'shlucho mekadesh bo meboy",
+        "enclosingSubtopic": "איכא דאמרי until מלמיתב ארמלו"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "איכא דאמרי until ואהבת לרעך כמוך": [
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "איכא דאמרי בהא איסורא נמי אית בה\nכדרב יהודה אמר רב דאמר רב יהודה\nאמר רב אסור לאדם שיקדש את האשה\nעד שיראנה שמא יראה בה דבר מגונה\nותתגנה עליו ורחמנא אמר ואהבת לרעך\nכמוך ...",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   },
+   {
+    "text": "This section is composed of several subsections: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The sentence of ",
+        "type": "text"
+       },
+       {
+        "text": "איכא דאמרי בהא איסורא נמי אית בה",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "איכא דאמרי בהא איסורא נמי אית בה",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "איכא דאמרי בהא איסורא נמי אית בה",
+        "targetTopic": "Hashta b'shlucho mekadesh bo meboy",
+        "enclosingTopic": "Hashta b'shlucho mekadesh bo meboy",
+        "enclosingSubtopic": "איכא דאמרי until ואהבת לרעך כמוך"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The section of ",
+        "type": "text"
+       },
+       {
+        "text": "כדרב יהודה אמר רב until עד שיראנה",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "כדרב יהודה אמר רב until עד שיראנה",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "כדרב יהודה אמר רב until עד שיראנה",
+        "targetTopic": "Hashta b'shlucho mekadesh bo meboy",
+        "enclosingTopic": "Hashta b'shlucho mekadesh bo meboy",
+        "enclosingSubtopic": "איכא דאמרי until ואהבת לרעך כמוך"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The section of ",
+        "type": "text"
+       },
+       {
+        "text": "שמא יראה בה ואהבת לרעך until כמוך",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "שמא יראה בה ואהבת לרעך until כמוך",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "שמא יראה בה ואהבת לרעך until כמוך",
+        "targetTopic": "Hashta b'shlucho mekadesh bo meboy",
+        "enclosingTopic": "Hashta b'shlucho mekadesh bo meboy",
+        "enclosingSubtopic": "איכא דאמרי until ואהבת לרעך כמוך"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "איכא דאמרי בהא איסורא נמי אית בה": [
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "איכא דאמרי בהא איסורא נמי אית בה",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   }
+  ],
+  "כדרב יהודה אמר רב until עד שיראנה": [
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "כדרב יהודה אמר רב דאמר רב יהודה\nאמר רב אסור לאדם שיקדש את האשה\nעד שיראנה ...",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   }
+  ],
+  "שמא יראה בה ואהבת לרעך until כמוך": [
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "... שמא יראה בה דבר מגונה\nותתגנה עליו ורחמנא אמר ואהבת לרעך\nכמוך ...",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   }
+  ],
+  "וכי איתמר דרב יוסף until רבא מלח שיבוטא": [
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "... וכי איתמר דרב יוסף אסיפא איתמר\nהאשה מתקדשת בה ובשלוחה השתא\nבשלוחה מיקדשא בה מיבעיא אמר רב יוסף\nמצוה בה יותר מבשלוחה כי הא דרב ספרא\nמחריך רישא רבא מלח שיבוטא ...",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   },
+   {
+    "text": "This section is composed of several subsections: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The sentence of ",
+        "type": "text"
+       },
+       {
+        "text": "וכי איתמר דרב יוסף אסיפא איתמר",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "וכי איתמר דרב יוסף אסיפא איתמר",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "וכי איתמר דרב יוסף אסיפא איתמר",
+        "targetTopic": "Hashta b'shlucho mekadesh bo meboy",
+        "enclosingTopic": "Hashta b'shlucho mekadesh bo meboy",
+        "enclosingSubtopic": "וכי איתמר דרב יוסף until רבא מלח שיבוטא"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The sentence of ",
+        "type": "text"
+       },
+       {
+        "text": "האשה מתקדשת בה ובשלוחה",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "האשה מתקדשת בה ובשלוחה",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "האשה מתקדשת בה ובשלוחה",
+        "targetTopic": "Hashta b'shlucho mekadesh bo meboy",
+        "enclosingTopic": "Hashta b'shlucho mekadesh bo meboy",
+        "enclosingSubtopic": "וכי איתמר דרב יוסף until רבא מלח שיבוטא"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The sentence of ",
+        "type": "text"
+       },
+       {
+        "text": "השתא בשלוחה מיקדשא בה מיבעיא",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "השתא בשלוחה מיקדשא בה מיבעיא",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "השתא בשלוחה מיקדשא בה מיבעיא",
+        "targetTopic": "Hashta b'shlucho mekadesh bo meboy",
+        "enclosingTopic": "Hashta b'shlucho mekadesh bo meboy",
+        "enclosingSubtopic": "וכי איתמר דרב יוסף until רבא מלח שיבוטא"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The section of ",
+        "type": "text"
+       },
+       {
+        "text": "אמר רב יוסף until מלח שיבוטא",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "אמר רב יוסף until מלח שיבוטא",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "אמר רב יוסף until מלח שיבוטא",
+        "targetTopic": "Hashta b'shlucho mekadesh bo meboy",
+        "enclosingTopic": "Hashta b'shlucho mekadesh bo meboy",
+        "enclosingSubtopic": "וכי איתמר דרב יוסף until רבא מלח שיבוטא"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "וכי איתמר דרב יוסף אסיפא איתמר": [
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "... וכי איתמר דרב יוסף אסיפא איתמר",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   }
+  ],
+  "האשה מתקדשת בה ובשלוחה": [
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "האשה מתקדשת בה ובשלוחה ...",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   }
+  ],
+  "השתא בשלוחה מיקדשא בה מיבעיא": [
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "... השתא\nבשלוחה מיקדשא בה מיבעיא ...",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   }
+  ],
+  "אמר רב יוסף until מלח שיבוטא": [
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "... אמר רב יוסף\nמצוה בה יותר מבשלוחה כי הא דרב ספרא\nמחריך רישא רבא מלח שיבוטא ...",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   }
+  ],
+  "אבל until מלמיתב ארמלו": [
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "... אבל בהא\nאיסורא לית בה כדר״ל דאמר ר״ל טב\nלמיתב טן דו מלמיתב ארמלו:",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   },
+   {
+    "text": "This section is composed of several subsections: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The sentence of ",
+        "type": "text"
+       },
+       {
+        "text": "אבל בהא איסורא לית בה",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "אבל בהא איסורא לית בה",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "אבל בהא איסורא לית בה",
+        "targetTopic": "Hashta b'shlucho mekadesh bo meboy",
+        "enclosingTopic": "Hashta b'shlucho mekadesh bo meboy",
+        "enclosingSubtopic": "אבל until מלמיתב ארמלו"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The sentence of ",
+        "type": "text"
+       },
+       {
+        "text": "כדר״ל דאמר ר״ל טב למיתב טן דו מלמיתב ארמלו",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "כדר״ל דאמר ר״ל טב למיתב טן דו מלמיתב ארמלו",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "כדר״ל דאמר ר״ל טב למיתב טן דו מלמיתב ארמלו",
+        "targetTopic": "Hashta b'shlucho mekadesh bo meboy",
+        "enclosingTopic": "Hashta b'shlucho mekadesh bo meboy",
+        "enclosingSubtopic": "אבל until מלמיתב ארמלו"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "אבל בהא איסורא לית בה": [
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "... אבל בהא\nאיסורא לית בה ...",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   }
+  ],
+  "כדר״ל דאמר ר״ל טב למיתב טן דו מלמיתב ארמלו": [
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "... כדר״ל דאמר ר״ל טב\nלמיתב טן דו מלמיתב ארמלו:",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   }
+  ],
+  "  -Rosh and Rambam?": [
+   {
+    "text": "================ ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Mishna",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   },
+   {
+    "text": "  -Rosh and Rambam? ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Gemara's Kasha:",
+        "type": "text"
+       }
+      ],
+      "children": [
+       {
+        "ordinal": "-",
+        "ordered": false,
+        "tokensOfLine": [
+         {
+          "text": "three meanings of specificity",
+          "type": "text"
+         }
+        ],
+        "children": []
+       },
+       {
+        "ordinal": "-",
+        "ordered": false,
+        "tokensOfLine": [
+         {
+          "text": "which mahalach is the gemara taking in its question",
+          "type": "text"
+         }
+        ],
+        "children": []
+       },
+       {
+        "ordinal": "-",
+        "ordered": false,
+        "tokensOfLine": [
+         {
+          "text": "what is the makor for this?",
+          "type": "text"
+         }
+        ],
+        "children": []
+       },
+       {
+        "ordinal": "-",
+        "ordered": false,
+        "tokensOfLine": [
+         {
+          "text": "How would you learn \"haish mekadesh bshlucho\"?",
+          "type": "text"
+         }
+        ],
+        "children": []
+       },
+       {
+        "ordinal": "-",
+        "ordered": false,
+        "tokensOfLine": [
+         {
+          "text": "Where do we see the Gemara thinks shlichus is the bigger chiddush?",
+          "type": "text"
+         }
+        ],
+        "children": []
+       },
+       {
+        "ordinal": "-",
+        "ordered": false,
+        "tokensOfLine": [
+         {
+          "text": "\"also\" \"even\" \"for example\"",
+          "type": "text"
+         }
+        ],
+        "children": []
+       }
+      ]
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "First answer",
+        "type": "text"
+       }
+      ],
+      "children": [
+       {
+        "ordinal": "-",
+        "ordered": false,
+        "tokensOfLine": [
+         {
+          "text": "where does halacha come from",
+          "type": "text"
+         }
+        ],
+        "children": []
+       },
+       {
+        "ordinal": "-",
+        "ordered": false,
+        "tokensOfLine": [
+         {
+          "text": "reason for shver mishnas",
+          "type": "text"
+         }
+        ],
+        "children": []
+       },
+       {
+        "ordinal": "-",
+        "ordered": false,
+        "tokensOfLine": [
+         {
+          "text": "what is the amoritic story for?",
+          "type": "text"
+         }
+        ],
+        "children": []
+       },
+       {
+        "ordinal": "-",
+        "ordered": false,
+        "tokensOfLine": [
+         {
+          "text": "What mitzvah is kiddushin? machlochus is kiddushin a mitzvah, the fact that R Yosef says mitzvah ie where do we find a raya to the rambam and how does the Rosh handle it? (Maybe ask \"what mitzvah is it\" and introduce Rosh and Rambam here.)",
+          "type": "text"
+         }
+        ],
+        "children": []
+       },
+       {
+        "ordinal": "-",
+        "ordered": false,
+        "tokensOfLine": [
+         {
+          "text": "Rosh baked matzas",
+          "type": "text"
+         }
+        ],
+        "children": []
+       },
+       {
+        "ordinal": "-",
+        "ordered": false,
+        "tokensOfLine": [
+         {
+          "text": "What entitles R Yosef to say he knows what Rebbe meant?",
+          "type": "text"
+         }
+        ],
+        "children": []
+       },
+       {
+        "ordinal": "-",
+        "ordered": false,
+        "tokensOfLine": [
+         {
+          "text": "Are Amoriam saying mesoras or theories?",
+          "type": "text"
+         }
+        ],
+        "children": []
+       },
+       {
+        "ordinal": "-",
+        "ordered": false,
+        "tokensOfLine": [
+         {
+          "text": "What about the Mishnah makes it a proof for R Yosef's halacha?",
+          "type": "text"
+         }
+        ],
+        "children": []
+       }
+      ]
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Amoriam",
+        "type": "text"
+       }
+      ],
+      "children": [
+       {
+        "ordinal": "-",
+        "ordered": false,
+        "tokensOfLine": [
+         {
+          "text": "Who is saying this?",
+          "type": "text"
+         }
+        ],
+        "children": []
+       },
+       {
+        "ordinal": "-",
+        "ordered": false,
+        "tokensOfLine": [
+         {
+          "text": "Question of what they are proving",
+          "type": "text"
+         }
+        ],
+        "children": []
+       },
+       {
+        "ordinal": "-",
+        "ordered": false,
+        "tokensOfLine": [
+         {
+          "text": "line up with shitas of machlochus is kiddushin a mitzvah",
+          "type": "text"
+         }
+        ],
+        "children": []
+       },
+       {
+        "ordinal": "-",
+        "ordered": false,
+        "tokensOfLine": [
+         {
+          "text": "shaarei tzion inside",
+          "type": "text"
+         }
+        ],
+        "children": []
+       }
+      ]
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Second answer",
+        "type": "text"
+       }
+      ],
+      "children": [
+       {
+        "ordinal": "-",
+        "ordered": false,
+        "tokensOfLine": [
+         {
+          "text": "stira to mishna",
+          "type": "text"
+         }
+        ],
+        "children": []
+       },
+       {
+        "ordinal": "-",
+        "ordered": false,
+        "tokensOfLine": [
+         {
+          "text": "mialas and chisronos of both answers",
+          "type": "text"
+         }
+        ],
+        "children": []
+       },
+       {
+        "ordinal": "-",
+        "ordered": false,
+        "tokensOfLine": [
+         {
+          "text": "not the same distinctions & who says that is the ookimpta and why are stam cases presumed stam",
+          "type": "text"
+         }
+        ],
+        "children": []
+       },
+       {
+        "ordinal": "-",
+        "ordered": false,
+        "tokensOfLine": [
+         {
+          "text": "what is an ika damri, pnei yoshua: does the first answer not know about the second answer?",
+          "type": "text"
+         }
+        ],
+        "children": []
+       },
+       {
+        "ordinal": "-",
+        "ordered": false,
+        "tokensOfLine": [
+         {
+          "text": "What does the nami mean?",
+          "type": "text"
+         }
+        ],
+        "children": []
+       },
+       {
+        "ordinal": "-",
+        "ordered": false,
+        "tokensOfLine": [
+         {
+          "text": "Isn't he an oness?",
+          "type": "text"
+         }
+        ],
+        "children": []
+       },
+       {
+        "ordinal": "-",
+        "ordered": false,
+        "tokensOfLine": [
+         {
+          "text": "Clarify that it isn't RYAR's halacha, we are presuming the Tana would know you have to see the woman first etc.",
+          "type": "text"
+         }
+        ],
+        "children": []
+       }
+      ]
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Ki itmar DRav Yosef:",
+        "type": "text"
+       }
+      ],
+      "children": [
+       {
+        "ordinal": "-",
+        "ordered": false,
+        "tokensOfLine": [
+         {
+          "text": "Why didn't the gemara stop there?",
+          "type": "text"
+         }
+        ],
+        "children": []
+       },
+       {
+        "ordinal": "-",
+        "ordered": false,
+        "tokensOfLine": [
+         {
+          "text": "difference between intro of R Yosef and intro of R Yehuda amar Rav, R Yosef needs a total proof, why not say \"one and one\"?",
+          "type": "text"
+         }
+        ],
+        "children": []
+       },
+       {
+        "ordinal": "-",
+        "ordered": false,
+        "tokensOfLine": [
+         {
+          "text": "Why didn't we have to move R Yehuda amar Rav?",
+          "type": "text"
+         }
+        ],
+        "children": []
+       },
+       {
+        "ordinal": "-",
+        "ordered": false,
+        "tokensOfLine": [
+         {
+          "text": "Is this editing a memra of R Yosef, or was there never any memra?",
+          "type": "text"
+         }
+        ],
+        "children": []
+       },
+       {
+        "ordinal": "-",
+        "ordered": false,
+        "tokensOfLine": [
+         {
+          "text": "Why does R Yosef get knocked off?",
+          "type": "text"
+         }
+        ],
+        "children": []
+       },
+       {
+        "ordinal": "-",
+        "ordered": false,
+        "tokensOfLine": [
+         {
+          "text": "Why not just make it a machlochus / standard ika damri where there are multiple conflicting girsas?",
+          "type": "text"
+         }
+        ],
+        "children": []
+       },
+       {
+        "ordinal": "-",
+        "ordered": false,
+        "tokensOfLine": [
+         {
+          "text": "Maybe we are moving R Yosef to explain the bah? But we don't see this in the shakla v'taria.",
+          "type": "text"
+         }
+        ],
+        "children": []
+       },
+       {
+        "ordinal": "-",
+        "ordered": false,
+        "tokensOfLine": [
+         {
+          "text": "Why doesn't RYAR need a source for his halacha?",
+          "type": "text"
+         }
+        ],
+        "children": []
+       },
+       {
+        "ordinal": "-",
+        "ordered": false,
+        "tokensOfLine": [
+         {
+          "text": "Why the Gemara concludes R Yosef must be moved",
+          "type": "text"
+         }
+        ],
+        "children": [
+         {
+          "ordinal": "1",
+          "ordered": true,
+          "tokensOfLine": [
+           {
+            "text": "R Yosef isn't using a lashon of machlochus, he seems to be speaking as if he is the only game in town",
+            "type": "text"
+           }
+          ],
+          "children": []
+         },
+         {
+          "ordinal": "2",
+          "ordered": true,
+          "tokensOfLine": [
+           {
+            "text": "R Yosef agrees to RYAR's halacha in theory",
+            "type": "text"
+           }
+          ],
+          "children": []
+         },
+         {
+          "ordinal": "3",
+          "ordered": true,
+          "tokensOfLine": [
+           {
+            "text": "RYAR's halacha would objectively fit the \"bo\" and so can't be rejected out of hand as a possibility",
+            "type": "text"
+           }
+          ],
+          "children": []
+         },
+         {
+          "ordinal": "4",
+          "ordered": true,
+          "tokensOfLine": [
+           {
+            "text": "RY is definitely speaking about our mishna",
+            "type": "text"
+           }
+          ],
+          "children": []
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "type": "outline"
+   },
+   {
+    "text": "    Thus, there is a stira in R Yosef ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Aval",
+        "type": "text"
+       }
+      ],
+      "children": [
+       {
+        "ordinal": "-",
+        "ordered": false,
+        "tokensOfLine": [
+         {
+          "text": "set up Rashi",
+          "type": "text"
+         }
+        ],
+        "children": []
+       },
+       {
+        "ordinal": "-",
+        "ordered": false,
+        "tokensOfLine": [
+         {
+          "text": "chazon ish emuna bitachon",
+          "type": "text"
+         }
+        ],
+        "children": []
+       }
+      ]
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "Picture": [
+   {
+    "type": "image",
+    "resourceUrl": "/_assets/dafim/Kiddushin_41a_hashta_bshlucho.png",
+    "title": "Kiddushin 41a",
+    "tokens": [
+     {
+      "text": "Kiddushin 41a Vilna Romm Edition 1880-86CE, courtesy of Sefaria.org",
+      "type": "text"
+     }
+    ],
+    "altText": "Kiddushin 41a Vilna Edition",
+    "caption": "Kiddushin 41a Vilna Romm Edition 1880-86CE, courtesy of Sefaria.org",
+    "anchorUrl": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "displayTopicName": "Rashi on Kiddushin 41a aval b'ha",
+ "topicTokens": [
+  {
+   "text": "Rashi on Kiddushin 41a aval b'ha",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Rashi on Kiddushin 41a aval b'ha": [
+   {
+    "text": "Rashi on Kiddushin 41a ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "aval b'ha",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " reads: ",
+    "type": "text"
+   },
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "אבל בהא - אע\"פ שלא ראתהו ליכא איסורא לומר שמא תראה בו דבר מגונה",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   }
+  ]
+ }
+}

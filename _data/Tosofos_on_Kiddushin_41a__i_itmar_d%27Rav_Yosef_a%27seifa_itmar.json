@@ -1,0 +1,36 @@
+{
+ "displayTopicName": "Tosofos on Kiddushin 41a  _i itmar d'Rav Yosef a'seifa itmar_",
+ "topicTokens": [
+  {
+   "text": "Tosofos on Kiddushin 41a  ",
+   "type": "text"
+  },
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "i itmar d'Rav Yosef a'seifa itmar",
+     "type": "text"
+    }
+   ]
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Tosofos on Kiddushin 41a  i itmar d'Rav Yosef a'seifa itmar": [
+   {
+    "text": "The second Tosofos on Kiddushin 41a reads: ",
+    "type": "text"
+   },
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "אי איתמר דרב יוסף אסיפא איתמר - ולהכי לא מוקי ארישא וכגון שמכירה משום דהא מנ\"ל דלמא מתני' מיירי בין מכירה ובין אין מכירה ואפי' איסורא איכא ומלתא דרב יוסף לא נדע",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   }
+  ]
+ }
+}

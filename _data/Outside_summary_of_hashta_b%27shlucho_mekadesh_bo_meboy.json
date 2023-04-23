@@ -1,0 +1,21 @@
+{
+ "displayTopicName": "Outside summary of _hashta b'shlucho mekadesh bo meboy_",
+ "topicTokens": [
+  {
+   "text": "Outside summary of ",
+   "type": "text"
+  },
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "hashta b'shlucho mekadesh bo meboy",
+     "type": "text"
+    }
+   ]
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Outside summary of hashta b'shlucho mekadesh bo meboy": []
+ }
+}

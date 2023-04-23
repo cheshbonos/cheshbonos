@@ -27,25 +27,43 @@
     "enclosingSubtopic": "The Mishnah on Kiddushin 41a"
    },
    {
-    "text": " and quoted below. The Mishnah has a ",
+    "text": " and quoted below. The Mishnah has ",
     "type": "text"
    },
    {
-    "text": "first clause",
-    "type": "global",
+    "text": "context",
+    "type": "local",
     "tokens": [
      {
-      "text": "first clause",
+      "text": "context",
       "type": "text"
      }
     ],
-    "targetSubtopic": "First clause of the Mishnah on Kiddushin 41a",
-    "targetTopic": "First clause of the Mishnah on Kiddushin 41a",
+    "targetSubtopic": "Context of the Mishnah",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
     "enclosingSubtopic": "The Mishnah on Kiddushin 41a"
    },
    {
-    "text": ", a second clause, and a third clause. ",
+    "text": " and several ",
+    "type": "text"
+   },
+   {
+    "text": "clauses",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "clauses",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Clauses",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "The Mishnah on Kiddushin 41a"
+   },
+   {
+    "text": ". ",
     "type": "text"
    },
    {
@@ -57,6 +75,684 @@
      }
     ],
     "direction": "rtl"
+   }
+  ],
+  "Context of the Mishnah": [
+   {
+    "text": "The Mishnah has ",
+    "type": "text"
+   },
+   {
+    "text": "required background information",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "required background information",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Required background information",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Context of the Mishnah"
+   },
+   {
+    "text": ", a ",
+    "type": "text"
+   },
+   {
+    "text": "position in the perek",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "position in the perek",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Position in the perek",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Context of the Mishnah"
+   },
+   {
+    "text": ", and relates to a particular ",
+    "type": "text"
+   },
+   {
+    "text": "subject matter",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "subject matter",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Subject matter",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Context of the Mishnah"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Required background information": [
+   {
+    "text": "This Mishnah presumes familiarity with the ",
+    "type": "text"
+   },
+   {
+    "text": "_halachic_ steps of marriage",
+    "type": "local",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "halachic",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " steps of marriage",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Halachic steps of marriage",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Required background information"
+   },
+   {
+    "text": ", and with the ",
+    "type": "text"
+   },
+   {
+    "text": "concept of _shlichus_",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "concept of ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "shlichus",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Concept of shlichus",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Required background information"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Halachic steps of marriage": [
+   {
+    "text": "In Jewish law, a state of marriage is produced by two steps, ",
+    "type": "text"
+   },
+   {
+    "text": "_kiddushin_",
+    "type": "local",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "kiddushin",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "kiddushin",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Halachic steps of marriage"
+   },
+   {
+    "text": " and ",
+    "type": "text"
+   },
+   {
+    "text": "_nisuyin_",
+    "type": "local",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "nisuyin",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "nisuyin",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Halachic steps of marriage"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "kiddushin": [
+   {
+    "text": "The first step of Jewish marriage is called ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "erusin",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " or ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "kiddushin",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ". After ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "kiddushin",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ", the woman is designated to the man for marriage and would need a halachic divorce in order to remarry. However, the couple is not yet married, and may not live together or have physical contact. The first Mishnah of ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "Maseches Kiddushin",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " discusses the different ways in which a man and woman can produce a state of ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "kiddushin",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ". ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "Kiddushin",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " is sometimes translated as \"engagement\" although the binding nature of ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "kiddushin",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " is one difference between it and ordinary engagement.",
+    "type": "text"
+   }
+  ],
+  "nisuyin": [
+   {
+    "text": "The second step of Jewish marriage is called ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "nisuyin",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ". After ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "kiddushin",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ", the couple must create a state of ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "nisuyin",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " in order to be formally married. In the times of the Gemara ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "nisuyin",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " might be done a year after ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "kiddushin",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ". Today, however, ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "kiddushin",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " and ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "nisuyin",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " are done in the same wedding ceremony. Typically ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "nisuyin",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " is done by having the wife enter the residence of the groom, either his actual residence, or more commonly the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "chupah",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " or ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "yichud",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " room.",
+    "type": "text"
+   }
+  ],
+  "Concept of shlichus": [
+   {
+    "text": "In ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "halacha",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ", there are various actions a person can do that produce ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "halachic",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " consequences, such as buying and selling goods, or doing a ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "mitzvah",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " like giving ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "tzeddukah",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ". In this ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "perek",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ", we will see that some of these actions can be performed by an emissary, or ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "shaliach",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ", who is designated beforehand by the individual, and the individual is credited with the action the emissary performs. Which actions can be done via ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "shaliach",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " and other questions regarding ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "shlichus",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " will be the primary topic of this Mishnah and the Gemaras that discuss it.",
+    "type": "text"
+   }
+  ],
+  "Position in the perek": [
+   {
+    "text": "This is the first Mishnah in the second ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "perek",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " of ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "Maseches Kiddushin",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ". The first ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "perek",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " began by discussing the different methods a man can use to be ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "mekadesh",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " a woman, and this Mishnah will continue to discuss related topics.",
+    "type": "text"
+   }
+  ],
+  "Subject matter": [
+   {
+    "text": "This Mishnah will discuss which aspects of the marriage process can be done via a ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "shaliach",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ". Think to yourself now, what parts would you guess can be done by ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "shaliach",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ", and which parts would you think one wouldn't be able to do via ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "shaliach",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": "?",
+    "type": "text"
+   }
+  ],
+  "Clauses": [
+   {
+    "text": "The Mishnah has a ",
+    "type": "text"
+   },
+   {
+    "text": "first clause",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "first clause",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "First clause",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Clauses"
+   },
+   {
+    "text": ", a ",
+    "type": "text"
+   },
+   {
+    "text": "second clause",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "second clause",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Second clause",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Clauses"
+   },
+   {
+    "text": ", and a ",
+    "type": "text"
+   },
+   {
+    "text": "third clause",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "third clause",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Third clause",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Clauses"
+   },
+   {
+    "text": ".",
+    "type": "text"
    }
   ],
   "Picture": [
@@ -73,6 +769,1002 @@
     "altText": "Kiddushin 41a Vilna Edition",
     "caption": "Kiddushin 41a Vilna Romm Edition 1880-86CE, courtesy of Sefaria.org",
     "anchorUrl": null
+   }
+  ],
+  "First clause": [
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "האיש מקדש בו ובשלוחו",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   },
+   {
+    "text": "The first clause of the Mishnah on Kiddushin 41a is quoted below. The first clause has ",
+    "type": "text"
+   },
+   {
+    "text": "context",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "context",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Context",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "First clause"
+   },
+   {
+    "text": ", ",
+    "type": "text"
+   },
+   {
+    "text": "content",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "content",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Content",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "First clause"
+   },
+   {
+    "text": ", and ",
+    "type": "text"
+   },
+   {
+    "text": "commentary",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "commentary",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Commentary",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "First clause"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Context": [
+   {
+    "text": "The first clause of the Mishnah is discussing whether a man can halachically engage a woman via a messenger without himself being present. Before reading on, stop and ask yourself, do you think this would work? Why or why not?",
+    "type": "text"
+   }
+  ],
+  "Content": [
+   {
+    "text": "The first clause of the Mishnah has ",
+    "type": "text"
+   },
+   {
+    "text": "individual words",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "individual words",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Individual words",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Content"
+   },
+   {
+    "text": ", a ",
+    "type": "text"
+   },
+   {
+    "text": "literal translation",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "literal translation",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Literal translation",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Content"
+   },
+   {
+    "text": ", and a ",
+    "type": "text"
+   },
+   {
+    "text": "summary",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "summary",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Summary",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Content"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Individual words": [
+   {
+    "text": "The first clause of the Mishnah includes ",
+    "type": "text"
+   },
+   {
+    "text": "the word האיש",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "the word האיש",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "The word האיש",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Individual words"
+   },
+   {
+    "text": ", ",
+    "type": "text"
+   },
+   {
+    "text": "the word מקדש",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "the word מקדש",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "The word מקדש",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Individual words"
+   },
+   {
+    "text": ", ",
+    "type": "text"
+   },
+   {
+    "text": "the word בו",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "the word בו",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "The word בו",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Individual words"
+   },
+   {
+    "text": ", and ",
+    "type": "text"
+   },
+   {
+    "text": "the word ובשלוחו",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "the word ובשלוחו",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "The word ובשלוחו",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Individual words"
+   },
+   {
+    "text": ". Try to figure out the meaning of the sentence from the definitions of the individual words.",
+    "type": "text"
+   }
+  ],
+  "Literal translation": [],
+  "Summary": [
+   {
+    "text": "Synthesize context and content into a summary, and see eg does the content and the context fit, is this an answer, etc. - With questions and mehalchim.",
+    "type": "text"
+   }
+  ],
+  "Commentary": [
+   {
+    "text": "There are ",
+    "type": "text"
+   },
+   {
+    "text": "observations we can make on the first clause",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "observations we can make on the first clause",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Observations we can make",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Commentary"
+   },
+   {
+    "text": ", ",
+    "type": "text"
+   },
+   {
+    "text": "mefarshim on the first clause",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "mefarshim on the first clause",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Mefarshim on the first clause",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Commentary"
+   },
+   {
+    "text": ", and ",
+    "type": "text"
+   },
+   {
+    "text": "Gemaras on the first clause",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "Gemaras on the first clause",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Gemaras on the first clause",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Commentary"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Observations we can make": [
+   {
+    "text": "There are observations we can make on the first clause. First, ",
+    "type": "text"
+   },
+   {
+    "text": "that it says \"bo u'b'shlucho\"",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "that it says \"bo u'b'shlucho\"",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "That it says \"bo u'b'shlucho\"",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Observations we can make"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "That it says \"bo u'b'shlucho\"": [
+   {
+    "text": "In order to understand what is interesting about this wording, let's observe that there are ",
+    "type": "text"
+   },
+   {
+    "text": "several things you can mean when giving examples",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "several things you can mean when giving examples",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Several things you can mean when giving examples",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "That it says \"bo u'b'shlucho\""
+   },
+   {
+    "text": ", and then ask ",
+    "type": "text"
+   },
+   {
+    "text": "whether we know from the Mishnah which form of specificity is meant by \"bo u'b'shlucho\"",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "whether we know from the Mishnah which form of specificity is meant by \"bo u'b'shlucho\"",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Whether we know from the Mishnah which form of specificity is meant by \"bo u'b'shlucho\"",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "That it says \"bo u'b'shlucho\""
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Several things you can mean when giving examples": [],
+  "Whether we know from the Mishnah which form of specificity is meant by \"bo u'b'shlucho\"": [],
+  "Mefarshim on the first clause": [
+   {
+    "text": "Rashi on Kiddushin 41a _ha'ish mekadesh bo u'b'shlucho_",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Rashi on Kiddushin 41a ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "ha'ish mekadesh bo u'b'shlucho",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Rashi on Kiddushin 41a ha'ish mekadesh bo u'b'shlucho",
+    "targetTopic": "Rashi on Kiddushin 41a ha'ish mekadesh bo u'b'shlucho",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Mefarshim on the first clause"
+   },
+   {
+    "text": " discusses the first clause of the Mishnah.",
+    "type": "text"
+   }
+  ],
+  "Gemaras on the first clause": [
+   {
+    "text": "The first clause of the Mishnah is the subject of the perek's first sugya, ",
+    "type": "text"
+   },
+   {
+    "text": "hashta b'shlucho mekadesh bo meboy",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "hashta b'shlucho mekadesh bo meboy",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Hashta b'shlucho mekadesh bo meboy",
+    "targetTopic": "Hashta b'shlucho mekadesh bo meboy",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Gemaras on the first clause"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "The word האיש": [
+   {
+    "text": "The word האיש is composed of ",
+    "type": "text"
+   },
+   {
+    "text": "the word איש",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "the word איש",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "The word איש",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "The word האיש"
+   },
+   {
+    "text": " and ",
+    "type": "text"
+   },
+   {
+    "text": "the prefix ה",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "the prefix ה",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "The prefix ה",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "The word האיש"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "The word איש": [
+   {
+    "text": "The word איש in Hebrew means \"man.\"",
+    "type": "text"
+   }
+  ],
+  "The prefix ה": [
+   {
+    "text": "The prefix ה in Hebrew means \"the.\"",
+    "type": "text"
+   }
+  ],
+  "The word מקדש": [
+   {
+    "text": "The word מקדש (\"mekadesh\") has a ",
+    "type": "text"
+   },
+   {
+    "text": "basic explanation",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "basic explanation",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Basic explanation",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "The word מקדש"
+   },
+   {
+    "text": " and ",
+    "type": "text"
+   },
+   {
+    "text": "advanced explanation",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "advanced explanation",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Advanced explanation",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "The word מקדש"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Basic explanation": [
+   {
+    "text": "The word מקדש (\"mekadesh\") means \"making something holy,\" usually used in the context of a man creating the legal status of \"kiddushin\" with a woman prior to marriage, but also, for example, Hashem being ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "mekadesh es ha'shabbos",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " ie making the Shabbos holy.",
+    "type": "text"
+   }
+  ],
+  "Advanced explanation": [
+   {
+    "text": "For those interested in grammar, the word מקדש is the ",
+    "type": "text"
+   },
+   {
+    "text": "the _pi'el_ participle of the shoresh קדש",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "the ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pi'el",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " participle of the shoresh קדש",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "The pi'el participle of the shoresh קדש",
+    "targetTopic": "The pi'el participle of the shoresh קדש",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Advanced explanation"
+   },
+   {
+    "text": " in the ",
+    "type": "text"
+   },
+   {
+    "text": "masculine singular",
+    "type": "import",
+    "tokens": [
+     {
+      "text": "masculine singular",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Masculine singular",
+    "targetTopic": "The pi'el participle of the shoresh קדש",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Advanced explanation"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Parts of speech": [
+   {
+    "text": "The word מקדש can function as a noun, meaning \"someone who makes something holy\", a verb, someone or something \"is making holy,\" or an adjective, something has \"the quality of making something holy.\"",
+    "type": "text"
+   }
+  ],
+  "The word בו": [
+   {
+    "text": "The word בו can mean \"with him/it,\" \"on him/it,\" \"inside him/it,\" and \"because of him/it.\" For those interested in grammar, it is ",
+    "type": "text"
+   },
+   {
+    "text": "the prefix ב",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "the prefix ב",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "The prefix ב",
+    "targetTopic": "The prefix ב",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "The word בו"
+   },
+   {
+    "text": " with a ",
+    "type": "text"
+   },
+   {
+    "text": "pronominal suffix",
+    "type": "import",
+    "tokens": [
+     {
+      "text": "pronominal suffix",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Pronominal suffixes",
+    "targetTopic": "The prefix ב",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "The word בו"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "The word ובשלוחו": [
+   {
+    "text": "This is ",
+    "type": "text"
+   },
+   {
+    "text": "the prefix ו",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "the prefix ו",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "The prefix ו",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "The word ובשלוחו"
+   },
+   {
+    "text": ", followed by ",
+    "type": "text"
+   },
+   {
+    "text": "the prefix ב",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "the prefix ב",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "The prefix ב",
+    "targetTopic": "The prefix ב",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "The word ובשלוחו"
+   },
+   {
+    "text": ", followed by ",
+    "type": "text"
+   },
+   {
+    "text": "the word שלוח",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "the word שלוח",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "The word שלוח",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "The word ובשלוחו"
+   },
+   {
+    "text": ", followed by ",
+    "type": "text"
+   },
+   {
+    "text": "the noun suffix ו",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "the noun suffix ו",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "The noun suffix ו",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "The word ובשלוחו"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "The prefix ו": [
+   {
+    "text": "The prefix ו usually means \"and,\" but can also mean \"or.\"",
+    "type": "text"
+   }
+  ],
+  "The word שלוח": [
+   {
+    "text": "The word שלוח means \"someone or something that is sent.\" For those interested in grammar, it is ",
+    "type": "text"
+   },
+   {
+    "text": "masculine singular",
+    "type": "import",
+    "tokens": [
+     {
+      "text": "masculine singular",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Masculine singular",
+    "targetTopic": "Pa'al passive participle tense of the shoresh שלח",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "The word שלוח"
+   },
+   {
+    "text": " of the ",
+    "type": "text"
+   },
+   {
+    "text": "_pa'al_ passive participle tense of the shoresh שלח",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pa'al",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " passive participle tense of the shoresh שלח",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Pa'al passive participle tense of the shoresh שלח",
+    "targetTopic": "Pa'al passive participle tense of the shoresh שלח",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "The word שלוח"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "The noun suffix ו": [
+   {
+    "text": "The suffix ו when applied to a noun means \"of him\" or \"of it.\"",
+    "type": "text"
+   }
+  ],
+  "Literal translation of the first clause": [
+   {
+    "text": "A literal translation of the first clause of the Mishnah might be: ",
+    "type": "text"
+   },
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "The man is being ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "mekadesh",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": ", with himself or with a ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "shaliach",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "direction": "ltr"
+   },
+   {
+    "text": "Try to figure out what this means in context. You might ask: ",
+    "type": "text"
+   },
+   {
+    "text": "What does \"being mekadesh\" mean here?",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "What does \"being mekadesh\" mean here?",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "What does \"being mekadesh\" mean here?",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Literal translation of the first clause"
+   },
+   {
+    "text": " ",
+    "type": "text"
+   },
+   {
+    "text": "Why does it say _the_ man?",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "Why does it say ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "the",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " man?",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Why does it say the man?",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Literal translation of the first clause"
+   }
+  ],
+  "What does \"being mekadesh\" mean here?": [
+   {
+    "text": "We find here a klal of mishnayos that a \"present tense\" statement means a psak, and so \"the man is being mekadesh himself or with an emissary\" in this context means \"the man is ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "allowed",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " to be mekadesh, himself or with an emissary.\"",
+    "type": "text"
+   }
+  ],
+  "Why does it say the man?": [
+   {
+    "text": "If the Mishnah wanted to say \"any man can be mekadesh an isha using these methods,\" why did it say \"",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "the",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " man can be mekadesh\", as if only some specific man can do it, instead of saying \"",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "a",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " man can be mekadesh,\" ie any man? (Then it would read: איש מקדש, instead of האיש מקדש, because ",
+    "type": "text"
+   },
+   {
+    "text": "Hebrew nouns",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Hebrew nouns",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Hebrew nouns",
+    "targetTopic": "Hebrew nouns",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Why does it say the man?"
+   },
+   {
+    "text": " ",
+    "type": "text"
+   },
+   {
+    "text": "by default have an indefinite article",
+    "type": "import",
+    "tokens": [
+     {
+      "text": "by default have an indefinite article",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "By default have an indefinite article",
+    "targetTopic": "Hebrew nouns",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Why does it say the man?"
+   },
+   {
+    "text": ".)",
+    "type": "text"
+   }
+  ],
+  "Pshat in the first clause": [
+   {
+    "text": "A pshat in the first clause of the Mishna might be: ",
+    "type": "text"
+   },
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "A man is ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "allowed",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " to be mekadesh a woman, himself or with a shaliach",
+      "type": "text"
+     }
+    ],
+    "direction": "ltr"
+   }
+  ],
+  "Second clause": [
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "האשה מתקדשת בה ובשלוחה",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   },
+   {
+    "text": "This is the second clause of the Mishnah.",
+    "type": "text"
+   }
+  ],
+  "Third clause": [
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "האיש מקדש את בתו כשהיא נערה בו ובשלוחו",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   },
+   {
+    "text": "This is the third clause of the Mishnah.",
+    "type": "text"
    }
   ]
  }

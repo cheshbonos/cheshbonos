@@ -9,61 +9,61 @@
  "paragraphsBySubtopic": {
   "Perek Ha'ish Mekadesh": [
    {
-    "text": "Perek Ha'ish Mekadesh has ",
+    "text": "You can browse Perek Ha'ish Mekadesh by ",
     "type": "text"
    },
    {
-    "text": "dafim",
+    "text": "daf",
     "type": "local",
     "tokens": [
      {
-      "text": "dafim",
+      "text": "daf",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Dafim",
+    "targetSubtopic": "Daf",
     "targetTopic": "Perek Ha'ish Mekadesh",
     "enclosingTopic": "Perek Ha'ish Mekadesh",
     "enclosingSubtopic": "Perek Ha'ish Mekadesh"
    },
    {
-    "text": ", ",
+    "text": ", by ",
     "type": "text"
    },
    {
-    "text": "mishnayos",
+    "text": "mishnah",
     "type": "local",
     "tokens": [
      {
-      "text": "mishnayos",
+      "text": "mishnah",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Mishnayos",
+    "targetSubtopic": "Mishnah",
     "targetTopic": "Perek Ha'ish Mekadesh",
     "enclosingTopic": "Perek Ha'ish Mekadesh",
     "enclosingSubtopic": "Perek Ha'ish Mekadesh"
    },
    {
-    "text": ", ",
+    "text": ", by ",
     "type": "text"
    },
    {
-    "text": "halachos",
+    "text": "halacha",
     "type": "local",
     "tokens": [
      {
-      "text": "halachos",
+      "text": "halacha",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Halachos",
+    "targetSubtopic": "Halacha",
     "targetTopic": "Perek Ha'ish Mekadesh",
     "enclosingTopic": "Perek Ha'ish Mekadesh",
     "enclosingSubtopic": "Perek Ha'ish Mekadesh"
    },
    {
-    "text": " and a ",
+    "text": ", or with an outside ",
     "type": "text"
    },
    {
@@ -85,9 +85,9 @@
     "type": "text"
    }
   ],
-  "Dafim": [
+  "Daf": [
    {
-    "text": "Perek Ha'ish Mekadesh covers eighteen daf, beginning on ",
+    "text": "Perek Ha'ish Mekadesh begins on ",
     "type": "text"
    },
    {
@@ -102,14 +102,14 @@
     "targetSubtopic": "Kiddushin 41a",
     "targetTopic": "Kiddushin 41a",
     "enclosingTopic": "Perek Ha'ish Mekadesh",
-    "enclosingSubtopic": "Dafim"
+    "enclosingSubtopic": "Daf"
    },
    {
-    "text": " and ending on Kiddushin 58b.",
+    "text": ".",
     "type": "text"
    }
   ],
-  "Mishnayos": [
+  "Mishnah": [
    {
     "text": "Perek Ha'ish Mekadesh begins with ",
     "type": "text"
@@ -126,14 +126,14 @@
     "targetSubtopic": "The Mishnah on Kiddushin 41a",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "Perek Ha'ish Mekadesh",
-    "enclosingSubtopic": "Mishnayos"
+    "enclosingSubtopic": "Mishnah"
    },
    {
     "text": ".",
     "type": "text"
    }
   ],
-  "Halachos": [
+  "Halacha": [
    {
     "text": "Perek Ha'ish Mekadesh teaches certain halachos.",
     "type": "text"

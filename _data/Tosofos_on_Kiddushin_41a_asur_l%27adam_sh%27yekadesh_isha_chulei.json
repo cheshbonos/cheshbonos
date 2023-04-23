@@ -1,0 +1,36 @@
+{
+ "displayTopicName": "Tosofos on Kiddushin 41a _asur l'adam sh'yekadesh isha chulei_",
+ "topicTokens": [
+  {
+   "text": "Tosofos on Kiddushin 41a ",
+   "type": "text"
+  },
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "asur l'adam sh'yekadesh isha chulei",
+     "type": "text"
+    }
+   ]
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Tosofos on Kiddushin 41a asur l'adam sh'yekadesh isha chulei": [
+   {
+    "text": "The third Tosofos on Kiddushin 41a reads: ",
+    "type": "text"
+   },
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "אסור לאדם שיקדש אשה כו'. אע\"ג דקתני האיש מקדש לכתחילה לא נקט ליה אלא לאשמועינן דין קידושין",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   }
+  ]
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "displayTopicName": "Rashi on Kiddushin 41a shibuta",
+ "topicTokens": [
+  {
+   "text": "Rashi on Kiddushin 41a shibuta",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Rashi on Kiddushin 41a shibuta": [
+   {
+    "text": "Rashi on Kiddushin 41a ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "shibuta",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " reads: ",
+    "type": "text"
+   },
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "שיבוטא - דג",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   }
+  ]
+ }
+}

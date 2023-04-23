@@ -27,7 +27,25 @@
     "enclosingSubtopic": "The prefix ב"
    },
    {
-    "text": ". It can be followed by a noun, or one of several ",
+    "text": ". It can be ",
+    "type": "text"
+   },
+   {
+    "text": "followed by a noun",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "followed by a noun",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Followed by a noun",
+    "targetTopic": "The prefix ב",
+    "enclosingTopic": "The prefix ב",
+    "enclosingSubtopic": "The prefix ב"
+   },
+   {
+    "text": ", or one of several ",
     "type": "text"
    },
    {
@@ -45,24 +63,6 @@
     "enclosingSubtopic": "The prefix ב"
    },
    {
-    "text": ". It is often ",
-    "type": "text"
-   },
-   {
-    "text": "short for various words",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "short for various words",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Short for various words",
-    "targetTopic": "The prefix ב",
-    "enclosingTopic": "The prefix ב",
-    "enclosingSubtopic": "The prefix ב"
-   },
-   {
     "text": ".",
     "type": "text"
    }
@@ -73,506 +73,474 @@
     "type": "text"
    }
   ],
-  "The word בתוך": [
+  "Followed by a noun": [
    {
-    "text": "The word בתוך means \"inside.\" It is pronounced \"b'towch.\"",
-    "type": "text"
-   }
-  ],
-  "The word בשביל": [
-   {
-    "text": "The word בשביל means \"because of.\" It is pronounced \"bee-shveel.\"",
+    "text": "The prefix ב can be followed by a noun, for example, בבית, the prefix ב followed by the noun בית, meaning \"in the house.\"",
     "type": "text"
    }
   ],
   "Pronominal suffixes": [
    {
-    "text": "The prefix ב in Hebrew has several suffixes that can be attached to indicate who or what is being referred to. The prefix ב has ",
+    "text": "The prefix ב in Hebrew has several suffixes that can be attached to indicate who or what is being referred to. ",
     "type": "text"
    },
    {
-    "text": "first-person suffixes",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "first-person suffixes",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "First-person suffixes",
-    "targetTopic": "The prefix ב",
-    "enclosingTopic": "The prefix ב",
-    "enclosingSubtopic": "Pronominal suffixes"
-   },
-   {
-    "text": ", ",
-    "type": "text"
-   },
-   {
-    "text": "second-person suffixes",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "second-person suffixes",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Second-person suffixes",
-    "targetTopic": "The prefix ב",
-    "enclosingTopic": "The prefix ב",
-    "enclosingSubtopic": "Pronominal suffixes"
-   },
-   {
-    "text": ", and ",
-    "type": "text"
-   },
-   {
-    "text": "third-person suffixes",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "third-person suffixes",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Third-person suffixes",
-    "targetTopic": "The prefix ב",
-    "enclosingTopic": "The prefix ב",
-    "enclosingSubtopic": "Pronominal suffixes"
-   },
-   {
-    "text": ".",
-    "type": "text"
-   }
-  ],
-  "First-person suffixes": [
-   {
-    "text": "There is a ",
-    "type": "text"
-   },
-   {
-    "text": "first-person singular suffix",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "first-person singular suffix",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "First-person singular suffix",
-    "targetTopic": "The prefix ב",
-    "enclosingTopic": "The prefix ב",
-    "enclosingSubtopic": "First-person suffixes"
-   },
-   {
-    "text": " and a ",
-    "type": "text"
-   },
-   {
-    "text": "first-person plural suffix",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "first-person plural suffix",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "First-person plural suffix",
-    "targetTopic": "The prefix ב",
-    "enclosingTopic": "The prefix ב",
-    "enclosingSubtopic": "First-person suffixes"
-   },
-   {
-    "text": ".",
-    "type": "text"
-   }
-  ],
-  "First-person singular suffix": [
-   {
-    "text": "The first-person singular suffix is בִּי, \"bi,\" meaning \"in/with/on ",
-    "type": "text"
-   },
-   {
-    "type": "bold",
-    "tokens": [
-     {
-      "text": "me",
-      "type": "text"
-     }
+    "type": "table",
+    "rows": [
+     [
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "Tense",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "Person",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "Hebrew",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "Transliteration",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "Example meaning",
+          "type": "text"
+         }
+        ]
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "First person singular",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "I",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "בִּי",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "bi",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "text": "with me",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "First person plural",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "We",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "בָּנוּ",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "banu",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "text": "with us",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "Second person singular masculine",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "You (masculine)",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "בְּךָ",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "becha",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "text": "with you (masculine)",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "Second person singular feminine",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "You (feminine)",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "בָּךְ",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "bach",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "text": "with you (feminine)",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "Second person plural masculine",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "You all (masculine)",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "בָּכֶם",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "bachem",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "text": "with you all (masculine)",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "Second person plural feminine",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "You all (feminine)",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "בָּכֶן",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "bachen",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "text": "with you all (feminine)",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "Third person singular masculine",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "He / it (masculine)",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "בּוֹ",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "bo",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "text": "with him",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "Third person singular feminine",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "She / it (feminine)",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "בָּהּ",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "bah",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "text": "with her",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "Third person plural masculine",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Them / those (masculine)",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "בָּהֶם or בָּם",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "bahem",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " or ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "bam",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "text": "with those men",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "Third person plural feminine",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Them / those (feminine)",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "בָּהֶן or בָּן",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "bahen",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " or ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "ban",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "text": "with those women",
+        "type": "text"
+       }
+      ]
+     ]
     ]
-   },
-   {
-    "text": ".\"",
-    "type": "text"
-   }
-  ],
-  "First-person plural suffix": [
-   {
-    "text": "The first-person plural suffix is בָּנוּ, \"banu,\" meaning \"in/with/on ",
-    "type": "text"
-   },
-   {
-    "type": "bold",
-    "tokens": [
-     {
-      "text": "us",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": ".\"",
-    "type": "text"
-   }
-  ],
-  "Second-person suffixes": [
-   {
-    "text": "There is a ",
-    "type": "text"
-   },
-   {
-    "text": "second-person masculine singular suffix",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "second-person masculine singular suffix",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Second-person masculine singular suffix",
-    "targetTopic": "The prefix ב",
-    "enclosingTopic": "The prefix ב",
-    "enclosingSubtopic": "Second-person suffixes"
-   },
-   {
-    "text": ", a ",
-    "type": "text"
-   },
-   {
-    "text": "second-person feminine singular suffix",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "second-person feminine singular suffix",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Second-person feminine singular suffix",
-    "targetTopic": "The prefix ב",
-    "enclosingTopic": "The prefix ב",
-    "enclosingSubtopic": "Second-person suffixes"
-   },
-   {
-    "text": ", a ",
-    "type": "text"
-   },
-   {
-    "text": "second-person masculine plural suffix",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "second-person masculine plural suffix",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Second-person masculine plural suffix",
-    "targetTopic": "The prefix ב",
-    "enclosingTopic": "The prefix ב",
-    "enclosingSubtopic": "Second-person suffixes"
-   },
-   {
-    "text": ", and a ",
-    "type": "text"
-   },
-   {
-    "text": "second-person feminine plural suffix",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "second-person feminine plural suffix",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Second-person feminine plural suffix",
-    "targetTopic": "The prefix ב",
-    "enclosingTopic": "The prefix ב",
-    "enclosingSubtopic": "Second-person suffixes"
-   },
-   {
-    "text": ".",
-    "type": "text"
-   }
-  ],
-  "Second-person masculine singular suffix": [
-   {
-    "text": "The prefix ב with a second-person masculine singular suffix in Hebrew is בְּךָ, \"bechah,\" meaning \"in/with/on ",
-    "type": "text"
-   },
-   {
-    "type": "bold",
-    "tokens": [
-     {
-      "text": "you (masculine, singular)",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": ".\"",
-    "type": "text"
-   }
-  ],
-  "Second-person feminine singular suffix": [
-   {
-    "text": "The prefix ב with a second-person feminine singular suffix in Hebrew is בָּךְ \"bach,\" meaning \"in/with/on ",
-    "type": "text"
-   },
-   {
-    "type": "bold",
-    "tokens": [
-     {
-      "text": "you (feminine, singular)",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": ".\"",
-    "type": "text"
-   }
-  ],
-  "Second-person masculine plural suffix": [
-   {
-    "text": "The prefix ב with a second-person masculine plural suffix in Hebrew is בָּכֶם, \"bauchem,\" meaning \"in/with/on ",
-    "type": "text"
-   },
-   {
-    "type": "bold",
-    "tokens": [
-     {
-      "text": "you (masculine, plural)",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": ".\"",
-    "type": "text"
-   }
-  ],
-  "Second-person feminine plural suffix": [
-   {
-    "text": "The prefix ב with a second-person feminine plural suffix in Hebrew is בָּכֶן, \"bauchen,\" meaning \"in/with/on ",
-    "type": "text"
-   },
-   {
-    "type": "bold",
-    "tokens": [
-     {
-      "text": "you (feminine, plural)",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": ".\"",
-    "type": "text"
-   }
-  ],
-  "Third-person suffixes": [
-   {
-    "text": "There is a ",
-    "type": "text"
-   },
-   {
-    "text": "third-person masculine singular suffix",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "third-person masculine singular suffix",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Third-person masculine singular suffix",
-    "targetTopic": "The prefix ב",
-    "enclosingTopic": "The prefix ב",
-    "enclosingSubtopic": "Third-person suffixes"
-   },
-   {
-    "text": ", a ",
-    "type": "text"
-   },
-   {
-    "text": "third-person feminine singular suffix",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "third-person feminine singular suffix",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Third-person feminine singular suffix",
-    "targetTopic": "The prefix ב",
-    "enclosingTopic": "The prefix ב",
-    "enclosingSubtopic": "Third-person suffixes"
-   },
-   {
-    "text": ", a ",
-    "type": "text"
-   },
-   {
-    "text": "third-person masculine plural suffix",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "third-person masculine plural suffix",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Third-person masculine plural suffix",
-    "targetTopic": "The prefix ב",
-    "enclosingTopic": "The prefix ב",
-    "enclosingSubtopic": "Third-person suffixes"
-   },
-   {
-    "text": ", and a ",
-    "type": "text"
-   },
-   {
-    "text": "third-person feminine plural suffix",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "third-person feminine plural suffix",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Third-person feminine plural suffix",
-    "targetTopic": "The prefix ב",
-    "enclosingTopic": "The prefix ב",
-    "enclosingSubtopic": "Third-person suffixes"
-   },
-   {
-    "text": ".",
-    "type": "text"
-   }
-  ],
-  "Third-person masculine singular suffix": [
-   {
-    "text": "The prefix ב with a third-person masculine singular suffix in Hebrew is בּוֹ, \"bo,\" meaning \"in/with/on ",
-    "type": "text"
-   },
-   {
-    "type": "bold",
-    "tokens": [
-     {
-      "text": "him/it (masculine)",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": ".\"",
-    "type": "text"
-   }
-  ],
-  "Third-person feminine singular suffix": [
-   {
-    "text": "The prefix ב with a third-person feminine singular suffix in Hebrew is בָּהּ, \"bah,\" meaning \"in/with/on ",
-    "type": "text"
-   },
-   {
-    "type": "bold",
-    "tokens": [
-     {
-      "text": "her/it (feminine)",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": ".\"",
-    "type": "text"
-   }
-  ],
-  "Third-person masculine plural suffix": [
-   {
-    "text": "The prefix ב with a third-person masculine plural suffix in Hebrew is בָּהֶם (\"bahem\") or בָּם (\"bam,\") meaning \"in/with/on ",
-    "type": "text"
-   },
-   {
-    "type": "bold",
-    "tokens": [
-     {
-      "text": "them (masculine)",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": ".\"",
-    "type": "text"
-   }
-  ],
-  "Third-person feminine plural suffix": [
-   {
-    "text": "The prefix ב with a third-person feminine plural suffix in Hebrew is בָּהֶן (\"bahen\") or בָּן (\"bahn,\") meaning \"in/with/on ",
-    "type": "text"
-   },
-   {
-    "type": "bold",
-    "tokens": [
-     {
-      "text": "them (feminine)",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": ".\"",
-    "type": "text"
-   }
-  ],
-  "Short for various words": [
-   {
-    "text": "The prefix ב is often short for one of several words beginning with ב, like ",
-    "type": "text"
-   },
-   {
-    "text": "the word בתוך",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "the word בתוך",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "The word בתוך",
-    "targetTopic": "The prefix ב",
-    "enclosingTopic": "The prefix ב",
-    "enclosingSubtopic": "Short for various words"
-   },
-   {
-    "text": " or ",
-    "type": "text"
-   },
-   {
-    "text": "the word בשביל",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "the word בשביל",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "The word בשביל",
-    "targetTopic": "The prefix ב",
-    "enclosingTopic": "The prefix ב",
-    "enclosingSubtopic": "Short for various words"
-   },
-   {
-    "text": ".",
-    "type": "text"
    }
   ]
  }

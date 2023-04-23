@@ -1,0 +1,40 @@
+{
+ "displayTopicName": "Rashi on Kiddushin 41a tan",
+ "topicTokens": [
+  {
+   "text": "Rashi on Kiddushin 41a tan",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Rashi on Kiddushin 41a tan": [
+   {
+    "text": "Rashi on Kiddushin 41a ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "tan",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " reads: ",
+    "type": "text"
+   },
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "טן - גוף",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   }
+  ]
+ }
+}

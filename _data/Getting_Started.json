@@ -1,0 +1,17 @@
+{
+ "displayTopicName": "Getting Started",
+ "topicTokens": [
+  {
+   "text": "Getting Started",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Getting Started": [
+   {
+    "text": "In order to understand Gemara it helps to know some history..",
+    "type": "text"
+   }
+  ]
+ }
+}

@@ -201,55 +201,7 @@
   ],
   "Verb": [
    {
-    "text": "A participle can be used as a verb, eg הילד הולך, \"the boy is walking.\" (For those interested in grammar, a more precise understanding is that ",
-    "type": "text"
-   },
-   {
-    "text": "there is no present tense verb conjugation in Hebrew or Aramaic",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "there is no present tense verb conjugation in Hebrew or Aramaic",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "There is no present tense verb conjugation in Hebrew or Aramaic",
-    "targetTopic": "Participle tense",
-    "enclosingTopic": "Participle tense",
-    "enclosingSubtopic": "Verb"
-   },
-   {
-    "text": ", and ",
-    "type": "text"
-   },
-   {
-    "text": "the participle functions as the present tense and gerund",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "the participle functions as the present tense and gerund",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "The participle functions as the present tense and gerund",
-    "targetTopic": "Participle tense",
-    "enclosingTopic": "Participle tense",
-    "enclosingSubtopic": "Verb"
-   },
-   {
-    "text": ".)",
-    "type": "text"
-   }
-  ],
-  "There is no present tense verb conjugation in Hebrew or Aramaic": [
-   {
-    "text": "In English, one can say \"the boy runs\" (the present tense,) or \"the boy is running\" (the \"gerund.\") In Hebrew and Aramaic however, there is no tense corresponding to \"the boy runs.\"",
-    "type": "text"
-   }
-  ],
-  "The participle functions as the present tense and gerund": [
-   {
-    "text": "Because there is no distinction between the present tense and the gerund, and the words הילד הולך could mean either the present tense (\"the boy runs\"), or the gerund (\"the boy is running,\") and we would have to know from context which was intended.",
+    "text": "A participle in Hebrew and Aramaic can be used as a verb, eg הילד הולך, \"the boy is walking.\"",
     "type": "text"
    }
   ],

@@ -1,0 +1,323 @@
+{
+ "displayTopicName": "השתא בשלוחו מקדש בו מיבעיא",
+ "topicTokens": [
+  {
+   "text": "השתא בשלוחו מקדש בו מיבעיא",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "השתא בשלוחו מקדש בו מיבעיא": [
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "גמ' השתא בשלוחו מקדש בו מיבעיא ...",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   },
+   {
+    "text": "This sentence has ",
+    "type": "text"
+   },
+   {
+    "text": "context",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "context",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Context",
+    "targetTopic": "השתא בשלוחו מקדש בו מיבעיא",
+    "enclosingTopic": "השתא בשלוחו מקדש בו מיבעיא",
+    "enclosingSubtopic": "השתא בשלוחו מקדש בו מיבעיא"
+   },
+   {
+    "text": ", ",
+    "type": "text"
+   },
+   {
+    "text": "content",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "content",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Content",
+    "targetTopic": "השתא בשלוחו מקדש בו מיבעיא",
+    "enclosingTopic": "השתא בשלוחו מקדש בו מיבעיא",
+    "enclosingSubtopic": "השתא בשלוחו מקדש בו מיבעיא"
+   },
+   {
+    "text": ", and ",
+    "type": "text"
+   },
+   {
+    "text": "commentary",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "commentary",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Commentary",
+    "targetTopic": "השתא בשלוחו מקדש בו מיבעיא",
+    "enclosingTopic": "השתא בשלוחו מקדש בו מיבעיא",
+    "enclosingSubtopic": "השתא בשלוחו מקדש בו מיבעיא"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Context": [
+   {
+    "text": "Before we learn the sentence inside, we should ",
+    "type": "text"
+   },
+   {
+    "text": "review where we are holding",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "review where we are holding",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Review where we are holding",
+    "targetTopic": "השתא בשלוחו מקדש בו מיבעיא",
+    "enclosingTopic": "השתא בשלוחו מקדש בו מיבעיא",
+    "enclosingSubtopic": "Context"
+   },
+   {
+    "text": ", learn any ",
+    "type": "text"
+   },
+   {
+    "text": "background information required for the Gemara's next step",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "background information required for the Gemara's next step",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Background information required for the Gemara's next step",
+    "targetTopic": "השתא בשלוחו מקדש בו מיבעיא",
+    "enclosingTopic": "השתא בשלוחו מקדש בו מיבעיא",
+    "enclosingSubtopic": "Context"
+   },
+   {
+    "text": ", and ",
+    "type": "text"
+   },
+   {
+    "text": "speculate as to what could follow the previous point",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "speculate as to what could follow the previous point",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Speculate as to what could follow the previous point",
+    "targetTopic": "השתא בשלוחו מקדש בו מיבעיא",
+    "enclosingTopic": "השתא בשלוחו מקדש בו מיבעיא",
+    "enclosingSubtopic": "Context"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Review where we are holding": [
+   {
+    "text": "In order to understand what comes next in the Gemara, it is helpful to remind ourselves of what was going on just prior to the following line.",
+    "type": "text"
+   }
+  ],
+  "Background information required for the Gemara's next step": [
+   {
+    "text": "Sometimes the next question or answer of the Gemara is based on assumed prior knowledge.",
+    "type": "text"
+   }
+  ],
+  "Speculate as to what could follow the previous point": [
+   {
+    "text": "In order to understand what comes next in the Gemara, it can be helpful to brainstorm what could follow the previous point before reading ahead.",
+    "type": "text"
+   }
+  ],
+  "Content": [
+   {
+    "text": "In order to learn this sentence, first we ",
+    "type": "text"
+   },
+   {
+    "text": "determine where the sentence stops",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "determine where the sentence stops",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Determine where the sentence stops",
+    "targetTopic": "השתא בשלוחו מקדש בו מיבעיא",
+    "enclosingTopic": "השתא בשלוחו מקדש בו מיבעיא",
+    "enclosingSubtopic": "Content"
+   },
+   {
+    "text": ", consider the ",
+    "type": "text"
+   },
+   {
+    "text": "words of the sentence on their own",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "words of the sentence on their own",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Words of the sentence on their own",
+    "targetTopic": "השתא בשלוחו מקדש בו מיבעיא",
+    "enclosingTopic": "השתא בשלוחו מקדש בו מיבעיא",
+    "enclosingSubtopic": "Content"
+   },
+   {
+    "text": ", then construct a ",
+    "type": "text"
+   },
+   {
+    "text": "literal translation",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "literal translation",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Literal translation",
+    "targetTopic": "השתא בשלוחו מקדש בו מיבעיא",
+    "enclosingTopic": "השתא בשלוחו מקדש בו מיבעיא",
+    "enclosingSubtopic": "Content"
+   },
+   {
+    "text": ", ask ",
+    "type": "text"
+   },
+   {
+    "text": "comprehension questions",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "comprehension questions",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Comprehension questions",
+    "targetTopic": "השתא בשלוחו מקדש בו מיבעיא",
+    "enclosingTopic": "השתא בשלוחו מקדש בו מיבעיא",
+    "enclosingSubtopic": "Content"
+   },
+   {
+    "text": ", and produce a ",
+    "type": "text"
+   },
+   {
+    "text": "cumulative summary",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "cumulative summary",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Cumulative summary",
+    "targetTopic": "השתא בשלוחו מקדש בו מיבעיא",
+    "enclosingTopic": "השתא בשלוחו מקדש בו מיבעיא",
+    "enclosingSubtopic": "Content"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Determine where the sentence stops": [],
+  "Words of the sentence on their own": [],
+  "Literal translation": [],
+  "Cumulative summary": [],
+  "Comprehension questions": [],
+  "Commentary": [
+   {
+    "text": "Now that we understand what the sentence says, we can ask ",
+    "type": "text"
+   },
+   {
+    "text": "clarification questions",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "clarification questions",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Clarification questions",
+    "targetTopic": "השתא בשלוחו מקדש בו מיבעיא",
+    "enclosingTopic": "השתא בשלוחו מקדש בו מיבעיא",
+    "enclosingSubtopic": "Commentary"
+   },
+   {
+    "text": ", look at ",
+    "type": "text"
+   },
+   {
+    "text": "mefarshim",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "mefarshim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Mefarshim",
+    "targetTopic": "השתא בשלוחו מקדש בו מיבעיא",
+    "enclosingTopic": "השתא בשלוחו מקדש בו מיבעיא",
+    "enclosingSubtopic": "Commentary"
+   },
+   {
+    "text": ", and ask ",
+    "type": "text"
+   },
+   {
+    "text": "analytical questions",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "analytical questions",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Analytical questions",
+    "targetTopic": "השתא בשלוחו מקדש בו מיבעיא",
+    "enclosingTopic": "השתא בשלוחו מקדש בו מיבעיא",
+    "enclosingSubtopic": "Commentary"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Clarification questions": [],
+  "Mefarshim": [],
+  "Analytical questions": []
+ }
+}
