@@ -12,7 +12,7 @@
     "type": "block_quote",
     "tokens": [
      {
-      "text": "גמ' השתא בשלוחו מקדש בו מיבעיא ...",
+      "text": "גמ' השתא בשלוחו מקדש בו מיבעיא",
       "type": "text"
      }
     ],
@@ -252,7 +252,109 @@
    }
   ],
   "Determine where the sentence stops": [],
-  "Words of the sentence on their own": [],
+  "Words of the sentence on their own": [
+   {
+    "text": "Click a word to see its possible meanings: ",
+    "type": "text"
+   },
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "השתא",
+      "type": "local",
+      "tokens": [
+       {
+        "text": "השתא",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "השתא",
+      "targetTopic": "השתא בשלוחו מקדש בו מיבעיא",
+      "enclosingTopic": "השתא בשלוחו מקדש בו מיבעיא",
+      "enclosingSubtopic": "Words of the sentence on their own"
+     },
+     {
+      "text": " ",
+      "type": "text"
+     },
+     {
+      "text": "בשלוחו",
+      "type": "local",
+      "tokens": [
+       {
+        "text": "בשלוחו",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "בשלוחו",
+      "targetTopic": "השתא בשלוחו מקדש בו מיבעיא",
+      "enclosingTopic": "השתא בשלוחו מקדש בו מיבעיא",
+      "enclosingSubtopic": "Words of the sentence on their own"
+     },
+     {
+      "text": " ",
+      "type": "text"
+     },
+     {
+      "text": "מקדש",
+      "type": "local",
+      "tokens": [
+       {
+        "text": "מקדש",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "מקדש",
+      "targetTopic": "השתא בשלוחו מקדש בו מיבעיא",
+      "enclosingTopic": "השתא בשלוחו מקדש בו מיבעיא",
+      "enclosingSubtopic": "Words of the sentence on their own"
+     },
+     {
+      "text": " ",
+      "type": "text"
+     },
+     {
+      "text": "בו",
+      "type": "local",
+      "tokens": [
+       {
+        "text": "בו",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "בו",
+      "targetTopic": "השתא בשלוחו מקדש בו מיבעיא",
+      "enclosingTopic": "השתא בשלוחו מקדש בו מיבעיא",
+      "enclosingSubtopic": "Words of the sentence on their own"
+     },
+     {
+      "text": " ",
+      "type": "text"
+     },
+     {
+      "text": "מיבעיא",
+      "type": "local",
+      "tokens": [
+       {
+        "text": "מיבעיא",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "מיבעיא",
+      "targetTopic": "השתא בשלוחו מקדש בו מיבעיא",
+      "enclosingTopic": "השתא בשלוחו מקדש בו מיבעיא",
+      "enclosingSubtopic": "Words of the sentence on their own"
+     }
+    ],
+    "direction": "rtl"
+   }
+  ],
+  "השתא": [],
+  "בשלוחו": [],
+  "מקדש": [],
+  "בו": [],
+  "מיבעיא": [],
   "Literal translation": [],
   "Cumulative summary": [],
   "Comprehension questions": [],

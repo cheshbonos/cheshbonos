@@ -27,50 +27,28 @@
     "enclosingSubtopic": "The Mishnah on Kiddushin 41a"
    },
    {
-    "text": " and quoted below. The Mishnah has ",
-    "type": "text"
-   },
-   {
-    "text": "context",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "context",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Context of the Mishnah",
-    "targetTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "The Mishnah on Kiddushin 41a"
-   },
-   {
-    "text": " and several ",
-    "type": "text"
-   },
-   {
-    "text": "clauses",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "clauses",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Clauses",
-    "targetTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "The Mishnah on Kiddushin 41a"
-   },
-   {
-    "text": ". ",
+    "text": " and quoted below. ",
     "type": "text"
    },
    {
     "type": "block_quote",
     "tokens": [
      {
-      "text": "האיש מקדש בו ובשלוחו האשה\nמתקדשת בה ובשלוחה האיש\nמקדש את בתו כשהיא נערה בו ובשלוחו",
+      "text": "האיש מקדש בו ובשלוחו",
+      "type": "local",
+      "tokens": [
+       {
+        "text": "האיש מקדש בו ובשלוחו",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "האיש מקדש בו ובשלוחו",
+      "targetTopic": "The Mishnah on Kiddushin 41a",
+      "enclosingTopic": "The Mishnah on Kiddushin 41a",
+      "enclosingSubtopic": "The Mishnah on Kiddushin 41a"
+     },
+     {
+      "text": " [[האשה\nמתקדשת בה ובשלוחה]] [[האיש\nמקדש את בתו כשהיא נערה בו ובשלוחו]]",
       "type": "text"
      }
     ],
@@ -695,66 +673,6 @@
     "type": "text"
    }
   ],
-  "Clauses": [
-   {
-    "text": "The Mishnah has a ",
-    "type": "text"
-   },
-   {
-    "text": "first clause",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "first clause",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "First clause",
-    "targetTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Clauses"
-   },
-   {
-    "text": ", a ",
-    "type": "text"
-   },
-   {
-    "text": "second clause",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "second clause",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Second clause",
-    "targetTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Clauses"
-   },
-   {
-    "text": ", and a ",
-    "type": "text"
-   },
-   {
-    "text": "third clause",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "third clause",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Third clause",
-    "targetTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Clauses"
-   },
-   {
-    "text": ".",
-    "type": "text"
-   }
-  ],
   "Picture": [
    {
     "type": "image",
@@ -771,17 +689,7 @@
     "anchorUrl": null
    }
   ],
-  "First clause": [
-   {
-    "type": "block_quote",
-    "tokens": [
-     {
-      "text": "האיש מקדש בו ובשלוחו",
-      "type": "text"
-     }
-    ],
-    "direction": "rtl"
-   },
+  "האיש מקדש בו ובשלוחו": [
    {
     "text": "The first clause of the Mishnah on Kiddushin 41a is quoted below. The first clause has ",
     "type": "text"
@@ -798,7 +706,7 @@
     "targetSubtopic": "Context",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "First clause"
+    "enclosingSubtopic": "האיש מקדש בו ובשלוחו"
    },
    {
     "text": ", ",
@@ -816,7 +724,7 @@
     "targetSubtopic": "Content",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "First clause"
+    "enclosingSubtopic": "האיש מקדש בו ובשלוחו"
    },
    {
     "text": ", and ",
@@ -834,11 +742,21 @@
     "targetSubtopic": "Commentary",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "First clause"
+    "enclosingSubtopic": "האיש מקדש בו ובשלוחו"
    },
    {
-    "text": ".",
+    "text": ". ",
     "type": "text"
+   },
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "האיש מקדש בו ובשלוחו",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
    }
   ],
   "Context": [
@@ -1735,7 +1653,7 @@
     "direction": "ltr"
    }
   ],
-  "Second clause": [
+  "האשה מתקדשת בה ובשלוחה": [
    {
     "type": "block_quote",
     "tokens": [
@@ -1751,7 +1669,7 @@
     "type": "text"
    }
   ],
-  "Third clause": [
+  "האיש מקדש את בתו כשהיא נערה בו ובשלוחו": [
    {
     "type": "block_quote",
     "tokens": [

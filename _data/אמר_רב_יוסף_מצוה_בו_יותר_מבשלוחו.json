@@ -1,0 +1,84 @@
+{
+ "displayTopicName": "אמר רב יוסף מצוה בו יותר מבשלוחו",
+ "topicTokens": [
+  {
+   "text": "אמר רב יוסף מצוה בו יותר מבשלוחו",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "אמר רב יוסף מצוה בו יותר מבשלוחו": [
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "אמר רב יוסף מצוה בו יותר מבשלוחו",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   },
+   {
+    "text": "This sentence has ",
+    "type": "text"
+   },
+   {
+    "text": "context",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "context",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Context",
+    "targetTopic": "אמר רב יוסף מצוה בו יותר מבשלוחו",
+    "enclosingTopic": "אמר רב יוסף מצוה בו יותר מבשלוחו",
+    "enclosingSubtopic": "אמר רב יוסף מצוה בו יותר מבשלוחו"
+   },
+   {
+    "text": ", ",
+    "type": "text"
+   },
+   {
+    "text": "content",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "content",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Content",
+    "targetTopic": "אמר רב יוסף מצוה בו יותר מבשלוחו",
+    "enclosingTopic": "אמר רב יוסף מצוה בו יותר מבשלוחו",
+    "enclosingSubtopic": "אמר רב יוסף מצוה בו יותר מבשלוחו"
+   },
+   {
+    "text": ", and ",
+    "type": "text"
+   },
+   {
+    "text": "commentary",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "commentary",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Commentary",
+    "targetTopic": "אמר רב יוסף מצוה בו יותר מבשלוחו",
+    "enclosingTopic": "אמר רב יוסף מצוה בו יותר מבשלוחו",
+    "enclosingSubtopic": "אמר רב יוסף מצוה בו יותר מבשלוחו"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Context": [],
+  "Content": [],
+  "Commentary": []
+ }
+}
