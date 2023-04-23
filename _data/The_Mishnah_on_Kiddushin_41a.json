@@ -48,8 +48,40 @@
       "enclosingSubtopic": "The Mishnah on Kiddushin 41a"
      },
      {
-      "text": " [[האשה\nמתקדשת בה ובשלוחה]] [[האיש\nמקדש את בתו כשהיא נערה בו ובשלוחו]]",
+      "text": " ",
       "type": "text"
+     },
+     {
+      "text": "האשה\nמתקדשת בה ובשלוחה",
+      "type": "local",
+      "tokens": [
+       {
+        "text": "האשה\nמתקדשת בה ובשלוחה",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "האשה מתקדשת בה ובשלוחה",
+      "targetTopic": "The Mishnah on Kiddushin 41a",
+      "enclosingTopic": "The Mishnah on Kiddushin 41a",
+      "enclosingSubtopic": "The Mishnah on Kiddushin 41a"
+     },
+     {
+      "text": " ",
+      "type": "text"
+     },
+     {
+      "text": "האיש\nמקדש את בתו כשהיא נערה בו ובשלוחו",
+      "type": "local",
+      "tokens": [
+       {
+        "text": "האיש\nמקדש את בתו כשהיא נערה בו ובשלוחו",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "האיש מקדש את בתו כשהיא נערה בו ובשלוחו",
+      "targetTopic": "The Mishnah on Kiddushin 41a",
+      "enclosingTopic": "The Mishnah on Kiddushin 41a",
+      "enclosingSubtopic": "The Mishnah on Kiddushin 41a"
      }
     ],
     "direction": "rtl"
