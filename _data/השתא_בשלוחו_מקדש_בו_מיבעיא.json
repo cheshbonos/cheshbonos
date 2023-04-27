@@ -254,7 +254,7 @@
   "Determine where the sentence stops": [],
   "Words of the sentence on their own": [
    {
-    "text": "Click a word to see its possible meanings: ",
+    "text": "Select a word to see its possible meanings: ",
     "type": "text"
    },
    {

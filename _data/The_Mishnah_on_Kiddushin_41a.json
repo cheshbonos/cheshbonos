@@ -793,13 +793,55 @@
   ],
   "Context": [
    {
+    "text": "Before learning the first clause, you can consider ",
+    "type": "text"
+   },
+   {
+    "text": "what you would guess the halacha to be",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "what you would guess the halacha to be",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "What you would guess the halacha to be",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Context"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "What you would guess the halacha to be": [
+   {
     "text": "The first clause of the Mishnah is discussing whether a man can halachically engage a woman via a messenger without himself being present. Before reading on, stop and ask yourself, do you think this would work? Why or why not?",
     "type": "text"
    }
   ],
   "Content": [
    {
-    "text": "The first clause of the Mishnah has ",
+    "text": "To learn the first clause of the Mishna inside, we must ",
+    "type": "text"
+   },
+   {
+    "text": "identify the sentence break",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "identify the sentence break",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Identify the sentence break",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Content"
+   },
+   {
+    "text": ", understand the ",
     "type": "text"
    },
    {
@@ -817,7 +859,7 @@
     "enclosingSubtopic": "Content"
    },
    {
-    "text": ", a ",
+    "text": ", produce a ",
     "type": "text"
    },
    {
@@ -835,19 +877,19 @@
     "enclosingSubtopic": "Content"
    },
    {
-    "text": ", and a ",
+    "text": ", and a cumulative ",
     "type": "text"
    },
    {
-    "text": "summary",
+    "text": "interpretation",
     "type": "local",
     "tokens": [
      {
-      "text": "summary",
+      "text": "interpretation",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Summary",
+    "targetSubtopic": "Interpretation",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
     "enclosingSubtopic": "Content"
@@ -857,86 +899,462 @@
     "type": "text"
    }
   ],
+  "Identify the sentence break": [
+   {
+    "text": "How do we know where the first clause of the Mishnah ends? By reading the Mishnah, we should notice a pattern where we have a person (האיש / האיש), followed by some action (מקדש / מתקדשת), followed by some reference to ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "shlichus",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " (מקדש בו / בה ובשלוחה). ",
+    "type": "text"
+   },
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "האיש מקדש בו ובשלוחו\nהאשה מתקדשת בה ובשלוחה\nהאיש מקדש את בתו כשהיא נערה בו ובשלוחו",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   },
+   {
+    "text": "Based on this pattern, we should be able to recognize that the Mishnah is composed of three similar parts, and we can focus first on the first one.",
+    "type": "text"
+   }
+  ],
   "Individual words": [
    {
-    "text": "The first clause of the Mishnah includes ",
+    "text": "These are the individual words of the first clause: ",
     "type": "text"
    },
    {
-    "text": "the word האיש",
-    "type": "local",
+    "type": "block_quote",
     "tokens": [
      {
-      "text": "the word האיש",
+      "text": "האיש",
+      "type": "local",
+      "tokens": [
+       {
+        "text": "האיש",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "האיש",
+      "targetTopic": "The Mishnah on Kiddushin 41a",
+      "enclosingTopic": "The Mishnah on Kiddushin 41a",
+      "enclosingSubtopic": "Individual words"
+     },
+     {
+      "text": " ",
       "type": "text"
+     },
+     {
+      "text": "מקדש",
+      "type": "local",
+      "tokens": [
+       {
+        "text": "מקדש",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "מקדש",
+      "targetTopic": "The Mishnah on Kiddushin 41a",
+      "enclosingTopic": "The Mishnah on Kiddushin 41a",
+      "enclosingSubtopic": "Individual words"
+     },
+     {
+      "text": " ",
+      "type": "text"
+     },
+     {
+      "text": "בו",
+      "type": "local",
+      "tokens": [
+       {
+        "text": "בו",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "בו",
+      "targetTopic": "The Mishnah on Kiddushin 41a",
+      "enclosingTopic": "The Mishnah on Kiddushin 41a",
+      "enclosingSubtopic": "Individual words"
+     },
+     {
+      "text": " ",
+      "type": "text"
+     },
+     {
+      "text": "ובשלוחו",
+      "type": "local",
+      "tokens": [
+       {
+        "text": "ובשלוחו",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "ובשלוחו",
+      "targetTopic": "The Mishnah on Kiddushin 41a",
+      "enclosingTopic": "The Mishnah on Kiddushin 41a",
+      "enclosingSubtopic": "Individual words"
      }
     ],
-    "targetSubtopic": "The word האיש",
-    "targetTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Individual words"
-   },
+    "direction": "rtl"
+   }
+  ],
+  "האיש": [
    {
-    "text": ", ",
+    "text": "The word האיש is composed of ",
     "type": "text"
    },
    {
-    "text": "the word מקדש",
+    "text": "the word איש",
     "type": "local",
     "tokens": [
      {
-      "text": "the word מקדש",
+      "text": "the word איש",
       "type": "text"
      }
     ],
-    "targetSubtopic": "The word מקדש",
+    "targetSubtopic": "The word איש",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Individual words"
+    "enclosingSubtopic": "האיש"
    },
    {
-    "text": ", ",
+    "text": " and ",
     "type": "text"
    },
    {
-    "text": "the word בו",
+    "text": "the prefix ה",
     "type": "local",
     "tokens": [
      {
-      "text": "the word בו",
+      "text": "the prefix ה",
       "type": "text"
      }
     ],
-    "targetSubtopic": "The word בו",
+    "targetSubtopic": "The prefix ה",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Individual words"
+    "enclosingSubtopic": "האיש"
    },
    {
-    "text": ", and ",
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "The word איש": [
+   {
+    "text": "The word איש in Hebrew means \"man.\"",
+    "type": "text"
+   }
+  ],
+  "The prefix ה": [
+   {
+    "text": "The prefix ה in Hebrew means \"the.\"",
+    "type": "text"
+   }
+  ],
+  "מקדש": [
+   {
+    "text": "The word מקדש (\"mekadesh\") has a ",
     "type": "text"
    },
    {
-    "text": "the word ובשלוחו",
+    "text": "basic explanation",
     "type": "local",
     "tokens": [
      {
-      "text": "the word ובשלוחו",
+      "text": "basic explanation",
       "type": "text"
      }
     ],
-    "targetSubtopic": "The word ובשלוחו",
+    "targetSubtopic": "Basic explanation",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Individual words"
+    "enclosingSubtopic": "מקדש"
    },
    {
-    "text": ". Try to figure out the meaning of the sentence from the definitions of the individual words.",
+    "text": " and ",
+    "type": "text"
+   },
+   {
+    "text": "advanced explanation",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "advanced explanation",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Advanced explanation",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "מקדש"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Basic explanation": [
+   {
+    "text": "The word מקדש (\"mekadesh\") means \"making something holy,\" usually used in the context of a man creating the legal status of \"kiddushin\" with a woman prior to marriage, but also, for example, Hashem being ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "mekadesh es ha'shabbos",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " ie making the Shabbos holy.",
+    "type": "text"
+   }
+  ],
+  "Advanced explanation": [
+   {
+    "text": "For those interested in grammar, the word מקדש is the the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pi'el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " participle of ",
+    "type": "text"
+   },
+   {
+    "text": "the shoresh קדש",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "the shoresh קדש",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "The shoresh קדש",
+    "targetTopic": "The shoresh קדש",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Advanced explanation"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Parts of speech": [
+   {
+    "text": "The word מקדש can function as a noun, meaning \"someone who makes something holy\", a verb, someone or something \"is making holy,\" or an adjective, something has \"the quality of making something holy.\"",
+    "type": "text"
+   }
+  ],
+  "בו": [
+   {
+    "text": "The word בו can mean \"with him/it,\" \"on him/it,\" \"inside him/it,\" and \"because of him/it.\" For those interested in grammar, it is ",
+    "type": "text"
+   },
+   {
+    "text": "the prefix ב",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "the prefix ב",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "The prefix ב",
+    "targetTopic": "The prefix ב",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "בו"
+   },
+   {
+    "text": " with a ",
+    "type": "text"
+   },
+   {
+    "text": "pronominal suffix",
+    "type": "import",
+    "tokens": [
+     {
+      "text": "pronominal suffix",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Pronominal suffixes",
+    "targetTopic": "The prefix ב",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "בו"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "ובשלוחו": [
+   {
+    "text": "This is ",
+    "type": "text"
+   },
+   {
+    "text": "the prefix ו",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "the prefix ו",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "The prefix ו",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "ובשלוחו"
+   },
+   {
+    "text": ", followed by ",
+    "type": "text"
+   },
+   {
+    "text": "the prefix ב",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "the prefix ב",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "The prefix ב",
+    "targetTopic": "The prefix ב",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "ובשלוחו"
+   },
+   {
+    "text": ", followed by ",
+    "type": "text"
+   },
+   {
+    "text": "the word שלוח",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "the word שלוח",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "The word שלוח",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "ובשלוחו"
+   },
+   {
+    "text": ", followed by ",
+    "type": "text"
+   },
+   {
+    "text": "the noun suffix ו",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "the noun suffix ו",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "The noun suffix ו",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "ובשלוחו"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "The prefix ו": [
+   {
+    "text": "The prefix ו usually means \"and,\" but can also mean \"or.\"",
+    "type": "text"
+   }
+  ],
+  "The word שלוח": [
+   {
+    "text": "The word שלוח means \"someone or something that is sent.\" For those interested in grammar, it is ",
+    "type": "text"
+   },
+   {
+    "text": "masculine singular",
+    "type": "import",
+    "tokens": [
+     {
+      "text": "masculine singular",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Masculine singular",
+    "targetTopic": "Pa'al passive participle tense of the shoresh שלח",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "The word שלוח"
+   },
+   {
+    "text": " of the ",
+    "type": "text"
+   },
+   {
+    "text": "_pa'al_ passive participle tense of the shoresh שלח",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pa'al",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " passive participle tense of the shoresh שלח",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Pa'al passive participle tense of the shoresh שלח",
+    "targetTopic": "Pa'al passive participle tense of the shoresh שלח",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "The word שלוח"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "The noun suffix ו": [
+   {
+    "text": "The suffix ו when applied to a noun means \"of him\" or \"of it.\"",
     "type": "text"
    }
   ],
   "Literal translation": [],
-  "Summary": [
+  "Interpretation": [
    {
     "text": "Synthesize context and content into a summary, and see eg does the content and the context fit, is this an answer, etc. - With questions and mehalchim.",
     "type": "text"
@@ -1068,7 +1486,63 @@
     "type": "text"
    }
   ],
-  "Several things you can mean when giving examples": [],
+  "Several things you can mean when giving examples": [
+   {
+    "text": "If I tell you \"you're invited to come drive to my wedding,\" I might mean one of three things: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "A diyuk: I am telling you that you are only invited to come to my wedding if you come by car.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Lav davka: I am giving an example of how you could come, but what I mean is that any way is fine",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "A chiddush: I am telling you that you can come any way, ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "even",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " driving, implying that for some reason driving is a more surprising option.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
   "Whether we know from the Mishnah which form of specificity is meant by \"bo u'b'shlucho\"": [],
   "Mefarshim on the first clause": [
    {
@@ -1120,365 +1594,6 @@
    },
    {
     "text": ".",
-    "type": "text"
-   }
-  ],
-  "The word האיש": [
-   {
-    "text": "The word האיש is composed of ",
-    "type": "text"
-   },
-   {
-    "text": "the word איש",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "the word איש",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "The word איש",
-    "targetTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "The word האיש"
-   },
-   {
-    "text": " and ",
-    "type": "text"
-   },
-   {
-    "text": "the prefix ה",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "the prefix ה",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "The prefix ה",
-    "targetTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "The word האיש"
-   },
-   {
-    "text": ".",
-    "type": "text"
-   }
-  ],
-  "The word איש": [
-   {
-    "text": "The word איש in Hebrew means \"man.\"",
-    "type": "text"
-   }
-  ],
-  "The prefix ה": [
-   {
-    "text": "The prefix ה in Hebrew means \"the.\"",
-    "type": "text"
-   }
-  ],
-  "The word מקדש": [
-   {
-    "text": "The word מקדש (\"mekadesh\") has a ",
-    "type": "text"
-   },
-   {
-    "text": "basic explanation",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "basic explanation",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Basic explanation",
-    "targetTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "The word מקדש"
-   },
-   {
-    "text": " and ",
-    "type": "text"
-   },
-   {
-    "text": "advanced explanation",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "advanced explanation",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Advanced explanation",
-    "targetTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "The word מקדש"
-   },
-   {
-    "text": ".",
-    "type": "text"
-   }
-  ],
-  "Basic explanation": [
-   {
-    "text": "The word מקדש (\"mekadesh\") means \"making something holy,\" usually used in the context of a man creating the legal status of \"kiddushin\" with a woman prior to marriage, but also, for example, Hashem being ",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "mekadesh es ha'shabbos",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " ie making the Shabbos holy.",
-    "type": "text"
-   }
-  ],
-  "Advanced explanation": [
-   {
-    "text": "For those interested in grammar, the word מקדש is the ",
-    "type": "text"
-   },
-   {
-    "text": "the _pi'el_ participle of the shoresh קדש",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "the ",
-      "type": "text"
-     },
-     {
-      "type": "italics",
-      "tokens": [
-       {
-        "text": "pi'el",
-        "type": "text"
-       }
-      ]
-     },
-     {
-      "text": " participle of the shoresh קדש",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "The pi'el participle of the shoresh קדש",
-    "targetTopic": "The pi'el participle of the shoresh קדש",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Advanced explanation"
-   },
-   {
-    "text": " in the ",
-    "type": "text"
-   },
-   {
-    "text": "masculine singular",
-    "type": "import",
-    "tokens": [
-     {
-      "text": "masculine singular",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Masculine singular",
-    "targetTopic": "The pi'el participle of the shoresh קדש",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Advanced explanation"
-   },
-   {
-    "text": ".",
-    "type": "text"
-   }
-  ],
-  "Parts of speech": [
-   {
-    "text": "The word מקדש can function as a noun, meaning \"someone who makes something holy\", a verb, someone or something \"is making holy,\" or an adjective, something has \"the quality of making something holy.\"",
-    "type": "text"
-   }
-  ],
-  "The word בו": [
-   {
-    "text": "The word בו can mean \"with him/it,\" \"on him/it,\" \"inside him/it,\" and \"because of him/it.\" For those interested in grammar, it is ",
-    "type": "text"
-   },
-   {
-    "text": "the prefix ב",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "the prefix ב",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "The prefix ב",
-    "targetTopic": "The prefix ב",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "The word בו"
-   },
-   {
-    "text": " with a ",
-    "type": "text"
-   },
-   {
-    "text": "pronominal suffix",
-    "type": "import",
-    "tokens": [
-     {
-      "text": "pronominal suffix",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Pronominal suffixes",
-    "targetTopic": "The prefix ב",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "The word בו"
-   },
-   {
-    "text": ".",
-    "type": "text"
-   }
-  ],
-  "The word ובשלוחו": [
-   {
-    "text": "This is ",
-    "type": "text"
-   },
-   {
-    "text": "the prefix ו",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "the prefix ו",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "The prefix ו",
-    "targetTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "The word ובשלוחו"
-   },
-   {
-    "text": ", followed by ",
-    "type": "text"
-   },
-   {
-    "text": "the prefix ב",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "the prefix ב",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "The prefix ב",
-    "targetTopic": "The prefix ב",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "The word ובשלוחו"
-   },
-   {
-    "text": ", followed by ",
-    "type": "text"
-   },
-   {
-    "text": "the word שלוח",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "the word שלוח",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "The word שלוח",
-    "targetTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "The word ובשלוחו"
-   },
-   {
-    "text": ", followed by ",
-    "type": "text"
-   },
-   {
-    "text": "the noun suffix ו",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "the noun suffix ו",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "The noun suffix ו",
-    "targetTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "The word ובשלוחו"
-   },
-   {
-    "text": ".",
-    "type": "text"
-   }
-  ],
-  "The prefix ו": [
-   {
-    "text": "The prefix ו usually means \"and,\" but can also mean \"or.\"",
-    "type": "text"
-   }
-  ],
-  "The word שלוח": [
-   {
-    "text": "The word שלוח means \"someone or something that is sent.\" For those interested in grammar, it is ",
-    "type": "text"
-   },
-   {
-    "text": "masculine singular",
-    "type": "import",
-    "tokens": [
-     {
-      "text": "masculine singular",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Masculine singular",
-    "targetTopic": "Pa'al passive participle tense of the shoresh שלח",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "The word שלוח"
-   },
-   {
-    "text": " of the ",
-    "type": "text"
-   },
-   {
-    "text": "_pa'al_ passive participle tense of the shoresh שלח",
-    "type": "global",
-    "tokens": [
-     {
-      "type": "italics",
-      "tokens": [
-       {
-        "text": "pa'al",
-        "type": "text"
-       }
-      ]
-     },
-     {
-      "text": " passive participle tense of the shoresh שלח",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Pa'al passive participle tense of the shoresh שלח",
-    "targetTopic": "Pa'al passive participle tense of the shoresh שלח",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "The word שלוח"
-   },
-   {
-    "text": ".",
-    "type": "text"
-   }
-  ],
-  "The noun suffix ו": [
-   {
-    "text": "The suffix ו when applied to a noun means \"of him\" or \"of it.\"",
     "type": "text"
    }
   ],
@@ -1654,35 +1769,6 @@
    {
     "text": ".)",
     "type": "text"
-   }
-  ],
-  "Pshat in the first clause": [
-   {
-    "text": "A pshat in the first clause of the Mishna might be: ",
-    "type": "text"
-   },
-   {
-    "type": "block_quote",
-    "tokens": [
-     {
-      "text": "A man is ",
-      "type": "text"
-     },
-     {
-      "type": "italics",
-      "tokens": [
-       {
-        "text": "allowed",
-        "type": "text"
-       }
-      ]
-     },
-     {
-      "text": " to be mekadesh a woman, himself or with a shaliach",
-      "type": "text"
-     }
-    ],
-    "direction": "ltr"
    }
   ],
   "האשה מתקדשת בה ובשלוחה": [

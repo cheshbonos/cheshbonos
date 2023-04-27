@@ -135,13 +135,13 @@
   ],
   "Halacha": [
    {
-    "text": "Perek Ha'ish Mekadesh teaches certain halachos.",
+    "text": "This will be a list of halachos that come out of the perek, allowing users to jump to those parts of the sugya from which they originate.",
     "type": "text"
    }
   ],
   "Summary": [
    {
-    "text": "This is a summary of Perek Ha'ish Mekadesh.",
+    "text": "This will be a summary of the entire perek that will allow users to jump to particular parts of the sugya for review.",
     "type": "text"
    }
   ]

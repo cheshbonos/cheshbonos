@@ -40,15 +40,15 @@
     "enclosingSubtopic": "Hashta b'shlucho mekadesh bo meboy"
    },
    {
-    "text": ", has a ",
+    "text": ", can be ",
     "type": "text"
    },
    {
-    "text": "full text",
+    "text": "learned inside",
     "type": "local",
     "tokens": [
      {
-      "text": "full text",
+      "text": "learned inside",
       "type": "text"
      }
     ],
@@ -64,7 +64,7 @@
   ],
   "Full text": [
    {
-    "text": "Click on the sentences below to learn more: ",
+    "text": "Select a sentences below to learn more: ",
     "type": "text"
    },
    {
@@ -629,6 +629,40 @@
    },
    {
     "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "How can you call what she's doing a mitzvah?",
+        "type": "text"
+       }
+      ],
+      "children": [
+       {
+        "ordinal": "-",
+        "ordered": false,
+        "tokensOfLine": [
+         {
+          "text": "vies tois a mesaye",
+          "type": "text"
+         }
+        ],
+        "children": []
+       },
+       {
+        "ordinal": "-",
+        "ordered": false,
+        "tokensOfLine": [
+         {
+          "text": "But if a mesaye is called a mitzvah, why isn't a mesaye called an aviera such that the ki itmar answer doesn't work?",
+          "type": "text"
+         }
+        ],
+        "children": []
+       }
+      ]
+     },
      {
       "ordinal": "-",
       "ordered": false,

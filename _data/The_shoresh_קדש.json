@@ -27,137 +27,232 @@
     "enclosingSubtopic": "The shoresh קדש"
    },
    {
-    "text": " with ",
+    "text": " with forms in Hebrew and forms in Aramaic. ",
     "type": "text"
    },
    {
-    "text": "forms in Hebrew",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "forms in Hebrew",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Forms in Hebrew",
-    "targetTopic": "The shoresh קדש",
-    "enclosingTopic": "The shoresh קדש",
-    "enclosingSubtopic": "The shoresh קדש"
-   },
-   {
-    "text": " and forms in Aramaic.",
-    "type": "text"
-   }
-  ],
-  "Forms in Hebrew": [
-   {
-    "text": "The shoresh קדש has seven \"binyanim\" in Hebrew, the ",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "pa'al",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": ", the ",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "nif'al",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": ", ",
-    "type": "text"
-   },
-   {
-    "text": "the _pi'el_",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "the ",
-      "type": "text"
-     },
-     {
-      "type": "italics",
-      "tokens": [
+    "type": "table",
+    "rows": [
+     [
+      [
        {
-        "text": "pi'el",
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "Hebrew",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "text": "Simple",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Intensive",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Causative",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Reflexive",
         "type": "text"
        }
       ]
-     }
-    ],
-    "targetSubtopic": "The pi'el binyan of the shoresh קדש",
-    "targetTopic": "The pi'el binyan of the shoresh קדש",
-    "enclosingTopic": "The shoresh קדש",
-    "enclosingSubtopic": "Forms in Hebrew"
-   },
-   {
-    "text": ", the ",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "pu'al",
-      "type": "text"
-     }
+     ],
+     [
+      [
+       {
+        "text": "Active",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Pa'al",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Pi'el",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Hif'il",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Hispa'el",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "Passive",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Nif'al",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Pu'al",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Huf'al",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "-",
+        "type": "text"
+       }
+      ]
+     ]
     ]
    },
    {
-    "text": ", the ",
+    "text": " ",
     "type": "text"
    },
    {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "hif'il",
-      "type": "text"
-     }
+    "type": "html_element",
+    "html": "<span></span>"
+   },
+   {
+    "text": " ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "Aramaic",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "text": "Simple",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Intensive",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Causative",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Reflexive",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "Active",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Pe'al",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Pa'el",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Af'el",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Ispa'al",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "Passive",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Ispe'el",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "-",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Isafa'al",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "-",
+        "type": "text"
+       }
+      ]
+     ]
     ]
-   },
-   {
-    "text": ", the ",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "huf'al",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": ", and the ",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "hispa'el",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": ".",
-    "type": "text"
    }
   ]
  }
