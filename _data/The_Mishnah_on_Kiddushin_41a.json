@@ -1520,7 +1520,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "A chiddush: I am telling you that you can come any way, ",
+        "text": "Biggest chiddush: I am telling you that you can come any way, ",
         "type": "text"
        },
        {
@@ -1543,7 +1543,12 @@
     "type": "outline"
    }
   ],
-  "Whether we know from the Mishnah which form of specificity is meant by \"bo u'b'shlucho\"": [],
+  "Whether we know from the Mishnah which form of specificity is meant by \"bo u'b'shlucho\"": [
+   {
+    "text": "When the Mishnah gives an example of how something is done, does it generally mean for you to understand it as a diyuk, a lav-davka example, or as the biggest chiddush, and all the more so the din applies to less surprising cases?",
+    "type": "text"
+   }
+  ],
   "Mefarshim on the first clause": [
    {
     "text": "Rashi on Kiddushin 41a _ha'ish mekadesh bo u'b'shlucho_",
