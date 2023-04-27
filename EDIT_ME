@@ -4,7 +4,7 @@
 
 Learn more about the project: Cheshbonos has a [[dedication]]. Cheshbonos is published with various [[disclaimers]]. You can post your questions or comments on the [issues page](https://github.com/cheshbonos/cheshbonos/issues). You can sign up for occasional [[email updates]]. You can download the Cheshbonos [desktop app](https://github.com/cheshbonos/cheshbonos/releases/tag/latest). Cheshbonos is built using [Canopy.js](https://github.com/canopy-js/canopy-js).
 
-Disclaimers: Cheshbonos is published without expert endorsement and is a product of novice efforts. Persons wishing to improve their Gemara skills who have the resources should enroll in a full-time yeshiva program. Short of that, such people should find a Gemara rebbe with whom they can form a relationship and learn from directly. Cheshbonos is intended for individuals who lack these resources, or as a tool for reviewing content already learned in a yeshiva setting. Individuals should ask their communal rabbinic advisors if Cheshbonos is the appropriate tool for their learning. Cheshbonos can be downloaded and used without an internet connection, and the existence of web access does not represent an endorsement of internet use.
+Disclaimers: Cheshbonos is published without expert endorsement and is a product of novice efforts. Persons wishing to improve their Gemara skills who have the resources should enroll in a full-time yeshiva program. Short of that, such people should find a Gemara rebbe with whom they can form a relationship and learn from directly. Cheshbonos is intended for individuals who lack these resources, or as a tool for reviewing content already learned in a yeshiva setting. Individuals should ask their communal rabbinic advisors if Cheshbonos is the appropriate tool for their learning. Cheshbonos can be downloaded and used without an internet connection, and the existence of a web interface does not represent an endorsement of internet use.
 
 Email updates:
 <!-- MailerLite Universal --><script>(function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[]).push(arguments);},l=d.createElement(e),l.async=1,l.src=u,n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})(window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');ml('account', '281081');</script><!-- End MailerLite Universal --><br><div id="email_updates" class="ml-embedded" data-form="OW1QxJ"></div>
@@ -16,7 +16,7 @@ setTimeout(() => {
   }}, 1000);
 </script>
 
-Dedication: Cheshbonos is dedicated to the memory of Rav Dov Zemmel z'l, a talmid muvak of R Chayim Pinchas Scheinberg, who taught dozens of talmidim to learn Gemara in an authentic and accurate way. This tool is inspired by the derech halimud he imparted to his talmidim.
+Dedication: Cheshbonos is dedicated to the memory of Rav Dov Zemmel z'l, a talmid muvak of R Chayim Pinchas Scheinberg, who taught dozens of talmidim to learn Gemara in an authentic and accurate way. This tool is inspired by the _derech halimud_ he imparted to his talmidim.
 
 
 [Cheshbonos/Guide]
@@ -29,7 +29,7 @@ Dedication: Cheshbonos is dedicated to the memory of Rav Dov Zemmel z'l, a talmi
 * Kiddushin 41a:
 Kiddushin 41a can be seen [[{{picture}}d here]], and contains text of [[Gemara]], [[Rashi]], and [[Tosofos]].
 
-Gemara: The Gemara on Kiddushin 41a contains [[{the|a}{ mishnah} on Kiddushin 41a]], and the sugya of [[_hashta b'shlucho mekadesh bo meboy_]].
+Gemara: The text of the Gemara on Kiddushin 41a contains [[{the|a}{ mishnah} on Kiddushin 41a]], followed by the sugya of [[_hashta b'shlucho mekadesh bo meboy_]].
 
 Rashi: There are several comments of Rashi on Kiddushin 41a relating to _Perek Ha'ish Mekadesh_. They are:
 - [[Rashi on Kiddushin 41a {_ha'ish mekadesh bo u'b'shlucho_}]]
@@ -57,10 +57,10 @@ Picture: ![Kiddushin 41a Vilna Edition](/_assets/dafim/Kiddushin_41a.png "Kiddus
 [Gemara/Kiddushin/Dafim/41a/Hashta B'shlucho Mekadesh Bo Meboy]
 
 * Hashta b'shlucho mekadesh bo meboy:
-The sugya of _hashta b'shlucho mekadesh bo meboy_, [[{{picture}}d here]], has a [[full text]].
+The sugya of _hashta b'shlucho mekadesh bo meboy_, [[{{picture}}d here]], can be [[full text|learned inside]].
 
 Full text:
-Click on the sentences below to learn more:
+Select a sentences below to learn more:
 < גמ' [[השתא בשלוחו מקדש בו מיבעיא]] [[אמר
 < רב יוסף מצוה בו יותר מבשלוחו]] כי הא דרב
 < ספרא מחריך רישא רבא מלח שיבוטא
@@ -125,6 +125,9 @@ Haaras
     3. RYAR's halacha would objectively fit the "bo" and so can't be rejected out of hand as a possibility
     4. RY is definitely speaking about our mishna
     Thus, there is a stira in R Yosef
+  - How can you call what she's doing a mitzvah?
+    - vies tois a mesaye
+    - But if a mesaye is called a mitzvah, why isn't a mesaye called an aviera such that the ki itmar answer doesn't work?
 - Aval
   - set up Rashi
   - chazon ish emuna bitachon
@@ -163,7 +166,7 @@ Content: In order to learn this sentence, first we [[determine where the sentenc
 Determine where the sentence stops:
 
 Words of the sentence on their own:
-Click a word to see its possible meanings:
+Select a word to see its possible meanings:
 < [[השתא]] [[בשלוחו]] [[מקדש]] [[בו]] [[מיבעיא]]
 
 השתא:
@@ -221,15 +224,52 @@ Picture: ![Kiddushin 41a Vilna Edition](/_assets/dafim/Kiddushin_41a_mishnah.png
 The first clause of the Mishnah on Kiddushin 41a is quoted below. The first clause has [[context]], [[content]], and [[commentary]].
 < האיש מקדש בו ובשלוחו
 
-Context: The first clause of the Mishnah is discussing whether a man can halachically engage a woman via a messenger without himself being present. Before reading on, stop and ask yourself, do you think this would work? Why or why not?
+Context: Before learning the first clause, you can consider [[what you would guess the halacha to be]].
 
-Content: The first clause of the Mishnah has [[individual words]], a [[literal translation]], and a [[summary]].
+What you would guess the halacha to be: The first clause of the Mishnah is discussing whether a man can halachically engage a woman via a messenger without himself being present. Before reading on, stop and ask yourself, do you think this would work? Why or why not?
 
-Individual words: The first clause of the Mishnah includes [[the word האיש]], [[the word מקדש]], [[the word בו]], and [[the word ובשלוחו]]. Try to figure out the meaning of the sentence from the definitions of the individual words.
+Content: To learn the first clause of the Mishna inside, we must [[identify the sentence break]], understand the [[individual words]], produce a [[literal translation]], and a cumulative [[interpretation]].
+
+Identify the sentence break:
+How do we know where the first clause of the Mishnah ends? By reading the Mishnah, we should notice a pattern where we have a person (האיש / האיש), followed by some action (מקדש / מתקדשת), followed by some reference to _shlichus_ (מקדש בו / בה ובשלוחה).
+< האיש מקדש בו ובשלוחו
+< האשה מתקדשת בה ובשלוחה
+< האיש מקדש את בתו כשהיא נערה בו ובשלוחו
+Based on this pattern, we should be able to recognize that the Mishnah is composed of three similar parts, and we can focus first on the first one.
+
+Individual words:
+These are the individual words of the first clause:
+< [[האיש]] [[מקדש]] [[בו]] [[ובשלוחו]]
+
+האיש: The word האיש is composed of [[the word איש]] and [[the prefix ה]].
+
+The word איש: The word איש in Hebrew means "man."
+
+The prefix ה: The prefix ה in Hebrew means "the."
+
+מקדש: The word מקדש ("mekadesh") has a [[basic explanation]] and [[advanced explanation]].
+
+Basic explanation: The word מקדש ("mekadesh") means "making something holy," usually used in the context of a man creating the legal status of "kiddushin" with a woman prior to marriage, but also, for example, Hashem being _mekadesh es ha'shabbos_ ie making the Shabbos holy.
+
+Advanced explanation: For those interested in grammar, the word מקדש is the the _pi'el_ participle of [[the shoresh קדש]].
+
+Parts of speech: The word מקדש can function as a noun, meaning "someone who makes something holy", a verb, someone or something "is making holy," or an adjective, something has "the quality of making something holy."
+
+בו: The word בו can mean "with him/it," "on him/it," "inside him/it," and "because of him/it." For those interested in grammar, it is [[the prefix ב]] with a [[{pronominal suffix}es]].
+
+ובשלוחו: This is [[the prefix ו]], followed by [[the prefix ב]], followed by [[the word שלוח]], followed by [[the noun suffix ו]].
+
+The prefix ו: The prefix ו usually means "and," but can also mean "or."
+
+The word שלוח: The word שלוח means "someone or something that is sent." For those interested in grammar, it is [[masculine singular]] of the [[_pa'al_ passive participle tense of the shoresh שלח]].
+
+The noun suffix ו: The suffix ו when applied to a noun means "of him" or "of it."
+
+- The first clause of the Mishnah includes [[the word האיש]], [[the word מקדש]], [[the word בו]], and [[the word ובשלוחו]]. Try to figure out the meaning of the sentence from the definitions of the individual words.
 
 Literal translation:
 
-Summary: Synthesize context and content into a summary, and see eg does the content and the context fit, is this an answer, etc. - With questions and mehalchim.
+Interpretation: Synthesize context and content into a summary, and see eg does the content and the context fit, is this an answer, etc. - With questions and mehalchim.
 
 Commentary: There are [[{{observations we can make}} on the first clause]], [[mefarshim on the first clause]], and [[Gemaras on the first clause]].
 
@@ -237,37 +277,16 @@ Observations we can make: There are observations we can make on the first clause
 
 That it says "bo u'b'shlucho": In order to understand what is interesting about this wording, let's observe that there are [[several things you can mean when giving examples]], and then ask [[whether we know from the Mishnah which form of specificity is meant by "bo u'b'shlucho"]].
 
-Several things you can mean when giving examples:
+Several things you can mean when giving examples: If I tell you "you're invited to come drive to my wedding," I might mean one of three things:
+- A diyuk: I am telling you that you are only invited to come to my wedding if you come by car.
+- Lav davka: I am giving an example of how you could come, but what I mean is that any way is fine
+- A chiddush: I am telling you that you can come any way, _even_ driving, implying that for some reason driving is a more surprising option.
 
 Whether we know from the Mishnah which form of specificity is meant by "bo u'b'shlucho":
 
 Mefarshim on the first clause: [[Rashi on Kiddushin 41a _ha'ish mekadesh bo u'b'shlucho_]] discusses the first clause of the Mishnah.
 
 Gemaras on the first clause: The first clause of the Mishnah is the subject of the perek's first sugya, [[hashta b'shlucho mekadesh bo meboy]].
-
-The word האיש: The word האיש is composed of [[the word איש]] and [[the prefix ה]].
-
-The word איש: The word איש in Hebrew means "man."
-
-The prefix ה: The prefix ה in Hebrew means "the."
-
-The word מקדש: The word מקדש ("mekadesh") has a [[basic explanation]] and [[advanced explanation]].
-
-Basic explanation: The word מקדש ("mekadesh") means "making something holy," usually used in the context of a man creating the legal status of "kiddushin" with a woman prior to marriage, but also, for example, Hashem being _mekadesh es ha'shabbos_ ie making the Shabbos holy.
-
-Advanced explanation: For those interested in grammar, the word מקדש is the [[the _pi'el_ participle of the shoresh קדש]] in the [[masculine singular]].
-
-Parts of speech: The word מקדש can function as a noun, meaning "someone who makes something holy", a verb, someone or something "is making holy," or an adjective, something has "the quality of making something holy."
-
-The word בו: The word בו can mean "with him/it," "on him/it," "inside him/it," and "because of him/it." For those interested in grammar, it is [[the prefix ב]] with a [[{pronominal suffix}es]].
-
-The word ובשלוחו: This is [[the prefix ו]], followed by [[the prefix ב]], followed by [[the word שלוח]], followed by [[the noun suffix ו]].
-
-The prefix ו: The prefix ו usually means "and," but can also mean "or."
-
-The word שלוח: The word שלוח means "someone or something that is sent." For those interested in grammar, it is [[masculine singular]] of the [[_pa'al_ passive participle tense of the shoresh שלח]].
-
-The noun suffix ו: The suffix ו when applied to a noun means "of him" or "of it."
 
 Literal translation of the first clause: A literal translation of the first clause of the Mishnah might be:
 > The man is being _mekadesh_, with himself or with a _shaliach_
@@ -276,9 +295,6 @@ Try to figure out what this means in context. You might ask: [[What does "being 
 What does "being mekadesh" mean here? We find here a klal of mishnayos that a "present tense" statement means a psak, and so "the man is being mekadesh himself or with an emissary" in this context means "the man is _allowed_ to be mekadesh, himself or with an emissary."
 
 Why does it say _the_ man? If the Mishnah wanted to say "any man can be mekadesh an isha using these methods," why did it say "_the_ man can be mekadesh", as if only some specific man can do it, instead of saying "_a_ man can be mekadesh," ie any man? (Then it would read: איש מקדש, instead of האיש מקדש, because [[Hebrew nouns]] [[by default have an indefinite article]].)
-
-Pshat in the first clause: A pshat in the first clause of the Mishna might be:
-> A man is _allowed_ to be mekadesh a woman, himself or with a shaliach
 
 האשה מתקדשת בה ובשלוחה:
 < האשה מתקדשת בה ובשלוחה
@@ -370,9 +386,9 @@ Daf: Perek Ha'ish Mekadesh begins on [[Kiddushin 41a]].
 
 Mishnah: Perek Ha'ish Mekadesh begins with [[the Mishnah on Kiddushin 41a]].
 
-Halacha: Perek Ha'ish Mekadesh teaches certain halachos.
+Halacha: This will be a list of halachos that come out of the perek, allowing users to jump to those parts of the sugya from which they originate.
 
-Summary: This is a summary of Perek Ha'ish Mekadesh.
+Summary: This will be a summary of the entire perek that will allow users to jump to particular parts of the sugya for review.
 
 
 [Lashonos/Binyanim]
@@ -477,6 +493,16 @@ Function: A shoresh is used to generate many more specific words. For example, t
 
 More precise definition: Most shorushim have three clear letters, although some like מת have only two clear letters, and traditional grammarians differ as to whether to consider these "weak" shorushim as being "two letter shorushim," or whether to think of them as being three letter shorushim with a hidden third letter like י or ה.
 
+-* Simple:
+-
+-* Intensive:
+-
+-* Causative:
+-
+-* Active:
+-
+-* Passive:
+
 
 [Lashonos/Expressions]
 
@@ -497,25 +523,30 @@ By default have an indefinite article: The Hebrew word איש, for example, mean
 
 [Lashonos/Shorushim/קדש]
 
-* The shoresh קדש: קדש is a [[shoresh]] with [[forms in Hebrew]] and forms in Aramaic.
+* The shoresh קדש: קדש is a [[shoresh]] with forms in Hebrew and forms in Aramaic.
+| *Hebrew*  | Simple | Intensive | Causative | Reflexive |
+|---------|--------|-----------|-----------|-----------|
+| Active  | Pa'al | Pi'el | Hif'il | Hispa'el |
+| Passive | Nif'al | Pu'al | Huf'al | - |
+<span></span>
+| *Aramaic*  | Simple | Intensive | Causative | Reflexive |
+|---------|--------|-----------|-----------|-----------|
+| Active  | Pe'al | Pa'el | Af'el | Ispa'al |
+| Passive | Ispe'el | - | Isafa'al | - |
 
-Forms in Hebrew: The shoresh קדש has seven "binyanim" in Hebrew, the _pa'al_, the _nif'al_, [[{the _pi'el_} binyan of the shoresh קדש]], the _pu'al_, the _hif'il_, the _huf'al_, and the _hispa'el_.
+-Forms in Hebrew: The shoresh קדש has seven "binyanim" in Hebrew, the _pa'al_, the _nif'al_, [[{the _pi'el_} binyan of the shoresh קדש]], the _pu'al_, the _hif'il_, the _huf'al_, and the _hispa'el_.
 
+-_Pi'el_: The [[{{_pi'el_}} binyan]] of [[the shoresh קדש]] has a [[meaning]], and various [[tenses]].
 
-[Lashonos/Shorushim/קדש/Tenses]
+-Tenses: The [[{{_pi'el_}} binyan]] of [[the shoresh קדש]] has a past tense, a [[The _pi'el_ {participle}{| tense} of the shoresh קדש]], an future tense, a command tense, and an infinitive.
 
-* The _pi'el_ binyan of the shoresh קדש: The [[{{_pi'el_}} binyan]] of [[the shoresh קדש]] has a [[meaning]], and various [[tenses]].
+-Meaning: The intensive binyan of the shoresh קדש can mean "to produce a stage called _kiddushin_ between a man and a woman." Kiddushin is a stage prior to full marriage (called nisuyin) in which the woman is halachically designated to the man. It can also mean to make something holy, as in "mekadesh ha'shabbos."
 
-Tenses: The [[{{_pi'el_}} binyan]] of [[the shoresh קדש]] has a past tense, a [[The _pi'el_ {participle}{| tense} of the shoresh קדש]], an future tense, a command tense, and an infinitive.
+-The _pi'el_ participle: The [[participle tense]] of [[{the _pi'el_} binyan{ of }the shoresh {קדש}]] is a [[_pi'el_ participle]] and has various [[conjugations]].
 
-Meaning: The intensive binyan of the shoresh קדש can mean "to produce a stage called _kiddushin_ between a man and a woman." Kiddushin is a stage prior to full marriage (called nisuyin) in which the woman is halachically designated to the man. It can also mean to make something holy, as in "mekadesh ha'shabbos."
+-Conjugations: The [[participle tense]] of [[{the _pi'el_} binyan{ of }the shoresh {קדש}]] has a [[masculine singular]], feminine singular, masculine plural, and feminine plural.
 
-
-* The _pi'el_ participle of the shoresh קדש: The [[participle tense]] of [[{the _pi'el_} binyan{ of }the shoresh {קדש}]] is a [[_pi'el_ participle]] and has various [[conjugations]].
-
-Conjugations: The [[participle tense]] of [[{the _pi'el_} binyan{ of }the shoresh {קדש}]] has a [[masculine singular]], feminine singular, masculine plural, and feminine plural.
-
-Masculine singular: The Hebrew masculine singular participle of the shoresh "קדש" is מְקַדֵּשׁ, pronounced "mekadesh."
+-Masculine singular: The Hebrew masculine singular participle of the shoresh "קדש" is מְקַדֵּשׁ, pronounced "mekadesh."
 
 
 [Lashonos/Shorushim/שלח]
