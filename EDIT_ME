@@ -1,6 +1,6 @@
 [Cheshbonos]
 
-** Cheshbonos: This is a beta version of Cheshbonos, a tool for improving Gemara skills. You can navigate by using the mouse or arrow keys. You can use Cheshbonos to learn [[Perek Ha'ish Mekadesh]]. If you are new to Gemara, you can use the [[{{getting started}} guide]]. You can also [[learn more about the project]].
+** Cheshbonos: This is a beta version of Cheshbonos, a tool for improving Gemara skills. You can navigate by using the mouse or arrow keys. You can use Cheshbonos to learn [[Kiddushin 41a]]. If you are new to Gemara, you can use the [[{{getting started}} guide]]. You can also [[learn more about the project]].
 
 Learn more about the project: Cheshbonos has a [[dedication]]. Cheshbonos is published with various [[disclaimers]]. You can post your questions or comments on the [issues page](https://github.com/cheshbonos/cheshbonos/issues). You can sign up for occasional [[email updates]]. You can download the Cheshbonos [desktop app](https://github.com/cheshbonos/cheshbonos/releases/tag/latest). Cheshbonos is built using [Canopy.js](https://github.com/canopy-js/canopy-js).
 
@@ -27,7 +27,7 @@ Dedication: Cheshbonos is dedicated to the memory of Rav Dov Zemmel z'l, a talmi
 [Gemara/Kiddushin/Dafim/41a]
 
 * Kiddushin 41a:
-Kiddushin 41a can be seen [[{{picture}}d here]], and contains text of [[Gemara]], [[Rashi]], and [[Tosofos]].
+Kiddushin 41a can be seen [[{{picture}}d here]], and the page contains [[Gemara]], [[Rashi]], and [[Tosofos]].
 
 Gemara: The text of the Gemara on Kiddushin 41a contains [[{the|a}{ mishnah} on Kiddushin 41a]], followed by the sugya of [[_hashta b'shlucho mekadesh bo meboy_]].
 
@@ -80,7 +80,8 @@ Select a sentences below to learn more:
 Haaras
 =============================
 - Mishna
-  -Rosh and Rambam?
+  - Rosh and Rambam?
+  - How mishnayos are written - what would be the implication of each permutation, bedieved, lechatchila, etc
 - Gemara's Kasha:
   - three meanings of specificity
   - which mahalach is the gemara taking in its question
@@ -89,7 +90,7 @@ Haaras
   - Where do we see the Gemara thinks shlichus is the bigger chiddush?
   - "also" "even" "for example"
 - First answer
-  - where does halacha come from
+  - where does halacha come from / what entitles him to say this answer?
   - reason for shver mishnas
   - what is the amoritic story for?
   - What mitzvah is kiddushin? machlochus is kiddushin a mitzvah, the fact that R Yosef says mitzvah ie where do we find a raya to the rambam and how does the Rosh handle it? (Maybe ask "what mitzvah is it" and introduce Rosh and Rambam here.)
@@ -97,19 +98,21 @@ Haaras
   - What entitles R Yosef to say he knows what Rebbe meant?
   - Are Amoriam saying mesoras or theories?
   - What about the Mishnah makes it a proof for R Yosef's halacha?
+  - who is R Yosef? Why do we listen to them?
 - Amoriam
   - Who is saying this?
   - Question of what they are proving
   - line up with shitas of machlochus is kiddushin a mitzvah
-  - shaarei tzion inside
+  - shaarei tzion inside - what entitles him to say this chiddush?
 - Second answer
   - stira to mishna
   - mialas and chisronos of both answers
   - not the same distinctions & who says that is the ookimpta and why are stam cases presumed stam
   - what is an ika damri, pnei yoshua: does the first answer not know about the second answer?
-  - What does the nami mean?
+  - What does the nami mean? - put in by the compiler, or spectrum of assur/mitzvah eg second Tosofos
   - Isn't he an oness?
   - Clarify that it isn't RYAR's halacha, we are presuming the Tana would know you have to see the woman first etc.
+  - Who is R Yehuda amar Rav? Why do we listen to them?
 - Ki itmar DRav Yosef:
   - Why didn't the gemara stop there?
   - difference between intro of R Yosef and intro of R Yehuda amar Rav, R Yosef needs a total proof, why not say "one and one"?
@@ -197,12 +200,12 @@ Analytical questions:
 [Gemara/Kiddushin/Dafim/41a/Mishna]
 
 * The Mishnah on Kiddushin 41a:
-The Mishnah on Kiddushin 41a is [[{{picture}}d here]] and quoted below.
+The Mishnah on Kiddushin 41a is [[{{picture}}d here]]. The Mishnah as a whole has [[{context} of the Mishnah]], and you can select a particular clause to learn more.
 < [[האיש מקדש בו ובשלוחו]] [[האשה
 < מתקדשת בה ובשלוחה]] [[האיש
 < מקדש את בתו כשהיא נערה בו ובשלוחו]]
 
-Context of the Mishnah: The Mishnah has [[required background information]], a [[position in the perek]], and relates to a particular [[subject matter]].
+Context of the Mishnah: The Mishnah has [[required background information]], a [[position in the perek]], and relates to a particular [[topic in halacha]].
 
 Required background information: This Mishnah presumes familiarity with the [[_halachic_ steps of marriage]], and with the [[concept of _shlichus_]].
 
@@ -216,42 +219,48 @@ Concept of _shlichus_: In _halacha_, there are various actions a person can do t
 
 Position in the perek: This is the first Mishnah in the second _perek_ of _Maseches Kiddushin_. The first _perek_ began by discussing the different methods a man can use to be _mekadesh_ a woman, and this Mishnah will continue to discuss related topics.
 
-Subject matter: This Mishnah will discuss which aspects of the marriage process can be done via a _shaliach_. Think to yourself now, what parts would you guess can be done by _shaliach_, and which parts would you think one wouldn't be able to do via _shaliach_?
+Topic in halacha: This Mishnah will discuss which aspects of the marriage process can be done via a _shaliach_. Think to yourself now, what parts would you guess can be done by _shaliach_, and which parts would you think one wouldn't be able to do via _shaliach_?
 
 Picture: ![Kiddushin 41a Vilna Edition](/_assets/dafim/Kiddushin_41a_mishnah.png "Kiddushin 41a" "Kiddushin 41a Vilna Romm Edition 1880-86CE, courtesy of Sefaria.org")
 
 האיש מקדש בו ובשלוחו:
-The first clause of the Mishnah on Kiddushin 41a is quoted below. The first clause has [[context]], [[content]], and [[commentary]].
+The first clause of the Mishnah on Kiddushin 41a is quoted below.
 < האיש מקדש בו ובשלוחו
+The first clause has [[context]], [[content]], and [[commentary]].
 
-Context: Before learning the first clause, you can consider [[what you would guess the halacha to be]].
-
-What you would guess the halacha to be: The first clause of the Mishnah is discussing whether a man can halachically engage a woman via a messenger without himself being present. Before reading on, stop and ask yourself, do you think this would work? Why or why not?
+Context: The first clause of the Mishnah is discussing whether a man can halachically engage a woman via a messenger without himself being present. Before reading on, stop and ask yourself, do you think this would work? Why or why not?
 
 Content: To learn the first clause of the Mishna inside, we must [[identify the sentence break]], understand the [[individual words]], produce a [[literal translation]], and a cumulative [[interpretation]].
 
 Identify the sentence break:
-How do we know where the first clause of the Mishnah ends? By reading the Mishnah, we should notice a pattern where we have a person (האיש / האיש), followed by some action (מקדש / מתקדשת), followed by some reference to _shlichus_ (מקדש בו / בה ובשלוחה).
+How do we know where the first clause of the Mishnah ends? By reading the Mishnah, we should notice a pattern:
+< האיש מקדש בו ובשלוחו האשה מתקדשת בה ובשלוחה האיש מקדש את בתו כשהיא נערה בו ובשלוחו
+Lets mark similar looking words even if we don't know what they mean:
+< *האיש מקדש* בו ובשלוחו *האשה מתקדשת* בה ובשלוחה *האיש מקדש* את בתו כשהיא נערה בו ובשלוחו
+Based on this pattern, we should be able to recognize that the Mishnah is composed of three similar parts, and we can begin by focusing on the first one:
 < האיש מקדש בו ובשלוחו
-< האשה מתקדשת בה ובשלוחה
-< האיש מקדש את בתו כשהיא נערה בו ובשלוחו
-Based on this pattern, we should be able to recognize that the Mishnah is composed of three similar parts, and we can focus first on the first one.
 
 Individual words:
-These are the individual words of the first clause:
+These are the words of the first clause, you can select them to learn more:
 < [[האיש]] [[מקדש]] [[בו]] [[ובשלוחו]]
 
-האיש: The word האיש is composed of [[the word איש]] and [[the prefix ה]].
+האיש: The word האיש has [[{possible meanings} of האיש]] and a [[{definition} of האיש]].
+
+Possible meanings of האיש: Try to use the following hints to guess the meaning of the word. The word האיש has [[the letter ה at the start of a word]].
+
+Definition of האיש: The word האיש is composed of [[the word איש]] and [[the "definite article" ה]].
 
 The word איש: The word איש in Hebrew means "man."
 
-The prefix ה: The prefix ה in Hebrew means "the."
+the "definite article" ה: The prefix ה in front of a noun in Hebrew is the "definite article" similar to the English word "the."
 
-מקדש: The word מקדש ("mekadesh") has a [[basic explanation]] and [[advanced explanation]].
+מקדש: The word מקדש has [[{possible meanings} of מקדש]], a [[basic explanation]], and [[advanced explanation]].
 
-Basic explanation: The word מקדש ("mekadesh") means "making something holy," usually used in the context of a man creating the legal status of "kiddushin" with a woman prior to marriage, but also, for example, Hashem being _mekadesh es ha'shabbos_ ie making the Shabbos holy.
+Possible meanings of מקדש: Try to use the following hints to guess the meaning of the word. The word מקדש begins with [[{the letter מ} at the start of a word]].
 
-Advanced explanation: For those interested in grammar, the word מקדש is the the _pi'el_ participle of [[the shoresh קדש]].
+Basic explanation: The word מקדש ("mekadesh") means "[someone is] making something holy," usually used in the context of a man creating the legal status of "kiddushin" with a woman prior to marriage, but it can also be used for the creation of holiness in general, for example, Hashem is _mekadesh es ha'shabbos_ ie makes the Shabbos holy.
+
+Advanced explanation: For those interested in grammar, the word מקדש is the the [[_pi'el_]] participle of [[the shoresh קדש]].
 
 Parts of speech: The word מקדש can function as a noun, meaning "someone who makes something holy", a verb, someone or something "is making holy," or an adjective, something has "the quality of making something holy."
 
@@ -272,6 +281,8 @@ Literal translation:
 Interpretation: Synthesize context and content into a summary, and see eg does the content and the context fit, is this an answer, etc. - With questions and mehalchim.
 
 Commentary: There are [[{{observations we can make}} on the first clause]], [[mefarshim on the first clause]], and [[Gemaras on the first clause]].
+
+- Comprehension questions instead of observations?
 
 Observations we can make: There are observations we can make on the first clause. First, [[that it says "bo u'b'shlucho"]].
 
@@ -393,69 +404,147 @@ Summary: This will be a summary of the entire perek that will allow users to jum
 
 [Lashonos/Binyanim]
 
-* Binyan: "Binyan" is a grammatical concept in Hebrew and Aramaic that has no direct corollary in English. Binyanim are [[related to shorushim]]. There are [[seven {{Hebrew binyanim}}]] and [[six {{Aramaic binyanim}}]].
+* Active: "Active" is a category of verb in Hebrew and Aramaic. Active verbs represent actions where [[the person being described is the one doing the action]]. There are [[several active binyanim in Hebrew and Aramaic]].
 
-Related to shorushim: Whereas a [[shoresh]] represents a vague and general category of meaning, a _binyan_ of that shoresh would represent a specific verb or adjective within that range of meaning. A shoresh like קדש might have the general meaning "holiness" whereas a particular binyan of that shoresh might produce the specific verb "to make something holy," or "to be holy."
+The person being described is the one doing the action: Active verbs represent actions where the person being described is the one doing the action, as opposed to [[passive]] verbs. For example, the verb לִקְנוֹת means "to buy," and because it is active, the one being described is the one who is buying, as opposed to being the person or thing who is being bought.
+
+Several active binyanim in Hebrew and Aramaic:
+There are several active binyanim in Hebrew and Aramaic:
+- Hebrew's active [[simple]] binyan is the [[_pa'al_]]
+- Hebrew's active [[intensive]] binyan is the [[_pi'el_]]
+- Hebrew's active [[causative]] binyan is the [[_hif'il_]]
+- Aramaic's active simple binyan is the [[_pe'al_]]
+- Aramaic's active intensive binyan is the [[_pa'el_]]
+- Aramaic's active causative binyan is the [[_af'el_]]
+
+
+* Binyan: "Binyan" is a grammatical concept in Hebrew and Aramaic that has no direct corollary in English. A binyan is a category of verb that shares meaning and appearance. [[A shoresh is put "into" a binyan to produce a word]]. There are [[seven {{Hebrew binyanim}}]] and [[six {{Aramaic binyanim}}]].
+
+A shoresh is put "into" a binyan to produce a word: Whereas a [[shoresh]] represents a vague and general category of meaning, putting that shoresh into a particular _binyan_ would produce a more specific verb or adjective. For example, the shoresh אבל corresponds to the general idea of eating, whereas putting that shoresh into a particular binyan might produce the specific verbs לֶאֱכוֹל "to eat," לְהַאֲכִיל "to feed," or adjective אָכוּל "eaten."
 
 
 * Binyanim: There are [[seven {{Hebrew binyanim}}]] and [[six {{Aramaic binyanim}}]].
 
 
-* Intensive: There are several [["intensive" binyanim]] in Hebrew and Aramaic. They are called "intensive" because the verbs that are produced by putting shorushim in those binyanim often assume a meaning that is a more "intense" or repetitive version of the idea that is represented by the shoresh itself. For example, the shoresh שבר expresses the general idea of things breaking, whereas the _pi'el_ verb of שבר,‎ לְשַׁבֵּר, means "to shatter."
+* Causative: "Causative" is a category of verb in Hebrew and Aramaic. Causative verbs often describe an action that [[makes something else change]]. There are [[several causative binyanim in Hebrew and Aramaic]]:
 
-"Intensive" binyanim: There are several intensive binyanim in Hebrew and Aramaic, in Hebrew the [[active {{_pi'el_}}]] and the [[passive {{pu'al}}]], and in Aramaic the [[active {{pa'el}}]] and the [[passive {{ispa'al}}]].
+Makes something else change: Causative verbs often describe an action that makes someone or something else become a certain way. For example, the shoresh אכל means "the idea of eating", whereas the causative verb of that shoresh is לְהַאֲכִיל, which means "to feed," ie "to make someone else eat."
+
+Several causative binyanim in Hebrew and Aramaic:
+There are several causative binyanim in Hebrew and Aramaic
+- Hebrew's [["active"]] causative binyan is the [[_hif'il_]]
+- Hebrew's [["passive"]] causative binyan is the [[_huf'al_]]
+- Aramaic's "active" causative binyan is the [[_af'el_]]
+- Aramaic's "passive" causative is the [[_isaf'al_]]
+
+
+* Intensive: "Intensive" is a category of verb in Hebrew and Aramaic. Intensive verbs often have meanings that are [[intensive or repetitive]]. There are [[several intensive binyanim in Hebrew and Aramaic]].
+
+Intensive or repetitive: Intensive verbs often have meanings that are more intensive or repetitive versions of their associated [[shoresh]]. For example, the shoresh שבר means "the idea of things breaking," whereas the intensive form לְשַׁבֵּר, means "to shatter."
+
+Several intensive binyanim in Hebrew and Aramaic:
+There are several intensive binyanim in Hebrew and Aramaic:
+- Hebrew's [["active"]] intensive binyan is the [[_pa'al_]]
+- Hebrew's [["passive"]] intensive binyan is the [[_nif'al_]]
+- Aramaic's "active" intensive binyan is the [[_pe'al_]]
+- Aramaic's "passive" intensive [[_ispe'el_]]
+
+
+* Passive: "Passive" is a category of verb in Hebrew and Aramaic. Passive verbs represent actions where [[the person being described is having an action done to them]]. There are [[several passive binyanim in Hebrew and Aramaic]].
+
+The person being described is having an action done to them: Passive verbs represent actions where the person being described is having an action done to them, as opposed to verbs that are [[active]]. For example, the verb לְהִיקָּנוֹת is passive, and means "to be bought," and so the entity being described is the thing _being_ bought, as opposed to the one doing the buying. Passive verbs in Hebrew and Aramaic sometimes have [[reflexive]] meanings.
+
+Several passive binyanim in Hebrew and Aramaic:
+There are several passive binyanim in Hebrew and Aramaic:
+- Hebrew's passive [[simple]] binyan is the [[_nif'al_]]
+- Hebrew's passive [[intensive]] binyan is the [[_pu'al_]]
+- Hebrew's passive [[causative]] binyan is the [[_huf'al_]]
+- Aramaic's passive simple binyan is the [[_ispe'el_]]
+- Aramaic has no passive intensive binyan.
+- Aramaic's passive causative binyan is the [[_isaf'al_]]
+- Aramaic's reflexive binyan the [[ispa'al]] can sometimes have a passive meaning
+
+
+* Reflexive: "Reflexive" is a category of verb in Hebrew and Aramaic. Reflexive verbs often refer to [[circular or transformative actions]]. There are [[several reflexive binyanim in Hebrew and Aramaic]].
+
+Circular or transformative actions: Reflexive verbs often describe an action where the doer does something to themselves, for example, the shoresh לבש corresponds to the concept of clothing, and the causative verb from that shoresh is לְהִתְלַבֵּשׁ, which means "to dress oneself." However, reflexive verbs can also refer to situations where an entity undergoes a transformation, for example, the shoresh חדש means "newness," and the reflexive verb לְהִתְחַדֵּשׁ means "to revitalize" ie for something to transform into being new.
+
+Several reflexive binyanim in Hebrew and Aramaic:
+There are several reflexive binyanim in Hebrew and Aramaic:
+- Hebrew's reflexive binyan is the [[_hispa'el_]]
+- Aramaic's reflexive binyan is the [[_ispa'al_]]
+- Hebrew and Aramaic's [[passive]] verbs also sometimes have reflexive meanings.
+
+
+* Simple: "Simple" is a category of verb in Hebrew and Aramaic. Simple verbs have meanings that are [[similar to their shoresh]]. There are [[several simple binyanim in Hebrew and Aramaic]].
+
+Similar to their shoresh: Simple verbs have meanings that are very similar to their associated [[shoresh]]. For example, the shoresh אכל means "the idea of eating", whereas the simple verb of that shoresh is לֶאֱכוֹל, which means "to eat."
+
+Several simple binyanim in Hebrew and Aramaic:
+There are several simple binyanim in Hebrew and Aramaic:
+- Hebrew's [["active"]] simple binyan is the [[_pa'al_]]
+- Hebrew's [["passive"]] simple binyan is the [[_nif'al_]]
+- Aramaic's "active" simple binyan is the [[_pe'al_]]
+- Aramaic's "passive" simple [[_ispe'el_]]
 
 
 [Lashonos/Binyanim/Aramaic]
 
-* Af'el:
+* Af'el: The _af'il_ (אַפְעֵל) is one of the [[Aramaic binyanim]]. ([[{{Binyan}} is a special grammatical construct in Hebrew and Aramaic]].) Verbs in the _af'il_ have the properties of being [[active]] and [[causative]]. The _af'il_ corresponds to the [[_hif'il_]] in Hebrew.
 
 
-* Aramaic binyanim: There six binyanim in Aramaic, the [[pe'al]], the [[ispe'el]], the [[pa'el]], the [[ispa'al]], the [[af'el]], and the [[isaf'al]]. Aramaic is missing a passive intensive binyan corresponding to the [[Hebrew {{pu'al}}]].
+* Aramaic binyanim: [[{{Binyan}} is a special grammatical construct in Hebrew and Aramaic]]. There six binyanim in Aramaic. Aramaic is missing a "passive intensive" binyan corresponding to the [[Hebrew {{pu'al}}]].
+| *Aramaic*  | [[Simple]] | [[Intensive]] | [[Causative]] | [[Reflexive]] |
+|------------|------------|---------------|---------------|---------------|
+| [[Active]]  | [[Pe'al]] | [[Pa'el]] | [[Af'el]] | [[Ispa'al]] |
+| [[Passive]] | [[Ispe'el]] | - | [[Isaf'al]] | - |
 
 
-* Isaf'al:
+* Isaf'al: The _isaf'al_ (אִתַפְעַל) is one of the [[Aramaic binyanim]]. ([[{{Binyan}} is a special grammatical construct in Hebrew and Aramaic]].) Verbs in the _isaf'al_ have the properties of being [[active]] and [[causative]]. The _isaf'al_ corresponds to the [[_huf'al_]] in Hebrew.
 
 
-* Ispa'al:
+* Ispa'al: The _ispa'al_ (אִתְפַּעַל) is one of the [[Aramaic binyanim]]. ([[{{Binyan}} is a special grammatical construct in Hebrew and Aramaic]].) Verbs in the _hif'il_ have the properties of being [[reflexive]]. The _pi'el_ corresponds to the [[_hispa'el_]] in Hebrew.
 
 
-* Ispe'el:
+* Ispe'el: The _ispe'el_ (אִתְפְּעֵל) is one of the [[Aramaic binyanim]]. ([[{{Binyan}} is a special grammatical construct in Hebrew and Aramaic]].) Verbs in the _hif'il_ have the properties of being [[active]] and [[causative]]. The _ispe'el_ corresponds to the [[_nif'al_]] in Hebrew.
 
 
-* Pa'el: The "pa'el" (פַּעֵל) binyan, also known as the Aramaic active intensive binyan, is a [[binyan]] that exists in Aramaic corresponding to the [[{{_pi'el_}} in Hebrew]].
+* Pa'el: The _pa'el_ (אִתְפְּעֵל) is one of the [[Aramaic binyanim]]. ([[{{Binyan}} is a special grammatical construct in Hebrew and Aramaic]].) Verbs in the _pa'el_ have the properties of being [[active]] and [[intensive]]. The _pa'el_ corresponds to the [[_pi'el_]] in Hebrew.
 
 
-* Pe'al:
+* Pe'al: The _pe'al_ (פְּעַל) is one of the [[Aramaic binyanim]]. ([[{{Binyan}} is a special grammatical construct in Hebrew and Aramaic]].) Verbs in the _pe'al_ have the properties of being [[active]] and [[simple]]. The _pe'al_ corresponds to the [[_pa'al_]] in Hebrew.
 
 
 [Lashonos/Binyanim/Hebrew]
 
-* Hebrew binyanim: There are seven binyanim in Hebrew, the [[_pa'al_]], the [[_nif'al_]], the [[_pi'el_]], the [[_pu'al_]], the [[_hif'il_]], the [[_huf'al_]], and the [[_hispa'el_]].
+* Hebrew binyanim: [[{{Binyan}} is a special grammatical construct in Hebrew and Aramaic]]. There are seven "binyanim" in Hebrew:
+| *Hebrew*  | [[Simple]] | [[Intensive]] | [[Causative]] | [[Reflexive]] |
+|---------|--------|-----------|-----------|-----------|
+| [[Active]]  | [[Pa'al]] | [[Pi'el]] | [[Hif'il]] | [[Hispa'el]] |
+| [[Passive]] | [[Nif'al]] | [[Pu'al]] | [[Huf'al]] | - |
 
 
-* Hif'il:
+* Hif'il: The _hif'il_ (הִפְעִיל) is one of the [[Hebrew binyanim]]. ([[{{Binyan}} is a special grammatical construct in Hebrew and Aramaic]].) Verbs in the _hif'il_ have the properties of being [[active]] and [[causative]]. The _hif'il_ corresponds to the [[_af'el_]] in Aramaic.
 
 
-* Hispa'el:
+* Hispa'el: The _hispa'el_ (הִתְפַּעֵל) is one of the [[Hebrew binyanim]]. ([[{{Binyan}} is a special grammatical construct in Hebrew and Aramaic]].) Verbs in the _hispa'el_ have the property of being [[reflexive]]. The _hispa'el_ corresponds to the [[_ispa'al_]] in Aramaic.
 
 
-* Huf'al:
+* Huf'al: The _huf'al_ (הֻפְעַל) is one of the [[Hebrew binyanim]]. ([[{{Binyan}} is a special grammatical construct in Hebrew and Aramaic]].) Verbs in the _huf'al_ have the properties of being [[passive]] and [[causative]]. The _huf'al_ corresponds to the [[_isaf'al_]] in Aramaic.
 
 
-* Nif'al:
+* Nif'al: The _nif'al_ (נִפְעַל) is one of the [[Hebrew binyanim]]. ([[{{Binyan}} is a special grammatical construct in Hebrew and Aramaic]].) Verbs in the _nif'al_ have the properties of being [[passive]] and [[simple]]. The _nif'al_ corresponds to the [[_ispe'el_]] in Aramaic.
 
 
-* Pa'al:
+* Pa'al: The _pa'al_ (פָּעַל) is one of the [[Hebrew binyanim]]. ([[{{Binyan}} is a special grammatical construct in Hebrew and Aramaic]].) Verbs in the _pa'al_ have the properties of being [[active]] and [[simple]]. The _pa'al_ corresponds to the [[_pe'al_]] in Aramaic.
 
 
-* Pi'el: The "pi'el" (פִּעֵל), also known as the Hebrew active intensive binyan, is a [[binyan]] that exists in Hebrew corresponding to the [[{{_pa'el_}} in Aramaic]]. The _pi'el_ is an [[{{intensive}} binyan]].
+* Pi'el: The "pi'el" (פִּעֵל) is one of the [[Hebrew binyanim]]. ([[{{Binyan}} is a special grammatical construct in Hebrew and Aramaic]].) Verbs in the _hif'il_ have the properties of being [[active]] and [[intensive]]. The _pi'el_ corresponds to the [[_pa'el_]] in Aramaic.
+
+- * Pi'el participle: The _pi'el_ participle tense is the [[participle tense]] of the [[{{_pi'el_}} binyan]]. The _pi'el participle_ is usually formed by adding a מ to the beginning of the shoresh, like מְקַדֵּשׁ for the shoresh קדש.
 
 
-* Pi'el participle: The _pi'el_ participle tense is the [[participle tense]] of the [[{{_pi'el_}} binyan]]. The _pi'el participle_ is usually formed by adding a מ to the beginning of the shoresh, like מְקַדֵּשׁ for the shoresh קדש.
-
-
-* Pu'al:
+* Pu'al: The "pu'al" (פֻּעַל) is one of the [[Hebrew binyanim]]. ([[{{Binyan}} is a special grammatical construct in Hebrew and Aramaic]].) Verbs in the _pu'al_ have the properties of being [[passive]] and [[causative]]. The _pu'al_ has no corollary binyan in Aramaic.
 
 
 [Lashonos/Conjunctions]
@@ -489,24 +578,34 @@ Appearance: A shoresh looks like a series of 2-3 letters like קדש or מת.
 
 Meaning: A shoresh represents a broad category of meaning, like "holiness" for קדש, or "death" for מת.
 
-Function: A shoresh is used to generate many more specific words. For example, the shoresh קדש "holiness" is used to generate the verb להקדיש, "to donate something to the beis hamikdash."
+Function: A shoresh is used to generate many more specific words. For example, the shoresh קדש "holiness" is used to generate the verb לְהַקְדִּישׁ, "to donate something to the _beis hamikdash_."
 
 More precise definition: Most shorushim have three clear letters, although some like מת have only two clear letters, and traditional grammarians differ as to whether to consider these "weak" shorushim as being "two letter shorushim," or whether to think of them as being three letter shorushim with a hidden third letter like י or ה.
-
--* Simple:
--
--* Intensive:
--
--* Causative:
--
--* Active:
--
--* Passive:
 
 
 [Lashonos/Expressions]
 
 * Ika d'amri: The phrase "ika d'amri" (איכא דאמי) is an Aramaic phrase used in Gemara, literally meaning "there are those who say." Ika d'amri is used by the Gemara to introduce multiple versions of a section of Gemara, which are sometimes called [["Lishna"|lishnas]].
+
+
+[Lashonos/Fixes]
+
+* Hebrew definite article:
+
+
+* The letter ה at the start of a word: The letter ה at the start of a word could mean several things.
+- A ה at the start of a word might be part of the actual word, for example the ה in הֶֽבֶל which means vapor or emptiness.
+- A ה at the start of a word might be the [[Hebrew "definite article"]] (like the word "the" in English), for example הַאֶבֶן, "the rock."
+- A ה at the start of a word might be a past tense Hebrew verb in the [[{{_pi'el_}} binyan]], for example מדבר, "he spoke."
+- A ה at the start of a word might be a past tense Hebrew verb in the [[{{_hif'il_}} binyan]], for example הִבְטִיחַ, "he promised."
+
+
+* The letter מ at the start of a word: The letter מ at the start of a word could mean several things.
+- A מ at the start of a word might be part of the actual word, for example מלח which means salt.
+- A מ at the start of a word might be short for מין, meaning "from," for example מבבל, "from Bavel."
+- A מ at the start of a word might be the word part of a comparison, corresponding to the word "than," for example יותר מזה, "more than that."
+- A מ at the start of a word might be part of the [["ongoing"]] tense of an [[intensive]] verb in Hebrew or Aramaic, for example מדבר, "he is speaking."
+- A מ at the start of a word might be part of the [["ongoing"]] tense of a [[causative]] verb in Hebrew or Aramaic, for example מבדיל, "he is separating."
 
 
 [Lashonos/Grammar]
@@ -571,6 +670,15 @@ Hebrew: The shoresh שלח has seven "binyanim" in Hebrew, the [[{_pa'al_} of th
 
 
 [Lashonos/Tenses]
+
+* Ongoing: Hebrew and Aramaic have an "ongoing" tense, similar to "he is running" in English. The "ongoing" tense can be used in the [[past]], [[present]], or [[future]]. The ongoing tense has a technical name in grammar, the "participle."
+
+Past: The ongoing tense can be used in the past tense, for example הוא היה רץ, meaning "he used to run" or "he used to be running." If you wanted to say "he ran," you would just use the regular past tense and not the past version of the ongoing tense.
+
+Present: The ongoing tense can be used in the present tense, for example, הוא רץ, meaning "he is running" or "he runs."
+
+Future: The ongoing tense can be used in the future tense, for example, הוא יהיה רץ, meaning "he will be running." If you wanted to say "he will run," you would just use the regular future tense and not the past version of the ongoing tense.
+
 
 * Participle tense: The participle is a verb tense in many languages including Hebrew and Aramaic. Participles in English include the "-ing" verbs like "running." The participle has different [[forms]], and can function in various [[roles]] and [[constructions]].
 
