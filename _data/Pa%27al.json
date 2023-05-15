@@ -7,6 +7,145 @@
   }
  ],
  "paragraphsBySubtopic": {
-  "Pa'al": []
+  "Pa'al": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pa'al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " (פָּעַל) is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "Hebrew binyanim",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Hebrew binyanim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Hebrew binyanim",
+    "targetTopic": "Hebrew binyanim",
+    "enclosingTopic": "Pa'al",
+    "enclosingSubtopic": "Pa'al"
+   },
+   {
+    "text": ". (",
+    "type": "text"
+   },
+   {
+    "text": "Binyan is a special grammatical construct in Hebrew and Aramaic",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Binyan is a special grammatical construct in Hebrew and Aramaic",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Binyan",
+    "targetTopic": "Binyan",
+    "enclosingTopic": "Pa'al",
+    "enclosingSubtopic": "Pa'al"
+   },
+   {
+    "text": ".) Verbs in the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pa'al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " have the properties of being ",
+    "type": "text"
+   },
+   {
+    "text": "active",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "active",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Active",
+    "targetTopic": "Active",
+    "enclosingTopic": "Pa'al",
+    "enclosingSubtopic": "Pa'al"
+   },
+   {
+    "text": " and ",
+    "type": "text"
+   },
+   {
+    "text": "simple",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "simple",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Simple",
+    "targetTopic": "Simple",
+    "enclosingTopic": "Pa'al",
+    "enclosingSubtopic": "Pa'al"
+   },
+   {
+    "text": ". The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pa'al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " corresponds to the ",
+    "type": "text"
+   },
+   {
+    "text": "_pe'al_",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pe'al",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Pe'al",
+    "targetTopic": "Pe'al",
+    "enclosingTopic": "Pa'al",
+    "enclosingSubtopic": "Pa'al"
+   },
+   {
+    "text": " in Aramaic.",
+    "type": "text"
+   }
+  ]
  }
 }

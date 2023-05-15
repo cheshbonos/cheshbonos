@@ -7,6 +7,109 @@
   }
  ],
  "paragraphsBySubtopic": {
-  "Pu'al": []
+  "Pu'al": [
+   {
+    "text": "The \"pu'al\" (פֻּעַל) is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "Hebrew binyanim",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Hebrew binyanim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Hebrew binyanim",
+    "targetTopic": "Hebrew binyanim",
+    "enclosingTopic": "Pu'al",
+    "enclosingSubtopic": "Pu'al"
+   },
+   {
+    "text": ". (",
+    "type": "text"
+   },
+   {
+    "text": "Binyan is a special grammatical construct in Hebrew and Aramaic",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Binyan is a special grammatical construct in Hebrew and Aramaic",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Binyan",
+    "targetTopic": "Binyan",
+    "enclosingTopic": "Pu'al",
+    "enclosingSubtopic": "Pu'al"
+   },
+   {
+    "text": ".) Verbs in the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pu'al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " have the properties of being ",
+    "type": "text"
+   },
+   {
+    "text": "passive",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "passive",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Passive",
+    "targetTopic": "Passive",
+    "enclosingTopic": "Pu'al",
+    "enclosingSubtopic": "Pu'al"
+   },
+   {
+    "text": " and ",
+    "type": "text"
+   },
+   {
+    "text": "causative",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "causative",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Causative",
+    "targetTopic": "Causative",
+    "enclosingTopic": "Pu'al",
+    "enclosingSubtopic": "Pu'al"
+   },
+   {
+    "text": ". The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pu'al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " has no corollary binyan in Aramaic.",
+    "type": "text"
+   }
+  ]
  }
 }

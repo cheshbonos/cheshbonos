@@ -1,0 +1,89 @@
+{
+ "displayTopicName": "Ongoing",
+ "topicTokens": [
+  {
+   "text": "Ongoing",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Ongoing": [
+   {
+    "text": "Hebrew and Aramaic have an \"ongoing\" tense, similar to \"he is running\" in English. The \"ongoing\" tense can be used in the ",
+    "type": "text"
+   },
+   {
+    "text": "past",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "past",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Past",
+    "targetTopic": "Ongoing",
+    "enclosingTopic": "Ongoing",
+    "enclosingSubtopic": "Ongoing"
+   },
+   {
+    "text": ", ",
+    "type": "text"
+   },
+   {
+    "text": "present",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "present",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Present",
+    "targetTopic": "Ongoing",
+    "enclosingTopic": "Ongoing",
+    "enclosingSubtopic": "Ongoing"
+   },
+   {
+    "text": ", or ",
+    "type": "text"
+   },
+   {
+    "text": "future",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "future",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Future",
+    "targetTopic": "Ongoing",
+    "enclosingTopic": "Ongoing",
+    "enclosingSubtopic": "Ongoing"
+   },
+   {
+    "text": ". The ongoing tense has a technical name in grammar, the \"participle.\"",
+    "type": "text"
+   }
+  ],
+  "Past": [
+   {
+    "text": "The ongoing tense can be used in the past tense, for example הוא היה רץ, meaning \"he used to run\" or \"he used to be running.\" If you wanted to say \"he ran,\" you would just use the regular past tense and not the past version of the ongoing tense.",
+    "type": "text"
+   }
+  ],
+  "Present": [
+   {
+    "text": "The ongoing tense can be used in the present tense, for example, הוא רץ, meaning \"he is running\" or \"he runs.\"",
+    "type": "text"
+   }
+  ],
+  "Future": [
+   {
+    "text": "The ongoing tense can be used in the future tense, for example, הוא יהיה רץ, meaning \"he will be running.\" If you wanted to say \"he will run,\" you would just use the regular future tense and not the past version of the ongoing tense.",
+    "type": "text"
+   }
+  ]
+ }
+}

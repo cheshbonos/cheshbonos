@@ -9,15 +9,46 @@
  "paragraphsBySubtopic": {
   "Pa'el": [
    {
-    "text": "The \"pa'el\" (פַּעֵל) binyan, also known as the Aramaic active intensive binyan, is a ",
+    "text": "The ",
     "type": "text"
    },
    {
-    "text": "binyan",
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pa'el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " (אִתְפְּעֵל) is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "Aramaic binyanim",
     "type": "global",
     "tokens": [
      {
-      "text": "binyan",
+      "text": "Aramaic binyanim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Aramaic binyanim",
+    "targetTopic": "Aramaic binyanim",
+    "enclosingTopic": "Pa'el",
+    "enclosingSubtopic": "Pa'el"
+   },
+   {
+    "text": ". (",
+    "type": "text"
+   },
+   {
+    "text": "Binyan is a special grammatical construct in Hebrew and Aramaic",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Binyan is a special grammatical construct in Hebrew and Aramaic",
       "type": "text"
      }
     ],
@@ -27,11 +58,73 @@
     "enclosingSubtopic": "Pa'el"
    },
    {
-    "text": " that exists in Aramaic corresponding to the ",
+    "text": ".) Verbs in the ",
     "type": "text"
    },
    {
-    "text": "_pi'el_ in Hebrew",
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pa'el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " have the properties of being ",
+    "type": "text"
+   },
+   {
+    "text": "active",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "active",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Active",
+    "targetTopic": "Active",
+    "enclosingTopic": "Pa'el",
+    "enclosingSubtopic": "Pa'el"
+   },
+   {
+    "text": " and ",
+    "type": "text"
+   },
+   {
+    "text": "intensive",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "intensive",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Intensive",
+    "targetTopic": "Intensive",
+    "enclosingTopic": "Pa'el",
+    "enclosingSubtopic": "Pa'el"
+   },
+   {
+    "text": ". The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pa'el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " corresponds to the ",
+    "type": "text"
+   },
+   {
+    "text": "_pi'el_",
     "type": "global",
     "tokens": [
      {
@@ -42,10 +135,6 @@
         "type": "text"
        }
       ]
-     },
-     {
-      "text": " in Hebrew",
-      "type": "text"
      }
     ],
     "targetSubtopic": "Pi'el",
@@ -54,7 +143,7 @@
     "enclosingSubtopic": "Pa'el"
    },
    {
-    "text": ".",
+    "text": " in Hebrew.",
     "type": "text"
    }
   ]

@@ -1,0 +1,159 @@
+{
+ "displayTopicName": "Reflexive",
+ "topicTokens": [
+  {
+   "text": "Reflexive",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Reflexive": [
+   {
+    "text": "\"Reflexive\" is a category of verb in Hebrew and Aramaic. Reflexive verbs often refer to ",
+    "type": "text"
+   },
+   {
+    "text": "circular or transformative actions",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "circular or transformative actions",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Circular or transformative actions",
+    "targetTopic": "Reflexive",
+    "enclosingTopic": "Reflexive",
+    "enclosingSubtopic": "Reflexive"
+   },
+   {
+    "text": ". There are ",
+    "type": "text"
+   },
+   {
+    "text": "several reflexive binyanim in Hebrew and Aramaic",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "several reflexive binyanim in Hebrew and Aramaic",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Several reflexive binyanim in Hebrew and Aramaic",
+    "targetTopic": "Reflexive",
+    "enclosingTopic": "Reflexive",
+    "enclosingSubtopic": "Reflexive"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Circular or transformative actions": [
+   {
+    "text": "Reflexive verbs often describe an action where the doer does something to themselves, for example, the shoresh לבש corresponds to the concept of clothing, and the causative verb from that shoresh is לְהִתְלַבֵּשׁ, which means \"to dress oneself.\" However, reflexive verbs can also refer to situations where an entity undergoes a transformation, for example, the shoresh חדש means \"newness,\" and the reflexive verb לְהִתְחַדֵּשׁ means \"to revitalize\" ie for something to transform into being new.",
+    "type": "text"
+   }
+  ],
+  "Several reflexive binyanim in Hebrew and Aramaic": [
+   {
+    "text": "There are several reflexive binyanim in Hebrew and Aramaic: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Hebrew's reflexive binyan is the ",
+        "type": "text"
+       },
+       {
+        "text": "_hispa'el_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "hispa'el",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Hispa'el",
+        "targetTopic": "Hispa'el",
+        "enclosingTopic": "Reflexive",
+        "enclosingSubtopic": "Several reflexive binyanim in Hebrew and Aramaic"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Aramaic's reflexive binyan is the ",
+        "type": "text"
+       },
+       {
+        "text": "_ispa'al_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "ispa'al",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Ispa'al",
+        "targetTopic": "Ispa'al",
+        "enclosingTopic": "Reflexive",
+        "enclosingSubtopic": "Several reflexive binyanim in Hebrew and Aramaic"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Hebrew and Aramaic's ",
+        "type": "text"
+       },
+       {
+        "text": "passive",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "passive",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Passive",
+        "targetTopic": "Passive",
+        "enclosingTopic": "Reflexive",
+        "enclosingSubtopic": "Several reflexive binyanim in Hebrew and Aramaic"
+       },
+       {
+        "text": " verbs also sometimes have reflexive meanings.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

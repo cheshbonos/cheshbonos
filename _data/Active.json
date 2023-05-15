@@ -1,0 +1,322 @@
+{
+ "displayTopicName": "Active",
+ "topicTokens": [
+  {
+   "text": "Active",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Active": [
+   {
+    "text": "\"Active\" is a category of verb in Hebrew and Aramaic. Active verbs represent actions where ",
+    "type": "text"
+   },
+   {
+    "text": "the person being described is the one doing the action",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "the person being described is the one doing the action",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "The person being described is the one doing the action",
+    "targetTopic": "Active",
+    "enclosingTopic": "Active",
+    "enclosingSubtopic": "Active"
+   },
+   {
+    "text": ". There are ",
+    "type": "text"
+   },
+   {
+    "text": "several active binyanim in Hebrew and Aramaic",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "several active binyanim in Hebrew and Aramaic",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Several active binyanim in Hebrew and Aramaic",
+    "targetTopic": "Active",
+    "enclosingTopic": "Active",
+    "enclosingSubtopic": "Active"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "The person being described is the one doing the action": [
+   {
+    "text": "Active verbs represent actions where the person being described is the one doing the action, as opposed to ",
+    "type": "text"
+   },
+   {
+    "text": "passive",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "passive",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Passive",
+    "targetTopic": "Passive",
+    "enclosingTopic": "Active",
+    "enclosingSubtopic": "The person being described is the one doing the action"
+   },
+   {
+    "text": " verbs. For example, the verb לִקְנוֹת means \"to buy,\" and because it is active, the one being described is the one who is buying, as opposed to being the person or thing who is being bought.",
+    "type": "text"
+   }
+  ],
+  "Several active binyanim in Hebrew and Aramaic": [
+   {
+    "text": "There are several active binyanim in Hebrew and Aramaic: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Hebrew's active ",
+        "type": "text"
+       },
+       {
+        "text": "simple",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "simple",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Simple",
+        "targetTopic": "Simple",
+        "enclosingTopic": "Active",
+        "enclosingSubtopic": "Several active binyanim in Hebrew and Aramaic"
+       },
+       {
+        "text": " binyan is the ",
+        "type": "text"
+       },
+       {
+        "text": "_pa'al_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "pa'al",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Pa'al",
+        "targetTopic": "Pa'al",
+        "enclosingTopic": "Active",
+        "enclosingSubtopic": "Several active binyanim in Hebrew and Aramaic"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Hebrew's active ",
+        "type": "text"
+       },
+       {
+        "text": "intensive",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "intensive",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Intensive",
+        "targetTopic": "Intensive",
+        "enclosingTopic": "Active",
+        "enclosingSubtopic": "Several active binyanim in Hebrew and Aramaic"
+       },
+       {
+        "text": " binyan is the ",
+        "type": "text"
+       },
+       {
+        "text": "_pi'el_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "pi'el",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Pi'el",
+        "targetTopic": "Pi'el",
+        "enclosingTopic": "Active",
+        "enclosingSubtopic": "Several active binyanim in Hebrew and Aramaic"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Hebrew's active ",
+        "type": "text"
+       },
+       {
+        "text": "causative",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "causative",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Causative",
+        "targetTopic": "Causative",
+        "enclosingTopic": "Active",
+        "enclosingSubtopic": "Several active binyanim in Hebrew and Aramaic"
+       },
+       {
+        "text": " binyan is the ",
+        "type": "text"
+       },
+       {
+        "text": "_hif'il_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "hif'il",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Hif'il",
+        "targetTopic": "Hif'il",
+        "enclosingTopic": "Active",
+        "enclosingSubtopic": "Several active binyanim in Hebrew and Aramaic"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Aramaic's active simple binyan is the ",
+        "type": "text"
+       },
+       {
+        "text": "_pe'al_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "pe'al",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Pe'al",
+        "targetTopic": "Pe'al",
+        "enclosingTopic": "Active",
+        "enclosingSubtopic": "Several active binyanim in Hebrew and Aramaic"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Aramaic's active intensive binyan is the ",
+        "type": "text"
+       },
+       {
+        "text": "_pa'el_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "pa'el",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Pa'el",
+        "targetTopic": "Pa'el",
+        "enclosingTopic": "Active",
+        "enclosingSubtopic": "Several active binyanim in Hebrew and Aramaic"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Aramaic's active causative binyan is the ",
+        "type": "text"
+       },
+       {
+        "text": "_af'el_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "af'el",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Af'el",
+        "targetTopic": "Af'el",
+        "enclosingTopic": "Active",
+        "enclosingSubtopic": "Several active binyanim in Hebrew and Aramaic"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

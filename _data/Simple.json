@@ -1,57 +1,57 @@
 {
- "displayTopicName": "Intensive",
+ "displayTopicName": "Simple",
  "topicTokens": [
   {
-   "text": "Intensive",
+   "text": "Simple",
    "type": "text"
   }
  ],
  "paragraphsBySubtopic": {
-  "Intensive": [
+  "Simple": [
    {
-    "text": "\"Intensive\" is a category of verb in Hebrew and Aramaic. Intensive verbs often have meanings that are ",
+    "text": "\"Simple\" is a category of verb in Hebrew and Aramaic. Simple verbs have meanings that are ",
     "type": "text"
    },
    {
-    "text": "intensive or repetitive",
+    "text": "similar to their shoresh",
     "type": "local",
     "tokens": [
      {
-      "text": "intensive or repetitive",
+      "text": "similar to their shoresh",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Intensive or repetitive",
-    "targetTopic": "Intensive",
-    "enclosingTopic": "Intensive",
-    "enclosingSubtopic": "Intensive"
+    "targetSubtopic": "Similar to their shoresh",
+    "targetTopic": "Simple",
+    "enclosingTopic": "Simple",
+    "enclosingSubtopic": "Simple"
    },
    {
     "text": ". There are ",
     "type": "text"
    },
    {
-    "text": "several intensive binyanim in Hebrew and Aramaic",
+    "text": "several simple binyanim in Hebrew and Aramaic",
     "type": "local",
     "tokens": [
      {
-      "text": "several intensive binyanim in Hebrew and Aramaic",
+      "text": "several simple binyanim in Hebrew and Aramaic",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Several intensive binyanim in Hebrew and Aramaic",
-    "targetTopic": "Intensive",
-    "enclosingTopic": "Intensive",
-    "enclosingSubtopic": "Intensive"
+    "targetSubtopic": "Several simple binyanim in Hebrew and Aramaic",
+    "targetTopic": "Simple",
+    "enclosingTopic": "Simple",
+    "enclosingSubtopic": "Simple"
    },
    {
     "text": ".",
     "type": "text"
    }
   ],
-  "Intensive or repetitive": [
+  "Similar to their shoresh": [
    {
-    "text": "Intensive verbs often have meanings that are more intensive or repetitive versions of their associated ",
+    "text": "Simple verbs have meanings that are very similar to their associated ",
     "type": "text"
    },
    {
@@ -65,17 +65,17 @@
     ],
     "targetSubtopic": "Shoresh",
     "targetTopic": "Shoresh",
-    "enclosingTopic": "Intensive",
-    "enclosingSubtopic": "Intensive or repetitive"
+    "enclosingTopic": "Simple",
+    "enclosingSubtopic": "Similar to their shoresh"
    },
    {
-    "text": ". For example, the shoresh שבר means \"the idea of things breaking,\" whereas the intensive form לְשַׁבֵּר, means \"to shatter.\"",
+    "text": ". For example, the shoresh אכל means \"the idea of eating\", whereas the simple verb of that shoresh is לֶאֱכוֹל, which means \"to eat.\"",
     "type": "text"
    }
   ],
-  "Several intensive binyanim in Hebrew and Aramaic": [
+  "Several simple binyanim in Hebrew and Aramaic": [
    {
-    "text": "There are several intensive binyanim in Hebrew and Aramaic: ",
+    "text": "There are several simple binyanim in Hebrew and Aramaic: ",
     "type": "text"
    },
    {
@@ -99,11 +99,11 @@
         ],
         "targetSubtopic": "Active",
         "targetTopic": "Active",
-        "enclosingTopic": "Intensive",
-        "enclosingSubtopic": "Several intensive binyanim in Hebrew and Aramaic"
+        "enclosingTopic": "Simple",
+        "enclosingSubtopic": "Several simple binyanim in Hebrew and Aramaic"
        },
        {
-        "text": " intensive binyan is the ",
+        "text": " simple binyan is the ",
         "type": "text"
        },
        {
@@ -122,8 +122,8 @@
         ],
         "targetSubtopic": "Pa'al",
         "targetTopic": "Pa'al",
-        "enclosingTopic": "Intensive",
-        "enclosingSubtopic": "Several intensive binyanim in Hebrew and Aramaic"
+        "enclosingTopic": "Simple",
+        "enclosingSubtopic": "Several simple binyanim in Hebrew and Aramaic"
        }
       ],
       "children": []
@@ -147,11 +147,11 @@
         ],
         "targetSubtopic": "Passive",
         "targetTopic": "Passive",
-        "enclosingTopic": "Intensive",
-        "enclosingSubtopic": "Several intensive binyanim in Hebrew and Aramaic"
+        "enclosingTopic": "Simple",
+        "enclosingSubtopic": "Several simple binyanim in Hebrew and Aramaic"
        },
        {
-        "text": " intensive binyan is the ",
+        "text": " simple binyan is the ",
         "type": "text"
        },
        {
@@ -170,8 +170,8 @@
         ],
         "targetSubtopic": "Nif'al",
         "targetTopic": "Nif'al",
-        "enclosingTopic": "Intensive",
-        "enclosingSubtopic": "Several intensive binyanim in Hebrew and Aramaic"
+        "enclosingTopic": "Simple",
+        "enclosingSubtopic": "Several simple binyanim in Hebrew and Aramaic"
        }
       ],
       "children": []
@@ -181,7 +181,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Aramaic's \"active\" intensive binyan is the ",
+        "text": "Aramaic's \"active\" simple binyan is the ",
         "type": "text"
        },
        {
@@ -200,8 +200,8 @@
         ],
         "targetSubtopic": "Pe'al",
         "targetTopic": "Pe'al",
-        "enclosingTopic": "Intensive",
-        "enclosingSubtopic": "Several intensive binyanim in Hebrew and Aramaic"
+        "enclosingTopic": "Simple",
+        "enclosingSubtopic": "Several simple binyanim in Hebrew and Aramaic"
        }
       ],
       "children": []
@@ -211,7 +211,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Aramaic's \"passive\" intensive ",
+        "text": "Aramaic's \"passive\" simple ",
         "type": "text"
        },
        {
@@ -230,8 +230,8 @@
         ],
         "targetSubtopic": "Ispe'el",
         "targetTopic": "Ispe'el",
-        "enclosingTopic": "Intensive",
-        "enclosingSubtopic": "Several intensive binyanim in Hebrew and Aramaic"
+        "enclosingTopic": "Simple",
+        "enclosingSubtopic": "Several simple binyanim in Hebrew and Aramaic"
        }
       ],
       "children": []

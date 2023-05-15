@@ -9,19 +9,19 @@
  "paragraphsBySubtopic": {
   "Binyan": [
    {
-    "text": "\"Binyan\" is a grammatical concept in Hebrew and Aramaic that has no direct corollary in English. Binyanim are ",
+    "text": "\"Binyan\" is a grammatical concept in Hebrew and Aramaic that has no direct corollary in English. A binyan is a category of verb that shares meaning and appearance. ",
     "type": "text"
    },
    {
-    "text": "related to shorushim",
+    "text": "A shoresh is put \"into\" a binyan to produce a word",
     "type": "local",
     "tokens": [
      {
-      "text": "related to shorushim",
+      "text": "A shoresh is put \"into\" a binyan to produce a word",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Related to shorushim",
+    "targetSubtopic": "A shoresh is put \"into\" a binyan to produce a word",
     "targetTopic": "Binyan",
     "enclosingTopic": "Binyan",
     "enclosingSubtopic": "Binyan"
@@ -67,7 +67,7 @@
     "type": "text"
    }
   ],
-  "Related to shorushim": [
+  "A shoresh is put \"into\" a binyan to produce a word": [
    {
     "text": "Whereas a ",
     "type": "text"
@@ -84,10 +84,10 @@
     "targetSubtopic": "Shoresh",
     "targetTopic": "Shoresh",
     "enclosingTopic": "Binyan",
-    "enclosingSubtopic": "Related to shorushim"
+    "enclosingSubtopic": "A shoresh is put \"into\" a binyan to produce a word"
    },
    {
-    "text": " represents a vague and general category of meaning, a ",
+    "text": " represents a vague and general category of meaning, putting that shoresh into a particular ",
     "type": "text"
    },
    {
@@ -100,7 +100,7 @@
     ]
    },
    {
-    "text": " of that shoresh would represent a specific verb or adjective within that range of meaning. A shoresh like קדש might have the general meaning \"holiness\" whereas a particular binyan of that shoresh might produce the specific verb \"to make something holy,\" or \"to be holy.\"",
+    "text": " would produce a more specific verb or adjective. For example, the shoresh אבל corresponds to the general idea of eating, whereas putting that shoresh into a particular binyan might produce the specific verbs לֶאֱכוֹל \"to eat,\" לְהַאֲכִיל \"to feed,\" or adjective אָכוּל \"eaten.\"",
     "type": "text"
    }
   ]

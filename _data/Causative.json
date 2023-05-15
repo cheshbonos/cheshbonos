@@ -1,0 +1,226 @@
+{
+ "displayTopicName": "Causative",
+ "topicTokens": [
+  {
+   "text": "Causative",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Causative": [
+   {
+    "text": "\"Causative\" is a category of verb in Hebrew and Aramaic. Causative verbs often describe an action that ",
+    "type": "text"
+   },
+   {
+    "text": "makes something else change",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "makes something else change",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Makes something else change",
+    "targetTopic": "Causative",
+    "enclosingTopic": "Causative",
+    "enclosingSubtopic": "Causative"
+   },
+   {
+    "text": ". There are ",
+    "type": "text"
+   },
+   {
+    "text": "several causative binyanim in Hebrew and Aramaic",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "several causative binyanim in Hebrew and Aramaic",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Several causative binyanim in Hebrew and Aramaic",
+    "targetTopic": "Causative",
+    "enclosingTopic": "Causative",
+    "enclosingSubtopic": "Causative"
+   },
+   {
+    "text": ":",
+    "type": "text"
+   }
+  ],
+  "Makes something else change": [
+   {
+    "text": "Causative verbs often describe an action that makes someone or something else become a certain way. For example, the shoresh אכל means \"the idea of eating\", whereas the causative verb of that shoresh is לְהַאֲכִיל, which means \"to feed,\" ie \"to make someone else eat.\"",
+    "type": "text"
+   }
+  ],
+  "Several causative binyanim in Hebrew and Aramaic": [
+   {
+    "text": "There are several causative binyanim in Hebrew and Aramaic ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Hebrew's ",
+        "type": "text"
+       },
+       {
+        "text": "\"active\"",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "\"active\"",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Active",
+        "targetTopic": "Active",
+        "enclosingTopic": "Causative",
+        "enclosingSubtopic": "Several causative binyanim in Hebrew and Aramaic"
+       },
+       {
+        "text": " causative binyan is the ",
+        "type": "text"
+       },
+       {
+        "text": "_hif'il_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "hif'il",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Hif'il",
+        "targetTopic": "Hif'il",
+        "enclosingTopic": "Causative",
+        "enclosingSubtopic": "Several causative binyanim in Hebrew and Aramaic"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Hebrew's ",
+        "type": "text"
+       },
+       {
+        "text": "\"passive\"",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "\"passive\"",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Passive",
+        "targetTopic": "Passive",
+        "enclosingTopic": "Causative",
+        "enclosingSubtopic": "Several causative binyanim in Hebrew and Aramaic"
+       },
+       {
+        "text": " causative binyan is the ",
+        "type": "text"
+       },
+       {
+        "text": "_huf'al_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "huf'al",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Huf'al",
+        "targetTopic": "Huf'al",
+        "enclosingTopic": "Causative",
+        "enclosingSubtopic": "Several causative binyanim in Hebrew and Aramaic"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Aramaic's \"active\" causative binyan is the ",
+        "type": "text"
+       },
+       {
+        "text": "_af'el_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "af'el",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Af'el",
+        "targetTopic": "Af'el",
+        "enclosingTopic": "Causative",
+        "enclosingSubtopic": "Several causative binyanim in Hebrew and Aramaic"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Aramaic's \"passive\" causative is the ",
+        "type": "text"
+       },
+       {
+        "text": "_isaf'al_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "isaf'al",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Isaf'al",
+        "targetTopic": "Isaf'al",
+        "enclosingTopic": "Causative",
+        "enclosingSubtopic": "Several causative binyanim in Hebrew and Aramaic"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

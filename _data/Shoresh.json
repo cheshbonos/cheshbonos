@@ -99,7 +99,20 @@
   ],
   "Function": [
    {
-    "text": "A shoresh is used to generate many more specific words. For example, the shoresh קדש \"holiness\" is used to generate the verb להקדיש, \"to donate something to the beis hamikdash.\"",
+    "text": "A shoresh is used to generate many more specific words. For example, the shoresh קדש \"holiness\" is used to generate the verb לְהַקְדִּישׁ, \"to donate something to the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "beis hamikdash",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ".\"",
     "type": "text"
    }
   ],

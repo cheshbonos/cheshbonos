@@ -114,9 +114,9 @@
     "direction": "rtl"
    }
   ],
-  "  -Rosh and Rambam?": [
+  "  - Rosh and Rambam?": [
    {
-    "text": "================ ",
+    "text": "============= ",
     "type": "text"
    },
    {
@@ -130,17 +130,31 @@
         "type": "text"
        }
       ],
-      "children": []
-     }
-    ],
-    "type": "outline"
-   },
-   {
-    "text": "  -Rosh and Rambam? ",
-    "type": "text"
-   },
-   {
-    "topLevelNodes": [
+      "children": [
+       {
+        "ordinal": "-",
+        "ordered": false,
+        "tokensOfLine": [
+         {
+          "text": "Rosh and Rambam?",
+          "type": "text"
+         }
+        ],
+        "children": []
+       },
+       {
+        "ordinal": "-",
+        "ordered": false,
+        "tokensOfLine": [
+         {
+          "text": "How mishnayos are written - what would be the implication of each permutation, bedieved, lechatchila, etc",
+          "type": "text"
+         }
+        ],
+        "children": []
+       }
+      ]
+     },
      {
       "ordinal": "-",
       "ordered": false,
@@ -234,7 +248,7 @@
         "ordered": false,
         "tokensOfLine": [
          {
-          "text": "where does halacha come from",
+          "text": "where does halacha come from / what entitles him to say this answer?",
           "type": "text"
          }
         ],
@@ -316,6 +330,17 @@
          }
         ],
         "children": []
+       },
+       {
+        "ordinal": "-",
+        "ordered": false,
+        "tokensOfLine": [
+         {
+          "text": "who is R Yosef? Why do we listen to them?",
+          "type": "text"
+         }
+        ],
+        "children": []
        }
       ]
      },
@@ -367,7 +392,7 @@
         "ordered": false,
         "tokensOfLine": [
          {
-          "text": "shaarei tzion inside",
+          "text": "shaarei tzion inside - what entitles him to say this chiddush?",
           "type": "text"
          }
         ],
@@ -434,7 +459,7 @@
         "ordered": false,
         "tokensOfLine": [
          {
-          "text": "What does the nami mean?",
+          "text": "What does the nami mean? - put in by the compiler, or spectrum of assur/mitzvah eg second Tosofos",
           "type": "text"
          }
         ],
@@ -457,6 +482,17 @@
         "tokensOfLine": [
          {
           "text": "Clarify that it isn't RYAR's halacha, we are presuming the Tana would know you have to see the woman first etc.",
+          "type": "text"
+         }
+        ],
+        "children": []
+       },
+       {
+        "ordinal": "-",
+        "ordered": false,
+        "tokensOfLine": [
+         {
+          "text": "Who is R Yehuda amar Rav? Why do we listen to them?",
           "type": "text"
          }
         ],

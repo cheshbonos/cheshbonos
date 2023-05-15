@@ -7,6 +7,127 @@
   }
  ],
  "paragraphsBySubtopic": {
-  "Hispa'el": []
+  "Hispa'el": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "hispa'el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " (הִתְפַּעֵל) is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "Hebrew binyanim",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Hebrew binyanim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Hebrew binyanim",
+    "targetTopic": "Hebrew binyanim",
+    "enclosingTopic": "Hispa'el",
+    "enclosingSubtopic": "Hispa'el"
+   },
+   {
+    "text": ". (",
+    "type": "text"
+   },
+   {
+    "text": "Binyan is a special grammatical construct in Hebrew and Aramaic",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Binyan is a special grammatical construct in Hebrew and Aramaic",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Binyan",
+    "targetTopic": "Binyan",
+    "enclosingTopic": "Hispa'el",
+    "enclosingSubtopic": "Hispa'el"
+   },
+   {
+    "text": ".) Verbs in the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "hispa'el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " have the property of being ",
+    "type": "text"
+   },
+   {
+    "text": "reflexive",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "reflexive",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Reflexive",
+    "targetTopic": "Reflexive",
+    "enclosingTopic": "Hispa'el",
+    "enclosingSubtopic": "Hispa'el"
+   },
+   {
+    "text": ". The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "hispa'el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " corresponds to the ",
+    "type": "text"
+   },
+   {
+    "text": "_ispa'al_",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "ispa'al",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Ispa'al",
+    "targetTopic": "Ispa'al",
+    "enclosingTopic": "Hispa'el",
+    "enclosingSubtopic": "Hispa'el"
+   },
+   {
+    "text": " in Aramaic.",
+    "type": "text"
+   }
+  ]
  }
 }

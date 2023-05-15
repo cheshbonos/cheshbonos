@@ -1,0 +1,138 @@
+{
+ "displayTopicName": "The letter ה at the start of a word",
+ "topicTokens": [
+  {
+   "text": "The letter ה at the start of a word",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "The letter ה at the start of a word": [
+   {
+    "text": "The letter ה at the start of a word could mean several things. ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "A ה at the start of a word might be part of the actual word, for example the ה in הֶֽבֶל which means vapor or emptiness.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "A ה at the start of a word might be the ",
+        "type": "text"
+       },
+       {
+        "text": "Hebrew \"definite article\"",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Hebrew \"definite article\"",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Hebrew definite article",
+        "targetTopic": "Hebrew definite article",
+        "enclosingTopic": "The letter ה at the start of a word",
+        "enclosingSubtopic": "The letter ה at the start of a word"
+       },
+       {
+        "text": " (like the word \"the\" in English), for example הַאֶבֶן, \"the rock.\"",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "A ה at the start of a word might be a past tense Hebrew verb in the ",
+        "type": "text"
+       },
+       {
+        "text": "_pi'el_ binyan",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "pi'el",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " binyan",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pi'el",
+        "targetTopic": "Pi'el",
+        "enclosingTopic": "The letter ה at the start of a word",
+        "enclosingSubtopic": "The letter ה at the start of a word"
+       },
+       {
+        "text": ", for example מדבר, \"he spoke.\"",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "A ה at the start of a word might be a past tense Hebrew verb in the ",
+        "type": "text"
+       },
+       {
+        "text": "_hif'il_ binyan",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "hif'il",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " binyan",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Hif'il",
+        "targetTopic": "Hif'il",
+        "enclosingTopic": "The letter ה at the start of a word",
+        "enclosingSubtopic": "The letter ה at the start of a word"
+       },
+       {
+        "text": ", for example הִבְטִיחַ, \"he promised.\"",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}
