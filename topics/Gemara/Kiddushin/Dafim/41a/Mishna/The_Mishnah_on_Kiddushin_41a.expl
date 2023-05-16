@@ -1,10 +1,16 @@
 The Mishnah on Kiddushin 41a:
-The Mishnah on Kiddushin 41a is [[{{picture}}d here]]. The Mishnah as a whole has [[{context} of the Mishnah]], and you can select a particular clause to learn more.
-< [[האיש מקדש בו ובשלוחו]] [[האשה
-< מתקדשת בה ובשלוחה]] [[האיש
+The Mishnah on Kiddushin 41a is [[{{picture}}d here]]. The Mishnah as a whole has [[{required context} of the Mishnah]]. You can try to read the Mishna yourself below, or see it [[broken into separate sentences]].
+< האיש מקדש בו ובשלוחו האשה
+< מתקדשת בה ובשלוחה האיש
+< מקדש את בתו כשהיא נערה בו ובשלוחו
+
+Broken into separate sentences:
+This is the Mishnah broken into separate sentences. Click each part to learn more:
+< [[first clause|האיש מקדש בו ובשלוחו]] [[second clause|האשה
+< מתקדשת בה ובשלוחה]] [[third clause|האיש
 < מקדש את בתו כשהיא נערה בו ובשלוחו]]
 
-Context of the Mishnah: The Mishnah has [[required background information]], a [[position in the perek]], and relates to a particular [[topic in halacha]].
+Required context of the Mishnah: The Mishnah has [[required background information]], a [[position in the perek]], and relates to a particular [[topic in halacha]].
 
 Required background information: This Mishnah presumes familiarity with the [[_halachic_ steps of marriage]], and with the [[concept of _shlichus_]].
 
@@ -22,7 +28,7 @@ Topic in halacha: This Mishnah will discuss which aspects of the marriage proces
 
 Picture: ![Kiddushin 41a Vilna Edition](/_assets/dafim/Kiddushin_41a_mishnah.png "Kiddushin 41a" "Kiddushin 41a Vilna Romm Edition 1880-86CE, courtesy of Sefaria.org")
 
-האיש מקדש בו ובשלוחו:
+First clause:
 The first clause of the Mishnah on Kiddushin 41a is quoted below.
 < האיש מקדש בו ובשלוחו
 The first clause has [[context]], [[content]], and [[commentary]].
@@ -43,27 +49,42 @@ Individual words:
 These are the words of the first clause, you can select them to learn more:
 < [[האיש]] [[מקדש]] [[בו]] [[ובשלוחו]]
 
-האיש: The word האיש has [[{possible meanings} of האיש]] and a [[{definition} of האיש]].
+האיש: The word האיש has [[{possible meanings} of האיש]] and an [[{actual meaning} of האיש]][^1].
+[^1]: Try reading the "possible meanings" of all the words in the sentence before looking at the actual meanings of any word so that you can practice figuring it out yourself.
 
-Possible meanings of האיש: Try to use the following hints to guess the meaning of the word. The word האיש has [[the letter ה at the start of a word]].
+Possible meanings of האיש: Try to use the following hints to guess the meaning of the word. There are [[different things a ה at the start of a word could mean]]. There are [[words that include a ה and א]], and there are [[words that include an א and ש]].
 
-Definition of האיש: The word האיש is composed of [[the word איש]] and [[the "definite article" ה]].
+Words that include a ה and א: In Aramaic, there is a word הא which means "that." There is also a word האי which means "this."
+
+Words that include an א and ש: In Hebrew, there is a word אש meaning "fire," and there is a word איש meaning "man."
+
+Actual meaning of האיש: The word האיש is composed of [[the word איש]] and [[the prefix ה meaning "the"]], and we can eliminate [[other possibilities]].
+
+Other possibilities: We are reading a Mishnah, so we know we are reading Hebrew and not Aramaic, and so we shouldn't think the word האיש might be related to the Aramaic words הא or האי. However, if there would exist a [[shoresh]] spelled נאש, then the האיש could have been a past tense verb from that shoresh, (the same way נפל can become הִפִּיל), however, there is no such shoresh, so we know that can't be the answer. (For advanced readers, this kind of verb is called a [[hifil]].)
 
 The word איש: The word איש in Hebrew means "man."
 
-the "definite article" ה: The prefix ה in front of a noun in Hebrew is the "definite article" similar to the English word "the."
+The prefix ה meaning "the": The prefix ה in front of a noun in Hebrew is similar to the English word "the."
 
-מקדש: The word מקדש has [[{possible meanings} of מקדש]], a [[basic explanation]], and [[advanced explanation]].
+מקדש: The word מקדש has [[{possible meanings} of מקדש]], an [[{actual meaning} of מקדש]] and a [[{grammatical explanation} of מקדש]].
 
-Possible meanings of מקדש: Try to use the following hints to guess the meaning of the word. The word מקדש begins with [[{the letter מ} at the start of a word]].
+Possible meanings of מקדש: Try to use the following hints to guess the meaning of the word. There are [[different things a מ at the start of a word could mean]]. There is a [[shoresh]] spelled [[קדש]] which has [[{various meanings]], and there [[two verb forms that are spelled exactly like their shoresh]].
 
-Basic explanation: The word מקדש ("mekadesh") means "[someone is] making something holy," usually used in the context of a man creating the legal status of "kiddushin" with a woman prior to marriage, but it can also be used for the creation of holiness in general, for example, Hashem is _mekadesh es ha'shabbos_ ie makes the Shabbos holy.
+Two verb forms that are spelled exactly like their shoresh: A [[shoresh]] like אכל can produce multiple types of past-tense verbs, and one type would look like אָכַל, and one type would look like אִכֵּל, and because the Gemara doesn't have vowels, if you see three shoresh letters together like אכל, you might be looking at one of these two types of past-tense verb. (For advanced readers, אָכַל is the past-tense form of a [[{{pa'al}} verb]], and אִכֵּל is the past-tense form of a [[{{pi'el}} verb]].)
 
-Advanced explanation: For those interested in grammar, the word מקדש is the the [[_pi'el_]] participle of [[the shoresh קדש]].
+Actual meaning of מקדש: The word מקדש here means for a man to create a status of _kedushin_ with a woman prior to marriage.
+
+Grammatical explanation of מקדש: For those interested in grammar, the word מקדש is the the [[{{ongoing}} tense]] of the [[{{_pi'el_}} binyan]] of [[the shoresh {{קדש}}]].
 
 Parts of speech: The word מקדש can function as a noun, meaning "someone who makes something holy", a verb, someone or something "is making holy," or an adjective, something has "the quality of making something holy."
 
-בו: The word בו can mean "with him/it," "on him/it," "inside him/it," and "because of him/it." For those interested in grammar, it is [[the prefix ב]] with a [[{pronominal suffix}es]].
+בו: The word בו has several [[{possible meanings} of בו]], and an [[{actual meaning} of בו]].
+
+Possible meanings of בו: There is a verb in Hebrew pronounced "bo" beginning with ב that means "to come." There is also a prefix ב that can mean "in," "with," "on," "via," or "at the time of," and there are various suffixes you can attach to it that indicate what thing is being referred to.
+
+Actual meaning of בו: The word בו here means "via himself," and there is a [[{grammatical explanation} of בו]].
+
+Grammatical explanation of בו: For those interested in grammar, בו is [[the prefix ב]] in its meaning of [["by" or "via"]] using one of its [[suffixes]] to indicate he is doing something "via _himself_." We know it isn't the verb בוא meaning "comes" because even though it is pronounced the same as בו, that verb has an א in it.
 
 ובשלוחו: This is [[the prefix ו]], followed by [[the prefix ב]], followed by [[the word שלוח]], followed by [[the noun suffix ו]].
 
@@ -75,7 +96,8 @@ The noun suffix ו: The suffix ו when applied to a noun means "of him" or "of i
 
 - The first clause of the Mishnah includes [[the word האיש]], [[the word מקדש]], [[the word בו]], and [[the word ובשלוחו]]. Try to figure out the meaning of the sentence from the definitions of the individual words.
 
-Literal translation:
+Literal translation: Once we know what all the individual words mean, we can produce a literal translation:
+> The man is _mekadesh_, via himself or via his messenger.
 
 Interpretation: Synthesize context and content into a summary, and see eg does the content and the context fit, is this an answer, etc. - With questions and mehalchim.
 
@@ -106,10 +128,12 @@ What does "being mekadesh" mean here? We find here a klal of mishnayos that a "p
 
 Why does it say _the_ man? If the Mishnah wanted to say "any man can be mekadesh an isha using these methods," why did it say "_the_ man can be mekadesh", as if only some specific man can do it, instead of saying "_a_ man can be mekadesh," ie any man? (Then it would read: איש מקדש, instead of האיש מקדש, because [[Hebrew nouns]] [[by default have an indefinite article]].)
 
-האשה מתקדשת בה ובשלוחה:
+Second clause:
+This is the second clause of the Mishnah:
 < האשה מתקדשת בה ובשלוחה
-This is the second clause of the Mishnah.
+It has context, content, and commentary.
 
-האיש מקדש את בתו כשהיא נערה בו ובשלוחו:
+Third clause:
+This is the third clause of the Mishnah:
 < האיש מקדש את בתו כשהיא נערה בו ובשלוחו
-This is the third clause of the Mishnah.
+It has context, content, and commentary.
