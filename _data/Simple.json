@@ -69,7 +69,7 @@
     "enclosingSubtopic": "Similar to their shoresh"
    },
    {
-    "text": ". For example, the shoresh אכל means \"the idea of eating\", whereas the simple verb of that shoresh is לֶאֱכוֹל, which means \"to eat.\"",
+    "text": ". For example, the shoresh אכל represents the idea of eating, whereas the simple verb of that shoresh is לֶאֱכוֹל, which means \"to eat.\"",
     "type": "text"
    }
   ],
@@ -103,7 +103,7 @@
         "enclosingSubtopic": "Several simple binyanim in Hebrew and Aramaic"
        },
        {
-        "text": " simple binyan is the ",
+        "text": " simple binyan is called the ",
         "type": "text"
        },
        {
@@ -151,7 +151,7 @@
         "enclosingSubtopic": "Several simple binyanim in Hebrew and Aramaic"
        },
        {
-        "text": " simple binyan is the ",
+        "text": " simple binyan is called the ",
         "type": "text"
        },
        {
@@ -181,7 +181,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Aramaic's \"active\" simple binyan is the ",
+        "text": "Aramaic's \"active\" simple binyan is called the ",
         "type": "text"
        },
        {
@@ -211,7 +211,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Aramaic's \"passive\" simple ",
+        "text": "Aramaic's \"passive\" simple binyan is called the ",
         "type": "text"
        },
        {

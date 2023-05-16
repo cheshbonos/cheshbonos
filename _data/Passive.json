@@ -9,7 +9,7 @@
  "paragraphsBySubtopic": {
   "Passive": [
    {
-    "text": "\"Passive\" is a category of verb in Hebrew and Aramaic. Passive verbs represent actions where ",
+    "text": "\"Passive\" is a category of verb in Hebrew and Aramaic. Passive verbs usually represent actions where ",
     "type": "text"
    },
    {
@@ -27,19 +27,55 @@
     "enclosingSubtopic": "Passive"
    },
    {
-    "text": ". There are ",
+    "text": ", although sometimes they have ",
     "type": "text"
    },
    {
-    "text": "several passive binyanim in Hebrew and Aramaic",
-    "type": "local",
+    "text": "reflexive meanings",
+    "type": "global",
     "tokens": [
      {
-      "text": "several passive binyanim in Hebrew and Aramaic",
+      "text": "reflexive meanings",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Several passive binyanim in Hebrew and Aramaic",
+    "targetSubtopic": "Reflexive",
+    "targetTopic": "Reflexive",
+    "enclosingTopic": "Passive",
+    "enclosingSubtopic": "Passive"
+   },
+   {
+    "text": ". There are several passive binyanim ",
+    "type": "text"
+   },
+   {
+    "text": "in Hebrew",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "in Hebrew",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "In Hebrew",
+    "targetTopic": "Passive",
+    "enclosingTopic": "Passive",
+    "enclosingSubtopic": "Passive"
+   },
+   {
+    "text": " and ",
+    "type": "text"
+   },
+   {
+    "text": "in Aramaic",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "in Aramaic",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "In Aramaic",
     "targetTopic": "Passive",
     "enclosingTopic": "Passive",
     "enclosingSubtopic": "Passive"
@@ -51,7 +87,7 @@
   ],
   "The person being described is having an action done to them": [
    {
-    "text": "Passive verbs represent actions where the person being described is having an action done to them, as opposed to verbs that are ",
+    "text": "Passive verbs represent actions where the thing being described is having an action done to them, as opposed to verbs that are ",
     "type": "text"
    },
    {
@@ -82,31 +118,13 @@
     ]
    },
    {
-    "text": " bought, as opposed to the one doing the buying. Passive verbs in Hebrew and Aramaic sometimes have ",
-    "type": "text"
-   },
-   {
-    "text": "reflexive",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "reflexive",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Reflexive",
-    "targetTopic": "Reflexive",
-    "enclosingTopic": "Passive",
-    "enclosingSubtopic": "The person being described is having an action done to them"
-   },
-   {
-    "text": " meanings.",
+    "text": " bought, as opposed to the one doing the buying.",
     "type": "text"
    }
   ],
-  "Several passive binyanim in Hebrew and Aramaic": [
+  "In Hebrew": [
    {
-    "text": "There are several passive binyanim in Hebrew and Aramaic: ",
+    "text": "There are several passive binyanim in Hebrew: ",
     "type": "text"
    },
    {
@@ -131,10 +149,10 @@
         "targetSubtopic": "Simple",
         "targetTopic": "Simple",
         "enclosingTopic": "Passive",
-        "enclosingSubtopic": "Several passive binyanim in Hebrew and Aramaic"
+        "enclosingSubtopic": "In Hebrew"
        },
        {
-        "text": " binyan is the ",
+        "text": " binyan is called the ",
         "type": "text"
        },
        {
@@ -154,7 +172,7 @@
         "targetSubtopic": "Nif'al",
         "targetTopic": "Nif'al",
         "enclosingTopic": "Passive",
-        "enclosingSubtopic": "Several passive binyanim in Hebrew and Aramaic"
+        "enclosingSubtopic": "In Hebrew"
        }
       ],
       "children": []
@@ -179,10 +197,10 @@
         "targetSubtopic": "Intensive",
         "targetTopic": "Intensive",
         "enclosingTopic": "Passive",
-        "enclosingSubtopic": "Several passive binyanim in Hebrew and Aramaic"
+        "enclosingSubtopic": "In Hebrew"
        },
        {
-        "text": " binyan is the ",
+        "text": " binyan is called the ",
         "type": "text"
        },
        {
@@ -202,7 +220,7 @@
         "targetSubtopic": "Pu'al",
         "targetTopic": "Pu'al",
         "enclosingTopic": "Passive",
-        "enclosingSubtopic": "Several passive binyanim in Hebrew and Aramaic"
+        "enclosingSubtopic": "In Hebrew"
        }
       ],
       "children": []
@@ -227,10 +245,10 @@
         "targetSubtopic": "Causative",
         "targetTopic": "Causative",
         "enclosingTopic": "Passive",
-        "enclosingSubtopic": "Several passive binyanim in Hebrew and Aramaic"
+        "enclosingSubtopic": "In Hebrew"
        },
        {
-        "text": " binyan is the ",
+        "text": " binyan is called the ",
         "type": "text"
        },
        {
@@ -250,7 +268,7 @@
         "targetSubtopic": "Huf'al",
         "targetTopic": "Huf'al",
         "enclosingTopic": "Passive",
-        "enclosingSubtopic": "Several passive binyanim in Hebrew and Aramaic"
+        "enclosingSubtopic": "In Hebrew"
        }
       ],
       "children": []
@@ -260,7 +278,65 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Aramaic's passive simple binyan is the ",
+        "text": "Hebrew's ",
+        "type": "text"
+       },
+       {
+        "text": "reflexive",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "reflexive",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Reflexive",
+        "targetTopic": "Reflexive",
+        "enclosingTopic": "Passive",
+        "enclosingSubtopic": "In Hebrew"
+       },
+       {
+        "text": " binyan the ",
+        "type": "text"
+       },
+       {
+        "text": "hispa'el",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "hispa'el",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Hispa'el",
+        "targetTopic": "Hispa'el",
+        "enclosingTopic": "Passive",
+        "enclosingSubtopic": "In Hebrew"
+       },
+       {
+        "text": " can sometimes have a passive meaning.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "In Aramaic": [
+   {
+    "text": "There are several passive binyanim in Aramaic: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Aramaic's passive simple binyan is called the ",
         "type": "text"
        },
        {
@@ -280,7 +356,7 @@
         "targetSubtopic": "Ispe'el",
         "targetTopic": "Ispe'el",
         "enclosingTopic": "Passive",
-        "enclosingSubtopic": "Several passive binyanim in Hebrew and Aramaic"
+        "enclosingSubtopic": "In Aramaic"
        }
       ],
       "children": []
@@ -301,7 +377,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Aramaic's passive causative binyan is the ",
+        "text": "Aramaic's passive causative binyan is called the ",
         "type": "text"
        },
        {
@@ -321,7 +397,7 @@
         "targetSubtopic": "Isaf'al",
         "targetTopic": "Isaf'al",
         "enclosingTopic": "Passive",
-        "enclosingSubtopic": "Several passive binyanim in Hebrew and Aramaic"
+        "enclosingSubtopic": "In Aramaic"
        }
       ],
       "children": []
@@ -346,7 +422,7 @@
         "targetSubtopic": "Ispa'al",
         "targetTopic": "Ispa'al",
         "enclosingTopic": "Passive",
-        "enclosingSubtopic": "Several passive binyanim in Hebrew and Aramaic"
+        "enclosingSubtopic": "In Aramaic"
        },
        {
         "text": " can sometimes have a passive meaning",

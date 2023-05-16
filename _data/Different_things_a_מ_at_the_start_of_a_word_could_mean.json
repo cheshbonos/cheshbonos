@@ -1,13 +1,13 @@
 {
- "displayTopicName": "The letter מ at the start of a word",
+ "displayTopicName": "Different things a מ at the start of a word could mean",
  "topicTokens": [
   {
-   "text": "The letter מ at the start of a word",
+   "text": "Different things a מ at the start of a word could mean",
    "type": "text"
   }
  ],
  "paragraphsBySubtopic": {
-  "The letter מ at the start of a word": [
+  "Different things a מ at the start of a word could mean": [
    {
     "text": "The letter מ at the start of a word could mean several things. ",
     "type": "text"
@@ -66,8 +66,8 @@
         ],
         "targetSubtopic": "Ongoing",
         "targetTopic": "Ongoing",
-        "enclosingTopic": "The letter מ at the start of a word",
-        "enclosingSubtopic": "The letter מ at the start of a word"
+        "enclosingTopic": "Different things a מ at the start of a word could mean",
+        "enclosingSubtopic": "Different things a מ at the start of a word could mean"
        },
        {
         "text": " tense of an ",
@@ -84,8 +84,8 @@
         ],
         "targetSubtopic": "Intensive",
         "targetTopic": "Intensive",
-        "enclosingTopic": "The letter מ at the start of a word",
-        "enclosingSubtopic": "The letter מ at the start of a word"
+        "enclosingTopic": "Different things a מ at the start of a word could mean",
+        "enclosingSubtopic": "Different things a מ at the start of a word could mean"
        },
        {
         "text": " verb in Hebrew or Aramaic, for example מדבר, \"he is speaking.\"",
@@ -113,8 +113,8 @@
         ],
         "targetSubtopic": "Ongoing",
         "targetTopic": "Ongoing",
-        "enclosingTopic": "The letter מ at the start of a word",
-        "enclosingSubtopic": "The letter מ at the start of a word"
+        "enclosingTopic": "Different things a מ at the start of a word could mean",
+        "enclosingSubtopic": "Different things a מ at the start of a word could mean"
        },
        {
         "text": " tense of a ",
@@ -131,8 +131,8 @@
         ],
         "targetSubtopic": "Causative",
         "targetTopic": "Causative",
-        "enclosingTopic": "The letter מ at the start of a word",
-        "enclosingSubtopic": "The letter מ at the start of a word"
+        "enclosingTopic": "Different things a מ at the start of a word could mean",
+        "enclosingSubtopic": "Different things a מ at the start of a word could mean"
        },
        {
         "text": " verb in Hebrew or Aramaic, for example מבדיל, \"he is separating.\"",

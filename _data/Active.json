@@ -69,7 +69,7 @@
     "enclosingSubtopic": "The person being described is the one doing the action"
    },
    {
-    "text": " verbs. For example, the verb לִקְנוֹת means \"to buy,\" and because it is active, the one being described is the one who is buying, as opposed to being the person or thing who is being bought.",
+    "text": " verbs. For example, the verb לִקְנוֹת means \"to buy,\" and because it is active, the one being described is the one who is buying, as opposed to describing the thing being bought.",
     "type": "text"
    }
   ],
@@ -103,7 +103,7 @@
         "enclosingSubtopic": "Several active binyanim in Hebrew and Aramaic"
        },
        {
-        "text": " binyan is the ",
+        "text": " binyan is called the ",
         "type": "text"
        },
        {
@@ -151,7 +151,7 @@
         "enclosingSubtopic": "Several active binyanim in Hebrew and Aramaic"
        },
        {
-        "text": " binyan is the ",
+        "text": " binyan is called the ",
         "type": "text"
        },
        {
@@ -199,7 +199,7 @@
         "enclosingSubtopic": "Several active binyanim in Hebrew and Aramaic"
        },
        {
-        "text": " binyan is the ",
+        "text": " binyan is called the ",
         "type": "text"
        },
        {
@@ -229,7 +229,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Aramaic's active simple binyan is the ",
+        "text": "Aramaic's active simple binyan is called the ",
         "type": "text"
        },
        {
@@ -259,7 +259,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Aramaic's active intensive binyan is the ",
+        "text": "Aramaic's active intensive binyan is called the ",
         "type": "text"
        },
        {
@@ -289,7 +289,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Aramaic's active causative binyan is the ",
+        "text": "Aramaic's active causative binyan is called the ",
         "type": "text"
        },
        {

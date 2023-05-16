@@ -9,7 +9,7 @@
  "paragraphsBySubtopic": {
   "The prefix ב": [
    {
-    "text": "The prefix ב has various ",
+    "text": "There is a prefix ב in Hebrew and Aramaic. It has various ",
     "type": "text"
    },
    {
@@ -27,7 +27,7 @@
     "enclosingSubtopic": "The prefix ב"
    },
    {
-    "text": ". It can be ",
+    "text": ", and can be ",
     "type": "text"
    },
    {
@@ -45,19 +45,19 @@
     "enclosingSubtopic": "The prefix ב"
    },
    {
-    "text": ", or one of several ",
+    "text": ", or a ",
     "type": "text"
    },
    {
-    "text": "pronominal suffixes",
+    "text": "suffix",
     "type": "local",
     "tokens": [
      {
-      "text": "pronominal suffixes",
+      "text": "suffix",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Pronominal suffixes",
+    "targetSubtopic": "Suffixes",
     "targetTopic": "The prefix ב",
     "enclosingTopic": "The prefix ב",
     "enclosingSubtopic": "The prefix ב"
@@ -69,17 +69,349 @@
   ],
   "Meanings": [
    {
-    "text": "The prefix ב can mean \"inside,\" \"with,\" \"on,\" \"because of,\" \"using,\" or \"at the time of.\"",
+    "text": "The prefix ב can mean ",
+    "type": "text"
+   },
+   {
+    "text": "\"inside\"",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "\"inside\"",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "\"inside\"",
+    "targetTopic": "The prefix ב",
+    "enclosingTopic": "The prefix ב",
+    "enclosingSubtopic": "Meanings"
+   },
+   {
+    "text": ", ",
+    "type": "text"
+   },
+   {
+    "text": "\"with\"",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "\"with\"",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "\"with\"",
+    "targetTopic": "The prefix ב",
+    "enclosingTopic": "The prefix ב",
+    "enclosingSubtopic": "Meanings"
+   },
+   {
+    "text": ", ",
+    "type": "text"
+   },
+   {
+    "text": "\"by\" or \"via\"",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "\"by\" or \"via\"",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "\"by\" or \"via\"",
+    "targetTopic": "The prefix ב",
+    "enclosingTopic": "The prefix ב",
+    "enclosingSubtopic": "Meanings"
+   },
+   {
+    "text": ", ",
+    "type": "text"
+   },
+   {
+    "text": "\"on\"",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "\"on\"",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "\"on\"",
+    "targetTopic": "The prefix ב",
+    "enclosingTopic": "The prefix ב",
+    "enclosingSubtopic": "Meanings"
+   },
+   {
+    "text": ", ",
+    "type": "text"
+   },
+   {
+    "text": "\"because of\"",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "\"because of\"",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "\"because of\"",
+    "targetTopic": "The prefix ב",
+    "enclosingTopic": "The prefix ב",
+    "enclosingSubtopic": "Meanings"
+   },
+   {
+    "text": ", ",
+    "type": "text"
+   },
+   {
+    "text": "\"using\"",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "\"using\"",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "\"using\"",
+    "targetTopic": "The prefix ב",
+    "enclosingTopic": "The prefix ב",
+    "enclosingSubtopic": "Meanings"
+   },
+   {
+    "text": " or ",
+    "type": "text"
+   },
+   {
+    "text": "\"at the time of\"",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "\"at the time of\"",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "\"at the time of\"",
+    "targetTopic": "The prefix ב",
+    "enclosingTopic": "The prefix ב",
+    "enclosingSubtopic": "Meanings"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "\"inside\"": [
+   {
+    "text": "The prefix ב can be short for the word בתוך meaning \"inside,\" for example ",
+    "type": "text"
+   },
+   {
+    "type": "html_element",
+    "html": "<b>ב</b>"
+   },
+   {
+    "text": "בית, \"",
+    "type": "text"
+   },
+   {
+    "type": "bold",
+    "tokens": [
+     {
+      "text": "in",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " the house.\"",
+    "type": "text"
+   }
+  ],
+  "\"with\"": [
+   {
+    "text": "The prefix ב can mean something that is \"with\" something else, eg הוא בא ",
+    "type": "text"
+   },
+   {
+    "type": "html_element",
+    "html": "<b>ב</b>"
+   },
+   {
+    "text": "חברו, \"he came ",
+    "type": "text"
+   },
+   {
+    "type": "bold",
+    "tokens": [
+     {
+      "text": "with",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " his friends\"",
+    "type": "text"
+   }
+  ],
+  "\"by\" or \"via\"": [
+   {
+    "text": "The prefix ב can mean doing something \"by\" or \"via\" a certain method, eg: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "הוא עושה כן ",
+        "type": "text"
+       },
+       {
+        "type": "html_element",
+        "html": "<b>ב</b>"
+       },
+       {
+        "text": "שליח - \"he did it ",
+        "type": "text"
+       },
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "via",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " his messenger\"",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "הוא בא ",
+        "type": "text"
+       },
+       {
+        "type": "html_element",
+        "html": "<b>ב</b>"
+       },
+       {
+        "text": "חמור - \"he came ",
+        "type": "text"
+       },
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "by",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " donkey.\"",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "\"on\"": [
+   {
+    "text": "The prefix ב can mean something that is on top of something else, eg ",
+    "type": "text"
+   },
+   {
+    "type": "html_element",
+    "html": "<b>ב</b>"
+   },
+   {
+    "text": "שלחן, \"on the table\"",
+    "type": "text"
+   }
+  ],
+  "\"because of\"": [
+   {
+    "text": "The prefix ב can be short for the word בשביל meaning \"because of\", eg הוא בא ",
+    "type": "text"
+   },
+   {
+    "type": "html_element",
+    "html": "<b>ב</b>"
+   },
+   {
+    "text": "ך, \"he came for you.\"",
+    "type": "text"
+   }
+  ],
+  "\"using\"": [
+   {
+    "text": "The prefix ב can mean \"using\" eg הוא חותך ",
+    "type": "text"
+   },
+   {
+    "type": "html_element",
+    "html": "<b>ב</b>"
+   },
+   {
+    "text": "סכין \"he cuts using a knife.\"",
+    "type": "text"
+   }
+  ],
+  "\"at the time of\"": [
+   {
+    "text": "The prefix ב can mean \"at\" a certain time eg הוא הגיע ",
+    "type": "text"
+   },
+   {
+    "type": "html_element",
+    "html": "<b>ב</b>"
+   },
+   {
+    "text": "צהריים \"he came ",
+    "type": "text"
+   },
+   {
+    "type": "bold",
+    "tokens": [
+     {
+      "text": "at",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " noon.\"",
     "type": "text"
    }
   ],
   "Followed by a noun": [
    {
-    "text": "The prefix ב can be followed by a noun, for example, בבית, the prefix ב followed by the noun בית, meaning \"in the house.\"",
+    "text": "The prefix ב can be followed by a noun, for example, \"",
+    "type": "text"
+   },
+   {
+    "type": "html_element",
+    "html": "<b>ב</b>"
+   },
+   {
+    "text": "בית\", which is the prefix ב followed by the noun בית ie \"house,\" which together means \"in a house\" or \"in the house.\"",
     "type": "text"
    }
   ],
-  "Pronominal suffixes": [
+  "Suffixes": [
    {
     "text": "The prefix ב in Hebrew has several suffixes that can be attached to indicate who or what is being referred to. ",
     "type": "text"
@@ -90,10 +422,14 @@
      [
       [
        {
+        "text": "‎ ",
+        "type": "text"
+       },
+       {
         "type": "bold",
         "tokens": [
          {
-          "text": "Tense",
+          "text": "ב with suffix",
           "type": "text"
          }
         ]
@@ -105,17 +441,6 @@
         "tokens": [
          {
           "text": "Person",
-          "type": "text"
-         }
-        ]
-       }
-      ],
-      [
-       {
-        "type": "bold",
-        "tokens": [
-         {
-          "text": "Hebrew",
           "type": "text"
          }
         ]
@@ -147,19 +472,13 @@
      [
       [
        {
-        "text": "First person singular",
+        "text": "בִּי",
         "type": "text"
        }
       ],
       [
        {
         "text": "I",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "בִּי",
         "type": "text"
        }
       ],
@@ -176,7 +495,15 @@
       ],
       [
        {
-        "text": "with me",
+        "text": "with",
+        "type": "text"
+       },
+       {
+        "type": "footnote_marker",
+        "text": "1"
+       },
+       {
+        "text": " me",
         "type": "text"
        }
       ]
@@ -184,19 +511,13 @@
      [
       [
        {
-        "text": "First person plural",
+        "text": "בָּנוּ",
         "type": "text"
        }
       ],
       [
        {
         "text": "We",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "בָּנוּ",
         "type": "text"
        }
       ],
@@ -221,19 +542,13 @@
      [
       [
        {
-        "text": "Second person singular masculine",
+        "text": "בְּךָ",
         "type": "text"
        }
       ],
       [
        {
         "text": "You (masculine)",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "בְּךָ",
         "type": "text"
        }
       ],
@@ -250,7 +565,7 @@
       ],
       [
        {
-        "text": "with you (masculine)",
+        "text": "with you, a man",
         "type": "text"
        }
       ]
@@ -258,19 +573,13 @@
      [
       [
        {
-        "text": "Second person singular feminine",
+        "text": "בָּךְ",
         "type": "text"
        }
       ],
       [
        {
         "text": "You (feminine)",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "בָּךְ",
         "type": "text"
        }
       ],
@@ -287,7 +596,7 @@
       ],
       [
        {
-        "text": "with you (feminine)",
+        "text": "with you, a woman",
         "type": "text"
        }
       ]
@@ -295,19 +604,13 @@
      [
       [
        {
-        "text": "Second person plural masculine",
+        "text": "בָּכֶם",
         "type": "text"
        }
       ],
       [
        {
         "text": "You all (masculine)",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "בָּכֶם",
         "type": "text"
        }
       ],
@@ -324,7 +627,7 @@
       ],
       [
        {
-        "text": "with you all (masculine)",
+        "text": "with you men",
         "type": "text"
        }
       ]
@@ -332,19 +635,13 @@
      [
       [
        {
-        "text": "Second person plural feminine",
+        "text": "בָּכֶן",
         "type": "text"
        }
       ],
       [
        {
         "text": "You all (feminine)",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "בָּכֶן",
         "type": "text"
        }
       ],
@@ -361,7 +658,7 @@
       ],
       [
        {
-        "text": "with you all (feminine)",
+        "text": "with you women",
         "type": "text"
        }
       ]
@@ -369,19 +666,13 @@
      [
       [
        {
-        "text": "Third person singular masculine",
+        "text": "בּוֹ",
         "type": "text"
        }
       ],
       [
        {
         "text": "He / it (masculine)",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "בּוֹ",
         "type": "text"
        }
       ],
@@ -406,19 +697,13 @@
      [
       [
        {
-        "text": "Third person singular feminine",
+        "text": "בָּהּ",
         "type": "text"
        }
       ],
       [
        {
         "text": "She / it (feminine)",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "בָּהּ",
         "type": "text"
        }
       ],
@@ -443,19 +728,13 @@
      [
       [
        {
-        "text": "Third person plural masculine",
+        "text": "בָּהֶם or בָּם",
         "type": "text"
        }
       ],
       [
        {
         "text": "Them / those (masculine)",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "בָּהֶם or בָּם",
         "type": "text"
        }
       ],
@@ -493,19 +772,13 @@
      [
       [
        {
-        "text": "Third person plural feminine",
+        "text": "בָּהֶן or בָּן",
         "type": "text"
        }
       ],
       [
        {
         "text": "Them / those (feminine)",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "בָּהֶן or בָּן",
         "type": "text"
        }
       ],
@@ -540,6 +813,24 @@
        }
       ]
      ]
+    ]
+   },
+   {
+    "text": " ",
+    "type": "text"
+   },
+   {
+    "type": "footnote_lines",
+    "lines": [
+     {
+      "superscript": "1",
+      "tokens": [
+       {
+        "text": " This table translates ב as \"with,\" but each of these spellings can also mean \"on,\" \"in,\" etc.",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ]

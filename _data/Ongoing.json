@@ -9,7 +9,25 @@
  "paragraphsBySubtopic": {
   "Ongoing": [
    {
-    "text": "Hebrew and Aramaic have an \"ongoing\" tense, similar to \"he is running\" in English. The \"ongoing\" tense can be used in the ",
+    "text": "Hebrew and Aramaic have an \"ongoing\" tense, similar to in English \"he is running.\" The ongoing tense has ",
+    "type": "text"
+   },
+   {
+    "text": "multiple meanings",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "multiple meanings",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Multiple meanings",
+    "targetTopic": "Ongoing",
+    "enclosingTopic": "Ongoing",
+    "enclosingSubtopic": "Ongoing"
+   },
+   {
+    "text": ". The ongoing tense can be used in the ",
     "type": "text"
    },
    {
@@ -63,7 +81,57 @@
     "enclosingSubtopic": "Ongoing"
    },
    {
-    "text": ". The ongoing tense has a technical name in grammar, the \"participle.\"",
+    "text": ". The ongoing tense has a ",
+    "type": "text"
+   },
+   {
+    "text": "technical name",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "technical name",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Technical name",
+    "targetTopic": "Ongoing",
+    "enclosingTopic": "Ongoing",
+    "enclosingSubtopic": "Ongoing"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Multiple meanings": [
+   {
+    "text": "The ongoing tense is similar to \"ing\" verbs in English, but not exactly. Whereas in English you can choose whether to say \"he is running\" or \"he runs,\" in Hebrew and Aramaic, both of these meanings would be expressed with the ongoing form ie הוא רץ, and so it often isn't clear in Hebrew and Aramaic whether we are speaking about someone who is doing something ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "now",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " (ie, \"he is running\") or about someone who does something ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "habitually",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " (ie, \"he runs.\")",
     "type": "text"
    }
   ],
@@ -82,6 +150,12 @@
   "Future": [
    {
     "text": "The ongoing tense can be used in the future tense, for example, הוא יהיה רץ, meaning \"he will be running.\" If you wanted to say \"he will run,\" you would just use the regular future tense and not the past version of the ongoing tense.",
+    "type": "text"
+   }
+  ],
+  "Technical name": [
+   {
+    "text": "The ongoing tense has a technical name in grammar, the \"participle.\"",
     "type": "text"
    }
   ]

@@ -9,73 +9,109 @@
  "paragraphsBySubtopic": {
   "Shoresh": [
    {
-    "text": "A shoresh is a grammatical entity in Hebrew and Aramaic. Shorushim have an ",
+    "text": "A shoresh is a grammatical entity in Hebrew and Aramaic. The word shoresh ",
     "type": "text"
    },
    {
-    "text": "appearance",
+    "text": "means root",
     "type": "local",
     "tokens": [
      {
-      "text": "appearance",
+      "text": "means root",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Appearance",
+    "targetSubtopic": "Means root",
     "targetTopic": "Shoresh",
     "enclosingTopic": "Shoresh",
     "enclosingSubtopic": "Shoresh"
    },
    {
-    "text": ", a ",
+    "text": ". A shoresh is ",
     "type": "text"
    },
    {
-    "text": "meaning",
+    "text": "a series of letters",
     "type": "local",
     "tokens": [
      {
-      "text": "meaning",
+      "text": "a series of letters",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Meaning",
+    "targetSubtopic": "A series of letters",
     "targetTopic": "Shoresh",
     "enclosingTopic": "Shoresh",
     "enclosingSubtopic": "Shoresh"
    },
    {
-    "text": ", a ",
+    "text": " and ",
     "type": "text"
    },
    {
-    "text": "function",
+    "text": "represents a range of meaning",
     "type": "local",
     "tokens": [
      {
-      "text": "function",
+      "text": "represents a range of meaning",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Function",
+    "targetSubtopic": "Represents a range of meaning",
     "targetTopic": "Shoresh",
     "enclosingTopic": "Shoresh",
     "enclosingSubtopic": "Shoresh"
    },
    {
-    "text": ", and a ",
+    "text": ". Shorushim are ",
     "type": "text"
    },
    {
-    "text": "more precise definition",
+    "text": "used to produce words",
     "type": "local",
     "tokens": [
      {
-      "text": "more precise definition",
+      "text": "used to produce words",
       "type": "text"
      }
     ],
-    "targetSubtopic": "More precise definition",
+    "targetSubtopic": "Used to produce words",
+    "targetTopic": "Shoresh",
+    "enclosingTopic": "Shoresh",
+    "enclosingSubtopic": "Shoresh"
+   },
+   {
+    "text": ". Shorushim have ",
+    "type": "text"
+   },
+   {
+    "text": "corollaries in English",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "corollaries in English",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Corollaries in English",
+    "targetTopic": "Shoresh",
+    "enclosingTopic": "Shoresh",
+    "enclosingSubtopic": "Shoresh"
+   },
+   {
+    "text": ". There is a ",
+    "type": "text"
+   },
+   {
+    "text": "debate over the exact definition of a shoresh",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "debate over the exact definition of a shoresh",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Debate over the exact definition of a shoresh",
     "targetTopic": "Shoresh",
     "enclosingTopic": "Shoresh",
     "enclosingSubtopic": "Shoresh"
@@ -85,40 +121,78 @@
     "type": "text"
    }
   ],
-  "Appearance": [
+  "Means root": [
    {
-    "text": "A shoresh looks like a series of 2-3 letters like קדש or מת.",
-    "type": "text"
-   }
-  ],
-  "Meaning": [
-   {
-    "text": "A shoresh represents a broad category of meaning, like \"holiness\" for קדש, or \"death\" for מת.",
-    "type": "text"
-   }
-  ],
-  "Function": [
-   {
-    "text": "A shoresh is used to generate many more specific words. For example, the shoresh קדש \"holiness\" is used to generate the verb לְהַקְדִּישׁ, \"to donate something to the ",
+    "text": "The Hebrew word שורש can mean \"root\" or \"source,\" but in this context it means root in the sense that a words like \"memory\" and \"memorize\" come from the linguistic ",
     "type": "text"
    },
    {
     "type": "italics",
     "tokens": [
      {
-      "text": "beis hamikdash",
+      "text": "root",
       "type": "text"
      }
     ]
    },
    {
-    "text": ".\"",
+    "text": " \"mem.\"",
     "type": "text"
    }
   ],
-  "More precise definition": [
+  "A series of letters": [
    {
-    "text": "Most shorushim have three clear letters, although some like מת have only two clear letters, and traditional grammarians differ as to whether to consider these \"weak\" shorushim as being \"two letter shorushim,\" or whether to think of them as being three letter shorushim with a hidden third letter like י or ה.",
+    "text": "A shoresh looks like a series of two or three letters like קדש or מת.",
+    "type": "text"
+   }
+  ],
+  "Represents a range of meaning": [
+   {
+    "text": "A shoresh represents a broad category of meaning, like \"holiness\" for קדש, or \"death\" for מת.",
+    "type": "text"
+   }
+  ],
+  "Corollaries in English": [
+   {
+    "text": "In English, you often have a linguistic root like \"mem\" which is used to produce a series of related words like \"memory,\" \"memorize,\" or \"memorable.\" Shorushim are a similar concept, except they are a bit more formal than in English, because there are fixed rules for how many letters they can be, and how they get turned into words.",
+    "type": "text"
+   }
+  ],
+  "Used to produce words": [
+   {
+    "text": "A shoresh that has a general meaning is used to generate many words with more specific meanings. For example, the shoresh אכל \"eating\" is plugged into a pattern like ",
+    "type": "text"
+   },
+   {
+    "type": "inline_code",
+    "text": "‏הֶ _ _ י _‏"
+   },
+   {
+    "text": " to generate the verb הֶאֱכִיל, \"to feed.\" (For advanced readers, this form is called the ",
+    "type": "text"
+   },
+   {
+    "text": "hif'il",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "hif'il",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Hif'il",
+    "targetTopic": "Hif'il",
+    "enclosingTopic": "Shoresh",
+    "enclosingSubtopic": "Used to produce words"
+   },
+   {
+    "text": ".)",
+    "type": "text"
+   }
+  ],
+  "Debate over the exact definition of a shoresh": [
+   {
+    "text": "Often we see words that only seem to have two root letters, like מת, and there is a debate over whether to think of these as being a special type of \"two letter\" shoresh, or whether to think of them as being a three-letter shoresh like מות that loses the middle letter in certain conjugations, but this dispute has no practical ramifications because everyone agrees on the spelling of the words that come from two-letter shorushim.",
     "type": "text"
    }
   ]

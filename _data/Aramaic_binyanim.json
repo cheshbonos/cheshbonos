@@ -23,25 +23,7 @@
     "enclosingSubtopic": "Aramaic binyanim"
    },
    {
-    "text": ". There six binyanim in Aramaic. Aramaic is missing a \"passive intensive\" binyan corresponding to the ",
-    "type": "text"
-   },
-   {
-    "text": "Hebrew pu'al",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "Hebrew pu'al",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Pu'al",
-    "targetTopic": "Pu'al",
-    "enclosingTopic": "Aramaic binyanim",
-    "enclosingSubtopic": "Aramaic binyanim"
-   },
-   {
-    "text": ". ",
+    "text": ". There six binyanim in Aramaic (select any term to learn more): ",
     "type": "text"
    },
    {
@@ -269,6 +251,28 @@
       ]
      ]
     ]
+   },
+   {
+    "text": " Aramaic lacks a \"passive intensive\" binyan corresponding to the ",
+    "type": "text"
+   },
+   {
+    "text": "Hebrew pu'al",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Hebrew pu'al",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Pu'al",
+    "targetTopic": "Pu'al",
+    "enclosingTopic": "Aramaic binyanim",
+    "enclosingSubtopic": "Aramaic binyanim"
+   },
+   {
+    "text": ".",
+    "type": "text"
    }
   ]
  }

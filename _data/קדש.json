@@ -1,0 +1,467 @@
+{
+ "displayTopicName": "קדש",
+ "topicTokens": [
+  {
+   "text": "קדש",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "קדש": [
+   {
+    "text": "\"קדש\" is a ",
+    "type": "text"
+   },
+   {
+    "text": "shoresh",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "shoresh",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Shoresh",
+    "targetTopic": "Shoresh",
+    "enclosingTopic": "קדש",
+    "enclosingSubtopic": "קדש"
+   },
+   {
+    "text": " in Hebrew and Aramaic. It has certain ",
+    "type": "text"
+   },
+   {
+    "text": "various meanings",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "various meanings",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Various meanings",
+    "targetTopic": "קדש",
+    "enclosingTopic": "קדש",
+    "enclosingSubtopic": "קדש"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Various meanings": [
+   {
+    "text": "The shoresh קדש has certain general meanings: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "In forms that are called ",
+        "type": "text"
+       },
+       {
+        "text": "\"simple\"",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "\"simple\"",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Simple",
+        "targetTopic": "Simple",
+        "enclosingTopic": "קדש",
+        "enclosingSubtopic": "Various meanings"
+       },
+       {
+        "text": ", the shoresh קדש generally means \"to be holy,\" but can also mean something that is forbidden or set apart, like a woman designated for lewdity as a part of idol worship.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "In forms that are called ",
+        "type": "text"
+       },
+       {
+        "text": "\"intensive\"",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "\"intensive\"",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Intensive",
+        "targetTopic": "Intensive",
+        "enclosingTopic": "קדש",
+        "enclosingSubtopic": "Various meanings"
+       },
+       {
+        "text": ", the shoresh קדש can mean to make or declare something holy, or for a man to enter a status of ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "kedushin",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " prior to marrying a woman, or to make something or keep something pure, or to make ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "kiddush",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " before a meal.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "In forms that are called ",
+        "type": "text"
+       },
+       {
+        "text": "\"causative\"",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "\"causative\"",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Causative",
+        "targetTopic": "Causative",
+        "enclosingTopic": "קדש",
+        "enclosingSubtopic": "Various meanings"
+       },
+       {
+        "text": ", the shoresh קדש can mean to make something holy, or to donate something to the ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "beis hamikdash",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ", ie thereby causing it to become holy.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "In forms that are called ",
+        "type": "text"
+       },
+       {
+        "text": "\"reflexive\"",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "\"reflexive\"",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Reflexive",
+        "targetTopic": "Reflexive",
+        "enclosingTopic": "קדש",
+        "enclosingSubtopic": "Various meanings"
+       },
+       {
+        "text": ", the shoresh קדש can mean someone becoming regarded as holy, someone who sets himself apart, or someone who is appointed to a special function.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "Specific meanings": [
+   {
+    "text": "קדש is a ",
+    "type": "text"
+   },
+   {
+    "text": "shoresh",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "shoresh",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Shoresh",
+    "targetTopic": "Shoresh",
+    "enclosingTopic": "קדש",
+    "enclosingSubtopic": "Specific meanings"
+   },
+   {
+    "text": " with forms in Hebrew and forms in Aramaic. ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "Hebrew",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "text": "Simple",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Intensive",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Causative",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Reflexive",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "Active",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Pa'al",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Pi'el",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Hif'il",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Hispa'el",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "Passive",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Nif'al",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Pu'al",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Huf'al",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "-",
+        "type": "text"
+       }
+      ]
+     ]
+    ]
+   },
+   {
+    "text": " ",
+    "type": "text"
+   },
+   {
+    "type": "html_element",
+    "html": "<span></span>"
+   },
+   {
+    "text": " ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "Aramaic",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "text": "Simple",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Intensive",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Causative",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Reflexive",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "Active",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Pe'al",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Pa'el",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Af'el",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Ispa'al",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "Passive",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Ispe'el",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "-",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Isafa'al",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "-",
+        "type": "text"
+       }
+      ]
+     ]
+    ]
+   }
+  ]
+ }
+}

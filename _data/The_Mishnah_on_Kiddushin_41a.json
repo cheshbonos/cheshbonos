@@ -31,21 +31,55 @@
     "type": "text"
    },
    {
-    "text": "context",
+    "text": "required context",
     "type": "local",
     "tokens": [
      {
-      "text": "context",
+      "text": "required context",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Context of the Mishnah",
+    "targetSubtopic": "Required context of the Mishnah",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
     "enclosingSubtopic": "The Mishnah on Kiddushin 41a"
    },
    {
-    "text": ", and you can select a particular clause to learn more. ",
+    "text": ". You can try to read the Mishna yourself below, or see it ",
+    "type": "text"
+   },
+   {
+    "text": "broken into separate sentences",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "broken into separate sentences",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Broken into separate sentences",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "The Mishnah on Kiddushin 41a"
+   },
+   {
+    "text": ". ",
+    "type": "text"
+   },
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "האיש מקדש בו ובשלוחו האשה\nמתקדשת בה ובשלוחה האיש\nמקדש את בתו כשהיא נערה בו ובשלוחו",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   }
+  ],
+  "Broken into separate sentences": [
+   {
+    "text": "This is the Mishnah broken into separate sentences. Click each part to learn more: ",
     "type": "text"
    },
    {
@@ -60,10 +94,10 @@
         "type": "text"
        }
       ],
-      "targetSubtopic": "האיש מקדש בו ובשלוחו",
+      "targetSubtopic": "First clause",
       "targetTopic": "The Mishnah on Kiddushin 41a",
       "enclosingTopic": "The Mishnah on Kiddushin 41a",
-      "enclosingSubtopic": "The Mishnah on Kiddushin 41a"
+      "enclosingSubtopic": "Broken into separate sentences"
      },
      {
       "text": " ",
@@ -78,10 +112,10 @@
         "type": "text"
        }
       ],
-      "targetSubtopic": "האשה מתקדשת בה ובשלוחה",
+      "targetSubtopic": "Second clause",
       "targetTopic": "The Mishnah on Kiddushin 41a",
       "enclosingTopic": "The Mishnah on Kiddushin 41a",
-      "enclosingSubtopic": "The Mishnah on Kiddushin 41a"
+      "enclosingSubtopic": "Broken into separate sentences"
      },
      {
       "text": " ",
@@ -96,16 +130,16 @@
         "type": "text"
        }
       ],
-      "targetSubtopic": "האיש מקדש את בתו כשהיא נערה בו ובשלוחו",
+      "targetSubtopic": "Third clause",
       "targetTopic": "The Mishnah on Kiddushin 41a",
       "enclosingTopic": "The Mishnah on Kiddushin 41a",
-      "enclosingSubtopic": "The Mishnah on Kiddushin 41a"
+      "enclosingSubtopic": "Broken into separate sentences"
      }
     ],
     "direction": "rtl"
    }
   ],
-  "Context of the Mishnah": [
+  "Required context of the Mishnah": [
    {
     "text": "The Mishnah has ",
     "type": "text"
@@ -122,7 +156,7 @@
     "targetSubtopic": "Required background information",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Context of the Mishnah"
+    "enclosingSubtopic": "Required context of the Mishnah"
    },
    {
     "text": ", a ",
@@ -140,7 +174,7 @@
     "targetSubtopic": "Position in the perek",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Context of the Mishnah"
+    "enclosingSubtopic": "Required context of the Mishnah"
    },
    {
     "text": ", and relates to a particular ",
@@ -158,7 +192,7 @@
     "targetSubtopic": "Topic in halacha",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Context of the Mishnah"
+    "enclosingSubtopic": "Required context of the Mishnah"
    },
    {
     "text": ".",
@@ -739,7 +773,7 @@
     "anchorUrl": null
    }
   ],
-  "האיש מקדש בו ובשלוחו": [
+  "First clause": [
    {
     "text": "The first clause of the Mishnah on Kiddushin 41a is quoted below. ",
     "type": "text"
@@ -770,7 +804,7 @@
     "targetSubtopic": "Context",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "האיש מקדש בו ובשלוחו"
+    "enclosingSubtopic": "First clause"
    },
    {
     "text": ", ",
@@ -788,7 +822,7 @@
     "targetSubtopic": "Content",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "האיש מקדש בו ובשלוחו"
+    "enclosingSubtopic": "First clause"
    },
    {
     "text": ", and ",
@@ -806,7 +840,7 @@
     "targetSubtopic": "Commentary",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "האיש מקדש בו ובשלוחו"
+    "enclosingSubtopic": "First clause"
    },
    {
     "text": ".",
@@ -1076,44 +1110,98 @@
     "enclosingSubtopic": "האיש"
    },
    {
-    "text": " and a ",
+    "text": " and an ",
     "type": "text"
    },
    {
-    "text": "definition",
+    "text": "actual meaning",
     "type": "local",
     "tokens": [
      {
-      "text": "definition",
+      "text": "actual meaning",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Definition of האיש",
+    "targetSubtopic": "Actual meaning of האיש",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
     "enclosingSubtopic": "האיש"
    },
    {
-    "text": ".",
+    "type": "footnote_marker",
+    "text": "1"
+   },
+   {
+    "text": ". ",
     "type": "text"
+   },
+   {
+    "type": "footnote_lines",
+    "lines": [
+     {
+      "superscript": "1",
+      "tokens": [
+       {
+        "text": " Try reading the \"possible meanings\" of all the words in the sentence before looking at the actual meanings of any word so that you can practice figuring it out yourself.",
+        "type": "text"
+       }
+      ]
+     }
+    ]
    }
   ],
   "Possible meanings of האיש": [
    {
-    "text": "Try to use the following hints to guess the meaning of the word. The word האיש has ",
+    "text": "Try to use the following hints to guess the meaning of the word. There are ",
     "type": "text"
    },
    {
-    "text": "the letter ה at the start of a word",
+    "text": "different things a ה at the start of a word could mean",
     "type": "global",
     "tokens": [
      {
-      "text": "the letter ה at the start of a word",
+      "text": "different things a ה at the start of a word could mean",
       "type": "text"
      }
     ],
-    "targetSubtopic": "The letter ה at the start of a word",
-    "targetTopic": "The letter ה at the start of a word",
+    "targetSubtopic": "Different things a ה at the start of a word could mean",
+    "targetTopic": "Different things a ה at the start of a word could mean",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Possible meanings of האיש"
+   },
+   {
+    "text": ". There are ",
+    "type": "text"
+   },
+   {
+    "text": "words that include a ה and א",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "words that include a ה and א",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Words that include a ה and א",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Possible meanings of האיש"
+   },
+   {
+    "text": ", and there are ",
+    "type": "text"
+   },
+   {
+    "text": "words that include an א and ש",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "words that include an א and ש",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Words that include an א and ש",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
     "enclosingSubtopic": "Possible meanings of האיש"
    },
@@ -1122,7 +1210,19 @@
     "type": "text"
    }
   ],
-  "Definition of האיש": [
+  "Words that include a ה and א": [
+   {
+    "text": "In Aramaic, there is a word הא which means \"that.\" There is also a word האי which means \"this.\"",
+    "type": "text"
+   }
+  ],
+  "Words that include an א and ש": [
+   {
+    "text": "In Hebrew, there is a word אש meaning \"fire,\" and there is a word איש meaning \"man.\"",
+    "type": "text"
+   }
+  ],
+  "Actual meaning of האיש": [
    {
     "text": "The word האיש is composed of ",
     "type": "text"
@@ -1139,28 +1239,88 @@
     "targetSubtopic": "The word איש",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Definition of האיש"
+    "enclosingSubtopic": "Actual meaning of האיש"
    },
    {
     "text": " and ",
     "type": "text"
    },
    {
-    "text": "the \"definite article\" ה",
+    "text": "the prefix ה meaning \"the\"",
     "type": "local",
     "tokens": [
      {
-      "text": "the \"definite article\" ה",
+      "text": "the prefix ה meaning \"the\"",
       "type": "text"
      }
     ],
-    "targetSubtopic": "the \"definite article\" ה",
+    "targetSubtopic": "The prefix ה meaning \"the\"",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Definition of האיש"
+    "enclosingSubtopic": "Actual meaning of האיש"
+   },
+   {
+    "text": ", and we can eliminate ",
+    "type": "text"
+   },
+   {
+    "text": "other possibilities",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "other possibilities",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Other possibilities",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Actual meaning of האיש"
    },
    {
     "text": ".",
+    "type": "text"
+   }
+  ],
+  "Other possibilities": [
+   {
+    "text": "We are reading a Mishnah, so we know we are reading Hebrew and not Aramaic, and so we shouldn't think the word האיש might be related to the Aramaic words הא or האי. However, if there would exist a ",
+    "type": "text"
+   },
+   {
+    "text": "shoresh",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "shoresh",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Shoresh",
+    "targetTopic": "Shoresh",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Other possibilities"
+   },
+   {
+    "text": " spelled נאש, then the האיש could have been a past tense verb from that shoresh, (the same way נפל can become הִפִּיל), however, there is no such shoresh, so we know that can't be the answer. (For advanced readers, this kind of verb is called a ",
+    "type": "text"
+   },
+   {
+    "text": "hifil",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "hifil",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Hif'il",
+    "targetTopic": "Hif'il",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Other possibilities"
+   },
+   {
+    "text": ".)",
     "type": "text"
    }
   ],
@@ -1170,9 +1330,9 @@
     "type": "text"
    }
   ],
-  "the \"definite article\" ה": [
+  "The prefix ה meaning \"the\"": [
    {
-    "text": "The prefix ה in front of a noun in Hebrew is the \"definite article\" similar to the English word \"the.\"",
+    "text": "The prefix ה in front of a noun in Hebrew is similar to the English word \"the.\"",
     "type": "text"
    }
   ],
@@ -1196,37 +1356,37 @@
     "enclosingSubtopic": "מקדש"
    },
    {
-    "text": ", a ",
+    "text": ", an ",
     "type": "text"
    },
    {
-    "text": "basic explanation",
+    "text": "actual meaning",
     "type": "local",
     "tokens": [
      {
-      "text": "basic explanation",
+      "text": "actual meaning",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Basic explanation",
+    "targetSubtopic": "Actual meaning of מקדש",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
     "enclosingSubtopic": "מקדש"
    },
    {
-    "text": ", and ",
+    "text": " and a ",
     "type": "text"
    },
    {
-    "text": "advanced explanation",
+    "text": "grammatical explanation",
     "type": "local",
     "tokens": [
      {
-      "text": "advanced explanation",
+      "text": "grammatical explanation",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Advanced explanation",
+    "targetSubtopic": "Grammatical explanation of מקדש",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
     "enclosingSubtopic": "מקדש"
@@ -1238,20 +1398,92 @@
   ],
   "Possible meanings of מקדש": [
    {
-    "text": "Try to use the following hints to guess the meaning of the word. The word מקדש begins with ",
+    "text": "Try to use the following hints to guess the meaning of the word. There are ",
     "type": "text"
    },
    {
-    "text": "the letter מ",
+    "text": "different things a מ at the start of a word could mean",
     "type": "global",
     "tokens": [
      {
-      "text": "the letter מ",
+      "text": "different things a מ at the start of a word could mean",
       "type": "text"
      }
     ],
-    "targetSubtopic": "The letter מ at the start of a word",
-    "targetTopic": "The letter מ at the start of a word",
+    "targetSubtopic": "Different things a מ at the start of a word could mean",
+    "targetTopic": "Different things a מ at the start of a word could mean",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Possible meanings of מקדש"
+   },
+   {
+    "text": ". There is a ",
+    "type": "text"
+   },
+   {
+    "text": "shoresh",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "shoresh",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Shoresh",
+    "targetTopic": "Shoresh",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Possible meanings of מקדש"
+   },
+   {
+    "text": " spelled ",
+    "type": "text"
+   },
+   {
+    "text": "קדש",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "קדש",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "קדש",
+    "targetTopic": "קדש",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Possible meanings of מקדש"
+   },
+   {
+    "text": " which has ",
+    "type": "text"
+   },
+   {
+    "text": "various meanings",
+    "type": "import",
+    "tokens": [
+     {
+      "text": "various meanings",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Various meanings",
+    "targetTopic": "קדש",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Possible meanings of מקדש"
+   },
+   {
+    "text": ", and there ",
+    "type": "text"
+   },
+   {
+    "text": "two verb forms that are spelled exactly like their shoresh",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "two verb forms that are spelled exactly like their shoresh",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Two verb forms that are spelled exactly like their shoresh",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
     "enclosingSubtopic": "Possible meanings of מקדש"
    },
@@ -1260,32 +1492,110 @@
     "type": "text"
    }
   ],
-  "Basic explanation": [
+  "Two verb forms that are spelled exactly like their shoresh": [
    {
-    "text": "The word מקדש (\"mekadesh\") means \"[someone is] making something holy,\" usually used in the context of a man creating the legal status of \"kiddushin\" with a woman prior to marriage, but it can also be used for the creation of holiness in general, for example, Hashem is ",
+    "text": "A ",
+    "type": "text"
+   },
+   {
+    "text": "shoresh",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "shoresh",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Shoresh",
+    "targetTopic": "Shoresh",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Two verb forms that are spelled exactly like their shoresh"
+   },
+   {
+    "text": " like אכל can produce multiple types of past-tense verbs, and one type would look like אָכַל, and one type would look like אִכֵּל, and because the Gemara doesn't have vowels, if you see three shoresh letters together like אכל, you might be looking at one of these two types of past-tense verb. (For advanced readers, אָכַל is the past-tense form of a ",
+    "type": "text"
+   },
+   {
+    "text": "pa'al verb",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "pa'al verb",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Pa'al",
+    "targetTopic": "Pa'al",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Two verb forms that are spelled exactly like their shoresh"
+   },
+   {
+    "text": ", and אִכֵּל is the past-tense form of a ",
+    "type": "text"
+   },
+   {
+    "text": "pi'el verb",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "pi'el verb",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Pi'el",
+    "targetTopic": "Pi'el",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Two verb forms that are spelled exactly like their shoresh"
+   },
+   {
+    "text": ".)",
+    "type": "text"
+   }
+  ],
+  "Actual meaning of מקדש": [
+   {
+    "text": "The word מקדש here means for a man to create a status of ",
     "type": "text"
    },
    {
     "type": "italics",
     "tokens": [
      {
-      "text": "mekadesh es ha'shabbos",
+      "text": "kedushin",
       "type": "text"
      }
     ]
    },
    {
-    "text": " ie makes the Shabbos holy.",
+    "text": " with a woman prior to marriage.",
     "type": "text"
    }
   ],
-  "Advanced explanation": [
+  "Grammatical explanation of מקדש": [
    {
     "text": "For those interested in grammar, the word מקדש is the the ",
     "type": "text"
    },
    {
-    "text": "_pi'el_",
+    "text": "ongoing tense",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "ongoing tense",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Ongoing",
+    "targetTopic": "Ongoing",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Grammatical explanation of מקדש"
+   },
+   {
+    "text": " of the ",
+    "type": "text"
+   },
+   {
+    "text": "_pi'el_ binyan",
     "type": "global",
     "tokens": [
      {
@@ -1296,15 +1606,19 @@
         "type": "text"
        }
       ]
+     },
+     {
+      "text": " binyan",
+      "type": "text"
      }
     ],
     "targetSubtopic": "Pi'el",
     "targetTopic": "Pi'el",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Advanced explanation"
+    "enclosingSubtopic": "Grammatical explanation of מקדש"
    },
    {
-    "text": " participle of ",
+    "text": " of ",
     "type": "text"
    },
    {
@@ -1316,10 +1630,10 @@
       "type": "text"
      }
     ],
-    "targetSubtopic": "The shoresh קדש",
-    "targetTopic": "The shoresh קדש",
+    "targetSubtopic": "קדש",
+    "targetTopic": "קדש",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Advanced explanation"
+    "enclosingSubtopic": "Grammatical explanation of מקדש"
    },
    {
     "text": ".",
@@ -1334,7 +1648,79 @@
   ],
   "בו": [
    {
-    "text": "The word בו can mean \"with him/it,\" \"on him/it,\" \"inside him/it,\" and \"because of him/it.\" For those interested in grammar, it is ",
+    "text": "The word בו has several ",
+    "type": "text"
+   },
+   {
+    "text": "possible meanings",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "possible meanings",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Possible meanings of בו",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "בו"
+   },
+   {
+    "text": ", and an ",
+    "type": "text"
+   },
+   {
+    "text": "actual meaning",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "actual meaning",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Actual meaning of בו",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "בו"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Possible meanings of בו": [
+   {
+    "text": "There is a verb in Hebrew pronounced \"bo\" beginning with ב that means \"to come.\" There is also a prefix ב that can mean \"in,\" \"with,\" \"on,\" \"via,\" or \"at the time of,\" and there are various suffixes you can attach to it that indicate what thing is being referred to.",
+    "type": "text"
+   }
+  ],
+  "Actual meaning of בו": [
+   {
+    "text": "The word בו here means \"via himself,\" and there is a ",
+    "type": "text"
+   },
+   {
+    "text": "grammatical explanation",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "grammatical explanation",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Grammatical explanation of בו",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Actual meaning of בו"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Grammatical explanation of בו": [
+   {
+    "text": "For those interested in grammar, בו is ",
     "type": "text"
    },
    {
@@ -1349,28 +1735,59 @@
     "targetSubtopic": "The prefix ב",
     "targetTopic": "The prefix ב",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "בו"
+    "enclosingSubtopic": "Grammatical explanation of בו"
    },
    {
-    "text": " with a ",
+    "text": " in its meaning of ",
     "type": "text"
    },
    {
-    "text": "pronominal suffix",
+    "text": "\"by\" or \"via\"",
     "type": "import",
     "tokens": [
      {
-      "text": "pronominal suffix",
+      "text": "\"by\" or \"via\"",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Pronominal suffixes",
+    "targetSubtopic": "\"by\" or \"via\"",
     "targetTopic": "The prefix ב",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "בו"
+    "enclosingSubtopic": "Grammatical explanation of בו"
    },
    {
-    "text": ".",
+    "text": " using one of its ",
+    "type": "text"
+   },
+   {
+    "text": "suffixes",
+    "type": "import",
+    "tokens": [
+     {
+      "text": "suffixes",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Suffixes",
+    "targetTopic": "The prefix ב",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "Grammatical explanation of בו"
+   },
+   {
+    "text": " to indicate he is doing something \"via ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "himself",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ".\" We know it isn't the verb בוא meaning \"comes\" because even though it is pronounced the same as בו, that verb has an א in it.",
     "type": "text"
    }
   ],
@@ -1515,7 +1932,35 @@
     "type": "text"
    }
   ],
-  "Literal translation": [],
+  "Literal translation": [
+   {
+    "text": "Once we know what all the individual words mean, we can produce a literal translation: ",
+    "type": "text"
+   },
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "The man is ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "mekadesh",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": ", via himself or via his messenger.",
+      "type": "text"
+     }
+    ],
+    "direction": "ltr"
+   }
+  ],
   "Interpretation": [
    {
     "text": "Synthesize context and content into a summary, and see eg does the content and the context fit, is this an answer, etc. - With questions and mehalchim.",
@@ -1938,7 +2383,11 @@
     "type": "text"
    }
   ],
-  "האשה מתקדשת בה ובשלוחה": [
+  "Second clause": [
+   {
+    "text": "This is the second clause of the Mishnah: ",
+    "type": "text"
+   },
    {
     "type": "block_quote",
     "tokens": [
@@ -1950,11 +2399,15 @@
     "direction": "rtl"
    },
    {
-    "text": "This is the second clause of the Mishnah.",
+    "text": "It has context, content, and commentary.",
     "type": "text"
    }
   ],
-  "האיש מקדש את בתו כשהיא נערה בו ובשלוחו": [
+  "Third clause": [
+   {
+    "text": "This is the third clause of the Mishnah: ",
+    "type": "text"
+   },
    {
     "type": "block_quote",
     "tokens": [
@@ -1966,7 +2419,7 @@
     "direction": "rtl"
    },
    {
-    "text": "This is the third clause of the Mishnah.",
+    "text": "It has context, content, and commentary.",
     "type": "text"
    }
   ]
