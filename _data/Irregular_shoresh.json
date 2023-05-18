@@ -289,15 +289,15 @@
     "type": "text"
    },
    {
-    "text": "special naming convention for describing irregular shorushim",
+    "text": "special naming convention for describing categories of irregular shorushim",
     "type": "local",
     "tokens": [
      {
-      "text": "special naming convention for describing irregular shorushim",
+      "text": "special naming convention for describing categories of irregular shorushim",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Special naming convention for describing irregular shorushim",
+    "targetSubtopic": "Special naming convention for describing categories of irregular shorushim",
     "targetTopic": "Irregular shoresh",
     "enclosingTopic": "Irregular shoresh",
     "enclosingSubtopic": "Irregular shoresh"
@@ -307,7 +307,7 @@
     "type": "text"
    }
   ],
-  "Special naming convention for describing irregular shorushim": [
+  "Special naming convention for describing categories of irregular shorushim": [
    {
     "text": "We use the traditional ",
     "type": "text"
@@ -324,7 +324,7 @@
     "targetSubtopic": "Shoresh letter numbering convention",
     "targetTopic": "Irregular shoresh",
     "enclosingTopic": "Irregular shoresh",
-    "enclosingSubtopic": "Special naming convention for describing irregular shorushim"
+    "enclosingSubtopic": "Special naming convention for describing categories of irregular shorushim"
    },
    {
     "text": " to produce an ",
@@ -342,7 +342,7 @@
     "targetSubtopic": "Irregular shoresh naming convention",
     "targetTopic": "Irregular shoresh",
     "enclosingTopic": "Irregular shoresh",
-    "enclosingSubtopic": "Special naming convention for describing irregular shorushim"
+    "enclosingSubtopic": "Special naming convention for describing categories of irregular shorushim"
    },
    {
     "text": ".",
