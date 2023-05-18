@@ -651,9 +651,20 @@ Ongoing tense: The _pa'al_ has an ongoing tense. (The [[ongoing tense]] is one o
 | Feminine singular | כּוֹתֶבֶת | _koiseves_ |
 | Masculine plural | כּוֹתְבִים | _koisvim_ |
 | Feminine plural | כּוֹתְבוֹת | _koisvois_ |
-The _pa'al_ ongoing tense features a ו between the first and second root letters. You can see examples of the [[ongoing tense]] in [[multiple versions|other binyanim]].
+The _pa'al_ ongoing tense features a ו between the first and second root letters. You can see examples of the [[ongoing tense]] in [[versions in Hebrew|other binyanim]].
 
-Past tense: The _pa'al_ has an past tense. (The [[past tense]] is one of the [[{verb forms|tenses} of Hebrew and Aramaic]].)
+Past tense: The _pa'al_ has an past tense. (The [[past tense]] is one of the [[{verb forms|tenses} of Hebrew and Aramaic]].) This is an example of how you conjugate a [[regular shoresh]] in the _pa'al_ past tense:
+| *Person* | *Hebrew* | *Transliteration* | *Meaning* |
+|---------|--------|----------------|---------|
+| First singular | כָּתַבְתִּי | _kosavti_ | I wrote |
+| First person plural | כּוֹתְבוֹת | _kosavnu_ | We wrote |
+| Second singular masculine | כָּתַבְתָּ | _kosavto_ | You (man) wrote |
+| Second singular feminine | כָּתַבְתְּ | _kosavt_ | You (woman) wrote |
+| Second plural masculine | כְּתַבְתֶּם | _ksavtem_ | You (men) wrote |
+| Second plural feminine | כְּתַבְתֶּן | _ksavten_ | You (women) wrote |
+| Third plural masculine | כָּתַב | _kosav_ | He wrote |
+| Third plural feminine | כָּתְבָה | _kosvo_ | She wrote |
+| They/those | כָּתְבוּ | _kosvu_ | They wrote |
 
 Future tense: The _pa'al_ has a future tense. (The [[future tense]] is one of the [[{verb forms|tenses} of Hebrew and Aramaic]].) The future tense has various [[uses]].
 
@@ -873,11 +884,11 @@ Hebrew: The shoresh שלח has seven "binyanim" in Hebrew, the [[{_pa'al_} of th
 * Infinitive: The infinitive is one of the [[verb forms of Hebrew and Aramaic]].
 
 
-* Ongoing tense: The ongoing tense (sometimes called _lashon po'el_) is one of the [[verb forms of Hebrew and Aramaic]]. It is similar to the English "ing" verbs. The ongoing tense has various [[uses]], and it has various [[forms]]. The ongoing tense is also called the "participle."
+* Ongoing tense: The ongoing tense (sometimes called _lashon po'el_) is one of the [[verb forms of Hebrew and Aramaic]]. It is similar to the English "ing" verbs. The ongoing tense has various [[uses]], and it has [[various forms]]. The ongoing tense is also called the "participle."
 
 Uses: The ongoing tense [[corresponds to both the English present and ongoing tense]]. It can be [[used for various time periods]], and can [[function as a noun or adjective]].
 
-Forms: There are [[{{multiple versions}} of the ongoing tense]]. Each version has conjugations [[for gender and number]].
+Various forms: There are multiple versions of the ongoing tense [[versions {in Hebrew}]] and [[versions {in Aramaic}]], and for each version there are conjugations [[for gender and number]].
 
 Corresponds to both the English present and ongoing tense: Whereas in English you can say "he is writing" or "he writes," in Hebrew and Aramaic, both of these meanings would be expressed with the same ongoing form eg הוא כותב, _hu koisev_, and so when we see the word כותב, we can't be sure without context whether it is referring to someone who is writing right now, or someone writes habitually.
 
@@ -918,10 +929,7 @@ As adjectives: A participle can function as an adjective, eg:
 | English | Shimeon is *holy*, or Shimeon is *being holy* |
 In English, "holy" is an adjective and "being holy" is a verb, but in Hebrew and Aramaic, the same ongoing tense word "קודש" would be used for both.
 
-Multiple versions:
-There are multiple versions of the ongoing tense [[in Hebrew]] and [[in Aramaic]].
-
-In Hebrew:
+Versions in Hebrew:
 These are the examples of the ongoing tense in the masculine singular for each of the [[Hebrew binyanim]]. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
 | Binyan          | Type |  Example | Transliteration |
 |-----------------|------|----------|----------------|
@@ -933,7 +941,7 @@ These are the examples of the ongoing tense in the masculine singular for each o
 | [[_Huf'al_]] | [[causative]], [[passive]] | מֻכְתָּב | _muchtov_ |
 | [[_Hispa'el_]] | [[reflexive]] | מִתְכַּתֵּב | _miskat'teiv_ |
 
-In Aramaic:
+Versions in Aramaic:
 These are the examples of the ongoing tense in the masculine singular for each of the [[Aramaic binyanim]]. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
 | Binyan        | Type | Example | Transliteration |
 |---------------|------|---------|----------------|
@@ -946,13 +954,28 @@ These are the examples of the ongoing tense in the masculine singular for each o
 
 For gender and number:
 The ongoing tense is conjugated for gender and number:
-| Person | Hebrew | Transliteration |
-|---------|--------|----------------|
-| Masculine singular | כּוֹתֵב | _koiseiv_ |
-| Feminine singular | כּוֹתֶבֶת | _koiseves_ |
-| Masculine plural | כּוֹתְבִים | _koisvim_ |
-| Feminine plural | כּוֹתְבוֹת | _koisvois_ |
-This is unlike the [[past tense]] or [[future tense]] that have separate forms for "I," "you," "he," etc. This is because the ongoing tense in Hebrew and Aramaic is more like an adjective than a verb, with "he is running" having the same grammatical form as "he is tall." (This example uses the ongoing form of the [[_{{pa'al}} binyan_]]. [[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
+| Person | Hebrew | Transliteration | Meaning |
+|---------|--------|----------------|---------|
+| Masculine singular | כּוֹתֵב | _koiseiv_ | one man writing |
+| Feminine singular | כּוֹתֶבֶת | _koiseves_ | one woman writing |
+| Masculine plural | כּוֹתְבִים | _koisvim_ | multiple men writing |
+| Feminine plural | כּוֹתְבוֹת | _koisvois_ | multiple women writing |
+This is unlike the [[past tense]] or [[future tense]] that have [[separate forms for person]]. This is because the ongoing tense in Hebrew and Aramaic is [[like an adjective]].
+
+Separate forms for person: Tenses other than the ongoing tense have conjugations for every person, eg the [[_pa'al_]] [[past tense]]:
+| *Person* | *Hebrew* | *Transliteration* | *Meaning* |
+|---------|--------|----------------|---------|
+| First singular | כָּתַבְתִּי | _kosavti_ | I wrote |
+| First person plural | כּוֹתְבוֹת | _kosavnu_ | We wrote |
+| Second singular masculine | כָּתַבְתָּ | _kosavto_ | You (man) wrote |
+| Second singular feminine | כָּתַבְתְּ | _kosavt_ | You (woman) wrote |
+| Second plural masculine | כְּתַבְתֶּם | _ksavtem_ | You (men) wrote |
+| Second plural feminine | כְּתַבְתֶּן | _ksavten_ | You (women) wrote |
+| Third plural masculine | כָּתַב | _kosav_ | He wrote |
+| Third plural feminine | כָּתְבָה | _kosvo_ | She wrote |
+| They/those | כָּתְבוּ | _kosvu_ | They wrote |
+
+Like an adjective: The ongoing tense in Hebrew and Aramaic is more like an adjective than a verb, with "he is running" having the same grammatical form as "he is tall." (This example uses the ongoing form of the [[_{{pa'al}} binyan_]]. [[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
 
 
 * Past tense: The past tense is one of the [[verb forms of Hebrew and Aramaic]].
