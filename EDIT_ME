@@ -644,7 +644,7 @@ There are several "simple" binyanim in Hebrew and Aramaic. ([[{{Binyan}} is a sp
 
 Tenses: There is a [[_pa'al_ {{ongoing tense}}]], a [[_pa'al_ {{past tense}}]], a [[_pa'al_ {{future tense}}]], an [[_pa'al_ {{imperative tense}}]], and an [[_pa'al_ {{infinitive}}]].
 
-Ongoing tense: The _pa'al_ has an ongoing tense. (The [[ongoing tense]] is one of the [[{verb forms|tenses} of Hebrew and Aramaic]].) This is an example of how you conjugate a regular [[shoresh]] in the _pa'al_ ongoing tense:
+Ongoing tense: The _pa'al_ has an ongoing tense. (The [[ongoing tense]] is one of the [[{verb forms|tenses} of Hebrew and Aramaic]].) This is an example of how you conjugate a [[regular shoresh]] in the _pa'al_ ongoing tense:
 | Person | Hebrew | Transliteration |
 |---------|--------|----------------|
 | Masculine singular | כּוֹתֵב | _koiseiv_  |
@@ -720,10 +720,30 @@ Suffixes: The prefix ב in Hebrew has several suffixes that can be attached to i
 
 [Lashonos/Entities]
 
-* Irregular shoresh: An irregular shoresh, as opposed to a [[regular shoresh]], is a [[shoresh]] that has special letters that affect the vowelization of verbs produced from that shoresh. A common example is a shoresh that has a י in the first position, such as ישב, where the י will often becomes a ו in verb forms that have prefixes, for example having מוֹשִׁיב (_moshiv_) instead of the more typical מֵישִׁיב (_mayshiv_), which might be harder to pronounce.
+* Irregular shoresh: An irregular shoresh, as opposed to a [[regular shoresh]], is a [[shoresh]] that has special letters that affect the vowelization of verbs produced from it. Here are some examples of irregular shorushim having irregular verb conjugations:
+| *Shoresh* | *Oddity* | *Expected* | * Real* | *Comment* |
+|-|-|-|-|-|
+| ישב | י in first position | מֵישִׁיב (_mayshiv_) | מוֹשִׁיב (_moshiv_) | י changes to וֹ |
+| נפל | נ in the first position | מַנְפִּיל (_manpil_) | מַפִּיל (_map'pil_) | נ drops and the פ is doubled |
+| בנה | ה in the last position | בָּנַהְתִּי  (_baunah'ti_) | בָּנִיתִי (_bauniti_) | the consonant ה becomes an יִ vowel |
+There is a [[special naming convention for describing irregular shorushim]].
+
+Special naming convention for describing irregular shorushim: We use the traditional [[shoresh letter numbering convention]] to produce an [[irregular shoresh naming convention]].
+
+Shoresh letter numbering convention:
+In Hebrew grammar, the shoresh פעל is used as a "standard" shoresh, and so sometimes the letters of פעל are used as names for the three shoresh positions:
+| פ | ע | ל |
+|-|-|-|
+| 1 | 2 | 3 |
+ For example, instead of saying "the first letter of the shoresh נפל," you might say "the פ of the shoresh נפל."
+
+Irregular shoresh naming convention:
+Because we use the letters פעל as names for the positions in a shoresh, if we want to say "the category of shorushim that have a י in the first position," the name would be "י״פ verbs" (_yud-pay verbs_.)
+
+A common example is a shoresh that has a י in the first position, such as ישב, where the י will often becomes a ו in verb forms that have prefixes, for example having מוֹשִׁיב (_moshiv_) instead of the more typical מֵישִׁיב (_mayshiv_), which might be harder to pronounce.
 
 
-* Regular shoresh: A regular [[shoresh]] is a shoresh where the vowels and spelling of verbs that are produced from that shoresh follow the normal patterns for each verb form. The alternative is an [[{irregular} shoresh]].
+* Regular shoresh: A regular [[shoresh]] is a shoresh where the vowels and spelling of verbs that are produced from that shoresh follow the normal patterns for each verb form. The alternative is an [[irregular shoresh]].
 
 
 * Shoresh: A shoresh is a grammatical entity in Hebrew and Aramaic. The word shoresh [[means root]]. A shoresh is [[a series of letters]] and [[represents a range of meaning]]. Shorushim are [[used to produce words]]. Shorushim have [[corollaries in English]]. There is a [[debate over the exact definition of a shoresh]]. There are [[regular and irregular shorushim]].
