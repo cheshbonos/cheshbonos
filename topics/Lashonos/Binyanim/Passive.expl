@@ -1,6 +1,13 @@
-Passive: "Passive" is a category of verb in Hebrew and Aramaic. Passive verbs usually represent actions where [[the person being described is having an action done to them]], although sometimes they have [[{{reflexive}} meanings]]. There are several passive binyanim [[in Hebrew]] and [[in Aramaic]].
+Passive: "Passive" is a category of verb in Hebrew and Aramaic. Passive verbs usually represent actions where [[the person being described is having an action done to them]]. A binyan that is passive has verbs that are passive and vice versa. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].) There are several passive binyanim [[in Hebrew]] and [[in Aramaic]].
 
-The person being described is having an action done to them: Passive verbs represent actions where the thing being described is having an action done to them, as opposed to verbs that are [[active]]. For example, the verb לְהִיקָּנוֹת is passive, and means "to be bought," and so the entity being described is the thing _being_ bought, as opposed to the one doing the buying.
+The person being described is having an action done to them: Passive verbs represent actions where the thing being described is having an action done to them, as opposed to verbs that are [[active]]. For example:
+| *Shoresh* | *Active verb* | *Passive verb* |
+|-|-|-|
+| אכל | to eat | to be eaten |
+| קנה | to buy | to be purchased |
+| זכר | to remember | to be remembered |
+| אמר | to say | to be said |
+This is a rule of thumb, although sometimes passive verbs have [[{{reflexive}} meanings]].
 
 In Hebrew:
 There are several passive binyanim in Hebrew:
@@ -13,5 +20,5 @@ In Aramaic:
 There are several passive binyanim in Aramaic:
 - Aramaic's passive simple binyan is called the [[_ispe'el_]]
 - Aramaic has no passive intensive binyan.
-- Aramaic's passive causative binyan is called the [[_isaf'al_]]
+- Aramaic's passive causative binyan is called the [[_itaf'al_]]
 - Aramaic's reflexive binyan the [[ispa'al]] can sometimes have a passive meaning

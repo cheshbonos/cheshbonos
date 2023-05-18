@@ -1,19 +1,33 @@
-Binyan: "Binyan" is a grammatical concept in Hebrew and Aramaic that has no direct corollary in English. You can think of binyanim as being [[flavors of meaning]]. There are [[five basic types of binyan]]. English [[uses alternative means to achieve the same effect]]. There are [[seven {{Hebrew binyanim}}]] and [[six {{Aramaic binyanim}}]].
+Binyan: "Binyan" is a grammatical concept in Hebrew and Aramaic that has no direct corollary in English. A [[shoresh]] gets put into one of several binyanim in order to produce a verb. A binyan is [[like a flavor of the shoresh]]. Every binyan is a combination of [[five basic types of action]]. English [[uses alternative means to achieve the same effect]].  There are [[seven {{Hebrew binyanim}}]] and [[six {{Aramaic binyanim}}]]. There are also [[nouns and adjectives that come from particular binyanim]].
 
-Flavors of meaning: You can think of a binyan as being a "flavor" of meaning, and when you put a [[shoresh]] into a certain binyan, that produces a verb that is a mixture of the shoresh and the binyan. For example, the shoresh אכל means "eating," the binyan [[_hif'il_]] has a flavor of "making someone else do something," and so if we put the shoresh אכל into the binyan _hif'il_ we will produce the verb לְהַאֲכִיל which means "to make someone else eat," ie to feed them.
+Like a flavor of the shoresh: You can think of a binyan as being a "flavor" of meaning that gets mixed with the shoresh to produce a verb. For example:
+| *Shoresh* | *Shoresh Meaning*| *Binyan* | *Binyan Meaning* | *Resulting Verb* |
+|-|-|-|-|-|
+| אכל | eating | [[_hif'il_]] | causing someone else to do something | to cause someone to eat i.e. to feed |
+| כתב | writing | [[_pi'el_]] | doing something more intensely | to write intensely i.e. to engrave |
+| קנה | buying | [[_nif'al_]] | having something done to you | to have someone buy you i.e. to be purchased |
 
-Five basic types of binyan: The different binyanim of Hebrew and Aramaic are combinations of five basic flavors of meaning:
-- [[Active]]: Someone doing something
+Five basic types of action: There are five "types" of action:
+- [[Active]]: Someone doing something themselves
 - [[Passive]]: Someone having something done to them
 - [[Simple]]: Someone doing a very straight-forward version of an action
 - [[Intensive]]: Someone doing an intense or repetitive version of an action
-- [[Causative]]: Someone making someone else do an action
-Different binyanim are combinations of these five flavors, for example the [[_hif'il_]] is a Hebrew binyan that is _active_ and _causative_.
+- [[Causative]]: Someone causing someone else do an action
+All of the different binyanim of Hebrew and Aramaic are combinations of these five ideas. For example, the [[_hif'il_]] is active, and causative.
 
-Uses alternative means to achieve the same effect: In English, we [[make larger verbs out of multiple words]], and [[related words are not necessarily spelled in a similar way]].
+Uses alternative means to achieve the same effect: In English, we do not use "binyan" to produce families of related verbs. Rather, we [[make larger verbs out of multiple words]], and [[use entirely separate words for related concepts]].
 
-Make larger verbs out of multiple words: In English, you have one simple verb like "eat," and then you can add other words to form larger ideas like "he made someone eat," or "he was eaten," etc, whereas in Hebrew and Aramaic, all of these permutations will be entirely different one-word verbs which are formed from the same [[shoresh]] root.
+Nouns and adjectives that come from particular binyanim: Every verb has one binyan, and there are nouns and adjectives that come from a verb in a particular binyan. For example, [[_kiddush_ is a noun that comes from the _pi'el_ binyan]].
 
-Related words are not necessarily spelled in a similar way: In English, you might have verbs like "buy" and "sell" that have related meanings but no linguistic relationship, whereas in Hebrew and Aramaic, a word like "to buy" (לִקְנוֹת) and word like "to sell" (לְהִיקָּנוֹת) would likely be verbs from two different binyans of the same [[shoresh]] קנה, and so will have a similar spelling.
+_Kiddush_ is a noun that comes from the _pi'el_ binyan: The shoresh קשד represents "holiness," and קדש in the [[_pi'el_]] binyan usually means "to create holiness." The verb for someone who is creating holiness is מְקַדֵּשׁ (_mekadesh_), and an act of making holiness is called a קִדּוּשׁ (_kiddush_), like the one done on Friday night. So too can you take any verb that has a _pi'el_ form and produce a noun with the same meaning by taking the three shoresh letters of the [[shoresh]] and plugging them into that vowel pattern:
+| *_Pi'el_ Verb* | *Meaning* | *_Pi'el_ Noun* | *Meaning* |
+|-|-|-|-|
+| מְקַדֵּשׁ (_mekadesh_) | making holy | קִדּוּשׁ (_kiddush_) | an act of making holy |
+| מְדַבֵּר (_medaber_) | speaking | דִּבּוּר (_dibbur_) | an act of speech |
+| מְבַטֵּל (_mevatel_) | canceling | בִּטּוּל (_bittul_) | a cancelation |
+
+Make larger verbs out of multiple words: In English, you have one simple verb like "eat," and then you can add other words to form larger ideas like "he made someone eat," or "he was eaten," etc, whereas in Hebrew and Aramaic, all of these permutations will be entirely different one-word verbs with similar spellings because they are formed from the same [[shoresh]] root.
+
+Use entirely separate words for related concepts: In English, words that have related meanings do not necessarily look similar. For example, you might have verbs like "buy" and "sell" that have related meanings but no visual similarity, whereas in Hebrew and Aramaic, a word like "to buy" (לִקְנוֹת) and word like "to sell" (לְהִיקָּנוֹת) would be verbs formed from two different binyans of the same [[shoresh]] קנה, and so will have a similar spelling.
 
 A shoresh is put "into" a binyan to produce a word: Whereas a [[shoresh]] represents a vague and general category of meaning, putting that shoresh into a particular _binyan_ would produce a more specific verb or adjective. For example, the shoresh אבל corresponds to the general idea of eating, whereas putting that shoresh into a particular binyan might produce the specific verbs לֶאֱכוֹל "to eat," לְהַאֲכִיל "to feed," or adjective אָכוּל "eaten."
