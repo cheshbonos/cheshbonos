@@ -573,7 +573,7 @@
       "type": "text"
      }
     ],
-    "targetSubtopic": "Multiple versions",
+    "targetSubtopic": "Versions in Hebrew",
     "targetTopic": "Ongoing tense",
     "enclosingTopic": "Pa'al",
     "enclosingSubtopic": "Ongoing tense"
@@ -634,8 +634,369 @@
     "enclosingSubtopic": "Past tense"
    },
    {
-    "text": ".)",
+    "text": ".) This is an example of how you conjugate a ",
     "type": "text"
+   },
+   {
+    "text": "regular shoresh",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "regular shoresh",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Regular shoresh",
+    "targetTopic": "Regular shoresh",
+    "enclosingTopic": "Pa'al",
+    "enclosingSubtopic": "Past tense"
+   },
+   {
+    "text": " in the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pa'al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " past tense: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "Person",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "Hebrew",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "Transliteration",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "Meaning",
+          "type": "text"
+         }
+        ]
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "First singular",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "כָּתַבְתִּי",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "kosavti",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "text": "I wrote",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "First person plural",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "כּוֹתְבוֹת",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "kosavnu",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "text": "We wrote",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "Second singular masculine",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "כָּתַבְתָּ",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "kosavto",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "text": "You (man) wrote",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "Second singular feminine",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "כָּתַבְתְּ",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "kosavt",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "text": "You (woman) wrote",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "Second plural masculine",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "כְּתַבְתֶּם",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "ksavtem",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "text": "You (men) wrote",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "Second plural feminine",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "כְּתַבְתֶּן",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "ksavten",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "text": "You (women) wrote",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "Third plural masculine",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "כָּתַב",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "kosav",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "text": "He wrote",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "Third plural feminine",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "כָּתְבָה",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "kosvo",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "text": "She wrote",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "They/those",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "כָּתְבוּ",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "kosvu",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "text": "They wrote",
+        "type": "text"
+       }
+      ]
+     ]
+    ]
    }
   ],
   "Future tense": [
