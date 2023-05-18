@@ -125,12 +125,17 @@
       ],
       [
        {
-        "text": "Pa'al",
+        "text": "_Pa'al_",
         "type": "global",
         "tokens": [
          {
-          "text": "Pa'al",
-          "type": "text"
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "Pa'al",
+            "type": "text"
+           }
+          ]
          }
         ],
         "targetSubtopic": "Pa'al",
@@ -141,12 +146,17 @@
       ],
       [
        {
-        "text": "Pi'el",
+        "text": "_Pi'el_",
         "type": "global",
         "tokens": [
          {
-          "text": "Pi'el",
-          "type": "text"
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "Pi'el",
+            "type": "text"
+           }
+          ]
          }
         ],
         "targetSubtopic": "Pi'el",
@@ -157,12 +167,17 @@
       ],
       [
        {
-        "text": "Hif'il",
+        "text": "_Hif'il_",
         "type": "global",
         "tokens": [
          {
-          "text": "Hif'il",
-          "type": "text"
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "Hif'il",
+            "type": "text"
+           }
+          ]
          }
         ],
         "targetSubtopic": "Hif'il",
@@ -173,12 +188,17 @@
       ],
       [
        {
-        "text": "Hispa'el",
+        "text": "_Hispa'el_",
         "type": "global",
         "tokens": [
          {
-          "text": "Hispa'el",
-          "type": "text"
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "Hispa'el",
+            "type": "text"
+           }
+          ]
          }
         ],
         "targetSubtopic": "Hispa'el",
@@ -207,12 +227,17 @@
       ],
       [
        {
-        "text": "Nif'al",
+        "text": "_Nif'al_",
         "type": "global",
         "tokens": [
          {
-          "text": "Nif'al",
-          "type": "text"
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "Nif'al",
+            "type": "text"
+           }
+          ]
          }
         ],
         "targetSubtopic": "Nif'al",
@@ -223,12 +248,17 @@
       ],
       [
        {
-        "text": "Pu'al",
+        "text": "_Pu'al_",
         "type": "global",
         "tokens": [
          {
-          "text": "Pu'al",
-          "type": "text"
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "Pu'al",
+            "type": "text"
+           }
+          ]
          }
         ],
         "targetSubtopic": "Pu'al",
@@ -239,12 +269,17 @@
       ],
       [
        {
-        "text": "Huf'al",
+        "text": "_Huf'al_",
         "type": "global",
         "tokens": [
          {
-          "text": "Huf'al",
-          "type": "text"
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "Huf'al",
+            "type": "text"
+           }
+          ]
          }
         ],
         "targetSubtopic": "Huf'al",

@@ -69,8 +69,128 @@
     "enclosingSubtopic": "The person being described is the one doing the action"
    },
    {
-    "text": " verbs. For example, the verb לִקְנוֹת means \"to buy,\" and because it is active, the one being described is the one who is buying, as opposed to describing the thing being bought.",
+    "text": " verbs. For example: ",
     "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "Shoresh",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "Active verb",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "Passive verb",
+          "type": "text"
+         }
+        ]
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "אכל",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to eat",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to be eaten",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "קנה",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to buy",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to be purchased",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "זכר",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to remember",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to be remembered",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "אמר",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to say",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to be said",
+        "type": "text"
+       }
+      ]
+     ]
+    ]
    }
   ],
   "Several active binyanim in Hebrew and Aramaic": [

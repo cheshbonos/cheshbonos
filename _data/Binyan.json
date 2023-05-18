@@ -9,37 +9,37 @@
  "paragraphsBySubtopic": {
   "Binyan": [
    {
-    "text": "\"Binyan\" is a grammatical concept in Hebrew and Aramaic that has no direct corollary in English. You can think of binyanim as being ",
+    "text": "\"Binyan\" is a grammatical concept in Hebrew and Aramaic that has no direct corollary in English. You can think of a binyan as being ",
     "type": "text"
    },
    {
-    "text": "flavors of meaning",
+    "text": "a flavor of meaning",
     "type": "local",
     "tokens": [
      {
-      "text": "flavors of meaning",
+      "text": "a flavor of meaning",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Flavors of meaning",
+    "targetSubtopic": "A flavor of meaning",
     "targetTopic": "Binyan",
     "enclosingTopic": "Binyan",
     "enclosingSubtopic": "Binyan"
    },
    {
-    "text": ". There are ",
+    "text": ". Every binyan is a combination of ",
     "type": "text"
    },
    {
-    "text": "five basic types of binyan",
+    "text": "five basic types of action",
     "type": "local",
     "tokens": [
      {
-      "text": "five basic types of binyan",
+      "text": "five basic types of action",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Five basic types of binyan",
+    "targetSubtopic": "Five basic types of action",
     "targetTopic": "Binyan",
     "enclosingTopic": "Binyan",
     "enclosingSubtopic": "Binyan"
@@ -63,7 +63,25 @@
     "enclosingSubtopic": "Binyan"
    },
    {
-    "text": ". There are ",
+    "text": ". Every verb in Hebrew and Aramaic comes from one ",
+    "type": "text"
+   },
+   {
+    "text": "shoresh",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "shoresh",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Shoresh",
+    "targetTopic": "Shoresh",
+    "enclosingTopic": "Binyan",
+    "enclosingSubtopic": "Binyan"
+   },
+   {
+    "text": " that is put into one binyan. There are ",
     "type": "text"
    },
    {
@@ -99,11 +117,29 @@
     "enclosingSubtopic": "Binyan"
    },
    {
+    "text": ". There are also ",
+    "type": "text"
+   },
+   {
+    "text": "nouns and adjectives that come from particular binyanim",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "nouns and adjectives that come from particular binyanim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Nouns and adjectives that come from particular binyanim",
+    "targetTopic": "Binyan",
+    "enclosingTopic": "Binyan",
+    "enclosingSubtopic": "Binyan"
+   },
+   {
     "text": ".",
     "type": "text"
    }
   ],
-  "Flavors of meaning": [
+  "A flavor of meaning": [
    {
     "text": "You can think of a binyan as being a \"flavor\" of meaning, and when you put a ",
     "type": "text"
@@ -120,21 +156,21 @@
     "targetSubtopic": "Shoresh",
     "targetTopic": "Shoresh",
     "enclosingTopic": "Binyan",
-    "enclosingSubtopic": "Flavors of meaning"
+    "enclosingSubtopic": "A flavor of meaning"
    },
    {
     "text": " into a certain binyan, that produces a verb that is a mixture of the shoresh and the binyan. For example, the shoresh אכל means \"eating,\" the binyan ",
     "type": "text"
    },
    {
-    "text": "_hif'il_",
+    "text": "_\"hif'il\"_",
     "type": "global",
     "tokens": [
      {
       "type": "italics",
       "tokens": [
        {
-        "text": "hif'il",
+        "text": "\"hif'il\"",
         "type": "text"
        }
       ]
@@ -143,7 +179,7 @@
     "targetSubtopic": "Hif'il",
     "targetTopic": "Hif'il",
     "enclosingTopic": "Binyan",
-    "enclosingSubtopic": "Flavors of meaning"
+    "enclosingSubtopic": "A flavor of meaning"
    },
    {
     "text": " has a flavor of \"making someone else do something,\" and so if we put the shoresh אכל into the binyan ",
@@ -159,13 +195,13 @@
     ]
    },
    {
-    "text": " we will produce the verb לְהַאֲכִיל which means \"to make someone else eat,\" ie to feed them.",
+    "text": " we will produce a verb that combines eating and making someone else do something, ie \"to make someone else eat,\" ie to feed them.",
     "type": "text"
    }
   ],
-  "Five basic types of binyan": [
+  "Five basic types of action": [
    {
-    "text": "The different binyanim of Hebrew and Aramaic are combinations of five basic flavors of meaning: ",
+    "text": "There are five \"types\" of action: ",
     "type": "text"
    },
    {
@@ -186,10 +222,10 @@
         "targetSubtopic": "Active",
         "targetTopic": "Active",
         "enclosingTopic": "Binyan",
-        "enclosingSubtopic": "Five basic types of binyan"
+        "enclosingSubtopic": "Five basic types of action"
        },
        {
-        "text": ": Someone doing something",
+        "text": ": Someone doing something themselves",
         "type": "text"
        }
       ],
@@ -211,7 +247,7 @@
         "targetSubtopic": "Passive",
         "targetTopic": "Passive",
         "enclosingTopic": "Binyan",
-        "enclosingSubtopic": "Five basic types of binyan"
+        "enclosingSubtopic": "Five basic types of action"
        },
        {
         "text": ": Someone having something done to them",
@@ -236,7 +272,7 @@
         "targetSubtopic": "Simple",
         "targetTopic": "Simple",
         "enclosingTopic": "Binyan",
-        "enclosingSubtopic": "Five basic types of binyan"
+        "enclosingSubtopic": "Five basic types of action"
        },
        {
         "text": ": Someone doing a very straight-forward version of an action",
@@ -261,7 +297,7 @@
         "targetSubtopic": "Intensive",
         "targetTopic": "Intensive",
         "enclosingTopic": "Binyan",
-        "enclosingSubtopic": "Five basic types of binyan"
+        "enclosingSubtopic": "Five basic types of action"
        },
        {
         "text": ": Someone doing an intense or repetitive version of an action",
@@ -286,10 +322,10 @@
         "targetSubtopic": "Causative",
         "targetTopic": "Causative",
         "enclosingTopic": "Binyan",
-        "enclosingSubtopic": "Five basic types of binyan"
+        "enclosingSubtopic": "Five basic types of action"
        },
        {
-        "text": ": Someone making someone else do an action",
+        "text": ": Someone causing someone else do an action",
         "type": "text"
        }
       ],
@@ -299,7 +335,31 @@
     "type": "outline"
    },
    {
-    "text": "Different binyanim are combinations of these five flavors, for example the ",
+    "text": "All of the different binyanim of Hebrew and Aramaic are combinations of these five ideas, here is ",
+    "type": "text"
+   },
+   {
+    "text": "an example",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "an example",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "An example",
+    "targetTopic": "Binyan",
+    "enclosingTopic": "Binyan",
+    "enclosingSubtopic": "Five basic types of action"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "An example": [
+   {
+    "text": "Every binyan in Hebrew and Aramaic is a combination of these five types of action. For example, the ",
     "type": "text"
    },
    {
@@ -319,7 +379,7 @@
     "targetSubtopic": "Hif'il",
     "targetTopic": "Hif'il",
     "enclosingTopic": "Binyan",
-    "enclosingSubtopic": "Five basic types of binyan"
+    "enclosingSubtopic": "An example"
    },
    {
     "text": " is a Hebrew binyan that is ",
@@ -348,13 +408,91 @@
     ]
    },
    {
-    "text": ".",
+    "text": ", so verbs in the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "hif'il",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " often describe an action where a person is ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "himself",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " doing something, and so \"active,\" and is making ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "something else",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " become a certain way, and so \"causitive.\" Such a verb is מַקְדִּישׁ (",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "makdish",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": "), someone ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "himself",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " making ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "something else",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " become property of the Temple, ie donating it.",
     "type": "text"
    }
   ],
   "Uses alternative means to achieve the same effect": [
    {
-    "text": "In English, we ",
+    "text": "In English, we do not use \"binyan\" to produce families of related verbs. Rather, we ",
     "type": "text"
    },
    {
@@ -376,15 +514,15 @@
     "type": "text"
    },
    {
-    "text": "related words are not necessarily spelled in a similar way",
+    "text": "use entirely separate words for related concepts",
     "type": "local",
     "tokens": [
      {
-      "text": "related words are not necessarily spelled in a similar way",
+      "text": "use entirely separate words for related concepts",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Related words are not necessarily spelled in a similar way",
+    "targetSubtopic": "Use entirely separate words for related concepts",
     "targetTopic": "Binyan",
     "enclosingTopic": "Binyan",
     "enclosingSubtopic": "Uses alternative means to achieve the same effect"
@@ -394,9 +532,177 @@
     "type": "text"
    }
   ],
+  "Nouns and adjectives that come from particular binyanim": [
+   {
+    "text": "Every verb has one binyan, and there are nouns and adjectives that come from a verb in a particular binyan. For example, ",
+    "type": "text"
+   },
+   {
+    "text": "_kiddush_ is a noun that comes from the _pi'el_ binyan",
+    "type": "local",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "kiddush",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " is a noun that comes from the ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pi'el",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " binyan",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Kiddush is a noun that comes from the pi'el binyan",
+    "targetTopic": "Binyan",
+    "enclosingTopic": "Binyan",
+    "enclosingSubtopic": "Nouns and adjectives that come from particular binyanim"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Kiddush is a noun that comes from the pi'el binyan": [
+   {
+    "text": "The shoresh קשד represents \"holiness,\" and קדש in the ",
+    "type": "text"
+   },
+   {
+    "text": "_pi'el_",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pi'el",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Pi'el",
+    "targetTopic": "Pi'el",
+    "enclosingTopic": "Binyan",
+    "enclosingSubtopic": "Kiddush is a noun that comes from the pi'el binyan"
+   },
+   {
+    "text": " binyan usually means \"to create holiness.\" The verb for someone who is creating holiness is מְקַדֵּשׁ (",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "mekadesh",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": "), and an act of making holiness is called a קִדּוּשׁ (",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "kiddush",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": "), like the one done on Friday night. So too can you take any verb that has a ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pi'el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " form and produce a noun with the same meaning by taking the three shoresh letters of the ",
+    "type": "text"
+   },
+   {
+    "text": "shoresh",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "shoresh",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Shoresh",
+    "targetTopic": "Shoresh",
+    "enclosingTopic": "Binyan",
+    "enclosingSubtopic": "Kiddush is a noun that comes from the pi'el binyan"
+   },
+   {
+    "text": " and plugging them into the pattern ",
+    "type": "text"
+   },
+   {
+    "type": "inline_code",
+    "text": "_י_ו_"
+   },
+   {
+    "text": ", which will produce a \"",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pi'el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " noun.\" There are many similar \"noun patterns\" where adding certain vowels and letters to a shoresh produces a certain noun. (See ",
+    "type": "text"
+   },
+   {
+    "type": "url",
+    "url": "https://www.sefaria.org/Klein_Dictionary%2C_%D7%94%D6%B7%D7%91%D6%B0%D7%93%D6%B8%D6%BC%D7%9C%D6%B8%D7%94.1",
+    "text": "this entry",
+    "tokens": [
+     {
+      "text": "this entry",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " in Klein for another example.)",
+    "type": "text"
+   }
+  ],
   "Make larger verbs out of multiple words": [
    {
-    "text": "In English, you have one simple verb like \"eat,\" and then you can add other words to form larger ideas like \"he made someone eat,\" or \"he was eaten,\" etc, whereas in Hebrew and Aramaic, all of these permutations will be entirely different one-word verbs which are formed from the same ",
+    "text": "In English, you have one simple verb like \"eat,\" and then you can add other words to form larger ideas like \"he made someone eat,\" or \"he was eaten,\" etc, whereas in Hebrew and Aramaic, all of these permutations will be entirely different one-word verbs with similar spellings because they are formed from the same ",
     "type": "text"
    },
    {
@@ -418,9 +724,9 @@
     "type": "text"
    }
   ],
-  "Related words are not necessarily spelled in a similar way": [
+  "Use entirely separate words for related concepts": [
    {
-    "text": "In English, you might have verbs like \"buy\" and \"sell\" that have related meanings but no linguistic relationship, whereas in Hebrew and Aramaic, a word like \"to buy\" (לִקְנוֹת) and word like \"to sell\" (לְהִיקָּנוֹת) would likely be verbs from two different binyans of the same ",
+    "text": "In English, words that have related meanings do not necessarily look similar. For example, you might have verbs like \"buy\" and \"sell\" that have related meanings but no visual similarity, whereas in Hebrew and Aramaic, a word like \"to buy\" (לִקְנוֹת) and word like \"to sell\" (לְהִיקָּנוֹת) would be verbs formed from two different binyans of the same ",
     "type": "text"
    },
    {
@@ -435,7 +741,7 @@
     "targetSubtopic": "Shoresh",
     "targetTopic": "Shoresh",
     "enclosingTopic": "Binyan",
-    "enclosingSubtopic": "Related words are not necessarily spelled in a similar way"
+    "enclosingSubtopic": "Use entirely separate words for related concepts"
    },
    {
     "text": " קנה, and so will have a similar spelling.",

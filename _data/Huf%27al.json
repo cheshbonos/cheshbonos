@@ -44,11 +44,11 @@
     "type": "text"
    },
    {
-    "text": "Binyan is a special grammatical construct in Hebrew and Aramaic",
+    "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
     "type": "global",
     "tokens": [
      {
-      "text": "Binyan is a special grammatical construct in Hebrew and Aramaic",
+      "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
       "type": "text"
      }
     ],
@@ -124,21 +124,21 @@
     "type": "text"
    },
    {
-    "text": "_isaf'al_",
+    "text": "_itaf'al_",
     "type": "global",
     "tokens": [
      {
       "type": "italics",
       "tokens": [
        {
-        "text": "isaf'al",
+        "text": "itaf'al",
         "type": "text"
        }
       ]
      }
     ],
-    "targetSubtopic": "Isaf'al",
-    "targetTopic": "Isaf'al",
+    "targetSubtopic": "Itaf'al",
+    "targetTopic": "Itaf'al",
     "enclosingTopic": "Huf'al",
     "enclosingSubtopic": "Huf'al"
    },

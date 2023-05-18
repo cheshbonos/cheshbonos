@@ -27,25 +27,25 @@
     "enclosingSubtopic": "Passive"
    },
    {
-    "text": ", although sometimes they have ",
+    "text": ". A binyan that is passive has verbs that are passive and vice versa. (",
     "type": "text"
    },
    {
-    "text": "reflexive meanings",
+    "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
     "type": "global",
     "tokens": [
      {
-      "text": "reflexive meanings",
+      "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Reflexive",
-    "targetTopic": "Reflexive",
+    "targetSubtopic": "Binyan",
+    "targetTopic": "Binyan",
     "enclosingTopic": "Passive",
     "enclosingSubtopic": "Passive"
    },
    {
-    "text": ". There are several passive binyanim ",
+    "text": ".) There are several passive binyanim ",
     "type": "text"
    },
    {
@@ -105,20 +105,149 @@
     "enclosingSubtopic": "The person being described is having an action done to them"
    },
    {
-    "text": ". For example, the verb לְהִיקָּנוֹת is passive, and means \"to be bought,\" and so the entity being described is the thing ",
+    "text": ". For example: ",
     "type": "text"
    },
    {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "being",
-      "type": "text"
-     }
+    "type": "table",
+    "rows": [
+     [
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "Shoresh",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "Active verb",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "Passive verb",
+          "type": "text"
+         }
+        ]
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "אכל",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to eat",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to be eaten",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "קנה",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to buy",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to be purchased",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "זכר",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to remember",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to be remembered",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "אמר",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to say",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to be said",
+        "type": "text"
+       }
+      ]
+     ]
     ]
    },
    {
-    "text": " bought, as opposed to the one doing the buying.",
+    "text": " This is a rule of thumb, although sometimes passive verbs have ",
+    "type": "text"
+   },
+   {
+    "text": "reflexive meanings",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "reflexive meanings",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Reflexive",
+    "targetTopic": "Reflexive",
+    "enclosingTopic": "Passive",
+    "enclosingSubtopic": "The person being described is having an action done to them"
+   },
+   {
+    "text": ".",
     "type": "text"
    }
   ],
@@ -381,21 +510,21 @@
         "type": "text"
        },
        {
-        "text": "_isaf'al_",
+        "text": "_itaf'al_",
         "type": "global",
         "tokens": [
          {
           "type": "italics",
           "tokens": [
            {
-            "text": "isaf'al",
+            "text": "itaf'al",
             "type": "text"
            }
           ]
          }
         ],
-        "targetSubtopic": "Isaf'al",
-        "targetTopic": "Isaf'al",
+        "targetSubtopic": "Itaf'al",
+        "targetTopic": "Itaf'al",
         "enclosingTopic": "Passive",
         "enclosingSubtopic": "In Aramaic"
        }

@@ -1152,7 +1152,7 @@
   ],
   "Possible meanings of האיש": [
    {
-    "text": "Try to use the following hints to guess the meaning of the word. There are ",
+    "text": "Try to use the following hints to guess the meaning of the word in this context. There are ",
     "type": "text"
    },
    {
@@ -1212,13 +1212,13 @@
   ],
   "Words that include a ה and א": [
    {
-    "text": "In Aramaic, there is a word הא which means \"that.\" There is also a word האי which means \"this.\"",
+    "text": "Maybe האיש is composed of smaller parts. In Aramaic, there is a word הא which means \"that.\" There is also a word האי which means \"this.\"",
     "type": "text"
    }
   ],
   "Words that include an א and ש": [
    {
-    "text": "In Hebrew, there is a word אש meaning \"fire,\" and there is a word איש meaning \"man.\"",
+    "text": "Maybe האיש is composed of smaller parts. In Hebrew, there is a word אש meaning \"fire,\" and there is a word איש meaning \"man.\"",
     "type": "text"
    }
   ],
@@ -1585,8 +1585,8 @@
       "type": "text"
      }
     ],
-    "targetSubtopic": "Ongoing",
-    "targetTopic": "Ongoing",
+    "targetSubtopic": "Ongoing tense",
+    "targetTopic": "Ongoing tense",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
     "enclosingSubtopic": "Grammatical explanation of מקדש"
    },

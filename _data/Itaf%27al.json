@@ -1,13 +1,13 @@
 {
- "displayTopicName": "Isaf'al",
+ "displayTopicName": "Itaf'al",
  "topicTokens": [
   {
-   "text": "Isaf'al",
+   "text": "Itaf'al",
    "type": "text"
   }
  ],
  "paragraphsBySubtopic": {
-  "Isaf'al": [
+  "Itaf'al": [
    {
     "text": "The ",
     "type": "text"
@@ -16,13 +16,13 @@
     "type": "italics",
     "tokens": [
      {
-      "text": "isaf'al",
+      "text": "itaf'al",
       "type": "text"
      }
     ]
    },
    {
-    "text": " (אִתַפְעַל) is one of the ",
+    "text": " (אִתַּפְעַל) is one of the ",
     "type": "text"
    },
    {
@@ -36,26 +36,26 @@
     ],
     "targetSubtopic": "Aramaic binyanim",
     "targetTopic": "Aramaic binyanim",
-    "enclosingTopic": "Isaf'al",
-    "enclosingSubtopic": "Isaf'al"
+    "enclosingTopic": "Itaf'al",
+    "enclosingSubtopic": "Itaf'al"
    },
    {
     "text": ". (",
     "type": "text"
    },
    {
-    "text": "Binyan is a special grammatical construct in Hebrew and Aramaic",
+    "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
     "type": "global",
     "tokens": [
      {
-      "text": "Binyan is a special grammatical construct in Hebrew and Aramaic",
+      "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
       "type": "text"
      }
     ],
     "targetSubtopic": "Binyan",
     "targetTopic": "Binyan",
-    "enclosingTopic": "Isaf'al",
-    "enclosingSubtopic": "Isaf'al"
+    "enclosingTopic": "Itaf'al",
+    "enclosingSubtopic": "Itaf'al"
    },
    {
     "text": ".) Verbs in the ",
@@ -65,7 +65,7 @@
     "type": "italics",
     "tokens": [
      {
-      "text": "isaf'al",
+      "text": "itaf'al",
       "type": "text"
      }
     ]
@@ -85,8 +85,8 @@
     ],
     "targetSubtopic": "Active",
     "targetTopic": "Active",
-    "enclosingTopic": "Isaf'al",
-    "enclosingSubtopic": "Isaf'al"
+    "enclosingTopic": "Itaf'al",
+    "enclosingSubtopic": "Itaf'al"
    },
    {
     "text": " and ",
@@ -103,8 +103,8 @@
     ],
     "targetSubtopic": "Causative",
     "targetTopic": "Causative",
-    "enclosingTopic": "Isaf'al",
-    "enclosingSubtopic": "Isaf'al"
+    "enclosingTopic": "Itaf'al",
+    "enclosingSubtopic": "Itaf'al"
    },
    {
     "text": ". The ",
@@ -114,7 +114,7 @@
     "type": "italics",
     "tokens": [
      {
-      "text": "isaf'al",
+      "text": "itaf'al",
       "type": "text"
      }
     ]
@@ -139,8 +139,8 @@
     ],
     "targetSubtopic": "Huf'al",
     "targetTopic": "Huf'al",
-    "enclosingTopic": "Isaf'al",
-    "enclosingSubtopic": "Isaf'al"
+    "enclosingTopic": "Itaf'al",
+    "enclosingSubtopic": "Itaf'al"
    },
    {
     "text": " in Hebrew.",

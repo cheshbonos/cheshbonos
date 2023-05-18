@@ -1,0 +1,107 @@
+{
+ "displayTopicName": "Verb forms of Hebrew and Aramaic",
+ "topicTokens": [
+  {
+   "text": "Verb forms of Hebrew and Aramaic",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Verb forms of Hebrew and Aramaic": [
+   {
+    "text": "There are several tenses and verb forms in Hebrew and Aramaic, including the ",
+    "type": "text"
+   },
+   {
+    "text": "ongoing tense",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "ongoing tense",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Ongoing tense",
+    "targetTopic": "Ongoing tense",
+    "enclosingTopic": "Verb forms of Hebrew and Aramaic",
+    "enclosingSubtopic": "Verb forms of Hebrew and Aramaic"
+   },
+   {
+    "text": ", ",
+    "type": "text"
+   },
+   {
+    "text": "past tense",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "past tense",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Past tense",
+    "targetTopic": "Past tense",
+    "enclosingTopic": "Verb forms of Hebrew and Aramaic",
+    "enclosingSubtopic": "Verb forms of Hebrew and Aramaic"
+   },
+   {
+    "text": ", ",
+    "type": "text"
+   },
+   {
+    "text": "future tense",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "future tense",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Future Tense",
+    "targetTopic": "Future Tense",
+    "enclosingTopic": "Verb forms of Hebrew and Aramaic",
+    "enclosingSubtopic": "Verb forms of Hebrew and Aramaic"
+   },
+   {
+    "text": ", ",
+    "type": "text"
+   },
+   {
+    "text": "imperative tense",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "imperative tense",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Imperative tense",
+    "targetTopic": "Imperative tense",
+    "enclosingTopic": "Verb forms of Hebrew and Aramaic",
+    "enclosingSubtopic": "Verb forms of Hebrew and Aramaic"
+   },
+   {
+    "text": ", and ",
+    "type": "text"
+   },
+   {
+    "text": "infinitive",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "infinitive",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Infinitive",
+    "targetTopic": "Infinitive",
+    "enclosingTopic": "Verb forms of Hebrew and Aramaic",
+    "enclosingSubtopic": "Verb forms of Hebrew and Aramaic"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ]
+ }
+}

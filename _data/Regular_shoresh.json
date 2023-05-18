@@ -1,0 +1,53 @@
+{
+ "displayTopicName": "Regular shoresh",
+ "topicTokens": [
+  {
+   "text": "Regular shoresh",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Regular shoresh": [
+   {
+    "text": "A regular ",
+    "type": "text"
+   },
+   {
+    "text": "shoresh",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "shoresh",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Shoresh",
+    "targetTopic": "Shoresh",
+    "enclosingTopic": "Regular shoresh",
+    "enclosingSubtopic": "Regular shoresh"
+   },
+   {
+    "text": " is a shoresh where the vowels and spelling of verbs that are produced from that shoresh follow the normal patterns for each verb form. The alternative is an ",
+    "type": "text"
+   },
+   {
+    "text": "irregular",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "irregular",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Irregular shoresh",
+    "targetTopic": "Irregular shoresh",
+    "enclosingTopic": "Regular shoresh",
+    "enclosingSubtopic": "Regular shoresh"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ]
+ }
+}

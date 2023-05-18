@@ -1,0 +1,35 @@
+{
+ "displayTopicName": "Future Tense",
+ "topicTokens": [
+  {
+   "text": "Future Tense",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Future Tense": [
+   {
+    "text": "The future tense is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "verb forms of Hebrew and Aramaic",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "verb forms of Hebrew and Aramaic",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Verb forms of Hebrew and Aramaic",
+    "targetTopic": "Verb forms of Hebrew and Aramaic",
+    "enclosingTopic": "Future Tense",
+    "enclosingSubtopic": "Future Tense"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ]
+ }
+}

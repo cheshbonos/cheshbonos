@@ -45,7 +45,25 @@
     "enclosingSubtopic": "Reflexive"
    },
    {
-    "text": ". There are ",
+    "text": ". A binyan that is reflexive has verbs that are reflexive and vice versa. (",
+    "type": "text"
+   },
+   {
+    "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Binyan",
+    "targetTopic": "Binyan",
+    "enclosingTopic": "Reflexive",
+    "enclosingSubtopic": "Reflexive"
+   },
+   {
+    "text": ".) There are ",
     "type": "text"
    },
    {
@@ -69,14 +87,238 @@
   ],
   "Circular": [
    {
-    "text": "Reflexive verbs often describe an action where the doer does something to themselves, for example, the shoresh לבש corresponds to the concept of clothing, and the causative verb from that shoresh is לְהִתְלַבֵּשׁ, which means \"to dress oneself.\"",
+    "text": "Reflexive verbs often describe an action where the doer does something to themselves, for example: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "Shoresh",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "Simple verb",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "Reflexive verb",
+          "type": "text"
+         }
+        ]
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "לבש",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to dress",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to dress oneself",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "בדד",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to seperate",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to go into isolation",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "בלל",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to mix",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to assimilate",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "גדר",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to fence",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to limit oneself to something",
+        "type": "text"
+       }
+      ]
+     ]
+    ]
+   },
+   {
+    "text": "  the shoresh לבש corresponds to the concept of clothing, and the causative verb from that shoresh is לְהִתְלַבֵּשׁ, which means \"to dress oneself.\"",
     "type": "text"
    }
   ],
   "Transformative actions": [
    {
-    "text": "Reflexive verbs can also refer to situations where an entity undergoes a transformation, for example, the shoresh חדש means \"newness,\" and the reflexive verb לְהִתְחַדֵּשׁ means \"to revitalize\" ie for something to transform into being new.",
+    "text": "Reflexive verbs can also refer to situations where an entity undergoes a transformation, for example: ",
     "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "Shoresh",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "Simple verb",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "Reflexive verb",
+          "type": "text"
+         }
+        ]
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "חדש",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to be new",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to revitalize",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "זקן",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to be old",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to grow old",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "חרש",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to be deaf",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to become deaf",
+        "type": "text"
+       }
+      ]
+     ]
+    ]
    }
   ],
   "Several reflexive binyanim in Hebrew and Aramaic": [

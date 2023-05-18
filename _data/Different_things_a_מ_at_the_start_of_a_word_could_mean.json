@@ -56,21 +56,21 @@
         "type": "text"
        },
        {
-        "text": "\"ongoing\"",
+        "text": "\"ongoing\" tense",
         "type": "global",
         "tokens": [
          {
-          "text": "\"ongoing\"",
+          "text": "\"ongoing\" tense",
           "type": "text"
          }
         ],
-        "targetSubtopic": "Ongoing",
-        "targetTopic": "Ongoing",
+        "targetSubtopic": "Ongoing tense",
+        "targetTopic": "Ongoing tense",
         "enclosingTopic": "Different things a מ at the start of a word could mean",
         "enclosingSubtopic": "Different things a מ at the start of a word could mean"
        },
        {
-        "text": " tense of an ",
+        "text": " of an ",
         "type": "text"
        },
        {
@@ -103,21 +103,21 @@
         "type": "text"
        },
        {
-        "text": "\"ongoing\"",
+        "text": "\"ongoing\" tense",
         "type": "global",
         "tokens": [
          {
-          "text": "\"ongoing\"",
+          "text": "\"ongoing\" tense",
           "type": "text"
          }
         ],
-        "targetSubtopic": "Ongoing",
-        "targetTopic": "Ongoing",
+        "targetSubtopic": "Ongoing tense",
+        "targetTopic": "Ongoing tense",
         "enclosingTopic": "Different things a מ at the start of a word could mean",
         "enclosingSubtopic": "Different things a מ at the start of a word could mean"
        },
        {
-        "text": " tense of a ",
+        "text": " of a ",
         "type": "text"
        },
        {

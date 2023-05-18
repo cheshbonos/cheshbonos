@@ -117,6 +117,24 @@
     "enclosingSubtopic": "Shoresh"
    },
    {
+    "text": ". There are ",
+    "type": "text"
+   },
+   {
+    "text": "regular and irregular shorushim",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "regular and irregular shorushim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Regular and irregular shorushim",
+    "targetTopic": "Shoresh",
+    "enclosingTopic": "Shoresh",
+    "enclosingSubtopic": "Shoresh"
+   },
+   {
     "text": ".",
     "type": "text"
    }
@@ -193,6 +211,48 @@
   "Debate over the exact definition of a shoresh": [
    {
     "text": "Often we see words that only seem to have two root letters, like מת, and there is a debate over whether to think of these as being a special type of \"two letter\" shoresh, or whether to think of them as being a three-letter shoresh like מות that loses the middle letter in certain conjugations, but this dispute has no practical ramifications because everyone agrees on the spelling of the words that come from two-letter shorushim.",
+    "type": "text"
+   }
+  ],
+  "Regular and irregular shorushim": [
+   {
+    "text": "Shorushim can be ",
+    "type": "text"
+   },
+   {
+    "text": "regular",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "regular",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Regular shoresh",
+    "targetTopic": "Regular shoresh",
+    "enclosingTopic": "Shoresh",
+    "enclosingSubtopic": "Regular and irregular shorushim"
+   },
+   {
+    "text": " or ",
+    "type": "text"
+   },
+   {
+    "text": "irregular",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "irregular",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Irregular shoresh",
+    "targetTopic": "Irregular shoresh",
+    "enclosingTopic": "Shoresh",
+    "enclosingSubtopic": "Regular and irregular shorushim"
+   },
+   {
+    "text": ".",
     "type": "text"
    }
   ]

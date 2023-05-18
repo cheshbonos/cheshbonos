@@ -27,7 +27,7 @@
     "enclosingSubtopic": "קדש"
    },
    {
-    "text": " in Hebrew and Aramaic. It has certain ",
+    "text": " in Hebrew and Aramaic. It has ",
     "type": "text"
    },
    {
@@ -45,7 +45,61 @@
     "enclosingSubtopic": "קדש"
    },
    {
+    "text": ". More information can be found in ",
+    "type": "text"
+   },
+   {
+    "text": "dictionaries",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "dictionaries",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Dictionaries",
+    "targetTopic": "קדש",
+    "enclosingTopic": "קדש",
+    "enclosingSubtopic": "קדש"
+   },
+   {
     "text": ".",
+    "type": "text"
+   }
+  ],
+  "Dictionaries": [
+   {
+    "text": "More information can be found in the ",
+    "type": "text"
+   },
+   {
+    "type": "url",
+    "url": "https://www.sefaria.org/Jastrow%2C_%D7%A7%D6%B8%D7%93%D6%B7%D7%A9%D7%81.1",
+    "text": "Jastrow",
+    "tokens": [
+     {
+      "text": "Jastrow",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " and ",
+    "type": "text"
+   },
+   {
+    "type": "url",
+    "url": "https://www.sefaria.org/Klein_Dictionary%2C_%D7%A7%D7%93%D7%A9%D7%81.1",
+    "text": "Klein",
+    "tokens": [
+     {
+      "text": "Klein",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " dictionaries.",
     "type": "text"
    }
   ],

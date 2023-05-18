@@ -27,7 +27,25 @@
     "enclosingSubtopic": "Intensive"
    },
    {
-    "text": ". There are ",
+    "text": ". A binyan that is intensive has verbs that are intensive and vice versa. (",
+    "type": "text"
+   },
+   {
+    "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Binyan",
+    "targetTopic": "Binyan",
+    "enclosingTopic": "Intensive",
+    "enclosingSubtopic": "Intensive"
+   },
+   {
+    "text": ".) There are ",
     "type": "text"
    },
    {
@@ -69,7 +87,209 @@
     "enclosingSubtopic": "Intensive or repetitive"
    },
    {
-    "text": ". For example, the shoresh שבר means \"the idea of things breaking,\" whereas the intensive form לְשַׁבֵּר, means \"to shatter.\"",
+    "text": ", although sometimes the meaning is ",
+    "type": "text"
+   },
+   {
+    "text": "causative",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "causative",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Causative",
+    "targetTopic": "Causative",
+    "enclosingTopic": "Intensive",
+    "enclosingSubtopic": "Intensive or repetitive"
+   },
+   {
+    "text": ". For example: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "Shoresh",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "Simple verb",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "Intensive verb",
+          "type": "text"
+         }
+        ]
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "שבר",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to break",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to shatter",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "חשב",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to think",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to calculate",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "יקר",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to value",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to increase the price of something",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "ישב",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to sit",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to create a settlement",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "כלה",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to finish",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to annihilate",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "כתב",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to write",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to engrave",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "עור",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to wake up",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to arouse or energize someone",
+        "type": "text"
+       }
+      ]
+     ]
+    ]
+   },
+   {
+    "text": " Ultimately these are just rules of thumb, and you can never be sure exactly what an intensive verb will mean just by looking at the meaning of its shoresh.",
     "type": "text"
    }
   ],

@@ -9,25 +9,43 @@
  "paragraphsBySubtopic": {
   "Causative": [
    {
-    "text": "\"Causative\" is a category of verb in Hebrew and Aramaic. Causative verbs often describe an action that ",
+    "text": "\"Causative\" is a category of verb in Hebrew and Aramaic. Causative verbs often describe ",
     "type": "text"
    },
    {
-    "text": "makes something else change",
+    "text": "an action that makes something else change",
     "type": "local",
     "tokens": [
      {
-      "text": "makes something else change",
+      "text": "an action that makes something else change",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Makes something else change",
+    "targetSubtopic": "An action that makes something else change",
     "targetTopic": "Causative",
     "enclosingTopic": "Causative",
     "enclosingSubtopic": "Causative"
    },
    {
-    "text": ". There are ",
+    "text": ". A binyan that is causative has verbs that are causative and vice versa. (",
+    "type": "text"
+   },
+   {
+    "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Binyan",
+    "targetTopic": "Binyan",
+    "enclosingTopic": "Causative",
+    "enclosingSubtopic": "Causative"
+   },
+   {
+    "text": ".) There are ",
     "type": "text"
    },
    {
@@ -49,10 +67,130 @@
     "type": "text"
    }
   ],
-  "Makes something else change": [
+  "An action that makes something else change": [
    {
-    "text": "Causative verbs often describe an action that makes someone or something else become a certain way. For example, the shoresh אכל means \"the idea of eating\", whereas the causative verb of that shoresh is לְהַאֲכִיל, which means \"to feed,\" ie \"to make someone else eat.\"",
+    "text": "Causative verbs often describe an action that makes someone or something else become a certain way. For example: ",
     "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "Shoresh",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "Simple verb",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "Causative verb",
+          "type": "text"
+         }
+        ]
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "אכל",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to eat",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to make someone else eat (ie to feed)",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "חזר",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to return",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to make something return (ie to return something)",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "בוה",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to come",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to make something come (ie to bring something)",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "זכר",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to remember",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to make something be remembered (ie to mention)",
+        "type": "text"
+       }
+      ]
+     ]
+    ]
    }
   ],
   "Several causative binyanim in Hebrew and Aramaic": [
@@ -197,21 +335,21 @@
         "type": "text"
        },
        {
-        "text": "_isaf'al_",
+        "text": "_itaf'al_",
         "type": "global",
         "tokens": [
          {
           "type": "italics",
           "tokens": [
            {
-            "text": "isaf'al",
+            "text": "itaf'al",
             "type": "text"
            }
           ]
          }
         ],
-        "targetSubtopic": "Isaf'al",
-        "targetTopic": "Isaf'al",
+        "targetSubtopic": "Itaf'al",
+        "targetTopic": "Itaf'al",
         "enclosingTopic": "Causative",
         "enclosingSubtopic": "Several causative binyanim in Hebrew and Aramaic"
        }

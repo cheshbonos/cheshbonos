@@ -44,11 +44,11 @@
     "type": "text"
    },
    {
-    "text": "Binyan is a special grammatical construct in Hebrew and Aramaic",
+    "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
     "type": "global",
     "tokens": [
      {
-      "text": "Binyan is a special grammatical construct in Hebrew and Aramaic",
+      "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
       "type": "text"
      }
     ],
@@ -120,6 +120,37 @@
     ]
    },
    {
+    "text": " has conjugations in various ",
+    "type": "text"
+   },
+   {
+    "text": "tenses",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "tenses",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Tenses",
+    "targetTopic": "Pa'al",
+    "enclosingTopic": "Pa'al",
+    "enclosingSubtopic": "Pa'al"
+   },
+   {
+    "text": ". The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pa'al",
+      "type": "text"
+     }
+    ]
+   },
+   {
     "text": " corresponds to the ",
     "type": "text"
    },
@@ -144,6 +175,681 @@
    },
    {
     "text": " in Aramaic.",
+    "type": "text"
+   }
+  ],
+  "Tenses": [
+   {
+    "text": "There is a ",
+    "type": "text"
+   },
+   {
+    "text": "_pa'al_ ongoing tense",
+    "type": "local",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pa'al",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " ongoing tense",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Ongoing tense",
+    "targetTopic": "Pa'al",
+    "enclosingTopic": "Pa'al",
+    "enclosingSubtopic": "Tenses"
+   },
+   {
+    "text": ", a ",
+    "type": "text"
+   },
+   {
+    "text": "_pa'al_ past tense",
+    "type": "local",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pa'al",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " past tense",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Past tense",
+    "targetTopic": "Pa'al",
+    "enclosingTopic": "Pa'al",
+    "enclosingSubtopic": "Tenses"
+   },
+   {
+    "text": ", a ",
+    "type": "text"
+   },
+   {
+    "text": "_pa'al_ future tense",
+    "type": "local",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pa'al",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " future tense",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Future tense",
+    "targetTopic": "Pa'al",
+    "enclosingTopic": "Pa'al",
+    "enclosingSubtopic": "Tenses"
+   },
+   {
+    "text": ", an ",
+    "type": "text"
+   },
+   {
+    "text": "_pa'al_ imperative tense",
+    "type": "local",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pa'al",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " imperative tense",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Imperative tense",
+    "targetTopic": "Pa'al",
+    "enclosingTopic": "Pa'al",
+    "enclosingSubtopic": "Tenses"
+   },
+   {
+    "text": ", and an ",
+    "type": "text"
+   },
+   {
+    "text": "_pa'al_ infinitive",
+    "type": "local",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pa'al",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " infinitive",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Infinitive",
+    "targetTopic": "Pa'al",
+    "enclosingTopic": "Pa'al",
+    "enclosingSubtopic": "Tenses"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Ongoing tense": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pa'al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " has an ongoing tense. (The ",
+    "type": "text"
+   },
+   {
+    "text": "ongoing tense",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "ongoing tense",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Ongoing tense",
+    "targetTopic": "Ongoing tense",
+    "enclosingTopic": "Pa'al",
+    "enclosingSubtopic": "Ongoing tense"
+   },
+   {
+    "text": " is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "tenses of Hebrew and Aramaic",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "tenses of Hebrew and Aramaic",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Verb forms of Hebrew and Aramaic",
+    "targetTopic": "Verb forms of Hebrew and Aramaic",
+    "enclosingTopic": "Pa'al",
+    "enclosingSubtopic": "Ongoing tense"
+   },
+   {
+    "text": ".) This is an example of how you conjugate a regular ",
+    "type": "text"
+   },
+   {
+    "text": "shoresh",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "shoresh",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Shoresh",
+    "targetTopic": "Shoresh",
+    "enclosingTopic": "Pa'al",
+    "enclosingSubtopic": "Ongoing tense"
+   },
+   {
+    "text": " in the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pa'al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " ongoing tense: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      [
+       {
+        "text": "Person",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Hebrew",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Transliteration",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "Masculine singular",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "כּוֹתֵב",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "koiseiv",
+          "type": "text"
+         }
+        ]
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "Feminine singular",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "כּוֹתֶבֶת",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "koiseves",
+          "type": "text"
+         }
+        ]
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "Masculine plural",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "כּוֹתְבִים",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "koisvim",
+          "type": "text"
+         }
+        ]
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "Feminine plural",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "כּוֹתְבוֹת",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "koisvois",
+          "type": "text"
+         }
+        ]
+       }
+      ]
+     ]
+    ]
+   },
+   {
+    "text": " The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pa'al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " ongoing tense features a ו between the first and second root letters. You can see examples of the ",
+    "type": "text"
+   },
+   {
+    "text": "ongoing tense",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "ongoing tense",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Ongoing tense",
+    "targetTopic": "Ongoing tense",
+    "enclosingTopic": "Pa'al",
+    "enclosingSubtopic": "Ongoing tense"
+   },
+   {
+    "text": " in ",
+    "type": "text"
+   },
+   {
+    "text": "other binyanim",
+    "type": "import",
+    "tokens": [
+     {
+      "text": "other binyanim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Multiple versions",
+    "targetTopic": "Ongoing tense",
+    "enclosingTopic": "Pa'al",
+    "enclosingSubtopic": "Ongoing tense"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Past tense": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pa'al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " has an past tense. (The ",
+    "type": "text"
+   },
+   {
+    "text": "past tense",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "past tense",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Past tense",
+    "targetTopic": "Past tense",
+    "enclosingTopic": "Pa'al",
+    "enclosingSubtopic": "Past tense"
+   },
+   {
+    "text": " is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "tenses of Hebrew and Aramaic",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "tenses of Hebrew and Aramaic",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Verb forms of Hebrew and Aramaic",
+    "targetTopic": "Verb forms of Hebrew and Aramaic",
+    "enclosingTopic": "Pa'al",
+    "enclosingSubtopic": "Past tense"
+   },
+   {
+    "text": ".)",
+    "type": "text"
+   }
+  ],
+  "Future tense": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pa'al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " has a future tense. (The ",
+    "type": "text"
+   },
+   {
+    "text": "future tense",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "future tense",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Future Tense",
+    "targetTopic": "Future Tense",
+    "enclosingTopic": "Pa'al",
+    "enclosingSubtopic": "Future tense"
+   },
+   {
+    "text": " is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "tenses of Hebrew and Aramaic",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "tenses of Hebrew and Aramaic",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Verb forms of Hebrew and Aramaic",
+    "targetTopic": "Verb forms of Hebrew and Aramaic",
+    "enclosingTopic": "Pa'al",
+    "enclosingSubtopic": "Future tense"
+   },
+   {
+    "text": ".) The future tense has various ",
+    "type": "text"
+   },
+   {
+    "text": "uses",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "uses",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Uses",
+    "targetTopic": "Pa'al",
+    "enclosingTopic": "Pa'al",
+    "enclosingSubtopic": "Future tense"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Uses": [
+   {
+    "text": "The future tense is often used to describe an action that will occur in the future, but it has several other uses: | ",
+    "type": "text"
+   },
+   {
+    "type": "bold",
+    "tokens": [
+     {
+      "text": "Future Verb",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " | ",
+    "type": "text"
+   },
+   {
+    "type": "bold",
+    "tokens": [
+     {
+      "text": "Meaning",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " | |-|-|-|\n| אכל | to eat |\n| קנה | to buy |\n| זכר | to remember |\n| אמר | to say |",
+    "type": "text"
+   }
+  ],
+  "Imperative tense": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pa'al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " has an imperative tense. (The ",
+    "type": "text"
+   },
+   {
+    "text": "imperative tense",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "imperative tense",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Imperative tense",
+    "targetTopic": "Imperative tense",
+    "enclosingTopic": "Pa'al",
+    "enclosingSubtopic": "Imperative tense"
+   },
+   {
+    "text": " is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "tenses of Hebrew and Aramaic",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "tenses of Hebrew and Aramaic",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Verb forms of Hebrew and Aramaic",
+    "targetTopic": "Verb forms of Hebrew and Aramaic",
+    "enclosingTopic": "Pa'al",
+    "enclosingSubtopic": "Imperative tense"
+   },
+   {
+    "text": ".)",
+    "type": "text"
+   }
+  ],
+  "Infinitive": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pa'al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " has an infinitive. (The ",
+    "type": "text"
+   },
+   {
+    "text": "infinitive",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "infinitive",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Infinitive",
+    "targetTopic": "Infinitive",
+    "enclosingTopic": "Pa'al",
+    "enclosingSubtopic": "Infinitive"
+   },
+   {
+    "text": " is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "tenses of Hebrew and Aramaic",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "tenses of Hebrew and Aramaic",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Verb forms of Hebrew and Aramaic",
+    "targetTopic": "Verb forms of Hebrew and Aramaic",
+    "enclosingTopic": "Pa'al",
+    "enclosingSubtopic": "Infinitive"
+   },
+   {
+    "text": ".)",
     "type": "text"
    }
   ]

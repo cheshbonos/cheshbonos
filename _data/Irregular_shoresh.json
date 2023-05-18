@@ -1,0 +1,79 @@
+{
+ "displayTopicName": "Irregular shoresh",
+ "topicTokens": [
+  {
+   "text": "Irregular shoresh",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Irregular shoresh": [
+   {
+    "text": "An irregular shoresh, as opposed to a ",
+    "type": "text"
+   },
+   {
+    "text": "regular shoresh",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "regular shoresh",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Regular shoresh",
+    "targetTopic": "Regular shoresh",
+    "enclosingTopic": "Irregular shoresh",
+    "enclosingSubtopic": "Irregular shoresh"
+   },
+   {
+    "text": ", is a ",
+    "type": "text"
+   },
+   {
+    "text": "shoresh",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "shoresh",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Shoresh",
+    "targetTopic": "Shoresh",
+    "enclosingTopic": "Irregular shoresh",
+    "enclosingSubtopic": "Irregular shoresh"
+   },
+   {
+    "text": " that has special letters that affect the vowelization of verbs produced from that shoresh. A common example is a shoresh that has a י in the first position, such as ישב, where the י will often becomes a ו in verb forms that have prefixes, for example having מוֹשִׁיב (",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "moshiv",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ") instead of the more typical מֵישִׁיב (",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "mayshiv",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": "), which might be harder to pronounce.",
+    "type": "text"
+   }
+  ]
+ }
+}

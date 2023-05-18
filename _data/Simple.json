@@ -9,33 +9,64 @@
  "paragraphsBySubtopic": {
   "Simple": [
    {
-    "text": "\"Simple\" is a category of verb in Hebrew and Aramaic. Simple verbs have meanings that are ",
+    "text": "\"Simple\" (also known as ",
     "type": "text"
    },
    {
-    "text": "similar to their shoresh",
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "kal",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ") is a category of verb in Hebrew and Aramaic. Simple verbs usually have ",
+    "type": "text"
+   },
+   {
+    "text": "meanings that are similar to their shoresh",
     "type": "local",
     "tokens": [
      {
-      "text": "similar to their shoresh",
+      "text": "meanings that are similar to their shoresh",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Similar to their shoresh",
+    "targetSubtopic": "Meanings that are similar to their shoresh",
     "targetTopic": "Simple",
     "enclosingTopic": "Simple",
     "enclosingSubtopic": "Simple"
    },
    {
-    "text": ". There are ",
+    "text": ". A binyan that is simple has verbs that are simple and vice versa. (",
     "type": "text"
    },
    {
-    "text": "several simple binyanim in Hebrew and Aramaic",
+    "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Binyan",
+    "targetTopic": "Binyan",
+    "enclosingTopic": "Simple",
+    "enclosingSubtopic": "Simple"
+   },
+   {
+    "text": ".) There are ",
+    "type": "text"
+   },
+   {
+    "text": "several \"simple\" binyanim in Hebrew and Aramaic",
     "type": "local",
     "tokens": [
      {
-      "text": "several simple binyanim in Hebrew and Aramaic",
+      "text": "several \"simple\" binyanim in Hebrew and Aramaic",
       "type": "text"
      }
     ],
@@ -49,7 +80,7 @@
     "type": "text"
    }
   ],
-  "Similar to their shoresh": [
+  "Meanings that are similar to their shoresh": [
    {
     "text": "Simple verbs have meanings that are very similar to their associated ",
     "type": "text"
@@ -66,16 +97,154 @@
     "targetSubtopic": "Shoresh",
     "targetTopic": "Shoresh",
     "enclosingTopic": "Simple",
-    "enclosingSubtopic": "Similar to their shoresh"
+    "enclosingSubtopic": "Meanings that are similar to their shoresh"
    },
    {
-    "text": ". For example, the shoresh אכל represents the idea of eating, whereas the simple verb of that shoresh is לֶאֱכוֹל, which means \"to eat.\"",
+    "text": ". For example: ",
     "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "Shoresh",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "Meaning",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "Simple verb",
+          "type": "text"
+         }
+        ]
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "אכל",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "eating",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to eat",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "הלח",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "walking",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to walk",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "אמר",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "speech",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to say",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "ישב",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "sitting",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "to sit",
+        "type": "text"
+       }
+      ]
+     ]
+    ]
    }
   ],
   "Several simple binyanim in Hebrew and Aramaic": [
    {
-    "text": "There are several simple binyanim in Hebrew and Aramaic: ",
+    "text": "There are several \"simple\" binyanim in Hebrew and Aramaic. (",
+    "type": "text"
+   },
+   {
+    "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Binyan",
+    "targetTopic": "Binyan",
+    "enclosingTopic": "Simple",
+    "enclosingSubtopic": "Several simple binyanim in Hebrew and Aramaic"
+   },
+   {
+    "text": ".) ",
     "type": "text"
    },
    {

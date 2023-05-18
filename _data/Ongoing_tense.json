@@ -1,0 +1,2112 @@
+{
+ "displayTopicName": "Ongoing tense",
+ "topicTokens": [
+  {
+   "text": "Ongoing tense",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Ongoing tense": [
+   {
+    "text": "The ongoing tense (sometimes called ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "lashon po'el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ") is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "verb forms of Hebrew and Aramaic",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "verb forms of Hebrew and Aramaic",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Verb forms of Hebrew and Aramaic",
+    "targetTopic": "Verb forms of Hebrew and Aramaic",
+    "enclosingTopic": "Ongoing tense",
+    "enclosingSubtopic": "Ongoing tense"
+   },
+   {
+    "text": ". It is similar to the English \"ing\" verbs. The ongoing tense has various ",
+    "type": "text"
+   },
+   {
+    "text": "uses",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "uses",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Uses",
+    "targetTopic": "Ongoing tense",
+    "enclosingTopic": "Ongoing tense",
+    "enclosingSubtopic": "Ongoing tense"
+   },
+   {
+    "text": ", and it has various ",
+    "type": "text"
+   },
+   {
+    "text": "forms",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "forms",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Forms",
+    "targetTopic": "Ongoing tense",
+    "enclosingTopic": "Ongoing tense",
+    "enclosingSubtopic": "Ongoing tense"
+   },
+   {
+    "text": ". The ongoing tense is also called the \"participle.\"",
+    "type": "text"
+   }
+  ],
+  "Uses": [
+   {
+    "text": "The ongoing tense ",
+    "type": "text"
+   },
+   {
+    "text": "corresponds to both the English present and ongoing tense",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "corresponds to both the English present and ongoing tense",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Corresponds to both the English present and ongoing tense",
+    "targetTopic": "Ongoing tense",
+    "enclosingTopic": "Ongoing tense",
+    "enclosingSubtopic": "Uses"
+   },
+   {
+    "text": ". It can be ",
+    "type": "text"
+   },
+   {
+    "text": "used for various time periods",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "used for various time periods",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Used for various time periods",
+    "targetTopic": "Ongoing tense",
+    "enclosingTopic": "Ongoing tense",
+    "enclosingSubtopic": "Uses"
+   },
+   {
+    "text": ", and can ",
+    "type": "text"
+   },
+   {
+    "text": "function as a noun or adjective",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "function as a noun or adjective",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Function as a noun or adjective",
+    "targetTopic": "Ongoing tense",
+    "enclosingTopic": "Ongoing tense",
+    "enclosingSubtopic": "Uses"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Forms": [
+   {
+    "text": "There are ",
+    "type": "text"
+   },
+   {
+    "text": "multiple versions of the ongoing tense",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "multiple versions of the ongoing tense",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Multiple versions",
+    "targetTopic": "Ongoing tense",
+    "enclosingTopic": "Ongoing tense",
+    "enclosingSubtopic": "Forms"
+   },
+   {
+    "text": ". Each version has conjugations ",
+    "type": "text"
+   },
+   {
+    "text": "for gender and number",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "for gender and number",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "For gender and number",
+    "targetTopic": "Ongoing tense",
+    "enclosingTopic": "Ongoing tense",
+    "enclosingSubtopic": "Forms"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Corresponds to both the English present and ongoing tense": [
+   {
+    "text": "Whereas in English you can say \"he is writing\" or \"he writes,\" in Hebrew and Aramaic, both of these meanings would be expressed with the same ongoing form eg הוא כותב, ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "hu koisev",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ", and so when we see the word כותב, we can't be sure without context whether it is referring to someone who is writing right now, or someone writes habitually.",
+    "type": "text"
+   }
+  ],
+  "Used for various time periods": [
+   {
+    "text": "A word in the ongoing tense technically ",
+    "type": "text"
+   },
+   {
+    "text": "has no time",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "has no time",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Has no time",
+    "targetTopic": "Ongoing tense",
+    "enclosingTopic": "Ongoing tense",
+    "enclosingSubtopic": "Used for various time periods"
+   },
+   {
+    "text": ", and can be used ",
+    "type": "text"
+   },
+   {
+    "text": "in the past",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "in the past",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "In the past",
+    "targetTopic": "Ongoing tense",
+    "enclosingTopic": "Ongoing tense",
+    "enclosingSubtopic": "Used for various time periods"
+   },
+   {
+    "text": ", ",
+    "type": "text"
+   },
+   {
+    "text": "in the present",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "in the present",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "In the present",
+    "targetTopic": "Ongoing tense",
+    "enclosingTopic": "Ongoing tense",
+    "enclosingSubtopic": "Used for various time periods"
+   },
+   {
+    "text": ", or ",
+    "type": "text"
+   },
+   {
+    "text": "in the future",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "in the future",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "In the future",
+    "targetTopic": "Ongoing tense",
+    "enclosingTopic": "Ongoing tense",
+    "enclosingSubtopic": "Used for various time periods"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Has no time": [
+   {
+    "text": "A word in the ongoing tense of Hebrew or Aramaic does not alone tell us what time the action happened. This is like the English word \"running,\" which only describes an action, not when it happened. We require the context of the sentence to determine the time of the action.",
+    "type": "text"
+   }
+  ],
+  "In the past": [
+   {
+    "text": "The ongoing tense can be used in the past tense, for example הוא היה כותב, ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "hu haya koisev",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " meaning \"he used to write\" or \"he used to be writing.\" If you wanted to say \"he wrote,\" ie a one-time past event instead of an ongoing past event, you would just use the regular ",
+    "type": "text"
+   },
+   {
+    "text": "past tense",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "past tense",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Past tense",
+    "targetTopic": "Past tense",
+    "enclosingTopic": "Ongoing tense",
+    "enclosingSubtopic": "In the past"
+   },
+   {
+    "text": ", and not the \"past-tense version\" of the ongoing tense.",
+    "type": "text"
+   }
+  ],
+  "In the present": [
+   {
+    "text": "The ongoing tense can be used in the present tense by adding a noun before the verb, for example, הוא כותב, ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "hu koisev",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ", meaning \"he is writing\" or \"he writes.\"",
+    "type": "text"
+   }
+  ],
+  "In the future": [
+   {
+    "text": "The ongoing tense can be used in the future tense, for example, הוא יהיה כותב, ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "hu yiyeh koisev",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ", meaning \"he will be writing.\" If you wanted to say \"he will write,\" ie a one-time future event, you would just use the regular ",
+    "type": "text"
+   },
+   {
+    "text": "future tense",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "future tense",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Future Tense",
+    "targetTopic": "Future Tense",
+    "enclosingTopic": "Ongoing tense",
+    "enclosingSubtopic": "In the future"
+   },
+   {
+    "text": " and not the \"future version\" of the ongoing tense.",
+    "type": "text"
+   }
+  ],
+  "Function as a noun or adjective": [
+   {
+    "text": "Words in the ongoing tense can function ",
+    "type": "text"
+   },
+   {
+    "text": "as nouns",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "as nouns",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "As nouns",
+    "targetTopic": "Ongoing tense",
+    "enclosingTopic": "Ongoing tense",
+    "enclosingSubtopic": "Function as a noun or adjective"
+   },
+   {
+    "text": " or ",
+    "type": "text"
+   },
+   {
+    "text": "as adjectives",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "as adjectives",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "As adjectives",
+    "targetTopic": "Ongoing tense",
+    "enclosingTopic": "Ongoing tense",
+    "enclosingSubtopic": "Function as a noun or adjective"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "As nouns": [
+   {
+    "text": "The ongoing tense can function as a noun in two ways, ",
+    "type": "text"
+   },
+   {
+    "text": "describing someone doing the action",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "describing someone doing the action",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Describing someone doing the action",
+    "targetTopic": "Ongoing tense",
+    "enclosingTopic": "Ongoing tense",
+    "enclosingSubtopic": "As nouns"
+   },
+   {
+    "text": ", or ",
+    "type": "text"
+   },
+   {
+    "text": "describing an instance of an action",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "describing an instance of an action",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Describing an instance of an action",
+    "targetTopic": "Ongoing tense",
+    "enclosingTopic": "Ongoing tense",
+    "enclosingSubtopic": "As nouns"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Describing someone doing the action": [
+   {
+    "text": "The ongoing tense can function as a noun describing someone or something doing the given action. For example: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      [
+       {
+        "text": "Hebrew",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "כּוֹתֵב",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " צָרִיךְ פֶּֽתֶק",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "Transliteration",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "type": "bold",
+          "tokens": [
+           {
+            "text": "koisev",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " tzarich petek",
+          "type": "text"
+         }
+        ]
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "English",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "a person who is running",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " needs shoes.",
+        "type": "text"
+       }
+      ]
+     ]
+    ]
+   },
+   {
+    "text": " Here, we see the Hebrew word \"running\" can also mean \"a person who is running.\" Putting a ה in front of the word ie הַכּוֹתֵב would mean \"the one who runs.\"",
+    "type": "text"
+   }
+  ],
+  "Describing an instance of an action": [
+   {
+    "text": "The ongoing tense can function as a noun describing someone or something doing the given action. For example: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      [
+       {
+        "text": "Hebrew",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "כּוֹתֵב",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " שלו תמיד",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "Transliteration",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "type": "bold",
+          "tokens": [
+           {
+            "text": "koisev",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " shelo tamid",
+          "type": "text"
+         }
+        ]
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "English",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "his ",
+        "type": "text"
+       },
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "writing",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " is constant",
+        "type": "text"
+       }
+      ]
+     ]
+    ]
+   },
+   {
+    "text": " Here, we see that the Hebrew word \"writing\" can be used as a noun, meaning \"this particular instance of the act of writing.\"",
+    "type": "text"
+   }
+  ],
+  "As adjectives": [
+   {
+    "text": "A participle can function as an adjective, eg: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      [
+       {
+        "text": "Hebrew",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "שמעון ",
+        "type": "text"
+       },
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "קודש",
+          "type": "text"
+         }
+        ]
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "Transliteration",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "Shimeon ",
+          "type": "text"
+         },
+         {
+          "type": "bold",
+          "tokens": [
+           {
+            "text": "kodesh",
+            "type": "text"
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "English",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Shimeon is ",
+        "type": "text"
+       },
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "holy",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ", or Shimeon is ",
+        "type": "text"
+       },
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "being holy",
+          "type": "text"
+         }
+        ]
+       }
+      ]
+     ]
+    ]
+   },
+   {
+    "text": " In English, \"holy\" is an adjective and \"being holy\" is a verb, but in Hebrew and Aramaic, the same ongoing tense word \"קודש\" would be used for both.",
+    "type": "text"
+   }
+  ],
+  "Multiple versions": [
+   {
+    "text": "There are multiple versions of the ongoing tense ",
+    "type": "text"
+   },
+   {
+    "text": "in Hebrew",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "in Hebrew",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "In Hebrew",
+    "targetTopic": "Ongoing tense",
+    "enclosingTopic": "Ongoing tense",
+    "enclosingSubtopic": "Multiple versions"
+   },
+   {
+    "text": " and ",
+    "type": "text"
+   },
+   {
+    "text": "in Aramaic",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "in Aramaic",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "In Aramaic",
+    "targetTopic": "Ongoing tense",
+    "enclosingTopic": "Ongoing tense",
+    "enclosingSubtopic": "Multiple versions"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "In Hebrew": [
+   {
+    "text": "These are the examples of the ongoing tense in the masculine singular for each of the ",
+    "type": "text"
+   },
+   {
+    "text": "Hebrew binyanim",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Hebrew binyanim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Hebrew binyanim",
+    "targetTopic": "Hebrew binyanim",
+    "enclosingTopic": "Ongoing tense",
+    "enclosingSubtopic": "In Hebrew"
+   },
+   {
+    "text": ". (",
+    "type": "text"
+   },
+   {
+    "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Binyan",
+    "targetTopic": "Binyan",
+    "enclosingTopic": "Ongoing tense",
+    "enclosingSubtopic": "In Hebrew"
+   },
+   {
+    "text": ".) ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      [
+       {
+        "text": "Binyan",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Type",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Example",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Transliteration",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "_Pa'al_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "Pa'al",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Pa'al",
+        "targetTopic": "Pa'al",
+        "enclosingTopic": "Ongoing tense",
+        "enclosingSubtopic": "In Hebrew"
+       }
+      ],
+      [
+       {
+        "text": "simple",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "simple",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Simple",
+        "targetTopic": "Simple",
+        "enclosingTopic": "Ongoing tense",
+        "enclosingSubtopic": "In Hebrew"
+       },
+       {
+        "text": ", ",
+        "type": "text"
+       },
+       {
+        "text": "active",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "active",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Active",
+        "targetTopic": "Active",
+        "enclosingTopic": "Ongoing tense",
+        "enclosingSubtopic": "In Hebrew"
+       }
+      ],
+      [
+       {
+        "text": "כּוֹתֵב",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "koiseiv",
+          "type": "text"
+         }
+        ]
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "_Nif'al_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "Nif'al",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Nif'al",
+        "targetTopic": "Nif'al",
+        "enclosingTopic": "Ongoing tense",
+        "enclosingSubtopic": "In Hebrew"
+       }
+      ],
+      [
+       {
+        "text": "simple",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "simple",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Simple",
+        "targetTopic": "Simple",
+        "enclosingTopic": "Ongoing tense",
+        "enclosingSubtopic": "In Hebrew"
+       },
+       {
+        "text": ", ",
+        "type": "text"
+       },
+       {
+        "text": "passive",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "passive",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Passive",
+        "targetTopic": "Passive",
+        "enclosingTopic": "Ongoing tense",
+        "enclosingSubtopic": "In Hebrew"
+       }
+      ],
+      [
+       {
+        "text": "נִכְתָּב",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "nicht'tov",
+          "type": "text"
+         }
+        ]
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "_Pi'el_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "Pi'el",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Pi'el",
+        "targetTopic": "Pi'el",
+        "enclosingTopic": "Ongoing tense",
+        "enclosingSubtopic": "In Hebrew"
+       }
+      ],
+      [
+       {
+        "text": "intensive",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "intensive",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Intensive",
+        "targetTopic": "Intensive",
+        "enclosingTopic": "Ongoing tense",
+        "enclosingSubtopic": "In Hebrew"
+       },
+       {
+        "text": ", ",
+        "type": "text"
+       },
+       {
+        "text": "active",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "active",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Active",
+        "targetTopic": "Active",
+        "enclosingTopic": "Ongoing tense",
+        "enclosingSubtopic": "In Hebrew"
+       }
+      ],
+      [
+       {
+        "text": "מְכַתֵּב",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "mechat'teiv",
+          "type": "text"
+         }
+        ]
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "_Pu'al_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "Pu'al",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Pu'al",
+        "targetTopic": "Pu'al",
+        "enclosingTopic": "Ongoing tense",
+        "enclosingSubtopic": "In Hebrew"
+       }
+      ],
+      [
+       {
+        "text": "intensive",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "intensive",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Intensive",
+        "targetTopic": "Intensive",
+        "enclosingTopic": "Ongoing tense",
+        "enclosingSubtopic": "In Hebrew"
+       },
+       {
+        "text": ", ",
+        "type": "text"
+       },
+       {
+        "text": "passive",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "passive",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Passive",
+        "targetTopic": "Passive",
+        "enclosingTopic": "Ongoing tense",
+        "enclosingSubtopic": "In Hebrew"
+       }
+      ],
+      [
+       {
+        "text": "מְכֻתָּב",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "mechut'tov",
+          "type": "text"
+         }
+        ]
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "_Hif'il_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "Hif'il",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Hif'il",
+        "targetTopic": "Hif'il",
+        "enclosingTopic": "Ongoing tense",
+        "enclosingSubtopic": "In Hebrew"
+       }
+      ],
+      [
+       {
+        "text": "causative",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "causative",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Causative",
+        "targetTopic": "Causative",
+        "enclosingTopic": "Ongoing tense",
+        "enclosingSubtopic": "In Hebrew"
+       },
+       {
+        "text": ", ",
+        "type": "text"
+       },
+       {
+        "text": "active",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "active",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Active",
+        "targetTopic": "Active",
+        "enclosingTopic": "Ongoing tense",
+        "enclosingSubtopic": "In Hebrew"
+       }
+      ],
+      [
+       {
+        "text": "מַכְתִּיב",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "machtiv",
+          "type": "text"
+         }
+        ]
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "_Huf'al_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "Huf'al",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Huf'al",
+        "targetTopic": "Huf'al",
+        "enclosingTopic": "Ongoing tense",
+        "enclosingSubtopic": "In Hebrew"
+       }
+      ],
+      [
+       {
+        "text": "causative",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "causative",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Causative",
+        "targetTopic": "Causative",
+        "enclosingTopic": "Ongoing tense",
+        "enclosingSubtopic": "In Hebrew"
+       },
+       {
+        "text": ", ",
+        "type": "text"
+       },
+       {
+        "text": "passive",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "passive",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Passive",
+        "targetTopic": "Passive",
+        "enclosingTopic": "Ongoing tense",
+        "enclosingSubtopic": "In Hebrew"
+       }
+      ],
+      [
+       {
+        "text": "מֻכְתָּב",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "muchtov",
+          "type": "text"
+         }
+        ]
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "_Hispa'el_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "Hispa'el",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Hispa'el",
+        "targetTopic": "Hispa'el",
+        "enclosingTopic": "Ongoing tense",
+        "enclosingSubtopic": "In Hebrew"
+       }
+      ],
+      [
+       {
+        "text": "reflexive",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "reflexive",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Reflexive",
+        "targetTopic": "Reflexive",
+        "enclosingTopic": "Ongoing tense",
+        "enclosingSubtopic": "In Hebrew"
+       }
+      ],
+      [
+       {
+        "text": "מִתְכַּתֵּב",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "miskat'teiv",
+          "type": "text"
+         }
+        ]
+       }
+      ]
+     ]
+    ]
+   }
+  ],
+  "In Aramaic": [
+   {
+    "text": "These are the examples of the ongoing tense in the masculine singular for each of the ",
+    "type": "text"
+   },
+   {
+    "text": "Aramaic binyanim",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Aramaic binyanim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Aramaic binyanim",
+    "targetTopic": "Aramaic binyanim",
+    "enclosingTopic": "Ongoing tense",
+    "enclosingSubtopic": "In Aramaic"
+   },
+   {
+    "text": ". (",
+    "type": "text"
+   },
+   {
+    "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Binyan",
+    "targetTopic": "Binyan",
+    "enclosingTopic": "Ongoing tense",
+    "enclosingSubtopic": "In Aramaic"
+   },
+   {
+    "text": ".) ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      [
+       {
+        "text": "Binyan",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Type",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Example",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Transliteration",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "_Pe'al_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "Pe'al",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Pe'al",
+        "targetTopic": "Pe'al",
+        "enclosingTopic": "Ongoing tense",
+        "enclosingSubtopic": "In Aramaic"
+       }
+      ],
+      [
+       {
+        "text": "simple",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "simple",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Simple",
+        "targetTopic": "Simple",
+        "enclosingTopic": "Ongoing tense",
+        "enclosingSubtopic": "In Aramaic"
+       },
+       {
+        "text": ", ",
+        "type": "text"
+       },
+       {
+        "text": "active",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "active",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Active",
+        "targetTopic": "Active",
+        "enclosingTopic": "Ongoing tense",
+        "enclosingSubtopic": "In Aramaic"
+       }
+      ],
+      [
+       {
+        "text": "כָּתֵיב",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "kauseiv",
+          "type": "text"
+         }
+        ]
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "_Ispe'el_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "Ispe'el",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Ispe'el",
+        "targetTopic": "Ispe'el",
+        "enclosingTopic": "Ongoing tense",
+        "enclosingSubtopic": "In Aramaic"
+       }
+      ],
+      [
+       {
+        "text": "simple",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "simple",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Simple",
+        "targetTopic": "Simple",
+        "enclosingTopic": "Ongoing tense",
+        "enclosingSubtopic": "In Aramaic"
+       },
+       {
+        "text": ", ",
+        "type": "text"
+       },
+       {
+        "text": "passive",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "passive",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Passive",
+        "targetTopic": "Passive",
+        "enclosingTopic": "Ongoing tense",
+        "enclosingSubtopic": "In Aramaic"
+       }
+      ],
+      [
+       {
+        "text": "מִתְכְּתִב",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "miskesiv",
+          "type": "text"
+         }
+        ]
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "_Pa'el_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "Pa'el",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Pa'el",
+        "targetTopic": "Pa'el",
+        "enclosingTopic": "Ongoing tense",
+        "enclosingSubtopic": "In Aramaic"
+       }
+      ],
+      [
+       {
+        "text": "intensive",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "intensive",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Intensive",
+        "targetTopic": "Intensive",
+        "enclosingTopic": "Ongoing tense",
+        "enclosingSubtopic": "In Aramaic"
+       },
+       {
+        "text": ", ",
+        "type": "text"
+       },
+       {
+        "text": "active",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "active",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Active",
+        "targetTopic": "Active",
+        "enclosingTopic": "Ongoing tense",
+        "enclosingSubtopic": "In Aramaic"
+       }
+      ],
+      [
+       {
+        "text": "מְקַדֵּיש",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "mekad'deish",
+          "type": "text"
+         }
+        ]
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "_Ispa'al_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "Ispa'al",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Ispa'al",
+        "targetTopic": "Ispa'al",
+        "enclosingTopic": "Ongoing tense",
+        "enclosingSubtopic": "In Aramaic"
+       }
+      ],
+      [
+       {
+        "text": "intensive",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "intensive",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Intensive",
+        "targetTopic": "Intensive",
+        "enclosingTopic": "Ongoing tense",
+        "enclosingSubtopic": "In Aramaic"
+       },
+       {
+        "text": ", ",
+        "type": "text"
+       },
+       {
+        "text": "passive",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "passive",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Passive",
+        "targetTopic": "Passive",
+        "enclosingTopic": "Ongoing tense",
+        "enclosingSubtopic": "In Aramaic"
+       }
+      ],
+      [
+       {
+        "text": "מְתְקַדַש",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "miskadash",
+          "type": "text"
+         }
+        ]
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "_Af'el_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "Af'el",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Af'el",
+        "targetTopic": "Af'el",
+        "enclosingTopic": "Ongoing tense",
+        "enclosingSubtopic": "In Aramaic"
+       }
+      ],
+      [
+       {
+        "text": "causative",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "causative",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Causative",
+        "targetTopic": "Causative",
+        "enclosingTopic": "Ongoing tense",
+        "enclosingSubtopic": "In Aramaic"
+       },
+       {
+        "text": ", ",
+        "type": "text"
+       },
+       {
+        "text": "active",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "active",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Active",
+        "targetTopic": "Active",
+        "enclosingTopic": "Ongoing tense",
+        "enclosingSubtopic": "In Aramaic"
+       }
+      ],
+      [
+       {
+        "text": "מַכְתִּיב",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "machtiv",
+          "type": "text"
+         }
+        ]
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "_Itaf'al_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "Itaf'al",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Itaf'al",
+        "targetTopic": "Itaf'al",
+        "enclosingTopic": "Ongoing tense",
+        "enclosingSubtopic": "In Aramaic"
+       }
+      ],
+      [
+       {
+        "text": "causative",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "causative",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Causative",
+        "targetTopic": "Causative",
+        "enclosingTopic": "Ongoing tense",
+        "enclosingSubtopic": "In Aramaic"
+       },
+       {
+        "text": " ",
+        "type": "text"
+       },
+       {
+        "text": "passive",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "passive",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Passive",
+        "targetTopic": "Passive",
+        "enclosingTopic": "Ongoing tense",
+        "enclosingSubtopic": "In Aramaic"
+       },
+       {
+        "text": ", or ",
+        "type": "text"
+       },
+       {
+        "text": "reflexive",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "reflexive",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Reflexive",
+        "targetTopic": "Reflexive",
+        "enclosingTopic": "Ongoing tense",
+        "enclosingSubtopic": "In Aramaic"
+       }
+      ],
+      [
+       {
+        "text": "מִתַּפְקַד",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "mitafkad",
+          "type": "text"
+         }
+        ]
+       }
+      ]
+     ]
+    ]
+   }
+  ],
+  "For gender and number": [
+   {
+    "text": "The ongoing tense is conjugated for gender and number: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      [
+       {
+        "text": "Person",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Hebrew",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "Transliteration",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "Masculine singular",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "כּוֹתֵב",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "koiseiv",
+          "type": "text"
+         }
+        ]
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "Feminine singular",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "כּוֹתֶבֶת",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "koiseves",
+          "type": "text"
+         }
+        ]
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "Masculine plural",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "כּוֹתְבִים",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "koisvim",
+          "type": "text"
+         }
+        ]
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "Feminine plural",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "כּוֹתְבוֹת",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "koisvois",
+          "type": "text"
+         }
+        ]
+       }
+      ]
+     ]
+    ]
+   },
+   {
+    "text": " This is unlike the ",
+    "type": "text"
+   },
+   {
+    "text": "past tense",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "past tense",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Past tense",
+    "targetTopic": "Past tense",
+    "enclosingTopic": "Ongoing tense",
+    "enclosingSubtopic": "For gender and number"
+   },
+   {
+    "text": " or ",
+    "type": "text"
+   },
+   {
+    "text": "future tense",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "future tense",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Future Tense",
+    "targetTopic": "Future Tense",
+    "enclosingTopic": "Ongoing tense",
+    "enclosingSubtopic": "For gender and number"
+   },
+   {
+    "text": " that have separate forms for \"I,\" \"you,\" \"he,\" etc. This is because the ongoing tense in Hebrew and Aramaic is more like an adjective than a verb, with \"he is running\" having the same grammatical form as \"he is tall.\" (This example uses the ongoing form of the ",
+    "type": "text"
+   },
+   {
+    "text": "_pa'al binyan_",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pa'al binyan",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Pa'al",
+    "targetTopic": "Pa'al",
+    "enclosingTopic": "Ongoing tense",
+    "enclosingSubtopic": "For gender and number"
+   },
+   {
+    "text": ". ",
+    "type": "text"
+   },
+   {
+    "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Binyan",
+    "targetTopic": "Binyan",
+    "enclosingTopic": "Ongoing tense",
+    "enclosingSubtopic": "For gender and number"
+   },
+   {
+    "text": ".)",
+    "type": "text"
+   }
+  ]
+ }
+}

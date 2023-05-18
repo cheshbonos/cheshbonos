@@ -1,0 +1,35 @@
+{
+ "displayTopicName": "Infinitive",
+ "topicTokens": [
+  {
+   "text": "Infinitive",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Infinitive": [
+   {
+    "text": "The infinitive is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "verb forms of Hebrew and Aramaic",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "verb forms of Hebrew and Aramaic",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Verb forms of Hebrew and Aramaic",
+    "targetTopic": "Verb forms of Hebrew and Aramaic",
+    "enclosingTopic": "Infinitive",
+    "enclosingSubtopic": "Infinitive"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ]
+ }
+}

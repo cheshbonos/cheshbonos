@@ -125,12 +125,17 @@
       ],
       [
        {
-        "text": "Pe'al",
+        "text": "_Pe'al_",
         "type": "global",
         "tokens": [
          {
-          "text": "Pe'al",
-          "type": "text"
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "Pe'al",
+            "type": "text"
+           }
+          ]
          }
         ],
         "targetSubtopic": "Pe'al",
@@ -141,12 +146,17 @@
       ],
       [
        {
-        "text": "Pa'el",
+        "text": "_Pa'el_",
         "type": "global",
         "tokens": [
          {
-          "text": "Pa'el",
-          "type": "text"
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "Pa'el",
+            "type": "text"
+           }
+          ]
          }
         ],
         "targetSubtopic": "Pa'el",
@@ -157,12 +167,17 @@
       ],
       [
        {
-        "text": "Af'el",
+        "text": "_Af'el_",
         "type": "global",
         "tokens": [
          {
-          "text": "Af'el",
-          "type": "text"
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "Af'el",
+            "type": "text"
+           }
+          ]
          }
         ],
         "targetSubtopic": "Af'el",
@@ -173,18 +188,27 @@
       ],
       [
        {
-        "text": "Ispa'al",
+        "text": "_Ispa'al_",
         "type": "global",
         "tokens": [
          {
-          "text": "Ispa'al",
-          "type": "text"
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "Ispa'al",
+            "type": "text"
+           }
+          ]
          }
         ],
         "targetSubtopic": "Ispa'al",
         "targetTopic": "Ispa'al",
         "enclosingTopic": "Aramaic binyanim",
         "enclosingSubtopic": "Aramaic binyanim"
+       },
+       {
+        "type": "footnote_marker",
+        "text": "1"
        }
       ]
      ],
@@ -207,12 +231,17 @@
       ],
       [
        {
-        "text": "Ispe'el",
+        "text": "_Ispe'el_",
         "type": "global",
         "tokens": [
          {
-          "text": "Ispe'el",
-          "type": "text"
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "Ispe'el",
+            "type": "text"
+           }
+          ]
          }
         ],
         "targetSubtopic": "Ispe'el",
@@ -223,22 +252,46 @@
       ],
       [
        {
-        "text": "-",
-        "type": "text"
+        "text": "_Ispa'al_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "Ispa'al",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Ispa'al",
+        "targetTopic": "Ispa'al",
+        "enclosingTopic": "Aramaic binyanim",
+        "enclosingSubtopic": "Aramaic binyanim"
+       },
+       {
+        "type": "footnote_marker",
+        "text": "1"
        }
       ],
       [
        {
-        "text": "Isaf'al",
+        "text": "_Itaf'al_",
         "type": "global",
         "tokens": [
          {
-          "text": "Isaf'al",
-          "type": "text"
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "Itaf'al",
+            "type": "text"
+           }
+          ]
          }
         ],
-        "targetSubtopic": "Isaf'al",
-        "targetTopic": "Isaf'al",
+        "targetSubtopic": "Itaf'al",
+        "targetTopic": "Itaf'al",
         "enclosingTopic": "Aramaic binyanim",
         "enclosingSubtopic": "Aramaic binyanim"
        }
@@ -253,26 +306,35 @@
     ]
    },
    {
-    "text": " Aramaic lacks a \"passive intensive\" binyan corresponding to the ",
+    "text": " ",
     "type": "text"
    },
    {
-    "text": "Hebrew pu'al",
-    "type": "global",
-    "tokens": [
+    "type": "footnote_lines",
+    "lines": [
      {
-      "text": "Hebrew pu'al",
-      "type": "text"
+      "superscript": "1",
+      "tokens": [
+       {
+        "text": " The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "ispa'al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " binyan functions in Aramaic as both a passive intensive and as a reflexive.",
+        "type": "text"
+       }
+      ]
      }
-    ],
-    "targetSubtopic": "Pu'al",
-    "targetTopic": "Pu'al",
-    "enclosingTopic": "Aramaic binyanim",
-    "enclosingSubtopic": "Aramaic binyanim"
-   },
-   {
-    "text": ".",
-    "type": "text"
+    ]
    }
   ]
  }
