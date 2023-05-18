@@ -370,20 +370,20 @@
     "enclosingSubtopic": "Ongoing tense"
    },
    {
-    "text": ".) This is an example of how you conjugate a regular ",
+    "text": ".) This is an example of how you conjugate a ",
     "type": "text"
    },
    {
-    "text": "shoresh",
+    "text": "regular shoresh",
     "type": "global",
     "tokens": [
      {
-      "text": "shoresh",
+      "text": "regular shoresh",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Shoresh",
-    "targetTopic": "Shoresh",
+    "targetSubtopic": "Regular shoresh",
+    "targetTopic": "Regular shoresh",
     "enclosingTopic": "Pa'al",
     "enclosingSubtopic": "Ongoing tense"
    },
