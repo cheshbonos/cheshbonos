@@ -1,6 +1,11 @@
-Binyan: "Binyan" is a grammatical concept in Hebrew and Aramaic that has no direct corollary in English. You can think of a binyan as being [[a flavor of meaning]]. Every binyan is a combination of [[five basic types of action]]. English [[uses alternative means to achieve the same effect]]. Every verb in Hebrew and Aramaic comes from one [[shoresh]] that is put into one binyan. There are [[seven {{Hebrew binyanim}}]] and [[six {{Aramaic binyanim}}]]. There are also [[nouns and adjectives that come from particular binyanim]].
+Binyan: "Binyan" is a grammatical concept in Hebrew and Aramaic that has no direct corollary in English. A [[shoresh]] gets put into one of several binyanim in order to produce a verb. A binyan is [[like a flavor of the shoresh]]. Every binyan is a combination of [[five basic types of action]]. English [[uses alternative means to achieve the same effect]].  There are [[seven {{Hebrew binyanim}}]] and [[six {{Aramaic binyanim}}]]. There are also [[nouns and adjectives that come from particular binyanim]].
 
-A flavor of meaning: You can think of a binyan as being a "flavor" of meaning, and when you put a [[shoresh]] into a certain binyan, that produces a verb that is a mixture of the shoresh and the binyan. For example, the shoresh אכל means "eating," the binyan [[_"hif'il"_]] has a flavor of "making someone else do something," and so if we put the shoresh אכל into the binyan _hif'il_ we will produce a verb that combines eating and making someone else do something, ie "to make someone else eat," ie to feed them.
+Like a flavor of the shoresh: You can think of a binyan as being a "flavor" of meaning that gets mixed with the shoresh to produce a verb. For example:
+| *Shoresh* | *Shoresh Meaning*| *Binyan* | *Binyan Meaning* | *Resulting Verb* |
+|-|-|-|-|-|
+| אכל | eating | [[_hif'il_]] | causing someone else to do something | to cause someone to eat i.e. to feed |
+| כתב | writing | [[_pi'el_]] | doing something more intensely | to write intensely i.e. to engrave |
+| קנה | buying | [[_nif'al_]] | having something done to you | to have someone buy you i.e. to be purchased |
 
 Five basic types of action: There are five "types" of action:
 - [[Active]]: Someone doing something themselves
@@ -8,15 +13,16 @@ Five basic types of action: There are five "types" of action:
 - [[Simple]]: Someone doing a very straight-forward version of an action
 - [[Intensive]]: Someone doing an intense or repetitive version of an action
 - [[Causative]]: Someone causing someone else do an action
-All of the different binyanim of Hebrew and Aramaic are combinations of these five ideas, here is [[an example]].
-
-An example: Every binyan in Hebrew and Aramaic is a combination of these five types of action. For example, the [[_hif'il_]] is a Hebrew binyan that is _active_ and _causative_, so verbs in the _hif'il_ often describe an action where a person is _himself_ doing something, and so "active," and is making _something else_ become a certain way, and so "causitive." Such a verb is מַקְדִּישׁ (_makdish_), someone _himself_ making _something else_ become property of the Temple, ie donating it.
+All of the different binyanim of Hebrew and Aramaic are combinations of these five ideas. For example, the [[_hif'il_]] is active, and causative.
 
 Uses alternative means to achieve the same effect: In English, we do not use "binyan" to produce families of related verbs. Rather, we [[make larger verbs out of multiple words]], and [[use entirely separate words for related concepts]].
 
-Nouns and adjectives that come from particular binyanim: Every verb has one binyan, and there are nouns and adjectives that come from a verb in a particular binyan. For example, [[_kiddush_ is a noun that comes from the _pi'el_ binyan]].
-
-_Kiddush_ is a noun that comes from the _pi'el_ binyan: The shoresh קשד represents "holiness," and קדש in the [[_pi'el_]] binyan usually means "to create holiness." The verb for someone who is creating holiness is מְקַדֵּשׁ (_mekadesh_), and an act of making holiness is called a קִדּוּשׁ (_kiddush_), like the one done on Friday night. So too can you take any verb that has a _pi'el_ form and produce a noun with the same meaning by taking the three shoresh letters of the [[shoresh]] and plugging them into the pattern `_י_ו_`, which will produce a "_pi'el_ noun." There are many similar "noun patterns" where adding certain vowels and letters to a shoresh produces a certain noun. (See [this entry](https://www.sefaria.org/Klein_Dictionary%2C_%D7%94%D6%B7%D7%91%D6%B0%D7%93%D6%B8%D6%BC%D7%9C%D6%B8%D7%94.1) in Klein for another example.)
+Nouns and adjectives that come from particular binyanim: Every verb has one binyan, and there are nouns and adjectives that come from a verb in a particular binyan. For example, from every _pi'el_ verb you can produce a _pi'el_ noun with the same meaning by using the following vowel pattern:
+| *_Pi'el_ Verb* | *Meaning* | *_Pi'el_ Noun* | *Meaning* |
+|-|-|-|-|
+| מְקַדֵּשׁ (_mekadesh_) | making holy | קִדּוּשׁ (_kiddush_) | an act of making holy |
+| מְדַבֵּר (_medaber_) | speaking | דִּבּוּר (_dibbur_) | an act of speech |
+| מְבַטֵּל (_mevatel_) | canceling | בִּטּוּל (_bittul_) | a cancelation |
 
 Make larger verbs out of multiple words: In English, you have one simple verb like "eat," and then you can add other words to form larger ideas like "he made someone eat," or "he was eaten," etc, whereas in Hebrew and Aramaic, all of these permutations will be entirely different one-word verbs with similar spellings because they are formed from the same [[shoresh]] root.
 
