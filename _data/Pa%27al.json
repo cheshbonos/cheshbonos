@@ -22,7 +22,20 @@
     ]
    },
    {
-    "text": " (פָּעַל) is one of the ",
+    "text": " (פָּעַל), or ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "kal",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " (קַל), is one of the ",
     "type": "text"
    },
    {
@@ -184,7 +197,7 @@
     "type": "text"
    },
    {
-    "text": "_pa'al_ ongoing tense",
+    "text": "_pa'al_ adjective form",
     "type": "local",
     "tokens": [
      {
@@ -197,11 +210,11 @@
       ]
      },
      {
-      "text": " ongoing tense",
+      "text": " adjective form",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Ongoing tense",
+    "targetSubtopic": "Adjective form",
     "targetTopic": "Pa'al",
     "enclosingTopic": "Pa'al",
     "enclosingSubtopic": "Tenses"
@@ -319,7 +332,7 @@
     "type": "text"
    }
   ],
-  "Ongoing tense": [
+  "Adjective form": [
    {
     "text": "The ",
     "type": "text"
@@ -334,22 +347,22 @@
     ]
    },
    {
-    "text": " has an ongoing tense. (The ",
+    "text": " has an adjective form. (The ",
     "type": "text"
    },
    {
-    "text": "ongoing tense",
+    "text": "adjective form",
     "type": "global",
     "tokens": [
      {
-      "text": "ongoing tense",
+      "text": "adjective form",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Ongoing tense",
-    "targetTopic": "Ongoing tense",
+    "targetSubtopic": "Adjective form",
+    "targetTopic": "Adjective form",
     "enclosingTopic": "Pa'al",
-    "enclosingSubtopic": "Ongoing tense"
+    "enclosingSubtopic": "Adjective form"
    },
    {
     "text": " is one of the ",
@@ -367,7 +380,7 @@
     "targetSubtopic": "Verb forms of Hebrew and Aramaic",
     "targetTopic": "Verb forms of Hebrew and Aramaic",
     "enclosingTopic": "Pa'al",
-    "enclosingSubtopic": "Ongoing tense"
+    "enclosingSubtopic": "Adjective form"
    },
    {
     "text": ".) This is an example of how you conjugate a ",
@@ -385,7 +398,7 @@
     "targetSubtopic": "Regular shoresh",
     "targetTopic": "Regular shoresh",
     "enclosingTopic": "Pa'al",
-    "enclosingSubtopic": "Ongoing tense"
+    "enclosingSubtopic": "Adjective form"
    },
    {
     "text": " in the ",
@@ -401,7 +414,7 @@
     ]
    },
    {
-    "text": " ongoing tense: ",
+    "text": " adjective form: ",
     "type": "text"
    },
    {
@@ -543,22 +556,22 @@
     ]
    },
    {
-    "text": " ongoing tense features a ו between the first and second root letters. You can see examples of the ",
+    "text": " adjective form features a ו between the first and second root letters. You can see examples of the ",
     "type": "text"
    },
    {
-    "text": "ongoing tense",
+    "text": "adjective form",
     "type": "global",
     "tokens": [
      {
-      "text": "ongoing tense",
+      "text": "adjective form",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Ongoing tense",
-    "targetTopic": "Ongoing tense",
+    "targetSubtopic": "Adjective form",
+    "targetTopic": "Adjective form",
     "enclosingTopic": "Pa'al",
-    "enclosingSubtopic": "Ongoing tense"
+    "enclosingSubtopic": "Adjective form"
    },
    {
     "text": " in ",
@@ -574,9 +587,9 @@
      }
     ],
     "targetSubtopic": "Versions in Hebrew",
-    "targetTopic": "Ongoing tense",
+    "targetTopic": "Adjective form",
     "enclosingTopic": "Pa'al",
-    "enclosingSubtopic": "Ongoing tense"
+    "enclosingSubtopic": "Adjective form"
    },
    {
     "text": ".",

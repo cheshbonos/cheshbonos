@@ -63,7 +63,78 @@
     "enclosingSubtopic": "Shoresh"
    },
    {
-    "text": ". Shorushim are ",
+    "text": ". Here are some examples: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "Shoresh:",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "text": "אכל",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "שלח",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "ראה",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "Meaning:",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "text": "eating",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "sending",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "sight",
+        "type": "text"
+       }
+      ]
+     ]
+    ]
+   },
+   {
+    "text": " Shorushim are ",
     "type": "text"
    },
    {
@@ -160,7 +231,25 @@
   ],
   "A series of letters": [
    {
-    "text": "A shoresh looks like a series of two or three letters like קדש or מת.",
+    "text": "A shoresh looks like a series of two or three letters like קדש or מת, but sometimes have ",
+    "type": "text"
+   },
+   {
+    "text": "four letters",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "four letters",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Four letter shorushim",
+    "targetTopic": "Four letter shorushim",
+    "enclosingTopic": "Shoresh",
+    "enclosingSubtopic": "A series of letters"
+   },
+   {
+    "text": ".",
     "type": "text"
    }
   ],

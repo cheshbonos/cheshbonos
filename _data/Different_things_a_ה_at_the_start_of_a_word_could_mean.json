@@ -9,7 +9,7 @@
  "paragraphsBySubtopic": {
   "Different things a ה at the start of a word could mean": [
    {
-    "text": "The letter ה at the start of a word could mean several things. ",
+    "text": "The letter ה at the start of a word might mean the word is: ",
     "type": "text"
    },
    {
@@ -19,47 +19,215 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "A ה at the start of a word might be part of the actual word, for example the ה in הֶֽבֶל which means vapor or emptiness.",
-        "type": "text"
-       }
-      ],
-      "children": []
-     },
-     {
-      "ordinal": "-",
-      "ordered": false,
-      "tokensOfLine": [
-       {
-        "text": "A ה at the start of a word might be the Hebrew version of the word \"the\" in English, for example הַאֶבֶן, \"the rock,\" formed from the word אֶבֶן, meaning \"rock.\"",
-        "type": "text"
-       }
-      ],
-      "children": []
-     },
-     {
-      "ordinal": "-",
-      "ordered": false,
-      "tokensOfLine": [
-       {
-        "text": "A ה at the start of a word might be part of a certain kind of past tense Hebrew verb that begins with a ה prefix. For example, the ",
+        "text": "a name beginning with ה, eg הוֹשֵׁעַ (",
         "type": "text"
        },
        {
-        "text": "shoresh",
-        "type": "global",
+        "type": "italics",
         "tokens": [
          {
-          "text": "shoresh",
+          "text": "Hoshea",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ")",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "a word formed from a shoresh beginning with ה",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "a word formed from a shoresh beginning with ה",
           "type": "text"
          }
         ],
-        "targetSubtopic": "Shoresh",
-        "targetTopic": "Shoresh",
+        "targetSubtopic": "A word formed from a shoresh beginning with ה",
+        "targetTopic": "Different things a ה at the start of a word could mean",
         "enclosingTopic": "Different things a ה at the start of a word could mean",
         "enclosingSubtopic": "Different things a ה at the start of a word could mean"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "the Hebrew version of the word \"the\" before a noun",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "the Hebrew version of the word \"the\" before a noun",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "The Hebrew version of the word \"the\" before a noun",
+        "targetTopic": "Different things a ה at the start of a word could mean",
+        "enclosingTopic": "Different things a ה at the start of a word could mean",
+        "enclosingSubtopic": "Different things a ה at the start of a word could mean"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "a ",
+        "type": "text"
        },
        {
-        "text": " אכל can sometimes produce a past tense verb like הֶאֱכִיל. If this is the reason for the ה at the beginning of the word, there will usually be a י between the third and fifth letters, like in הֶאֱכִיל, although sometimes the י will be between the second and fourth letter, in a verb like הִפִּיל \"he dropped.\" (For more advanced readers, this verb form is called the ",
+        "text": "past-tense verb that begins with ה",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "past-tense verb that begins with ה",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Past-tense verb that begins with ה",
+        "targetTopic": "Different things a ה at the start of a word could mean",
+        "enclosingTopic": "Different things a ה at the start of a word could mean",
+        "enclosingSubtopic": "Different things a ה at the start of a word could mean"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "an ",
+        "type": "text"
+       },
+       {
+        "text": "imperative verb that begin with ה",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "imperative verb that begin with ה",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Imperative verb that begin with ה",
+        "targetTopic": "Different things a ה at the start of a word could mean",
+        "enclosingTopic": "Different things a ה at the start of a word could mean",
+        "enclosingSubtopic": "Different things a ה at the start of a word could mean"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "part of ",
+        "type": "text"
+       },
+       {
+        "text": "several noun patterns that begin with ה",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "several noun patterns that begin with ה",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Several noun patterns that begin with ה",
+        "targetTopic": "Different things a ה at the start of a word could mean",
+        "enclosingTopic": "Different things a ה at the start of a word could mean",
+        "enclosingSubtopic": "Different things a ה at the start of a word could mean"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "A word formed from a shoresh beginning with ה": [
+   {
+    "text": "A ה at the start of a word might be part of a word formed from a shoresh beginning with ה, such as the shoresh הלך, which produces nouns like הֲלִיכָה (",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "halicha",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ", the activity of walking), and verbs like הוֹלֵךְ (",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "holech",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ", he is walking).",
+    "type": "text"
+   }
+  ],
+  "The Hebrew version of the word \"the\" before a noun": [
+   {
+    "text": "A ה at the start of a word might be the Hebrew version of the word \"the\", for example הַאֶבֶן, \"the rock,\" formed from the word אֶבֶן, meaning \"rock.\"",
+    "type": "text"
+   }
+  ],
+  "Past-tense verb that begins with ה": [
+   {
+    "text": "There are two kinds of ",
+    "type": "text"
+   },
+   {
+    "text": "past tense",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "past tense",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Past tense",
+    "targetTopic": "Past tense",
+    "enclosingTopic": "Different things a ה at the start of a word could mean",
+    "enclosingSubtopic": "Past-tense verb that begins with ה"
+   },
+   {
+    "text": " verb that begin with ה: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "A shoresh like אכל can produce a verb that looks like הֶאֱכִיל with a י between the second and third letters. (For advanced readers, this is called a ",
         "type": "text"
        },
        {
@@ -79,11 +247,273 @@
         "targetSubtopic": "Hif'il",
         "targetTopic": "Hif'il",
         "enclosingTopic": "Different things a ה at the start of a word could mean",
-        "enclosingSubtopic": "Different things a ה at the start of a word could mean"
+        "enclosingSubtopic": "Past-tense verb that begins with ה"
        },
        {
-        "text": ".)",
+        "text": ").",
         "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "A shoresh like לבש can produce a verb that looks like הִתְלַבֵּשׁ with a ת after the ה as the second letter. (For advanced readers, this is called a ",
+        "type": "text"
+       },
+       {
+        "text": "_his'pael_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "his'pael",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Hispa'el",
+        "targetTopic": "Hispa'el",
+        "enclosingTopic": "Different things a ה at the start of a word could mean",
+        "enclosingSubtopic": "Past-tense verb that begins with ה"
+       },
+       {
+        "text": " verb).",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "Imperative verb that begin with ה": [
+   {
+    "text": "There are two kinds of ",
+    "type": "text"
+   },
+   {
+    "text": "imperative (\"command\")",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "imperative (\"command\")",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Imperative tense",
+    "targetTopic": "Imperative tense",
+    "enclosingTopic": "Different things a ה at the start of a word could mean",
+    "enclosingSubtopic": "Imperative verb that begin with ה"
+   },
+   {
+    "text": " verb that begin with ה: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "A shoresh like אכל can produce a verb that looks like הֶאֱכִיל with a י between the second and third letters. (For advanced readers, this is called a ",
+        "type": "text"
+       },
+       {
+        "text": "_hif'il_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "hif'il",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Hif'il",
+        "targetTopic": "Hif'il",
+        "enclosingTopic": "Different things a ה at the start of a word could mean",
+        "enclosingSubtopic": "Imperative verb that begin with ה"
+       },
+       {
+        "text": ").",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "A shoresh like לבש can produce a verb that looks like הִתְלַבֵּשׁ with a ת after the ה as the second letter. (For advanced readers, this is called a ",
+        "type": "text"
+       },
+       {
+        "text": "_his'pael_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "his'pael",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Hispa'el",
+        "targetTopic": "Hispa'el",
+        "enclosingTopic": "Different things a ה at the start of a word could mean",
+        "enclosingSubtopic": "Imperative verb that begin with ה"
+       },
+       {
+        "text": " verb).",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "Several noun patterns that begin with ה": [
+   {
+    "text": "In Hebrew and Aramaic, there are ",
+    "type": "text"
+   },
+   {
+    "text": "\"noun patterns\"",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "\"noun patterns\"",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Noun Patterns",
+    "targetTopic": "Noun Patterns",
+    "enclosingTopic": "Different things a ה at the start of a word could mean",
+    "enclosingSubtopic": "Several noun patterns that begin with ה"
+   },
+   {
+    "text": " which are like templates that a shoresh gets put in to produce a noun. There are several such patterns that produce nouns beginning with ה: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "the _hektel_ pattern",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "the ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "hektel",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " pattern",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "The hektel pattern",
+        "targetTopic": "The hektel pattern",
+        "enclosingTopic": "Different things a ה at the start of a word could mean",
+        "enclosingSubtopic": "Several noun patterns that begin with ה"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "the _haktala_ pattern",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "the ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "haktala",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " pattern",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "The haktala pattern",
+        "targetTopic": "The haktala pattern",
+        "enclosingTopic": "Different things a ה at the start of a word could mean",
+        "enclosingSubtopic": "Several noun patterns that begin with ה"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "the _hiskattlut_ pattern",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "the ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "hiskattlut",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " pattern",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "The hiskattlut pattern",
+        "targetTopic": "The hiskattlut pattern",
+        "enclosingTopic": "Different things a ה at the start of a word could mean",
+        "enclosingSubtopic": "Several noun patterns that begin with ה"
        }
       ],
       "children": []

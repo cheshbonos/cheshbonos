@@ -1,0 +1,143 @@
+{
+ "displayTopicName": "Four letter shorushim",
+ "topicTokens": [
+  {
+   "text": "Four letter shorushim",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Four letter shorushim": [
+   {
+    "text": "Sometimes we see shorushim that have four letters, like שבעד meaning subjugation. These shorushim are only conjugated in \"heavy\" binyanim like the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pi'el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " because the doubled middle letter creates four consonant sounds, and four-letter roots use these four gaps. ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "Shoresh:",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "Meaning",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "Pi'el example",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "Transliteration",
+          "type": "text"
+         }
+        ]
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "דבר",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "speech",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "מְדַבֵּר",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "medab'ber",
+          "type": "text"
+         }
+        ]
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "שעבד",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "subjugation",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "מְשַׁעְבֵּד",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "mesha'abeid",
+          "type": "text"
+         }
+        ]
+       }
+      ]
+     ]
+    ]
+   }
+  ]
+ }
+}

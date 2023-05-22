@@ -1,0 +1,574 @@
+{
+ "displayTopicName": "The _hektel_ pattern",
+ "topicTokens": [
+  {
+   "text": "The ",
+   "type": "text"
+  },
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "hektel",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " pattern",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "The hektel pattern": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "hektel",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " pattern is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "Hebrew noun patterns",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Hebrew noun patterns",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Hebrew noun patterns",
+    "targetTopic": "Hebrew noun patterns",
+    "enclosingTopic": "The hektel pattern",
+    "enclosingSubtopic": "The hektel pattern"
+   },
+   {
+    "text": " and produces words such as: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "Shoresh",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "Hif'il",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " verb",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "Hektel",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " Noun",
+          "type": "text"
+         }
+        ]
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "דבל ",
+        "type": "text"
+       },
+       {
+        "type": "html_element",
+        "html": "<br>"
+       },
+       {
+        "text": " seperation",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "הִדְבִּיל",
+        "type": "text"
+       },
+       {
+        "type": "html_element",
+        "html": "<br>"
+       },
+       {
+        "text": " ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hivdil",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " ",
+        "type": "text"
+       },
+       {
+        "type": "html_element",
+        "html": "<br>"
+       },
+       {
+        "text": " he seperated",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "הֶבְדֵּל ",
+        "type": "text"
+       },
+       {
+        "type": "html_element",
+        "html": "<br>"
+       },
+       {
+        "text": " ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hevdel",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " ",
+        "type": "text"
+       },
+       {
+        "type": "html_element",
+        "html": "<br>"
+       },
+       {
+        "text": " a difference",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "כשׁר ",
+        "type": "text"
+       },
+       {
+        "type": "html_element",
+        "html": "<br>"
+       },
+       {
+        "text": " acceptable",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "הִכְשִׁיר",
+        "type": "text"
+       },
+       {
+        "type": "html_element",
+        "html": "<br>"
+       },
+       {
+        "text": " ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hichshir",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " ",
+        "type": "text"
+       },
+       {
+        "type": "html_element",
+        "html": "<br>"
+       },
+       {
+        "text": " he certified",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "הֶכְשֵׁר ",
+        "type": "text"
+       },
+       {
+        "type": "html_element",
+        "html": "<br>"
+       },
+       {
+        "text": " ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hechsher",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " ",
+        "type": "text"
+       },
+       {
+        "type": "html_element",
+        "html": "<br>"
+       },
+       {
+        "text": " a certification",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "ספד ",
+        "type": "text"
+       },
+       {
+        "type": "html_element",
+        "html": "<br>"
+       },
+       {
+        "text": " lamentation",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "הִסְפִּיד",
+        "type": "text"
+       },
+       {
+        "type": "html_element",
+        "html": "<br>"
+       },
+       {
+        "text": " ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hispid",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " ",
+        "type": "text"
+       },
+       {
+        "type": "html_element",
+        "html": "<br>"
+       },
+       {
+        "text": " he eulogized",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "הֶפְסֵד ",
+        "type": "text"
+       },
+       {
+        "type": "html_element",
+        "html": "<br>"
+       },
+       {
+        "text": " ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hesped",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " ",
+        "type": "text"
+       },
+       {
+        "type": "html_element",
+        "html": "<br>"
+       },
+       {
+        "text": " a eulogy",
+        "type": "text"
+       }
+      ]
+     ]
+    ]
+   },
+   {
+    "text": " ",
+    "type": "text"
+   },
+   {
+    "text": "Nouns in the _hektel_ pattern come from _hif'il_ verbs",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "Nouns in the ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "hektel",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " pattern come from ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "hif'il",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " verbs",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Nouns in the hektel pattern come from hif'il verbs",
+    "targetTopic": "The hektel pattern",
+    "enclosingTopic": "The hektel pattern",
+    "enclosingSubtopic": "The hektel pattern"
+   },
+   {
+    "text": ". More examples of words in the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "hektel",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " pattern ",
+    "type": "text"
+   },
+   {
+    "type": "url",
+    "url": "https://www.pealim.com/dict/?pos=noun&num-radicals=all&nm=heqtel",
+    "text": "can be found on Pealim",
+    "tokens": [
+     {
+      "text": "can be found on Pealim",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Nouns in the hektel pattern come from hif'il verbs": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "hektel",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " pattern is one of two common noun patterns that come from ",
+    "type": "text"
+   },
+   {
+    "text": "_hif'il_ verbs",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "hif'il",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " verbs",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Hif'il",
+    "targetTopic": "Hif'il",
+    "enclosingTopic": "The hektel pattern",
+    "enclosingSubtopic": "Nouns in the hektel pattern come from hif'il verbs"
+   },
+   {
+    "text": ", the other being ",
+    "type": "text"
+   },
+   {
+    "text": "the _haktala_ pattern",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "the ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "haktala",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " pattern",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "The haktala pattern",
+    "targetTopic": "The haktala pattern",
+    "enclosingTopic": "The hektel pattern",
+    "enclosingSubtopic": "Nouns in the hektel pattern come from hif'il verbs"
+   },
+   {
+    "text": ", and there is a ",
+    "type": "text"
+   },
+   {
+    "text": "famous difference in meaning between nouns in the _hektel_ pattern and the _haktala_ pattern",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "famous difference in meaning between nouns in the ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "hektel",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " pattern and the ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "haktala",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " pattern",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Difference in meaning between nouns in the hektel pattern and the haktala pattern",
+    "targetTopic": "Difference in meaning between nouns in the hektel pattern and the haktala pattern",
+    "enclosingTopic": "The hektel pattern",
+    "enclosingSubtopic": "Nouns in the hektel pattern come from hif'il verbs"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ]
+ }
+}

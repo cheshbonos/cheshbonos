@@ -1,0 +1,148 @@
+{
+ "displayTopicName": "Hebrew noun patterns",
+ "topicTokens": [
+  {
+   "text": "Hebrew noun patterns",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Hebrew noun patterns": [
+   {
+    "text": "There are certain vowel templates that accept shorushim and produce nouns. Noun patterns ",
+    "type": "text"
+   },
+   {
+    "text": "have a naming convention",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "have a naming convention",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Have a naming convention",
+    "targetTopic": "Hebrew noun patterns",
+    "enclosingTopic": "Hebrew noun patterns",
+    "enclosingSubtopic": "Hebrew noun patterns"
+   },
+   {
+    "text": ". These are some of the noun patterns in Hebrew: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "the _hektel_ pattern",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "the ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "hektel",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " pattern",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "The hektel pattern",
+        "targetTopic": "The hektel pattern",
+        "enclosingTopic": "Hebrew noun patterns",
+        "enclosingSubtopic": "Hebrew noun patterns"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "the _haktala_ pattern",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "the ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "haktala",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " pattern",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "The haktala pattern",
+        "targetTopic": "The haktala pattern",
+        "enclosingTopic": "Hebrew noun patterns",
+        "enclosingSubtopic": "Hebrew noun patterns"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "the _hiskattlut_ pattern",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "the ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "hiskattlut",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " pattern",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "The hiskattlut pattern",
+        "targetTopic": "The hiskattlut pattern",
+        "enclosingTopic": "Hebrew noun patterns",
+        "enclosingSubtopic": "Hebrew noun patterns"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "Have a naming convention": [
+   {
+    "text": "Noun patterns are named by putting the shoresh קטל into the given pattern, the same way that binyan names are formed by putting the shoresh פעל into the third-person masculine past-tense form of that binyan.",
+    "type": "text"
+   }
+  ]
+ }
+}

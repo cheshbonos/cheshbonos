@@ -9,7 +9,7 @@
  "paragraphsBySubtopic": {
   "The Mishnah on Kiddushin 41a": [
    {
-    "text": "The Mishnah on Kiddushin 41a is ",
+    "text": "The first Mishnah of Perek Haish Mekadesh (found on Kiddushin 41a) is ",
     "type": "text"
    },
    {
@@ -27,44 +27,71 @@
     "enclosingSubtopic": "The Mishnah on Kiddushin 41a"
    },
    {
-    "text": ". The Mishnah as a whole has ",
-    "type": "text"
-   },
-   {
-    "text": "required context",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "required context",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Required context of the Mishnah",
-    "targetTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "The Mishnah on Kiddushin 41a"
-   },
-   {
-    "text": ". You can try to read the Mishna yourself below, or see it ",
-    "type": "text"
-   },
-   {
-    "text": "broken into separate sentences",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "broken into separate sentences",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Broken into separate sentences",
-    "targetTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "The Mishnah on Kiddushin 41a"
-   },
-   {
     "text": ". ",
     "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The Mishnah as a whole has ",
+        "type": "text"
+       },
+       {
+        "text": "required context",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "required context",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Required context of the Mishnah",
+        "targetTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingSubtopic": "The Mishnah on Kiddushin 41a"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "You can try to read the Mishna as it appears in the Gemara yourself below, or see it ",
+        "type": "text"
+       },
+       {
+        "text": "broken into separate sentences",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "broken into separate sentences",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Broken into separate sentences",
+        "targetTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingSubtopic": "The Mishnah on Kiddushin 41a"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
    },
    {
     "type": "block_quote",
@@ -86,11 +113,11 @@
     "type": "block_quote",
     "tokens": [
      {
-      "text": "האיש מקדש בו ובשלוחו",
+      "text": "האיש מקדש בו ובשלוחו.",
       "type": "local",
       "tokens": [
        {
-        "text": "האיש מקדש בו ובשלוחו",
+        "text": "האיש מקדש בו ובשלוחו.",
         "type": "text"
        }
       ],
@@ -100,15 +127,15 @@
       "enclosingSubtopic": "Broken into separate sentences"
      },
      {
-      "text": " ",
+      "text": "\n",
       "type": "text"
      },
      {
-      "text": "האשה\nמתקדשת בה ובשלוחה",
+      "text": "האשה מתקדשת בה ובשלוחה.",
       "type": "local",
       "tokens": [
        {
-        "text": "האשה\nמתקדשת בה ובשלוחה",
+        "text": "האשה מתקדשת בה ובשלוחה.",
         "type": "text"
        }
       ],
@@ -118,15 +145,15 @@
       "enclosingSubtopic": "Broken into separate sentences"
      },
      {
-      "text": " ",
+      "text": "\n",
       "type": "text"
      },
      {
-      "text": "האיש\nמקדש את בתו כשהיא נערה בו ובשלוחו",
+      "text": "האיש מקדש את בתו כשהיא נערה בו ובשלוחו.",
       "type": "local",
       "tokens": [
        {
-        "text": "האיש\nמקדש את בתו כשהיא נערה בו ובשלוחו",
+        "text": "האיש מקדש את בתו כשהיא נערה בו ובשלוחו.",
         "type": "text"
        }
       ],
@@ -775,10 +802,6 @@
   ],
   "First clause": [
    {
-    "text": "The first clause of the Mishnah on Kiddushin 41a is quoted below. ",
-    "type": "text"
-   },
-   {
     "type": "block_quote",
     "tokens": [
      {
@@ -789,165 +812,259 @@
     "direction": "rtl"
    },
    {
-    "text": "The first clause has ",
+    "text": "In order to understand the first clause: ",
     "type": "text"
    },
    {
-    "text": "context",
-    "type": "local",
-    "tokens": [
+    "topLevelNodes": [
      {
-      "text": "context",
-      "type": "text"
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "First we'll ",
+        "type": "text"
+       },
+       {
+        "text": "prepare to read the first clause",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "prepare to read the first clause",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Prepare to read the first clause",
+        "targetTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingSubtopic": "First clause"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Then, we'll ",
+        "type": "text"
+       },
+       {
+        "text": "closely read the first clause",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "closely read the first clause",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Closely read the first clause",
+        "targetTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingSubtopic": "First clause"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Then, we'll ",
+        "type": "text"
+       },
+       {
+        "text": "analyze the first clause",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "analyze the first clause",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Analyze the first clause",
+        "targetTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingSubtopic": "First clause"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
      }
     ],
-    "targetSubtopic": "Context",
-    "targetTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "First clause"
-   },
+    "type": "outline"
+   }
+  ],
+  "Prepare to read the first clause": [
    {
-    "text": ", ",
+    "text": "Before we read the first clause, let's ",
     "type": "text"
    },
    {
-    "text": "content",
+    "text": "consider what we would think the halacha should be",
     "type": "local",
     "tokens": [
      {
-      "text": "content",
+      "text": "consider what we would think the halacha should be",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Content",
+    "targetSubtopic": "Consider what we would think the halacha should be",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "First clause"
-   },
-   {
-    "text": ", and ",
-    "type": "text"
-   },
-   {
-    "text": "commentary",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "commentary",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Commentary",
-    "targetTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "First clause"
+    "enclosingSubtopic": "Prepare to read the first clause"
    },
    {
     "text": ".",
     "type": "text"
    }
   ],
-  "Context": [
+  "Consider what we would think the halacha should be": [
    {
-    "text": "The first clause of the Mishnah is discussing whether a man can halachically engage a woman via a messenger without himself being present. Before reading on, stop and ask yourself, do you think this would work? Why or why not?",
+    "text": "The first clause of the Mishnah is discussing whether a man can create ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "kiddushin",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " with a woman via a messenger without himself being present. Before reading on, stop and ask yourself, do you think this would work? Why or why not?",
     "type": "text"
    }
   ],
-  "Content": [
+  "Closely read the first clause": [
    {
-    "text": "To learn the first clause of the Mishna inside, we must ",
+    "text": "To closely read the first clause of the Mishna: ",
     "type": "text"
    },
    {
-    "text": "identify the sentence break",
-    "type": "local",
-    "tokens": [
+    "topLevelNodes": [
      {
-      "text": "identify the sentence break",
-      "type": "text"
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Ask ",
+        "type": "text"
+       },
+       {
+        "text": "how do you know where the first clause ends?",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "how do you know where the first clause ends?",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "How do you know where the first clause ends?",
+        "targetTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingSubtopic": "Closely read the first clause"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Understand the ",
+        "type": "text"
+       },
+       {
+        "text": "individual words",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "individual words",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Individual words",
+        "targetTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingSubtopic": "Closely read the first clause"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Write a ",
+        "type": "text"
+       },
+       {
+        "text": "literal translation",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "literal translation",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Literal translation",
+        "targetTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingSubtopic": "Closely read the first clause"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Produce a ",
+        "type": "text"
+       },
+       {
+        "text": "contextual summary",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "contextual summary",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Contextual summary",
+        "targetTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingSubtopic": "Closely read the first clause"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
      }
     ],
-    "targetSubtopic": "Identify the sentence break",
-    "targetTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Content"
-   },
-   {
-    "text": ", understand the ",
-    "type": "text"
-   },
-   {
-    "text": "individual words",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "individual words",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Individual words",
-    "targetTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Content"
-   },
-   {
-    "text": ", produce a ",
-    "type": "text"
-   },
-   {
-    "text": "literal translation",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "literal translation",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Literal translation",
-    "targetTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Content"
-   },
-   {
-    "text": ", and a cumulative ",
-    "type": "text"
-   },
-   {
-    "text": "interpretation",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "interpretation",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Interpretation",
-    "targetTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Content"
-   },
-   {
-    "text": ".",
-    "type": "text"
+    "type": "outline"
    }
   ],
-  "Identify the sentence break": [
+  "How do you know where the first clause ends?": [
    {
-    "text": "How do we know where the first clause of the Mishnah ends? By reading the Mishnah, we should notice a pattern: ",
-    "type": "text"
-   },
-   {
-    "type": "block_quote",
-    "tokens": [
-     {
-      "text": "האיש מקדש בו ובשלוחו האשה מתקדשת בה ובשלוחה האיש מקדש את בתו כשהיא נערה בו ובשלוחו",
-      "type": "text"
-     }
-    ],
-    "direction": "rtl"
-   },
-   {
-    "text": "Lets mark similar looking words even if we don't know what they mean: ",
+    "text": "How do we know where the first clause of the Mishnah ends? By reading the Mishnah, we should notices some similar-looking words being repeated: ",
     "type": "text"
    },
    {
@@ -1003,7 +1120,16 @@
     "type": "block_quote",
     "tokens": [
      {
-      "text": "האיש מקדש בו ובשלוחו",
+      "type": "bold",
+      "tokens": [
+       {
+        "text": "האיש מקדש בו ובשלוחו",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " האשה מתקדשת בה ובשלוחה האיש מקדש את בתו כשהיא נערה בו ובשלוחו",
       "type": "text"
      }
     ],
@@ -1012,7 +1138,7 @@
   ],
   "Individual words": [
    {
-    "text": "These are the words of the first clause, you can select them to learn more: ",
+    "text": "Next we need to understand the individual words of the first clause, you can select one to learn more: ",
     "type": "text"
    },
    {
@@ -1128,97 +1254,82 @@
     "enclosingSubtopic": "האיש"
    },
    {
-    "type": "footnote_marker",
-    "text": "1"
-   },
-   {
-    "text": ". ",
+    "text": ". (Try reading the \"possible meanings\" of all the words in the sentence before looking at the \"actual meaning\" of any word, so that you can practice figuring it out yourself.)",
     "type": "text"
-   },
-   {
-    "type": "footnote_lines",
-    "lines": [
-     {
-      "superscript": "1",
-      "tokens": [
-       {
-        "text": " Try reading the \"possible meanings\" of all the words in the sentence before looking at the actual meanings of any word so that you can practice figuring it out yourself.",
-        "type": "text"
-       }
-      ]
-     }
-    ]
    }
   ],
   "Possible meanings of האיש": [
    {
-    "text": "Try to use the following hints to guess the meaning of the word in this context. There are ",
+    "text": "Try to use the following hints to guess the meaning of the word in this context: ",
     "type": "text"
    },
    {
-    "text": "different things a ה at the start of a word could mean",
-    "type": "global",
-    "tokens": [
+    "topLevelNodes": [
      {
-      "text": "different things a ה at the start of a word could mean",
-      "type": "text"
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "There are ",
+        "type": "text"
+       },
+       {
+        "text": "different things a ה at the start of a word could mean",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "different things a ה at the start of a word could mean",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Different things a ה at the start of a word could mean",
+        "targetTopic": "Different things a ה at the start of a word could mean",
+        "enclosingTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingSubtopic": "Possible meanings of האיש"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "There are ",
+        "type": "text"
+       },
+       {
+        "text": "smaller words that might be part of האיש",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "smaller words that might be part of האיש",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Smaller words that might be part of האיש",
+        "targetTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingSubtopic": "Possible meanings of האיש"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
      }
     ],
-    "targetSubtopic": "Different things a ה at the start of a word could mean",
-    "targetTopic": "Different things a ה at the start of a word could mean",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Possible meanings of האיש"
-   },
-   {
-    "text": ". There are ",
-    "type": "text"
-   },
-   {
-    "text": "words that include a ה and א",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "words that include a ה and א",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Words that include a ה and א",
-    "targetTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Possible meanings of האיש"
-   },
-   {
-    "text": ", and there are ",
-    "type": "text"
-   },
-   {
-    "text": "words that include an א and ש",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "words that include an א and ש",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Words that include an א and ש",
-    "targetTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Possible meanings of האיש"
-   },
-   {
-    "text": ".",
-    "type": "text"
+    "type": "outline"
    }
   ],
-  "Words that include a ה and א": [
+  "Smaller words that might be part of האיש": [
    {
-    "text": "Maybe האיש is composed of smaller parts. In Aramaic, there is a word הא which means \"that.\" There is also a word האי which means \"this.\"",
-    "type": "text"
-   }
-  ],
-  "Words that include an א and ש": [
-   {
-    "text": "Maybe האיש is composed of smaller parts. In Hebrew, there is a word אש meaning \"fire,\" and there is a word איש meaning \"man.\"",
+    "text": "Maybe האיש is composed of smaller parts. In Aramaic, there is a word הא which means \"that.\" There is also a word האי which means \"this.\" In Hebrew, there is a word אש meaning \"fire,\" and there is a word איש meaning \"man.\"",
     "type": "text"
    }
   ],
@@ -1284,7 +1395,7 @@
   ],
   "Other possibilities": [
    {
-    "text": "We are reading a Mishnah, so we know we are reading Hebrew and not Aramaic, and so we shouldn't think the word האיש might be related to the Aramaic words הא or האי. However, if there would exist a ",
+    "text": "We are reading a Mishnah, so we know we are reading Hebrew and not Aramaic, and so we shouldn't think the word האיש might be related to the Aramaic words הא or האי. Nevertheless, if there would exist a ",
     "type": "text"
    },
    {
@@ -1577,16 +1688,16 @@
     "type": "text"
    },
    {
-    "text": "ongoing tense",
+    "text": "adjective form",
     "type": "global",
     "tokens": [
      {
-      "text": "ongoing tense",
+      "text": "adjective form",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Ongoing tense",
-    "targetTopic": "Ongoing tense",
+    "targetSubtopic": "Adjective form",
+    "targetTopic": "Adjective form",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
     "enclosingSubtopic": "Grammatical explanation of מקדש"
    },
@@ -1690,8 +1801,48 @@
   ],
   "Possible meanings of בו": [
    {
-    "text": "There is a verb in Hebrew pronounced \"bo\" beginning with ב that means \"to come.\" There is also a prefix ב that can mean \"in,\" \"with,\" \"on,\" \"via,\" or \"at the time of,\" and there are various suffixes you can attach to it that indicate what thing is being referred to.",
+    "text": "Here are some guesses at the meaning of this word: ",
     "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "A ו can sometimes make an \"oh\" sound, and there is a common verb in Hebrew pronounced \"bo\" that means \"to come,\" so maybe this is a conjugation of that verb.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "There is also a prefix ב that can mean \"in,\" \"with,\" \"on,\" \"via,\" or \"at the time of,\" and there are various suffixes you can attach to it that indicate what is being refered to (ie \"on/with/via\" ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "what?",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ")",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
    }
   ],
   "Actual meaning of בו": [
@@ -1756,15 +1907,15 @@
     "enclosingSubtopic": "Grammatical explanation of בו"
    },
    {
-    "text": " using one of its ",
+    "text": " using the ",
     "type": "text"
    },
    {
-    "text": "suffixes",
+    "text": "masculine singular suffix",
     "type": "import",
     "tokens": [
      {
-      "text": "suffixes",
+      "text": "masculine singular suffix",
       "type": "text"
      }
     ],
@@ -1793,7 +1944,55 @@
   ],
   "ובשלוחו": [
    {
-    "text": "This is ",
+    "text": "The word ובשלוחו has ",
+    "type": "text"
+   },
+   {
+    "text": "possible meanings",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "possible meanings",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Possible meanings of the word ובשלוחו",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "ובשלוחו"
+   },
+   {
+    "text": " and an ",
+    "type": "text"
+   },
+   {
+    "text": "actual meaning",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "actual meaning",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Actual meaning of the word ובשלוחו",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingSubtopic": "ובשלוחו"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Possible meanings of the word ובשלוחו": [
+   {
+    "text": "To be written.",
+    "type": "text"
+   }
+  ],
+  "Actual meaning of the word ובשלוחו": [
+   {
+    "text": "The word ובשלוחו is formed from ",
     "type": "text"
    },
    {
@@ -1808,7 +2007,7 @@
     "targetSubtopic": "The prefix ו",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "ובשלוחו"
+    "enclosingSubtopic": "Actual meaning of the word ובשלוחו"
    },
    {
     "text": ", followed by ",
@@ -1826,7 +2025,7 @@
     "targetSubtopic": "The prefix ב",
     "targetTopic": "The prefix ב",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "ובשלוחו"
+    "enclosingSubtopic": "Actual meaning of the word ובשלוחו"
    },
    {
     "text": ", followed by ",
@@ -1844,7 +2043,7 @@
     "targetSubtopic": "The word שלוח",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "ובשלוחו"
+    "enclosingSubtopic": "Actual meaning of the word ובשלוחו"
    },
    {
     "text": ", followed by ",
@@ -1862,7 +2061,7 @@
     "targetSubtopic": "The noun suffix ו",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "ובשלוחו"
+    "enclosingSubtopic": "Actual meaning of the word ובשלוחו"
    },
    {
     "text": ".",
@@ -1961,73 +2160,91 @@
     "direction": "ltr"
    }
   ],
-  "Interpretation": [
+  "Contextual summary": [
    {
     "text": "Synthesize context and content into a summary, and see eg does the content and the context fit, is this an answer, etc. - With questions and mehalchim.",
     "type": "text"
    }
   ],
-  "Commentary": [
+  "Analyze the first clause": [
    {
-    "text": "There are ",
+    "text": "In order to analyze the first clause, we will consider: ",
     "type": "text"
    },
    {
-    "text": "observations we can make on the first clause",
-    "type": "local",
-    "tokens": [
+    "topLevelNodes": [
      {
-      "text": "observations we can make on the first clause",
-      "type": "text"
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Comprehension questions on the first clause",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Comprehension questions on the first clause",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Comprehension questions on the first clause",
+        "targetTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingSubtopic": "Analyze the first clause"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Commentators on the first clause",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Commentators on the first clause",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Commentators on the first clause",
+        "targetTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingSubtopic": "Analyze the first clause"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Gemaras on the first clause",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Gemaras on the first clause",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Gemaras on the first clause",
+        "targetTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingSubtopic": "Analyze the first clause"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
      }
     ],
-    "targetSubtopic": "Observations we can make",
-    "targetTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Commentary"
-   },
-   {
-    "text": ", ",
-    "type": "text"
-   },
-   {
-    "text": "mefarshim on the first clause",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "mefarshim on the first clause",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Mefarshim on the first clause",
-    "targetTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Commentary"
-   },
-   {
-    "text": ", and ",
-    "type": "text"
-   },
-   {
-    "text": "Gemaras on the first clause",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "Gemaras on the first clause",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Gemaras on the first clause",
-    "targetTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Commentary"
-   },
-   {
-    "text": ".",
-    "type": "text"
+    "type": "outline"
    }
   ],
-  "Observations we can make": [
+  "Comprehension questions on the first clause": [
    {
     "text": "There are observations we can make on the first clause. First, ",
     "type": "text"
@@ -2044,7 +2261,7 @@
     "targetSubtopic": "That it says \"bo u'b'shlucho\"",
     "targetTopic": "The Mishnah on Kiddushin 41a",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Observations we can make"
+    "enclosingSubtopic": "Comprehension questions on the first clause"
    },
    {
     "text": ".",
@@ -2156,33 +2373,45 @@
     "type": "text"
    }
   ],
-  "Mefarshim on the first clause": [
+  "Commentators on the first clause": [
    {
-    "text": "Rashi on Kiddushin 41a _ha'ish mekadesh bo u'b'shlucho_",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "Rashi on Kiddushin 41a ",
-      "type": "text"
-     },
-     {
-      "type": "italics",
-      "tokens": [
-       {
-        "text": "ha'ish mekadesh bo u'b'shlucho",
-        "type": "text"
-       }
-      ]
-     }
-    ],
-    "targetSubtopic": "Rashi on Kiddushin 41a ha'ish mekadesh bo u'b'shlucho",
-    "targetTopic": "Rashi on Kiddushin 41a ha'ish mekadesh bo u'b'shlucho",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Mefarshim on the first clause"
+    "text": "There are commentators who discuss the first clause: ",
+    "type": "text"
    },
    {
-    "text": " discusses the first clause of the Mishnah.",
-    "type": "text"
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Rashi on Kiddushin 41a _ha'ish mekadesh bo u'b'shlucho_",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Rashi on Kiddushin 41a ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "ha'ish mekadesh bo u'b'shlucho",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Rashi on Kiddushin 41a ha'ish mekadesh bo u'b'shlucho",
+        "targetTopic": "Rashi on Kiddushin 41a ha'ish mekadesh bo u'b'shlucho",
+        "enclosingTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingSubtopic": "Commentators on the first clause"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
    }
   ],
   "Gemaras on the first clause": [

@@ -440,7 +440,7 @@
         "type": "bold",
         "tokens": [
          {
-          "text": "Person",
+          "text": "Transliteration",
           "type": "text"
          }
         ]
@@ -451,7 +451,7 @@
         "type": "bold",
         "tokens": [
          {
-          "text": "Transliteration",
+          "text": "Person",
           "type": "text"
          }
         ]
@@ -478,12 +478,6 @@
       ],
       [
        {
-        "text": "I",
-        "type": "text"
-       }
-      ],
-      [
-       {
         "type": "italics",
         "tokens": [
          {
@@ -491,6 +485,12 @@
           "type": "text"
          }
         ]
+       }
+      ],
+      [
+       {
+        "text": "I",
+        "type": "text"
        }
       ],
       [
@@ -517,12 +517,6 @@
       ],
       [
        {
-        "text": "We",
-        "type": "text"
-       }
-      ],
-      [
-       {
         "type": "italics",
         "tokens": [
          {
@@ -530,6 +524,12 @@
           "type": "text"
          }
         ]
+       }
+      ],
+      [
+       {
+        "text": "We",
+        "type": "text"
        }
       ],
       [
@@ -548,12 +548,6 @@
       ],
       [
        {
-        "text": "You (masculine)",
-        "type": "text"
-       }
-      ],
-      [
-       {
         "type": "italics",
         "tokens": [
          {
@@ -561,6 +555,12 @@
           "type": "text"
          }
         ]
+       }
+      ],
+      [
+       {
+        "text": "You (masculine)",
+        "type": "text"
        }
       ],
       [
@@ -579,12 +579,6 @@
       ],
       [
        {
-        "text": "You (feminine)",
-        "type": "text"
-       }
-      ],
-      [
-       {
         "type": "italics",
         "tokens": [
          {
@@ -592,6 +586,12 @@
           "type": "text"
          }
         ]
+       }
+      ],
+      [
+       {
+        "text": "You (feminine)",
+        "type": "text"
        }
       ],
       [
@@ -610,12 +610,6 @@
       ],
       [
        {
-        "text": "You all (masculine)",
-        "type": "text"
-       }
-      ],
-      [
-       {
         "type": "italics",
         "tokens": [
          {
@@ -623,6 +617,12 @@
           "type": "text"
          }
         ]
+       }
+      ],
+      [
+       {
+        "text": "You all (masculine)",
+        "type": "text"
        }
       ],
       [
@@ -641,12 +641,6 @@
       ],
       [
        {
-        "text": "You all (feminine)",
-        "type": "text"
-       }
-      ],
-      [
-       {
         "type": "italics",
         "tokens": [
          {
@@ -654,6 +648,12 @@
           "type": "text"
          }
         ]
+       }
+      ],
+      [
+       {
+        "text": "You all (feminine)",
+        "type": "text"
        }
       ],
       [
@@ -672,12 +672,6 @@
       ],
       [
        {
-        "text": "He / it (masculine)",
-        "type": "text"
-       }
-      ],
-      [
-       {
         "type": "italics",
         "tokens": [
          {
@@ -685,6 +679,12 @@
           "type": "text"
          }
         ]
+       }
+      ],
+      [
+       {
+        "text": "He / it (masculine)",
+        "type": "text"
        }
       ],
       [
@@ -703,12 +703,6 @@
       ],
       [
        {
-        "text": "She / it (feminine)",
-        "type": "text"
-       }
-      ],
-      [
-       {
         "type": "italics",
         "tokens": [
          {
@@ -716,6 +710,12 @@
           "type": "text"
          }
         ]
+       }
+      ],
+      [
+       {
+        "text": "She / it (feminine)",
+        "type": "text"
        }
       ],
       [
@@ -729,12 +729,6 @@
       [
        {
         "text": "בָּהֶם or בָּם",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "Them / those (masculine)",
         "type": "text"
        }
       ],
@@ -764,6 +758,12 @@
       ],
       [
        {
+        "text": "Them / those (masculine)",
+        "type": "text"
+       }
+      ],
+      [
+       {
         "text": "with those men",
         "type": "text"
        }
@@ -773,12 +773,6 @@
       [
        {
         "text": "בָּהֶן or בָּן",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "Them / those (feminine)",
         "type": "text"
        }
       ],
@@ -808,6 +802,12 @@
       ],
       [
        {
+        "text": "Them / those (feminine)",
+        "type": "text"
+       }
+      ],
+      [
+       {
         "text": "with those women",
         "type": "text"
        }
@@ -826,7 +826,7 @@
       "superscript": "1",
       "tokens": [
        {
-        "text": " This table translates ב as \"with,\" but each of these spellings can also mean \"on,\" \"in,\" etc.",
+        "text": " This table translates ב as \"with,\" but each of these words can also mean \"on,\" \"in,\" \"with\", \"via,\" etc.",
         "type": "text"
        }
       ]

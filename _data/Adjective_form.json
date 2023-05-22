@@ -1,15 +1,15 @@
 {
- "displayTopicName": "Ongoing tense",
+ "displayTopicName": "Adjective form",
  "topicTokens": [
   {
-   "text": "Ongoing tense",
+   "text": "Adjective form",
    "type": "text"
   }
  ],
  "paragraphsBySubtopic": {
-  "Ongoing tense": [
+  "Adjective form": [
    {
-    "text": "The ongoing tense (sometimes called ",
+    "text": "The adjective form (sometimes called ",
     "type": "text"
    },
    {
@@ -22,7 +22,7 @@
     ]
    },
    {
-    "text": ") is one of the ",
+    "text": ", or the \"participle\") is one of the ",
     "type": "text"
    },
    {
@@ -36,68 +36,68 @@
     ],
     "targetSubtopic": "Verb forms of Hebrew and Aramaic",
     "targetTopic": "Verb forms of Hebrew and Aramaic",
-    "enclosingTopic": "Ongoing tense",
-    "enclosingSubtopic": "Ongoing tense"
+    "enclosingTopic": "Adjective form",
+    "enclosingSubtopic": "Adjective form"
    },
    {
-    "text": ". It is similar to the English \"ing\" verbs. The ongoing tense has various ",
+    "text": ". It is similar to English \"ing\" verbs. The adjective form ",
     "type": "text"
    },
    {
-    "text": "uses",
+    "text": "has various uses",
     "type": "local",
     "tokens": [
      {
-      "text": "uses",
+      "text": "has various uses",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Uses",
-    "targetTopic": "Ongoing tense",
-    "enclosingTopic": "Ongoing tense",
-    "enclosingSubtopic": "Ongoing tense"
+    "targetSubtopic": "Has various uses",
+    "targetTopic": "Adjective form",
+    "enclosingTopic": "Adjective form",
+    "enclosingSubtopic": "Adjective form"
    },
    {
-    "text": ", and it has ",
+    "text": ", and it ",
     "type": "text"
    },
    {
-    "text": "various forms",
+    "text": "has various forms",
     "type": "local",
     "tokens": [
      {
-      "text": "various forms",
+      "text": "has various forms",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Various forms",
-    "targetTopic": "Ongoing tense",
-    "enclosingTopic": "Ongoing tense",
-    "enclosingSubtopic": "Ongoing tense"
+    "targetSubtopic": "Has various forms",
+    "targetTopic": "Adjective form",
+    "enclosingTopic": "Adjective form",
+    "enclosingSubtopic": "Adjective form"
    },
    {
-    "text": ". The ongoing tense is also called the \"participle.\"",
+    "text": ".",
     "type": "text"
    }
   ],
-  "Uses": [
+  "Has various uses": [
    {
-    "text": "The ongoing tense ",
+    "text": "The adjective form ",
     "type": "text"
    },
    {
-    "text": "corresponds to both the English present and ongoing tense",
+    "text": "corresponds to both the English present and adjective form",
     "type": "local",
     "tokens": [
      {
-      "text": "corresponds to both the English present and ongoing tense",
+      "text": "corresponds to both the English present and adjective form",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Corresponds to both the English present and ongoing tense",
-    "targetTopic": "Ongoing tense",
-    "enclosingTopic": "Ongoing tense",
-    "enclosingSubtopic": "Uses"
+    "targetSubtopic": "Corresponds to both the English present and adjective form",
+    "targetTopic": "Adjective form",
+    "enclosingTopic": "Adjective form",
+    "enclosingSubtopic": "Has various uses"
    },
    {
     "text": ". It can be ",
@@ -113,9 +113,9 @@
      }
     ],
     "targetSubtopic": "Used for various time periods",
-    "targetTopic": "Ongoing tense",
-    "enclosingTopic": "Ongoing tense",
-    "enclosingSubtopic": "Uses"
+    "targetTopic": "Adjective form",
+    "enclosingTopic": "Adjective form",
+    "enclosingSubtopic": "Has various uses"
    },
    {
     "text": ", and can ",
@@ -131,18 +131,18 @@
      }
     ],
     "targetSubtopic": "Function as a noun or adjective",
-    "targetTopic": "Ongoing tense",
-    "enclosingTopic": "Ongoing tense",
-    "enclosingSubtopic": "Uses"
+    "targetTopic": "Adjective form",
+    "enclosingTopic": "Adjective form",
+    "enclosingSubtopic": "Has various uses"
    },
    {
     "text": ".",
     "type": "text"
    }
   ],
-  "Various forms": [
+  "Has various forms": [
    {
-    "text": "There are multiple versions of the ongoing tense ",
+    "text": "There are multiple versions of the adjective form ",
     "type": "text"
    },
    {
@@ -155,9 +155,9 @@
      }
     ],
     "targetSubtopic": "Versions in Hebrew",
-    "targetTopic": "Ongoing tense",
-    "enclosingTopic": "Ongoing tense",
-    "enclosingSubtopic": "Various forms"
+    "targetTopic": "Adjective form",
+    "enclosingTopic": "Adjective form",
+    "enclosingSubtopic": "Has various forms"
    },
    {
     "text": " and ",
@@ -173,9 +173,9 @@
      }
     ],
     "targetSubtopic": "Versions in Aramaic",
-    "targetTopic": "Ongoing tense",
-    "enclosingTopic": "Ongoing tense",
-    "enclosingSubtopic": "Various forms"
+    "targetTopic": "Adjective form",
+    "enclosingTopic": "Adjective form",
+    "enclosingSubtopic": "Has various forms"
    },
    {
     "text": ", and for each version there are conjugations ",
@@ -191,18 +191,18 @@
      }
     ],
     "targetSubtopic": "For gender and number",
-    "targetTopic": "Ongoing tense",
-    "enclosingTopic": "Ongoing tense",
-    "enclosingSubtopic": "Various forms"
+    "targetTopic": "Adjective form",
+    "enclosingTopic": "Adjective form",
+    "enclosingSubtopic": "Has various forms"
    },
    {
     "text": ".",
     "type": "text"
    }
   ],
-  "Corresponds to both the English present and ongoing tense": [
+  "Corresponds to both the English present and adjective form": [
    {
-    "text": "Whereas in English you can say \"he is writing\" or \"he writes,\" in Hebrew and Aramaic, both of these meanings would be expressed with the same ongoing form eg הוא כותב, ",
+    "text": "Whereas in English you can say \"he is writing\" or \"he writes,\" in Hebrew and Aramaic, both of these meanings would be expressed with the same adjective form eg הוא כותב, ",
     "type": "text"
    },
    {
@@ -221,7 +221,7 @@
   ],
   "Used for various time periods": [
    {
-    "text": "A word in the ongoing tense technically ",
+    "text": "A word in the adjective form technically ",
     "type": "text"
    },
    {
@@ -234,8 +234,8 @@
      }
     ],
     "targetSubtopic": "Has no time",
-    "targetTopic": "Ongoing tense",
-    "enclosingTopic": "Ongoing tense",
+    "targetTopic": "Adjective form",
+    "enclosingTopic": "Adjective form",
     "enclosingSubtopic": "Used for various time periods"
    },
    {
@@ -252,8 +252,8 @@
      }
     ],
     "targetSubtopic": "In the past",
-    "targetTopic": "Ongoing tense",
-    "enclosingTopic": "Ongoing tense",
+    "targetTopic": "Adjective form",
+    "enclosingTopic": "Adjective form",
     "enclosingSubtopic": "Used for various time periods"
    },
    {
@@ -270,8 +270,8 @@
      }
     ],
     "targetSubtopic": "In the present",
-    "targetTopic": "Ongoing tense",
-    "enclosingTopic": "Ongoing tense",
+    "targetTopic": "Adjective form",
+    "enclosingTopic": "Adjective form",
     "enclosingSubtopic": "Used for various time periods"
    },
    {
@@ -288,8 +288,8 @@
      }
     ],
     "targetSubtopic": "In the future",
-    "targetTopic": "Ongoing tense",
-    "enclosingTopic": "Ongoing tense",
+    "targetTopic": "Adjective form",
+    "enclosingTopic": "Adjective form",
     "enclosingSubtopic": "Used for various time periods"
    },
    {
@@ -299,13 +299,13 @@
   ],
   "Has no time": [
    {
-    "text": "A word in the ongoing tense of Hebrew or Aramaic does not alone tell us what time the action happened. This is like the English word \"running,\" which only describes an action, not when it happened. We require the context of the sentence to determine the time of the action.",
+    "text": "A word in the adjective form of Hebrew or Aramaic does not alone tell us what time the action happened. This is like the English word \"running,\" which only describes an action, not when it happened. We require the context of the sentence to determine the time of the action.",
     "type": "text"
    }
   ],
   "In the past": [
    {
-    "text": "The ongoing tense can be used in the past tense, for example הוא היה כותב, ",
+    "text": "The adjective form can be used in the past tense, for example הוא היה כותב, ",
     "type": "text"
    },
    {
@@ -332,17 +332,17 @@
     ],
     "targetSubtopic": "Past tense",
     "targetTopic": "Past tense",
-    "enclosingTopic": "Ongoing tense",
+    "enclosingTopic": "Adjective form",
     "enclosingSubtopic": "In the past"
    },
    {
-    "text": ", and not the \"past-tense version\" of the ongoing tense.",
+    "text": ", and not the \"past-tense version\" of the adjective form.",
     "type": "text"
    }
   ],
   "In the present": [
    {
-    "text": "The ongoing tense can be used in the present tense by adding a noun before the verb, for example, הוא כותב, ",
+    "text": "The adjective form can be used in the present tense by adding a noun before the verb, for example, הוא כותב, ",
     "type": "text"
    },
    {
@@ -361,7 +361,7 @@
   ],
   "In the future": [
    {
-    "text": "The ongoing tense can be used in the future tense, for example, הוא יהיה כותב, ",
+    "text": "The adjective form can be used in the future tense, for example, הוא יהיה כותב, ",
     "type": "text"
    },
    {
@@ -388,17 +388,17 @@
     ],
     "targetSubtopic": "Future Tense",
     "targetTopic": "Future Tense",
-    "enclosingTopic": "Ongoing tense",
+    "enclosingTopic": "Adjective form",
     "enclosingSubtopic": "In the future"
    },
    {
-    "text": " and not the \"future version\" of the ongoing tense.",
+    "text": " and not the \"future version\" of the adjective form.",
     "type": "text"
    }
   ],
   "Function as a noun or adjective": [
    {
-    "text": "Words in the ongoing tense can function ",
+    "text": "Words in the adjective form can function ",
     "type": "text"
    },
    {
@@ -411,8 +411,8 @@
      }
     ],
     "targetSubtopic": "As nouns",
-    "targetTopic": "Ongoing tense",
-    "enclosingTopic": "Ongoing tense",
+    "targetTopic": "Adjective form",
+    "enclosingTopic": "Adjective form",
     "enclosingSubtopic": "Function as a noun or adjective"
    },
    {
@@ -429,8 +429,8 @@
      }
     ],
     "targetSubtopic": "As adjectives",
-    "targetTopic": "Ongoing tense",
-    "enclosingTopic": "Ongoing tense",
+    "targetTopic": "Adjective form",
+    "enclosingTopic": "Adjective form",
     "enclosingSubtopic": "Function as a noun or adjective"
    },
    {
@@ -440,7 +440,7 @@
   ],
   "As nouns": [
    {
-    "text": "The ongoing tense can function as a noun in two ways, ",
+    "text": "The adjective form can function as a noun in two ways, ",
     "type": "text"
    },
    {
@@ -453,8 +453,8 @@
      }
     ],
     "targetSubtopic": "Describing someone doing the action",
-    "targetTopic": "Ongoing tense",
-    "enclosingTopic": "Ongoing tense",
+    "targetTopic": "Adjective form",
+    "enclosingTopic": "Adjective form",
     "enclosingSubtopic": "As nouns"
    },
    {
@@ -471,8 +471,8 @@
      }
     ],
     "targetSubtopic": "Describing an instance of an action",
-    "targetTopic": "Ongoing tense",
-    "enclosingTopic": "Ongoing tense",
+    "targetTopic": "Adjective form",
+    "enclosingTopic": "Adjective form",
     "enclosingSubtopic": "As nouns"
    },
    {
@@ -482,7 +482,7 @@
   ],
   "Describing someone doing the action": [
    {
-    "text": "The ongoing tense can function as a noun describing someone or something doing the given action. For example: ",
+    "text": "The adjective form can function as a noun describing someone or something doing the given action. For example: ",
     "type": "text"
    },
    {
@@ -571,7 +571,7 @@
   ],
   "Describing an instance of an action": [
    {
-    "text": "The ongoing tense can function as a noun describing someone or something doing the given action. For example: ",
+    "text": "The adjective form can function as a noun describing someone or something doing the given action. For example: ",
     "type": "text"
    },
    {
@@ -760,13 +760,13 @@
     ]
    },
    {
-    "text": " In English, \"holy\" is an adjective and \"being holy\" is a verb, but in Hebrew and Aramaic, the same ongoing tense word \"קודש\" would be used for both.",
+    "text": " In English, \"holy\" is an adjective and \"being holy\" is a verb, but in Hebrew and Aramaic, the same adjective form word \"קודש\" would be used for both.",
     "type": "text"
    }
   ],
   "Versions in Hebrew": [
    {
-    "text": "These are the examples of the ongoing tense in the masculine singular for each of the ",
+    "text": "These are the examples of the adjective form in the masculine singular for each of the ",
     "type": "text"
    },
    {
@@ -780,7 +780,7 @@
     ],
     "targetSubtopic": "Hebrew binyanim",
     "targetTopic": "Hebrew binyanim",
-    "enclosingTopic": "Ongoing tense",
+    "enclosingTopic": "Adjective form",
     "enclosingSubtopic": "Versions in Hebrew"
    },
    {
@@ -798,7 +798,7 @@
     ],
     "targetSubtopic": "Binyan",
     "targetTopic": "Binyan",
-    "enclosingTopic": "Ongoing tense",
+    "enclosingTopic": "Adjective form",
     "enclosingSubtopic": "Versions in Hebrew"
    },
    {
@@ -852,7 +852,7 @@
         ],
         "targetSubtopic": "Pa'al",
         "targetTopic": "Pa'al",
-        "enclosingTopic": "Ongoing tense",
+        "enclosingTopic": "Adjective form",
         "enclosingSubtopic": "Versions in Hebrew"
        }
       ],
@@ -868,7 +868,7 @@
         ],
         "targetSubtopic": "Simple",
         "targetTopic": "Simple",
-        "enclosingTopic": "Ongoing tense",
+        "enclosingTopic": "Adjective form",
         "enclosingSubtopic": "Versions in Hebrew"
        },
        {
@@ -886,7 +886,7 @@
         ],
         "targetSubtopic": "Active",
         "targetTopic": "Active",
-        "enclosingTopic": "Ongoing tense",
+        "enclosingTopic": "Adjective form",
         "enclosingSubtopic": "Versions in Hebrew"
        }
       ],
@@ -926,7 +926,7 @@
         ],
         "targetSubtopic": "Nif'al",
         "targetTopic": "Nif'al",
-        "enclosingTopic": "Ongoing tense",
+        "enclosingTopic": "Adjective form",
         "enclosingSubtopic": "Versions in Hebrew"
        }
       ],
@@ -942,7 +942,7 @@
         ],
         "targetSubtopic": "Simple",
         "targetTopic": "Simple",
-        "enclosingTopic": "Ongoing tense",
+        "enclosingTopic": "Adjective form",
         "enclosingSubtopic": "Versions in Hebrew"
        },
        {
@@ -960,7 +960,7 @@
         ],
         "targetSubtopic": "Passive",
         "targetTopic": "Passive",
-        "enclosingTopic": "Ongoing tense",
+        "enclosingTopic": "Adjective form",
         "enclosingSubtopic": "Versions in Hebrew"
        }
       ],
@@ -1000,7 +1000,7 @@
         ],
         "targetSubtopic": "Pi'el",
         "targetTopic": "Pi'el",
-        "enclosingTopic": "Ongoing tense",
+        "enclosingTopic": "Adjective form",
         "enclosingSubtopic": "Versions in Hebrew"
        }
       ],
@@ -1016,7 +1016,7 @@
         ],
         "targetSubtopic": "Intensive",
         "targetTopic": "Intensive",
-        "enclosingTopic": "Ongoing tense",
+        "enclosingTopic": "Adjective form",
         "enclosingSubtopic": "Versions in Hebrew"
        },
        {
@@ -1034,7 +1034,7 @@
         ],
         "targetSubtopic": "Active",
         "targetTopic": "Active",
-        "enclosingTopic": "Ongoing tense",
+        "enclosingTopic": "Adjective form",
         "enclosingSubtopic": "Versions in Hebrew"
        }
       ],
@@ -1074,7 +1074,7 @@
         ],
         "targetSubtopic": "Pu'al",
         "targetTopic": "Pu'al",
-        "enclosingTopic": "Ongoing tense",
+        "enclosingTopic": "Adjective form",
         "enclosingSubtopic": "Versions in Hebrew"
        }
       ],
@@ -1090,7 +1090,7 @@
         ],
         "targetSubtopic": "Intensive",
         "targetTopic": "Intensive",
-        "enclosingTopic": "Ongoing tense",
+        "enclosingTopic": "Adjective form",
         "enclosingSubtopic": "Versions in Hebrew"
        },
        {
@@ -1108,7 +1108,7 @@
         ],
         "targetSubtopic": "Passive",
         "targetTopic": "Passive",
-        "enclosingTopic": "Ongoing tense",
+        "enclosingTopic": "Adjective form",
         "enclosingSubtopic": "Versions in Hebrew"
        }
       ],
@@ -1148,7 +1148,7 @@
         ],
         "targetSubtopic": "Hif'il",
         "targetTopic": "Hif'il",
-        "enclosingTopic": "Ongoing tense",
+        "enclosingTopic": "Adjective form",
         "enclosingSubtopic": "Versions in Hebrew"
        }
       ],
@@ -1164,7 +1164,7 @@
         ],
         "targetSubtopic": "Causative",
         "targetTopic": "Causative",
-        "enclosingTopic": "Ongoing tense",
+        "enclosingTopic": "Adjective form",
         "enclosingSubtopic": "Versions in Hebrew"
        },
        {
@@ -1182,7 +1182,7 @@
         ],
         "targetSubtopic": "Active",
         "targetTopic": "Active",
-        "enclosingTopic": "Ongoing tense",
+        "enclosingTopic": "Adjective form",
         "enclosingSubtopic": "Versions in Hebrew"
        }
       ],
@@ -1222,7 +1222,7 @@
         ],
         "targetSubtopic": "Huf'al",
         "targetTopic": "Huf'al",
-        "enclosingTopic": "Ongoing tense",
+        "enclosingTopic": "Adjective form",
         "enclosingSubtopic": "Versions in Hebrew"
        }
       ],
@@ -1238,7 +1238,7 @@
         ],
         "targetSubtopic": "Causative",
         "targetTopic": "Causative",
-        "enclosingTopic": "Ongoing tense",
+        "enclosingTopic": "Adjective form",
         "enclosingSubtopic": "Versions in Hebrew"
        },
        {
@@ -1256,7 +1256,7 @@
         ],
         "targetSubtopic": "Passive",
         "targetTopic": "Passive",
-        "enclosingTopic": "Ongoing tense",
+        "enclosingTopic": "Adjective form",
         "enclosingSubtopic": "Versions in Hebrew"
        }
       ],
@@ -1296,7 +1296,7 @@
         ],
         "targetSubtopic": "Hispa'el",
         "targetTopic": "Hispa'el",
-        "enclosingTopic": "Ongoing tense",
+        "enclosingTopic": "Adjective form",
         "enclosingSubtopic": "Versions in Hebrew"
        }
       ],
@@ -1312,7 +1312,7 @@
         ],
         "targetSubtopic": "Reflexive",
         "targetTopic": "Reflexive",
-        "enclosingTopic": "Ongoing tense",
+        "enclosingTopic": "Adjective form",
         "enclosingSubtopic": "Versions in Hebrew"
        }
       ],
@@ -1339,7 +1339,7 @@
   ],
   "Versions in Aramaic": [
    {
-    "text": "These are the examples of the ongoing tense in the masculine singular for each of the ",
+    "text": "These are the examples of the adjective form in the masculine singular for each of the ",
     "type": "text"
    },
    {
@@ -1353,7 +1353,7 @@
     ],
     "targetSubtopic": "Aramaic binyanim",
     "targetTopic": "Aramaic binyanim",
-    "enclosingTopic": "Ongoing tense",
+    "enclosingTopic": "Adjective form",
     "enclosingSubtopic": "Versions in Aramaic"
    },
    {
@@ -1371,7 +1371,7 @@
     ],
     "targetSubtopic": "Binyan",
     "targetTopic": "Binyan",
-    "enclosingTopic": "Ongoing tense",
+    "enclosingTopic": "Adjective form",
     "enclosingSubtopic": "Versions in Aramaic"
    },
    {
@@ -1425,7 +1425,7 @@
         ],
         "targetSubtopic": "Pe'al",
         "targetTopic": "Pe'al",
-        "enclosingTopic": "Ongoing tense",
+        "enclosingTopic": "Adjective form",
         "enclosingSubtopic": "Versions in Aramaic"
        }
       ],
@@ -1441,7 +1441,7 @@
         ],
         "targetSubtopic": "Simple",
         "targetTopic": "Simple",
-        "enclosingTopic": "Ongoing tense",
+        "enclosingTopic": "Adjective form",
         "enclosingSubtopic": "Versions in Aramaic"
        },
        {
@@ -1459,7 +1459,7 @@
         ],
         "targetSubtopic": "Active",
         "targetTopic": "Active",
-        "enclosingTopic": "Ongoing tense",
+        "enclosingTopic": "Adjective form",
         "enclosingSubtopic": "Versions in Aramaic"
        }
       ],
@@ -1499,7 +1499,7 @@
         ],
         "targetSubtopic": "Ispe'el",
         "targetTopic": "Ispe'el",
-        "enclosingTopic": "Ongoing tense",
+        "enclosingTopic": "Adjective form",
         "enclosingSubtopic": "Versions in Aramaic"
        }
       ],
@@ -1515,7 +1515,7 @@
         ],
         "targetSubtopic": "Simple",
         "targetTopic": "Simple",
-        "enclosingTopic": "Ongoing tense",
+        "enclosingTopic": "Adjective form",
         "enclosingSubtopic": "Versions in Aramaic"
        },
        {
@@ -1533,7 +1533,7 @@
         ],
         "targetSubtopic": "Passive",
         "targetTopic": "Passive",
-        "enclosingTopic": "Ongoing tense",
+        "enclosingTopic": "Adjective form",
         "enclosingSubtopic": "Versions in Aramaic"
        }
       ],
@@ -1573,7 +1573,7 @@
         ],
         "targetSubtopic": "Pa'el",
         "targetTopic": "Pa'el",
-        "enclosingTopic": "Ongoing tense",
+        "enclosingTopic": "Adjective form",
         "enclosingSubtopic": "Versions in Aramaic"
        }
       ],
@@ -1589,7 +1589,7 @@
         ],
         "targetSubtopic": "Intensive",
         "targetTopic": "Intensive",
-        "enclosingTopic": "Ongoing tense",
+        "enclosingTopic": "Adjective form",
         "enclosingSubtopic": "Versions in Aramaic"
        },
        {
@@ -1607,7 +1607,7 @@
         ],
         "targetSubtopic": "Active",
         "targetTopic": "Active",
-        "enclosingTopic": "Ongoing tense",
+        "enclosingTopic": "Adjective form",
         "enclosingSubtopic": "Versions in Aramaic"
        }
       ],
@@ -1647,7 +1647,7 @@
         ],
         "targetSubtopic": "Ispa'al",
         "targetTopic": "Ispa'al",
-        "enclosingTopic": "Ongoing tense",
+        "enclosingTopic": "Adjective form",
         "enclosingSubtopic": "Versions in Aramaic"
        }
       ],
@@ -1663,7 +1663,7 @@
         ],
         "targetSubtopic": "Intensive",
         "targetTopic": "Intensive",
-        "enclosingTopic": "Ongoing tense",
+        "enclosingTopic": "Adjective form",
         "enclosingSubtopic": "Versions in Aramaic"
        },
        {
@@ -1681,7 +1681,7 @@
         ],
         "targetSubtopic": "Passive",
         "targetTopic": "Passive",
-        "enclosingTopic": "Ongoing tense",
+        "enclosingTopic": "Adjective form",
         "enclosingSubtopic": "Versions in Aramaic"
        }
       ],
@@ -1721,7 +1721,7 @@
         ],
         "targetSubtopic": "Af'el",
         "targetTopic": "Af'el",
-        "enclosingTopic": "Ongoing tense",
+        "enclosingTopic": "Adjective form",
         "enclosingSubtopic": "Versions in Aramaic"
        }
       ],
@@ -1737,7 +1737,7 @@
         ],
         "targetSubtopic": "Causative",
         "targetTopic": "Causative",
-        "enclosingTopic": "Ongoing tense",
+        "enclosingTopic": "Adjective form",
         "enclosingSubtopic": "Versions in Aramaic"
        },
        {
@@ -1755,7 +1755,7 @@
         ],
         "targetSubtopic": "Active",
         "targetTopic": "Active",
-        "enclosingTopic": "Ongoing tense",
+        "enclosingTopic": "Adjective form",
         "enclosingSubtopic": "Versions in Aramaic"
        }
       ],
@@ -1795,7 +1795,7 @@
         ],
         "targetSubtopic": "Itaf'al",
         "targetTopic": "Itaf'al",
-        "enclosingTopic": "Ongoing tense",
+        "enclosingTopic": "Adjective form",
         "enclosingSubtopic": "Versions in Aramaic"
        }
       ],
@@ -1811,7 +1811,7 @@
         ],
         "targetSubtopic": "Causative",
         "targetTopic": "Causative",
-        "enclosingTopic": "Ongoing tense",
+        "enclosingTopic": "Adjective form",
         "enclosingSubtopic": "Versions in Aramaic"
        },
        {
@@ -1829,7 +1829,7 @@
         ],
         "targetSubtopic": "Passive",
         "targetTopic": "Passive",
-        "enclosingTopic": "Ongoing tense",
+        "enclosingTopic": "Adjective form",
         "enclosingSubtopic": "Versions in Aramaic"
        },
        {
@@ -1847,7 +1847,7 @@
         ],
         "targetSubtopic": "Reflexive",
         "targetTopic": "Reflexive",
-        "enclosingTopic": "Ongoing tense",
+        "enclosingTopic": "Adjective form",
         "enclosingSubtopic": "Versions in Aramaic"
        }
       ],
@@ -1874,7 +1874,7 @@
   ],
   "For gender and number": [
    {
-    "text": "The ongoing tense is conjugated for gender and number: ",
+    "text": "The adjective form is conjugated for gender and number: ",
     "type": "text"
    },
    {
@@ -2047,7 +2047,7 @@
     ],
     "targetSubtopic": "Past tense",
     "targetTopic": "Past tense",
-    "enclosingTopic": "Ongoing tense",
+    "enclosingTopic": "Adjective form",
     "enclosingSubtopic": "For gender and number"
    },
    {
@@ -2065,7 +2065,7 @@
     ],
     "targetSubtopic": "Future Tense",
     "targetTopic": "Future Tense",
-    "enclosingTopic": "Ongoing tense",
+    "enclosingTopic": "Adjective form",
     "enclosingSubtopic": "For gender and number"
    },
    {
@@ -2082,12 +2082,12 @@
      }
     ],
     "targetSubtopic": "Separate forms for person",
-    "targetTopic": "Ongoing tense",
-    "enclosingTopic": "Ongoing tense",
+    "targetTopic": "Adjective form",
+    "enclosingTopic": "Adjective form",
     "enclosingSubtopic": "For gender and number"
    },
    {
-    "text": ". This is because the ongoing tense in Hebrew and Aramaic is ",
+    "text": ". This is because the adjective form in Hebrew and Aramaic is ",
     "type": "text"
    },
    {
@@ -2100,8 +2100,8 @@
      }
     ],
     "targetSubtopic": "Like an adjective",
-    "targetTopic": "Ongoing tense",
-    "enclosingTopic": "Ongoing tense",
+    "targetTopic": "Adjective form",
+    "enclosingTopic": "Adjective form",
     "enclosingSubtopic": "For gender and number"
    },
    {
@@ -2111,7 +2111,7 @@
   ],
   "Separate forms for person": [
    {
-    "text": "Tenses other than the ongoing tense have conjugations for every person, eg the ",
+    "text": "Tenses other than the adjective form have conjugations for every person, eg the ",
     "type": "text"
    },
    {
@@ -2130,7 +2130,7 @@
     ],
     "targetSubtopic": "Pa'al",
     "targetTopic": "Pa'al",
-    "enclosingTopic": "Ongoing tense",
+    "enclosingTopic": "Adjective form",
     "enclosingSubtopic": "Separate forms for person"
    },
    {
@@ -2148,7 +2148,7 @@
     ],
     "targetSubtopic": "Past tense",
     "targetTopic": "Past tense",
-    "enclosingTopic": "Ongoing tense",
+    "enclosingTopic": "Adjective form",
     "enclosingSubtopic": "Separate forms for person"
    },
    {
@@ -2488,7 +2488,7 @@
   ],
   "Like an adjective": [
    {
-    "text": "The ongoing tense in Hebrew and Aramaic is more like an adjective than a verb, with \"he is running\" having the same grammatical form as \"he is tall.\" (This example uses the ongoing form of the ",
+    "text": "The adjective form in Hebrew and Aramaic is more like an adjective than a verb, with \"he is running\" having the same grammatical form as \"he is tall.\" (This example uses the adjective form of the ",
     "type": "text"
    },
    {
@@ -2507,7 +2507,7 @@
     ],
     "targetSubtopic": "Pa'al",
     "targetTopic": "Pa'al",
-    "enclosingTopic": "Ongoing tense",
+    "enclosingTopic": "Adjective form",
     "enclosingSubtopic": "Like an adjective"
    },
    {
@@ -2525,7 +2525,7 @@
     ],
     "targetSubtopic": "Binyan",
     "targetTopic": "Binyan",
-    "enclosingTopic": "Ongoing tense",
+    "enclosingTopic": "Adjective form",
     "enclosingSubtopic": "Like an adjective"
    },
    {

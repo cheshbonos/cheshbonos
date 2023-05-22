@@ -1,0 +1,445 @@
+{
+ "displayTopicName": "The _hiskattlut_ pattern",
+ "topicTokens": [
+  {
+   "text": "The ",
+   "type": "text"
+  },
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "hiskattlut",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " pattern",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "The hiskattlut pattern": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "hiskattlut",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " pattern is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "Hebrew noun patterns",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Hebrew noun patterns",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Hebrew noun patterns",
+    "targetTopic": "Hebrew noun patterns",
+    "enclosingTopic": "The hiskattlut pattern",
+    "enclosingSubtopic": "The hiskattlut pattern"
+   },
+   {
+    "text": " and produces words such as: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "Shoresh",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "Hisp'ael",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " verb",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "Hiskattlut",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " noun",
+          "type": "text"
+         }
+        ]
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "בדד ",
+        "type": "text"
+       },
+       {
+        "type": "html_element",
+        "html": "<br>"
+       },
+       {
+        "text": " isolation",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "הִתְבּוֹדֵד ",
+        "type": "text"
+       },
+       {
+        "type": "html_element",
+        "html": "<br>"
+       },
+       {
+        "text": " ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hisboideid",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " ",
+        "type": "text"
+       },
+       {
+        "type": "html_element",
+        "html": "<br>"
+       },
+       {
+        "text": " he secluded",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "הִתְבּוֹדְדוּת ",
+        "type": "text"
+       },
+       {
+        "type": "html_element",
+        "html": "<br>"
+       },
+       {
+        "text": " ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hisboidedus",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " ",
+        "type": "text"
+       },
+       {
+        "type": "html_element",
+        "html": "<br>"
+       },
+       {
+        "text": " seclusion",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "חבר ",
+        "type": "text"
+       },
+       {
+        "type": "html_element",
+        "html": "<br>"
+       },
+       {
+        "text": " connection",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "הִתְחַבֵּר ",
+        "type": "text"
+       },
+       {
+        "type": "html_element",
+        "html": "<br>"
+       },
+       {
+        "text": " ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hisboideid",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " ",
+        "type": "text"
+       },
+       {
+        "type": "html_element",
+        "html": "<br>"
+       },
+       {
+        "text": " he joined",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "הִתְבּוֹדְדוּת ",
+        "type": "text"
+       },
+       {
+        "type": "html_element",
+        "html": "<br>"
+       },
+       {
+        "text": " ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hisboidedus",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " ",
+        "type": "text"
+       },
+       {
+        "type": "html_element",
+        "html": "<br>"
+       },
+       {
+        "text": " seclusion",
+        "type": "text"
+       }
+      ]
+     ],
+     [
+      [
+       {
+        "text": "ערר ",
+        "type": "text"
+       },
+       {
+        "type": "html_element",
+        "html": "<br>"
+       },
+       {
+        "text": " excite",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "הִתְעָרֵר ",
+        "type": "text"
+       },
+       {
+        "type": "html_element",
+        "html": "<br>"
+       },
+       {
+        "text": " ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "his'oreir",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " ",
+        "type": "text"
+       },
+       {
+        "type": "html_element",
+        "html": "<br>"
+       },
+       {
+        "text": " he excited",
+        "type": "text"
+       }
+      ],
+      [
+       {
+        "text": "הִתעוֹרְרוּת ",
+        "type": "text"
+       },
+       {
+        "type": "html_element",
+        "html": "<br>"
+       },
+       {
+        "text": " ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hisoirerus",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " ",
+        "type": "text"
+       },
+       {
+        "type": "html_element",
+        "html": "<br>"
+       },
+       {
+        "text": " excitement",
+        "type": "text"
+       }
+      ]
+     ]
+    ]
+   },
+   {
+    "text": " Words in the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "hiskattlut",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " pattern come from verbs in the ",
+    "type": "text"
+   },
+   {
+    "text": "_hispa'el_",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "hispa'el",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Hispa'el",
+    "targetTopic": "Hispa'el",
+    "enclosingTopic": "The hiskattlut pattern",
+    "enclosingSubtopic": "The hiskattlut pattern"
+   },
+   {
+    "text": " binyan. More examples of words in the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "hiskattlut",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " pattern ",
+    "type": "text"
+   },
+   {
+    "type": "url",
+    "url": "https://www.pealim.com/dict/?pos=noun&num-radicals=all&nm=hitqatlut",
+    "text": "can be found on Pealim",
+    "tokens": [
+     {
+      "text": "can be found on Pealim",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ]
+ }
+}
