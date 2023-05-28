@@ -9,25 +9,20 @@
  "paragraphsBySubtopic": {
   "The Mishnah on Kiddushin 41a": [
    {
-    "text": "The first Mishnah of Perek Haish Mekadesh (found on Kiddushin 41a) is ",
+    "text": "The first Mishnah of ",
     "type": "text"
    },
    {
-    "text": "pictured here",
-    "type": "local",
+    "type": "italics",
     "tokens": [
      {
-      "text": "pictured here",
+      "text": "Perek Ha'ish Mekadesh",
       "type": "text"
      }
-    ],
-    "targetSubtopic": "Picture",
-    "targetTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "The Mishnah on Kiddushin 41a"
+    ]
    },
    {
-    "text": ". ",
+    "text": " appears on on Kiddushin 41a. ",
     "type": "text"
    },
    {
@@ -37,7 +32,36 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "The Mishnah as a whole has ",
+        "text": "You can see the Mishnah ",
+        "type": "text"
+       },
+       {
+        "text": "pictured here",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "pictured here",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Picture",
+        "targetTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingSubtopic": "The Mishnah on Kiddushin 41a"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The Mishnah has ",
         "type": "text"
        },
        {
