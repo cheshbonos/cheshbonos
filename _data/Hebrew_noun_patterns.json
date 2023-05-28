@@ -9,7 +9,7 @@
  "paragraphsBySubtopic": {
   "Hebrew noun patterns": [
    {
-    "text": "There are certain vowel templates that accept shorushim and produce nouns. Noun patterns ",
+    "text": "Hebrew has several noun patterns, which are letter and vowel templates that accept shorushim to produce nouns. Nouns formed from a certain pattern often have a similar meaning relative to the shoresh. Noun patterns ",
     "type": "text"
    },
    {
@@ -37,29 +37,29 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "the _hektel_ pattern",
+        "text": "Noun patterns that come from _Pa'al_ verbs",
         "type": "global",
         "tokens": [
          {
-          "text": "the ",
+          "text": "Noun patterns that come from ",
           "type": "text"
          },
          {
           "type": "italics",
           "tokens": [
            {
-            "text": "hektel",
+            "text": "Pa'al",
             "type": "text"
            }
           ]
          },
          {
-          "text": " pattern",
+          "text": " verbs",
           "type": "text"
          }
         ],
-        "targetSubtopic": "The hektel pattern",
-        "targetTopic": "The hektel pattern",
+        "targetSubtopic": "Noun patterns that come from Pa'al verbs",
+        "targetTopic": "Noun patterns that come from Pa'al verbs",
         "enclosingTopic": "Hebrew noun patterns",
         "enclosingSubtopic": "Hebrew noun patterns"
        }
@@ -71,29 +71,29 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "the _haktala_ pattern",
+        "text": "Noun patterns that come from _Pi'el_ verbs",
         "type": "global",
         "tokens": [
          {
-          "text": "the ",
+          "text": "Noun patterns that come from ",
           "type": "text"
          },
          {
           "type": "italics",
           "tokens": [
            {
-            "text": "haktala",
+            "text": "Pi'el",
             "type": "text"
            }
           ]
          },
          {
-          "text": " pattern",
+          "text": " verbs",
           "type": "text"
          }
         ],
-        "targetSubtopic": "The haktala pattern",
-        "targetTopic": "The haktala pattern",
+        "targetSubtopic": "Noun patterns that come from Pi'el verbs",
+        "targetTopic": "Noun patterns that come from Pi'el verbs",
         "enclosingTopic": "Hebrew noun patterns",
         "enclosingSubtopic": "Hebrew noun patterns"
        }
@@ -105,29 +105,63 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "the _hiskattlut_ pattern",
+        "text": "Noun patterns that come from _Hif'il_ verbs",
         "type": "global",
         "tokens": [
          {
-          "text": "the ",
+          "text": "Noun patterns that come from ",
           "type": "text"
          },
          {
           "type": "italics",
           "tokens": [
            {
-            "text": "hiskattlut",
+            "text": "Hif'il",
             "type": "text"
            }
           ]
          },
          {
-          "text": " pattern",
+          "text": " verbs",
           "type": "text"
          }
         ],
-        "targetSubtopic": "The hiskattlut pattern",
-        "targetTopic": "The hiskattlut pattern",
+        "targetSubtopic": "Noun patterns that come from Hif'il verbs",
+        "targetTopic": "Noun patterns that come from Hif'il verbs",
+        "enclosingTopic": "Hebrew noun patterns",
+        "enclosingSubtopic": "Hebrew noun patterns"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Noun patterns that come from _Hispa'el_ verbs",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Noun patterns that come from ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "Hispa'el",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " verbs",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Noun patterns that come from Hispa'el verbs",
+        "targetTopic": "Noun patterns that come from Hispa'el verbs",
         "enclosingTopic": "Hebrew noun patterns",
         "enclosingSubtopic": "Hebrew noun patterns"
        }

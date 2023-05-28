@@ -1,0 +1,477 @@
+{
+ "displayTopicName": "The _ktila_ noun pattern",
+ "topicTokens": [
+  {
+   "text": "The ",
+   "type": "text"
+  },
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "ktila",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " noun pattern",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "The ktila noun pattern": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "haktala",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " noun pattern is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "Hebrew noun patterns",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Hebrew noun patterns",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Hebrew noun patterns",
+    "targetTopic": "Hebrew noun patterns",
+    "enclosingTopic": "The ktila noun pattern",
+    "enclosingSubtopic": "The ktila noun pattern"
+   },
+   {
+    "text": " and produces words such as: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Shoresh",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Pa'al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " verb",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Haktala",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " Noun",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "אכל ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " eating",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "אָכַל",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "auchal",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " he ate",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "אֲכִילָה ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "achilau",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " an instance of eating",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "הלך",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " eating",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "הָלַךְ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "haulach",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " he walked",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "הֲלִיכָה",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "halichau",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " an instance of walking",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "נפל ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " falling",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "נָפַל",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "naufal",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " he fell",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "נְפִילָה ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "nafila",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " an instance of falling",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "text": " The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "ktila",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " pattern is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "noun patterns that come from _pa'al_ verbs",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "noun patterns that come from ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pa'al",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " verbs",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Noun patterns that come from Pa'al verbs",
+    "targetTopic": "Noun patterns that come from Pa'al verbs",
+    "enclosingTopic": "The ktila noun pattern",
+    "enclosingSubtopic": "The ktila noun pattern"
+   },
+   {
+    "text": ". More examples of words in the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "ktila",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " noun pattern ",
+    "type": "text"
+   },
+   {
+    "type": "url",
+    "url": "https://www.pealim.com/dict/?pos=noun&nm=qtila",
+    "text": "can be found on Pealim",
+    "tokens": [
+     {
+      "text": "can be found on Pealim",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ]
+ }
+}

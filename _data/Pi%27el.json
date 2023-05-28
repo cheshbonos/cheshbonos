@@ -45,92 +45,692 @@
     "enclosingSubtopic": "Pi'el"
    },
    {
-    "text": ".) Verbs in the ",
+    "text": ".) ",
     "type": "text"
    },
    {
-    "type": "italics",
-    "tokens": [
+    "topLevelNodes": [
      {
-      "text": "pi'el",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " have the properties of being ",
-    "type": "text"
-   },
-   {
-    "text": "active",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "active",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Active",
-    "targetTopic": "Active",
-    "enclosingTopic": "Pi'el",
-    "enclosingSubtopic": "Pi'el"
-   },
-   {
-    "text": " and ",
-    "type": "text"
-   },
-   {
-    "text": "intensive",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "intensive",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Intensive",
-    "targetTopic": "Intensive",
-    "enclosingTopic": "Pi'el",
-    "enclosingSubtopic": "Pi'el"
-   },
-   {
-    "text": ". The ",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "pi'el",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " corresponds to the ",
-    "type": "text"
-   },
-   {
-    "text": "_pa'el_",
-    "type": "global",
-    "tokens": [
-     {
-      "type": "italics",
-      "tokens": [
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
        {
-        "text": "pa'el",
+        "text": "Verbs in the ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pi'el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " have the properties of being ",
+        "type": "text"
+       },
+       {
+        "text": "active",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "active",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Active",
+        "targetTopic": "Active",
+        "enclosingTopic": "Pi'el",
+        "enclosingSubtopic": "Pi'el"
+       },
+       {
+        "text": " and ",
+        "type": "text"
+       },
+       {
+        "text": "intensive",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "intensive",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Intensive",
+        "targetTopic": "Intensive",
+        "enclosingTopic": "Pi'el",
+        "enclosingSubtopic": "Pi'el"
+       },
+       {
+        "text": ".",
         "type": "text"
        }
-      ]
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pi'el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " corresponds to the ",
+        "type": "text"
+       },
+       {
+        "text": "_pa'el_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "pa'el",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Pa'el",
+        "targetTopic": "Pa'el",
+        "enclosingTopic": "Pi'el",
+        "enclosingSubtopic": "Pi'el"
+       },
+       {
+        "text": " in Aramaic.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pi'el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " ",
+        "type": "text"
+       },
+       {
+        "text": "is one of the \"heavy\" binyanim due to its doubled middle letter",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "is one of the \"heavy\" binyanim due to its doubled middle letter",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Is one of the \"heavy\" binyanim due to its doubled middle letter",
+        "targetTopic": "Pi'el",
+        "enclosingTopic": "Pi'el",
+        "enclosingSubtopic": "Pi'el"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pi'el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " is one of the binyanim that can accept ",
+        "type": "text"
+       },
+       {
+        "text": "four-letter shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "four-letter shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Four-letter shorushim",
+        "targetTopic": "Four-letter shorushim",
+        "enclosingTopic": "Pi'el",
+        "enclosingSubtopic": "Pi'el"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pi'el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " has various ",
+        "type": "text"
+       },
+       {
+        "text": "forms",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "forms",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Forms",
+        "targetTopic": "Pi'el",
+        "enclosingTopic": "Pi'el",
+        "enclosingSubtopic": "Pi'el"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
      }
     ],
-    "targetSubtopic": "Pa'el",
-    "targetTopic": "Pa'el",
-    "enclosingTopic": "Pi'el",
-    "enclosingSubtopic": "Pi'el"
+    "type": "outline"
+   }
+  ],
+  "Is one of the \"heavy\" binyanim due to its doubled middle letter": [
+   {
+    "text": "Verbs in the ",
+    "type": "text"
    },
    {
-    "text": " in Aramaic.",
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pi'el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " feature a doubled middle letter. For example, the shoresh קדש when put in the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pi'el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " produces the verb מְקַדֵּשׁ (",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "meka",
+      "type": "text"
+     },
+     {
+      "type": "html_element",
+      "html": "<b>d'd</b>"
+     },
+     {
+      "text": "esh",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ") \"he is donating to the temple.\"",
+    "type": "text"
+   }
+  ],
+  "Forms": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pi'el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " binyan has verbs in various forms: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "Past Tense",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Past Tense",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Past Tense",
+         "targetTopic": "Pi'el",
+         "enclosingTopic": "Pi'el",
+         "enclosingSubtopic": "Forms"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Future Tense",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Future Tense",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Future Tense",
+         "targetTopic": "Pi'el",
+         "enclosingTopic": "Pi'el",
+         "enclosingSubtopic": "Forms"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Participle",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Participle",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Participle",
+         "targetTopic": "Pi'el",
+         "enclosingTopic": "Pi'el",
+         "enclosingSubtopic": "Forms"
+        }
+       ],
+       "rowspan": 2
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Imperative",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Imperative",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Imperative",
+         "targetTopic": "Pi'el",
+         "enclosingTopic": "Pi'el",
+         "enclosingSubtopic": "Forms"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Infinitive",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Infinitive",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Infinitive",
+         "targetTopic": "Pi'el",
+         "enclosingTopic": "Pi'el",
+         "enclosingSubtopic": "Forms"
+        }
+       ]
+      },
+      {
+       "tokens": [],
+       "merge": true
+      }
+     ]
+    ]
+   }
+  ],
+  "Past Tense": [
+   {
+    "text": "Verbs in the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pi'el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " with ",
+    "type": "text"
+   },
+   {
+    "text": "regular shorushim",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "regular shorushim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Regular shorushim",
+    "targetTopic": "Regular shorushim",
+    "enclosingTopic": "Pi'el",
+    "enclosingSubtopic": "Past Tense"
+   },
+   {
+    "text": " are conjugated in the ",
+    "type": "text"
+   },
+   {
+    "text": "past tense",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "past tense",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Past tense",
+    "targetTopic": "Past tense",
+    "enclosingTopic": "Pi'el",
+    "enclosingSubtopic": "Past Tense"
+   },
+   {
+    "text": " like the following example:",
+    "type": "text"
+   }
+  ],
+  "Future Tense": [
+   {
+    "text": "Verbs in the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pi'el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " with ",
+    "type": "text"
+   },
+   {
+    "text": "regular shorushim",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "regular shorushim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Regular shorushim",
+    "targetTopic": "Regular shorushim",
+    "enclosingTopic": "Pi'el",
+    "enclosingSubtopic": "Future Tense"
+   },
+   {
+    "text": " are conjugated in the ",
+    "type": "text"
+   },
+   {
+    "text": "future tense",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "future tense",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Future Tense",
+    "targetTopic": "Future Tense",
+    "enclosingTopic": "Pi'el",
+    "enclosingSubtopic": "Future Tense"
+   },
+   {
+    "text": " like the following example:",
+    "type": "text"
+   }
+  ],
+  "Participle": [
+   {
+    "text": "Verbs in the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pi'el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " with ",
+    "type": "text"
+   },
+   {
+    "text": "regular shorushim",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "regular shorushim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Regular shorushim",
+    "targetTopic": "Regular shorushim",
+    "enclosingTopic": "Pi'el",
+    "enclosingSubtopic": "Participle"
+   },
+   {
+    "text": " are conjugated in the ",
+    "type": "text"
+   },
+   {
+    "text": "participle",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "participle",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Participle",
+    "targetTopic": "Participle",
+    "enclosingTopic": "Pi'el",
+    "enclosingSubtopic": "Participle"
+   },
+   {
+    "text": " like the following example:",
+    "type": "text"
+   }
+  ],
+  "Imperative": [
+   {
+    "text": "Verbs in the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pi'el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " with ",
+    "type": "text"
+   },
+   {
+    "text": "regular shorushim",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "regular shorushim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Regular shorushim",
+    "targetTopic": "Regular shorushim",
+    "enclosingTopic": "Pi'el",
+    "enclosingSubtopic": "Imperative"
+   },
+   {
+    "text": " are conjugated in the ",
+    "type": "text"
+   },
+   {
+    "text": "imperative tense",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "imperative tense",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Imperative",
+    "targetTopic": "Imperative",
+    "enclosingTopic": "Pi'el",
+    "enclosingSubtopic": "Imperative"
+   },
+   {
+    "text": " like the following example:",
+    "type": "text"
+   }
+  ],
+  "Infinitive": [
+   {
+    "text": "Verbs in the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pi'el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " with ",
+    "type": "text"
+   },
+   {
+    "text": "regular shorushim",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "regular shorushim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Regular shorushim",
+    "targetTopic": "Regular shorushim",
+    "enclosingTopic": "Pi'el",
+    "enclosingSubtopic": "Infinitive"
+   },
+   {
+    "text": " have an ",
+    "type": "text"
+   },
+   {
+    "text": "infinitive form",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "infinitive form",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Infinitive",
+    "targetTopic": "Infinitive",
+    "enclosingTopic": "Pi'el",
+    "enclosingSubtopic": "Infinitive"
+   },
+   {
+    "text": " like the following examples:",
     "type": "text"
    }
   ]

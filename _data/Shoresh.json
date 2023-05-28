@@ -70,66 +70,82 @@
     "type": "table",
     "rows": [
      [
-      [
-       {
-        "type": "bold",
-        "tokens": [
-         {
-          "text": "Shoresh:",
-          "type": "text"
-         }
-        ]
-       }
-      ],
-      [
-       {
-        "text": "אכל",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "שלח",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "ראה",
-        "type": "text"
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Shoresh",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "אכל",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "שלח",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "ראה",
+         "type": "text"
+        }
+       ]
+      }
      ],
      [
-      [
-       {
-        "type": "bold",
-        "tokens": [
-         {
-          "text": "Meaning:",
-          "type": "text"
-         }
-        ]
-       }
-      ],
-      [
-       {
-        "text": "eating",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "sending",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "sight",
-        "type": "text"
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Meaning",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "eating",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "sending",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "sight",
+         "type": "text"
+        }
+       ]
+      }
      ]
     ]
    },
@@ -235,16 +251,16 @@
     "type": "text"
    },
    {
-    "text": "four letters",
+    "text": "four-letters",
     "type": "global",
     "tokens": [
      {
-      "text": "four letters",
+      "text": "four-letters",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Four letter shorushim",
-    "targetTopic": "Four letter shorushim",
+    "targetSubtopic": "Four-letter shorushim",
+    "targetTopic": "Four-letter shorushim",
     "enclosingTopic": "Shoresh",
     "enclosingSubtopic": "A series of letters"
    },
@@ -317,8 +333,8 @@
       "type": "text"
      }
     ],
-    "targetSubtopic": "Regular shoresh",
-    "targetTopic": "Regular shoresh",
+    "targetSubtopic": "Regular shorushim",
+    "targetTopic": "Regular shorushim",
     "enclosingTopic": "Shoresh",
     "enclosingSubtopic": "Regular and irregular shorushim"
    },
@@ -335,8 +351,8 @@
       "type": "text"
      }
     ],
-    "targetSubtopic": "Irregular shoresh",
-    "targetTopic": "Irregular shoresh",
+    "targetSubtopic": "Irregular shorushim",
+    "targetTopic": "Irregular shorushim",
     "enclosingTopic": "Shoresh",
     "enclosingSubtopic": "Regular and irregular shorushim"
    },

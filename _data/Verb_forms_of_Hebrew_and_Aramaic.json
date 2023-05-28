@@ -9,98 +9,112 @@
  "paragraphsBySubtopic": {
   "Verb forms of Hebrew and Aramaic": [
    {
-    "text": "There are several tenses and verb forms in Hebrew and Aramaic, including the ",
+    "text": "There are several verb forms in Hebrew and Aramaic: ",
     "type": "text"
    },
    {
-    "text": "adjective form",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "adjective form",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Adjective form",
-    "targetTopic": "Adjective form",
-    "enclosingTopic": "Verb forms of Hebrew and Aramaic",
-    "enclosingSubtopic": "Verb forms of Hebrew and Aramaic"
-   },
-   {
-    "text": ", ",
-    "type": "text"
-   },
-   {
-    "text": "past tense",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "past tense",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Past tense",
-    "targetTopic": "Past tense",
-    "enclosingTopic": "Verb forms of Hebrew and Aramaic",
-    "enclosingSubtopic": "Verb forms of Hebrew and Aramaic"
-   },
-   {
-    "text": ", ",
-    "type": "text"
-   },
-   {
-    "text": "future tense",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "future tense",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Future Tense",
-    "targetTopic": "Future Tense",
-    "enclosingTopic": "Verb forms of Hebrew and Aramaic",
-    "enclosingSubtopic": "Verb forms of Hebrew and Aramaic"
-   },
-   {
-    "text": ", ",
-    "type": "text"
-   },
-   {
-    "text": "imperative tense",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "imperative tense",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Imperative tense",
-    "targetTopic": "Imperative tense",
-    "enclosingTopic": "Verb forms of Hebrew and Aramaic",
-    "enclosingSubtopic": "Verb forms of Hebrew and Aramaic"
-   },
-   {
-    "text": ", and ",
-    "type": "text"
-   },
-   {
-    "text": "infinitive",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "infinitive",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Infinitive",
-    "targetTopic": "Infinitive",
-    "enclosingTopic": "Verb forms of Hebrew and Aramaic",
-    "enclosingSubtopic": "Verb forms of Hebrew and Aramaic"
-   },
-   {
-    "text": ".",
-    "type": "text"
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "Past Tense",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Past Tense",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Past tense",
+         "targetTopic": "Past tense",
+         "enclosingTopic": "Verb forms of Hebrew and Aramaic",
+         "enclosingSubtopic": "Verb forms of Hebrew and Aramaic"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Future Tense",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Future Tense",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Future Tense",
+         "targetTopic": "Future Tense",
+         "enclosingTopic": "Verb forms of Hebrew and Aramaic",
+         "enclosingSubtopic": "Verb forms of Hebrew and Aramaic"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Participle",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Participle",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Participle",
+         "targetTopic": "Participle",
+         "enclosingTopic": "Verb forms of Hebrew and Aramaic",
+         "enclosingSubtopic": "Verb forms of Hebrew and Aramaic"
+        }
+       ],
+       "rowspan": 2
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Imperative",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Imperative",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Imperative",
+         "targetTopic": "Imperative",
+         "enclosingTopic": "Verb forms of Hebrew and Aramaic",
+         "enclosingSubtopic": "Verb forms of Hebrew and Aramaic"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Infinitive",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Infinitive",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Infinitive",
+         "targetTopic": "Infinitive",
+         "enclosingTopic": "Verb forms of Hebrew and Aramaic",
+         "enclosingSubtopic": "Verb forms of Hebrew and Aramaic"
+        }
+       ]
+      },
+      {
+       "tokens": [],
+       "merge": true
+      }
+     ]
+    ]
    }
   ]
  }

@@ -1,0 +1,348 @@
+{
+ "displayTopicName": "Shaf'el",
+ "topicTokens": [
+  {
+   "text": "Shaf'el",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Shaf'el": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "shaf'el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " form is when a shoresh like עבד gets a ש added to the front to produce a new shoresh שעבד. A three-letter shoresh put into the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "shaf'el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " will become a ",
+    "type": "text"
+   },
+   {
+    "text": "four-letter shoresh",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "four-letter shoresh",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Four-letter shorushim",
+    "targetTopic": "Four-letter shorushim",
+    "enclosingTopic": "Shaf'el",
+    "enclosingSubtopic": "Shaf'el"
+   },
+   {
+    "text": " and a shoresh with only two strong letters when put into the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "shaf'el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " will become a three-letter shoresh, for example: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Shoresh",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Meaning",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Shif'el",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " Shoresh",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Meaning",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "עבד",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "work",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "שעבד",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "subjugate (to make someone else work)",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "זרע",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "seeding",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "שזרע",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "reseeding (causing to become seeded)",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "נוע",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "moving",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "שנע",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "transporting (causing to move)",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "text": " The addition of the ש produces a shoresh that has a ",
+    "type": "text"
+   },
+   {
+    "text": "causative",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "causative",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Causative",
+    "targetTopic": "Causative",
+    "enclosingTopic": "Shaf'el",
+    "enclosingSubtopic": "Shaf'el"
+   },
+   {
+    "text": " meaning relative to the original shoresh. Like all four-letter shorushim, a ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "shaf'el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " shoresh can only have forms in binyanim that feature a doubled middle consonant sound, such as the ",
+    "type": "text"
+   },
+   {
+    "text": "_pi'el_",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pi'el",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Pi'el",
+    "targetTopic": "Pi'el",
+    "enclosingTopic": "Shaf'el",
+    "enclosingSubtopic": "Shaf'el"
+   },
+   {
+    "text": ", ",
+    "type": "text"
+   },
+   {
+    "text": "_pu'al_",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pu'al",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Pu'al",
+    "targetTopic": "Pu'al",
+    "enclosingTopic": "Shaf'el",
+    "enclosingSubtopic": "Shaf'el"
+   },
+   {
+    "text": ", and ",
+    "type": "text"
+   },
+   {
+    "text": "_hispa'el_",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "hispa'el",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Hispa'el",
+    "targetTopic": "Hispa'el",
+    "enclosingTopic": "Shaf'el",
+    "enclosingSubtopic": "Shaf'el"
+   },
+   {
+    "text": " forms.",
+    "type": "text"
+   }
+  ]
+ }
+}

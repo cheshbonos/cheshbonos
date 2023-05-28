@@ -802,16 +802,6 @@
   ],
   "First clause": [
    {
-    "type": "block_quote",
-    "tokens": [
-     {
-      "text": "האיש מקדש בו ובשלוחו",
-      "type": "text"
-     }
-    ],
-    "direction": "rtl"
-   },
-   {
     "text": "In order to understand the first clause: ",
     "type": "text"
    },
@@ -906,7 +896,7 @@
   ],
   "Prepare to read the first clause": [
    {
-    "text": "Before we read the first clause, let's ",
+    "text": "Before we see what the Mishnah actually says, let's ",
     "type": "text"
    },
    {
@@ -1329,8 +1319,57 @@
   ],
   "Smaller words that might be part of האיש": [
    {
-    "text": "Maybe האיש is composed of smaller parts. In Aramaic, there is a word הא which means \"that.\" There is also a word האי which means \"this.\" In Hebrew, there is a word אש meaning \"fire,\" and there is a word איש meaning \"man.\"",
+    "text": "Maybe האיש is composed of smaller words: ",
     "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "There is an Aramaic word הא which means \"that\"",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "There is an Aramaic word האי which means \"this\"",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "There is a Hebrew word אש meaning \"fire\"",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "There is a Hebrew word איש meaning \"man.\"",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
    }
   ],
   "Actual meaning of האיש": [
@@ -1563,25 +1602,7 @@
     "enclosingSubtopic": "Possible meanings of מקדש"
    },
    {
-    "text": " which has ",
-    "type": "text"
-   },
-   {
-    "text": "various meanings",
-    "type": "import",
-    "tokens": [
-     {
-      "text": "various meanings",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Various meanings",
-    "targetTopic": "קדש",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Possible meanings of מקדש"
-   },
-   {
-    "text": ", and there ",
+    "text": " which has various meanings, and there ",
     "type": "text"
    },
    {
@@ -1688,43 +1709,16 @@
     "type": "text"
    },
    {
-    "text": "adjective form",
-    "type": "global",
+    "text": "pi'el participle",
+    "type": "import",
     "tokens": [
      {
-      "text": "adjective form",
+      "text": "pi'el participle",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Adjective form",
-    "targetTopic": "Adjective form",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Grammatical explanation of מקדש"
-   },
-   {
-    "text": " of the ",
-    "type": "text"
-   },
-   {
-    "text": "_pi'el_ binyan",
-    "type": "global",
-    "tokens": [
-     {
-      "type": "italics",
-      "tokens": [
-       {
-        "text": "pi'el",
-        "type": "text"
-       }
-      ]
-     },
-     {
-      "text": " binyan",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Pi'el",
-    "targetTopic": "Pi'el",
+    "targetSubtopic": "Pi'el Participle",
+    "targetTopic": "קדש",
     "enclosingTopic": "The Mishnah on Kiddushin 41a",
     "enclosingSubtopic": "Grammatical explanation of מקדש"
    },
@@ -2076,52 +2070,20 @@
   ],
   "The word שלוח": [
    {
-    "text": "The word שלוח means \"someone or something that is sent.\" For those interested in grammar, it is ",
+    "text": "The word שלוח means \"someone or something that is sent.\" For those interested in grammar, it is [masculine singular] of the [",
     "type": "text"
    },
    {
-    "text": "masculine singular",
-    "type": "import",
+    "type": "italics",
     "tokens": [
      {
-      "text": "masculine singular",
+      "text": "pa'al",
       "type": "text"
      }
-    ],
-    "targetSubtopic": "Masculine singular",
-    "targetTopic": "Pa'al passive participle tense of the shoresh שלח",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "The word שלוח"
+    ]
    },
    {
-    "text": " of the ",
-    "type": "text"
-   },
-   {
-    "text": "_pa'al_ passive participle tense of the shoresh שלח",
-    "type": "global",
-    "tokens": [
-     {
-      "type": "italics",
-      "tokens": [
-       {
-        "text": "pa'al",
-        "type": "text"
-       }
-      ]
-     },
-     {
-      "text": " passive participle tense of the shoresh שלח",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Pa'al passive participle tense of the shoresh שלח",
-    "targetTopic": "Pa'al passive participle tense of the shoresh שלח",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "The word שלוח"
-   },
-   {
-    "text": ".",
+    "text": " passive participle tense of the shoresh שלח].",
     "type": "text"
    }
   ],

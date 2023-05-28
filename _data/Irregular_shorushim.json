@@ -1,0 +1,479 @@
+{
+ "displayTopicName": "Irregular shorushim",
+ "topicTokens": [
+  {
+   "text": "Irregular shorushim",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Irregular shorushim": [
+   {
+    "text": "An irregular shoresh, as opposed to ",
+    "type": "text"
+   },
+   {
+    "text": "regular shorushim",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "regular shorushim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Regular shorushim",
+    "targetTopic": "Regular shorushim",
+    "enclosingTopic": "Irregular shorushim",
+    "enclosingSubtopic": "Irregular shorushim"
+   },
+   {
+    "text": ", is a ",
+    "type": "text"
+   },
+   {
+    "text": "shoresh",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "shoresh",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Shoresh",
+    "targetTopic": "Shoresh",
+    "enclosingTopic": "Irregular shorushim",
+    "enclosingSubtopic": "Irregular shorushim"
+   },
+   {
+    "text": " that has special letters that affect the vowelization of verbs produced from it. Here are some examples of irregular shorushim having irregular verb conjugations: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Shoresh",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Oddity",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Expected",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": " Real",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Comment",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "ישב",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "י in first position",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "מֵישִׁיב (",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "mayshiv",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": ")",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "מוֹשִׁיב (",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "moshiv",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": ")",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "י changes to וֹ",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "נפל",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "נ in the first position",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "מַנְפִּיל (",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "manpil",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": ")",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "מַפִּיל (",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "map'pil",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": ")",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "נ drops and the פ is doubled",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "בנה",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "ה in the last position",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "בָּנַהְתִּי  (",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "baunah'ti",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": ")",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "בָּנִיתִי (",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "bauniti",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": ")",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "the consonant ה becomes an יִ vowel",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "text": " There is a ",
+    "type": "text"
+   },
+   {
+    "text": "special naming convention for describing categories of irregular shorushim",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "special naming convention for describing categories of irregular shorushim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Special naming convention for describing categories of irregular shorushim",
+    "targetTopic": "Irregular shorushim",
+    "enclosingTopic": "Irregular shorushim",
+    "enclosingSubtopic": "Irregular shorushim"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Special naming convention for describing categories of irregular shorushim": [
+   {
+    "text": "We use the traditional ",
+    "type": "text"
+   },
+   {
+    "text": "shoresh letter numbering convention",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "shoresh letter numbering convention",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Shoresh letter numbering convention",
+    "targetTopic": "Irregular shorushim",
+    "enclosingTopic": "Irregular shorushim",
+    "enclosingSubtopic": "Special naming convention for describing categories of irregular shorushim"
+   },
+   {
+    "text": " to produce an ",
+    "type": "text"
+   },
+   {
+    "text": "irregular shoresh naming convention",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "irregular shoresh naming convention",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Irregular shoresh naming convention",
+    "targetTopic": "Irregular shorushim",
+    "enclosingTopic": "Irregular shorushim",
+    "enclosingSubtopic": "Special naming convention for describing categories of irregular shorushim"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Shoresh letter numbering convention": [
+   {
+    "text": "In Hebrew grammar, the shoresh פעל is used as a \"standard\" shoresh, and so sometimes the letters of פעל are used as names for the three shoresh positions: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "פ",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "ע",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "ל",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "1",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "2",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "3",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "text": "  For example, instead of saying \"the first letter of the shoresh נפל,\" you might say \"the פ of the shoresh נפל.\"",
+    "type": "text"
+   }
+  ],
+  "Irregular shoresh naming convention": [
+   {
+    "text": "Because we use the letters פעל as names for the positions in a shoresh, if we want to say \"the category of shorushim that have a י in the first position,\" the name would be \"י״פ verbs\" (",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "yud-pay verbs",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ".)",
+    "type": "text"
+   }
+  ]
+ }
+}

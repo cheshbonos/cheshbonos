@@ -9,11 +9,15 @@
  "paragraphsBySubtopic": {
   "Hebrew binyanim": [
    {
-    "text": "Binyan is a special grammatical construct in Hebrew and Aramaic",
+    "text": "There are seven \"binyanim\" in Hebrew, (select a term to learn more, or ",
+    "type": "text"
+   },
+   {
+    "text": "learn more about \"binyan\"",
     "type": "global",
     "tokens": [
      {
-      "text": "Binyan is a special grammatical construct in Hebrew and Aramaic",
+      "text": "learn more about \"binyan\"",
       "type": "text"
      }
     ],
@@ -23,279 +27,355 @@
     "enclosingSubtopic": "Hebrew binyanim"
    },
    {
-    "text": ". There are seven \"binyanim\" in Hebrew, (select any term to learn more): ",
+    "text": "): ",
     "type": "text"
    },
    {
     "type": "table",
     "rows": [
      [
-      [
-       {
-        "type": "bold",
-        "tokens": [
-         {
-          "text": "Hebrew",
-          "type": "text"
-         }
-        ]
-       }
-      ],
-      [
-       {
-        "text": "Simple",
-        "type": "global",
-        "tokens": [
-         {
-          "text": "Simple",
-          "type": "text"
-         }
-        ],
-        "targetSubtopic": "Simple",
-        "targetTopic": "Simple",
-        "enclosingTopic": "Hebrew binyanim",
-        "enclosingSubtopic": "Hebrew binyanim"
-       }
-      ],
-      [
-       {
-        "text": "Intensive",
-        "type": "global",
-        "tokens": [
-         {
-          "text": "Intensive",
-          "type": "text"
-         }
-        ],
-        "targetSubtopic": "Intensive",
-        "targetTopic": "Intensive",
-        "enclosingTopic": "Hebrew binyanim",
-        "enclosingSubtopic": "Hebrew binyanim"
-       }
-      ],
-      [
-       {
-        "text": "Causative",
-        "type": "global",
-        "tokens": [
-         {
-          "text": "Causative",
-          "type": "text"
-         }
-        ],
-        "targetSubtopic": "Causative",
-        "targetTopic": "Causative",
-        "enclosingTopic": "Hebrew binyanim",
-        "enclosingSubtopic": "Hebrew binyanim"
-       }
-      ],
-      [
-       {
-        "text": "Reflexive",
-        "type": "global",
-        "tokens": [
-         {
-          "text": "Reflexive",
-          "type": "text"
-         }
-        ],
-        "targetSubtopic": "Reflexive",
-        "targetTopic": "Reflexive",
-        "enclosingTopic": "Hebrew binyanim",
-        "enclosingSubtopic": "Hebrew binyanim"
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Hebrew",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Simple",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Simple",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Simple",
+         "targetTopic": "Simple",
+         "enclosingTopic": "Hebrew binyanim",
+         "enclosingSubtopic": "Hebrew binyanim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Intensive",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Intensive",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Intensive",
+         "targetTopic": "Intensive",
+         "enclosingTopic": "Hebrew binyanim",
+         "enclosingSubtopic": "Hebrew binyanim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Causative",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Causative",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Causative",
+         "targetTopic": "Causative",
+         "enclosingTopic": "Hebrew binyanim",
+         "enclosingSubtopic": "Hebrew binyanim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Reflexive",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Reflexive",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Reflexive",
+         "targetTopic": "Reflexive",
+         "enclosingTopic": "Hebrew binyanim",
+         "enclosingSubtopic": "Hebrew binyanim"
+        }
+       ]
+      }
      ],
      [
-      [
-       {
-        "text": "Active",
-        "type": "global",
-        "tokens": [
-         {
-          "text": "Active",
-          "type": "text"
-         }
-        ],
-        "targetSubtopic": "Active",
-        "targetTopic": "Active",
-        "enclosingTopic": "Hebrew binyanim",
-        "enclosingSubtopic": "Hebrew binyanim"
-       }
-      ],
-      [
-       {
-        "text": "_Pa'al_",
-        "type": "global",
-        "tokens": [
-         {
-          "type": "italics",
-          "tokens": [
-           {
-            "text": "Pa'al",
-            "type": "text"
-           }
-          ]
-         }
-        ],
-        "targetSubtopic": "Pa'al",
-        "targetTopic": "Pa'al",
-        "enclosingTopic": "Hebrew binyanim",
-        "enclosingSubtopic": "Hebrew binyanim"
-       }
-      ],
-      [
-       {
-        "text": "_Pi'el_",
-        "type": "global",
-        "tokens": [
-         {
-          "type": "italics",
-          "tokens": [
-           {
-            "text": "Pi'el",
-            "type": "text"
-           }
-          ]
-         }
-        ],
-        "targetSubtopic": "Pi'el",
-        "targetTopic": "Pi'el",
-        "enclosingTopic": "Hebrew binyanim",
-        "enclosingSubtopic": "Hebrew binyanim"
-       }
-      ],
-      [
-       {
-        "text": "_Hif'il_",
-        "type": "global",
-        "tokens": [
-         {
-          "type": "italics",
-          "tokens": [
-           {
-            "text": "Hif'il",
-            "type": "text"
-           }
-          ]
-         }
-        ],
-        "targetSubtopic": "Hif'il",
-        "targetTopic": "Hif'il",
-        "enclosingTopic": "Hebrew binyanim",
-        "enclosingSubtopic": "Hebrew binyanim"
-       }
-      ],
-      [
-       {
-        "text": "_Hispa'el_",
-        "type": "global",
-        "tokens": [
-         {
-          "type": "italics",
-          "tokens": [
-           {
-            "text": "Hispa'el",
-            "type": "text"
-           }
-          ]
-         }
-        ],
-        "targetSubtopic": "Hispa'el",
-        "targetTopic": "Hispa'el",
-        "enclosingTopic": "Hebrew binyanim",
-        "enclosingSubtopic": "Hebrew binyanim"
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "text": "Active",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Active",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Active",
+         "targetTopic": "Active",
+         "enclosingTopic": "Hebrew binyanim",
+         "enclosingSubtopic": "Hebrew binyanim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Pa'al_",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Pa'al",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Pa'al",
+         "targetTopic": "Pa'al",
+         "enclosingTopic": "Hebrew binyanim",
+         "enclosingSubtopic": "Hebrew binyanim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Pi'el_",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Pi'el",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Pi'el",
+         "targetTopic": "Pi'el",
+         "enclosingTopic": "Hebrew binyanim",
+         "enclosingSubtopic": "Hebrew binyanim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Hif'il_",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Hif'il",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Hif'il",
+         "targetTopic": "Hif'il",
+         "enclosingTopic": "Hebrew binyanim",
+         "enclosingSubtopic": "Hebrew binyanim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Hispa'el_",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Hispa'el",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Hispa'el",
+         "targetTopic": "Hispa'el",
+         "enclosingTopic": "Hebrew binyanim",
+         "enclosingSubtopic": "Hebrew binyanim"
+        },
+        {
+         "text": ",",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": "_Nispa'el_",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Nispa'el",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Nispa'el",
+         "targetTopic": "Nispa'el",
+         "enclosingTopic": "Hebrew binyanim",
+         "enclosingSubtopic": "Hebrew binyanim"
+        }
+       ],
+       "rowspan": 2
+      }
      ],
      [
-      [
-       {
-        "text": "Passive",
-        "type": "global",
-        "tokens": [
-         {
-          "text": "Passive",
-          "type": "text"
-         }
-        ],
-        "targetSubtopic": "Passive",
-        "targetTopic": "Passive",
-        "enclosingTopic": "Hebrew binyanim",
-        "enclosingSubtopic": "Hebrew binyanim"
-       }
-      ],
-      [
-       {
-        "text": "_Nif'al_",
-        "type": "global",
-        "tokens": [
-         {
-          "type": "italics",
-          "tokens": [
-           {
-            "text": "Nif'al",
-            "type": "text"
-           }
-          ]
-         }
-        ],
-        "targetSubtopic": "Nif'al",
-        "targetTopic": "Nif'al",
-        "enclosingTopic": "Hebrew binyanim",
-        "enclosingSubtopic": "Hebrew binyanim"
-       }
-      ],
-      [
-       {
-        "text": "_Pu'al_",
-        "type": "global",
-        "tokens": [
-         {
-          "type": "italics",
-          "tokens": [
-           {
-            "text": "Pu'al",
-            "type": "text"
-           }
-          ]
-         }
-        ],
-        "targetSubtopic": "Pu'al",
-        "targetTopic": "Pu'al",
-        "enclosingTopic": "Hebrew binyanim",
-        "enclosingSubtopic": "Hebrew binyanim"
-       }
-      ],
-      [
-       {
-        "text": "_Huf'al_",
-        "type": "global",
-        "tokens": [
-         {
-          "type": "italics",
-          "tokens": [
-           {
-            "text": "Huf'al",
-            "type": "text"
-           }
-          ]
-         }
-        ],
-        "targetSubtopic": "Huf'al",
-        "targetTopic": "Huf'al",
-        "enclosingTopic": "Hebrew binyanim",
-        "enclosingSubtopic": "Hebrew binyanim"
-       }
-      ],
-      [
-       {
-        "text": "-",
-        "type": "text"
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "text": "Passive",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Passive",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Passive",
+         "targetTopic": "Passive",
+         "enclosingTopic": "Hebrew binyanim",
+         "enclosingSubtopic": "Hebrew binyanim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Nif'al_",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Nif'al",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Nif'al",
+         "targetTopic": "Nif'al",
+         "enclosingTopic": "Hebrew binyanim",
+         "enclosingSubtopic": "Hebrew binyanim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Pu'al_",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Pu'al",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Pu'al",
+         "targetTopic": "Pu'al",
+         "enclosingTopic": "Hebrew binyanim",
+         "enclosingSubtopic": "Hebrew binyanim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Huf'al_",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Huf'al",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Huf'al",
+         "targetTopic": "Huf'al",
+         "enclosingTopic": "Hebrew binyanim",
+         "enclosingSubtopic": "Hebrew binyanim"
+        }
+       ]
+      },
+      {
+       "tokens": [],
+       "merge": true
+      }
      ]
     ]
+   },
+   {
+    "text": " The binyanim of Hebrew mostly align with the ",
+    "type": "text"
+   },
+   {
+    "text": "Aramaic binyanim",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Aramaic binyanim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Aramaic binyanim",
+    "targetTopic": "Aramaic binyanim",
+    "enclosingTopic": "Hebrew binyanim",
+    "enclosingSubtopic": "Hebrew binyanim"
+   },
+   {
+    "text": ".",
+    "type": "text"
    }
   ]
  }

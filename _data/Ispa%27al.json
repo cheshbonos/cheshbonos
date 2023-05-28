@@ -58,93 +58,120 @@
     "enclosingSubtopic": "Ispa'al"
    },
    {
-    "text": ".) Verbs in the ",
+    "text": ".) ",
     "type": "text"
    },
    {
-    "type": "italics",
-    "tokens": [
+    "topLevelNodes": [
      {
-      "text": "hif'il",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " have the properties of being ",
-    "type": "text"
-   },
-   {
-    "text": "reflexive",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "reflexive",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Reflexive",
-    "targetTopic": "Reflexive",
-    "enclosingTopic": "Ispa'al",
-    "enclosingSubtopic": "Ispa'al"
-   },
-   {
-    "text": ". The ",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "ispa'al",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " can correspond to either the ",
-    "type": "text"
-   },
-   {
-    "text": "pu'al",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "pu'al",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Pu'al",
-    "targetTopic": "Pu'al",
-    "enclosingTopic": "Ispa'al",
-    "enclosingSubtopic": "Ispa'al"
-   },
-   {
-    "text": " and to the ",
-    "type": "text"
-   },
-   {
-    "text": "_hispa'el_",
-    "type": "global",
-    "tokens": [
-     {
-      "type": "italics",
-      "tokens": [
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
        {
-        "text": "hispa'el",
+        "text": "Verbs in the ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hif'il",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " have the properties of being ",
+        "type": "text"
+       },
+       {
+        "text": "reflexive",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "reflexive",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Reflexive",
+        "targetTopic": "Reflexive",
+        "enclosingTopic": "Ispa'al",
+        "enclosingSubtopic": "Ispa'al"
+       },
+       {
+        "text": ".",
         "type": "text"
        }
-      ]
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "ispa'al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " can correspond to either the ",
+        "type": "text"
+       },
+       {
+        "text": "pu'al",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "pu'al",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pu'al",
+        "targetTopic": "Pu'al",
+        "enclosingTopic": "Ispa'al",
+        "enclosingSubtopic": "Ispa'al"
+       },
+       {
+        "text": " and to the ",
+        "type": "text"
+       },
+       {
+        "text": "_hispa'el_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "hispa'el",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Hispa'el",
+        "targetTopic": "Hispa'el",
+        "enclosingTopic": "Ispa'al",
+        "enclosingSubtopic": "Ispa'al"
+       },
+       {
+        "text": " in Hebrew.",
+        "type": "text"
+       }
+      ],
+      "children": []
      }
     ],
-    "targetSubtopic": "Hispa'el",
-    "targetTopic": "Hispa'el",
-    "enclosingTopic": "Ispa'al",
-    "enclosingSubtopic": "Ispa'al"
-   },
-   {
-    "text": " in Hebrew.",
-    "type": "text"
+    "type": "outline"
    }
   ]
  }

@@ -76,119 +76,149 @@
     "type": "table",
     "rows": [
      [
-      [
-       {
-        "type": "bold",
-        "tokens": [
-         {
-          "text": "Shoresh",
-          "type": "text"
-         }
-        ]
-       }
-      ],
-      [
-       {
-        "type": "bold",
-        "tokens": [
-         {
-          "text": "Simple verb",
-          "type": "text"
-         }
-        ]
-       }
-      ],
-      [
-       {
-        "type": "bold",
-        "tokens": [
-         {
-          "text": "Causative verb",
-          "type": "text"
-         }
-        ]
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Shoresh",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Simple verb",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Causative verb",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
      ],
      [
-      [
-       {
-        "text": "אכל",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "to eat",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "to make someone else eat (ie to feed)",
-        "type": "text"
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "text": "אכל",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to eat",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to make someone else eat (ie to feed)",
+         "type": "text"
+        }
+       ]
+      }
      ],
      [
-      [
-       {
-        "text": "חזר",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "to return",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "to make something return (ie to return something)",
-        "type": "text"
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "text": "חזר",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to return",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to make something return (ie to return something)",
+         "type": "text"
+        }
+       ]
+      }
      ],
      [
-      [
-       {
-        "text": "בוה",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "to come",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "to make something come (ie to bring something)",
-        "type": "text"
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "text": "בוה",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to come",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to make something come (ie to bring something)",
+         "type": "text"
+        }
+       ]
+      }
      ],
      [
-      [
-       {
-        "text": "זכר",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "to remember",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "to make something be remembered (ie to mention)",
-        "type": "text"
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "text": "זכר",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to remember",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to make something be remembered (ie to mention)",
+         "type": "text"
+        }
+       ]
+      }
      ]
     ]
    }

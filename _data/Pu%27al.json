@@ -107,7 +107,91 @@
     ]
    },
    {
+    "text": " ",
+    "type": "text"
+   },
+   {
+    "text": "is one of the \"heavy\" binyanim due to its doubled middle letter",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "is one of the \"heavy\" binyanim due to its doubled middle letter",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Is one of the \"heavy\" binyanim due to its doubled middle letter",
+    "targetTopic": "Pu'al",
+    "enclosingTopic": "Pu'al",
+    "enclosingSubtopic": "Pu'al"
+   },
+   {
+    "text": ". The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pu'al",
+      "type": "text"
+     }
+    ]
+   },
+   {
     "text": " has no corollary binyan in Aramaic.",
+    "type": "text"
+   }
+  ],
+  "Is one of the \"heavy\" binyanim due to its doubled middle letter": [
+   {
+    "text": "Verbs in the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pi'el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " feature a doubled middle letter. For example, the shoresh קדש when put in the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pi'el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " produces the verb מְקֻדָּשׁ (",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "meku",
+      "type": "text"
+     },
+     {
+      "type": "html_element",
+      "html": "<b>d'd</b>"
+     },
+     {
+      "text": "ash",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ") \"it is being donated to the temple.\"",
     "type": "text"
    }
   ]

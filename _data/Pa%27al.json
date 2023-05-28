@@ -71,124 +71,162 @@
     "enclosingSubtopic": "Pa'al"
    },
    {
-    "text": ".) Verbs in the ",
+    "text": ".) ",
     "type": "text"
    },
    {
-    "type": "italics",
-    "tokens": [
+    "topLevelNodes": [
      {
-      "text": "pa'al",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " have the properties of being ",
-    "type": "text"
-   },
-   {
-    "text": "active",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "active",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Active",
-    "targetTopic": "Active",
-    "enclosingTopic": "Pa'al",
-    "enclosingSubtopic": "Pa'al"
-   },
-   {
-    "text": " and ",
-    "type": "text"
-   },
-   {
-    "text": "simple",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "simple",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Simple",
-    "targetTopic": "Simple",
-    "enclosingTopic": "Pa'al",
-    "enclosingSubtopic": "Pa'al"
-   },
-   {
-    "text": ". The ",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "pa'al",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " has conjugations in various ",
-    "type": "text"
-   },
-   {
-    "text": "tenses",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "tenses",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Tenses",
-    "targetTopic": "Pa'al",
-    "enclosingTopic": "Pa'al",
-    "enclosingSubtopic": "Pa'al"
-   },
-   {
-    "text": ". The ",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "pa'al",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " corresponds to the ",
-    "type": "text"
-   },
-   {
-    "text": "_pe'al_",
-    "type": "global",
-    "tokens": [
-     {
-      "type": "italics",
-      "tokens": [
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
        {
-        "text": "pe'al",
+        "text": "Verbs in the ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pa'al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " have the properties of being ",
+        "type": "text"
+       },
+       {
+        "text": "active",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "active",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Active",
+        "targetTopic": "Active",
+        "enclosingTopic": "Pa'al",
+        "enclosingSubtopic": "Pa'al"
+       },
+       {
+        "text": " and ",
+        "type": "text"
+       },
+       {
+        "text": "simple",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "simple",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Simple",
+        "targetTopic": "Simple",
+        "enclosingTopic": "Pa'al",
+        "enclosingSubtopic": "Pa'al"
+       },
+       {
+        "text": ".",
         "type": "text"
        }
-      ]
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pa'al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " has conjugations in various ",
+        "type": "text"
+       },
+       {
+        "text": "tenses",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "tenses",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Tenses",
+        "targetTopic": "Pa'al",
+        "enclosingTopic": "Pa'al",
+        "enclosingSubtopic": "Pa'al"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pa'al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " corresponds to the ",
+        "type": "text"
+       },
+       {
+        "text": "_pe'al_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "pe'al",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Pe'al",
+        "targetTopic": "Pe'al",
+        "enclosingTopic": "Pa'al",
+        "enclosingSubtopic": "Pa'al"
+       },
+       {
+        "text": " in Aramaic.",
+        "type": "text"
+       }
+      ],
+      "children": []
      }
     ],
-    "targetSubtopic": "Pe'al",
-    "targetTopic": "Pe'al",
-    "enclosingTopic": "Pa'al",
-    "enclosingSubtopic": "Pa'al"
-   },
-   {
-    "text": " in Aramaic.",
-    "type": "text"
+    "type": "outline"
    }
   ],
   "Tenses": [
@@ -197,7 +235,7 @@
     "type": "text"
    },
    {
-    "text": "_pa'al_ adjective form",
+    "text": "_pa'al_ participle",
     "type": "local",
     "tokens": [
      {
@@ -210,11 +248,11 @@
       ]
      },
      {
-      "text": " adjective form",
+      "text": " participle",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Adjective form",
+    "targetSubtopic": "Participle",
     "targetTopic": "Pa'al",
     "enclosingTopic": "Pa'al",
     "enclosingSubtopic": "Tenses"
@@ -278,7 +316,7 @@
     "type": "text"
    },
    {
-    "text": "_pa'al_ imperative tense",
+    "text": "_pa'al_ imperative",
     "type": "local",
     "tokens": [
      {
@@ -291,11 +329,11 @@
       ]
      },
      {
-      "text": " imperative tense",
+      "text": " imperative",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Imperative tense",
+    "targetSubtopic": "Imperative",
     "targetTopic": "Pa'al",
     "enclosingTopic": "Pa'al",
     "enclosingSubtopic": "Tenses"
@@ -332,7 +370,7 @@
     "type": "text"
    }
   ],
-  "Adjective form": [
+  "Participle": [
    {
     "text": "The ",
     "type": "text"
@@ -347,22 +385,22 @@
     ]
    },
    {
-    "text": " has an adjective form. (The ",
+    "text": " has an participle. (The ",
     "type": "text"
    },
    {
-    "text": "adjective form",
+    "text": "participle",
     "type": "global",
     "tokens": [
      {
-      "text": "adjective form",
+      "text": "participle",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Adjective form",
-    "targetTopic": "Adjective form",
+    "targetSubtopic": "Participle",
+    "targetTopic": "Participle",
     "enclosingTopic": "Pa'al",
-    "enclosingSubtopic": "Adjective form"
+    "enclosingSubtopic": "Participle"
    },
    {
     "text": " is one of the ",
@@ -380,25 +418,25 @@
     "targetSubtopic": "Verb forms of Hebrew and Aramaic",
     "targetTopic": "Verb forms of Hebrew and Aramaic",
     "enclosingTopic": "Pa'al",
-    "enclosingSubtopic": "Adjective form"
+    "enclosingSubtopic": "Participle"
    },
    {
-    "text": ".) This is an example of how you conjugate a ",
+    "text": ".) This is an example of how you conjugate verbs with ",
     "type": "text"
    },
    {
-    "text": "regular shoresh",
+    "text": "regular shorushim",
     "type": "global",
     "tokens": [
      {
-      "text": "regular shoresh",
+      "text": "regular shorushim",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Regular shoresh",
-    "targetTopic": "Regular shoresh",
+    "targetSubtopic": "Regular shorushim",
+    "targetTopic": "Regular shorushim",
     "enclosingTopic": "Pa'al",
-    "enclosingSubtopic": "Adjective form"
+    "enclosingSubtopic": "Participle"
    },
    {
     "text": " in the ",
@@ -414,131 +452,161 @@
     ]
    },
    {
-    "text": " adjective form: ",
+    "text": " participle: ",
     "type": "text"
    },
    {
     "type": "table",
     "rows": [
      [
-      [
-       {
-        "text": "Person",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "Hebrew",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "Transliteration",
-        "type": "text"
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "text": "Person",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Hebrew",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Transliteration",
+         "type": "text"
+        }
+       ]
+      }
      ],
      [
-      [
-       {
-        "text": "Masculine singular",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "כּוֹתֵב",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "type": "italics",
-        "tokens": [
-         {
-          "text": "koiseiv",
-          "type": "text"
-         }
-        ]
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "text": "Masculine singular",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "כּוֹתֵב",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "koiseiv",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
      ],
      [
-      [
-       {
-        "text": "Feminine singular",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "כּוֹתֶבֶת",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "type": "italics",
-        "tokens": [
-         {
-          "text": "koiseves",
-          "type": "text"
-         }
-        ]
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "text": "Feminine singular",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "כּוֹתֶבֶת",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "koiseves",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
      ],
      [
-      [
-       {
-        "text": "Masculine plural",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "כּוֹתְבִים",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "type": "italics",
-        "tokens": [
-         {
-          "text": "koisvim",
-          "type": "text"
-         }
-        ]
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "text": "Masculine plural",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "כּוֹתְבִים",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "koisvim",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
      ],
      [
-      [
-       {
-        "text": "Feminine plural",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "כּוֹתְבוֹת",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "type": "italics",
-        "tokens": [
-         {
-          "text": "koisvois",
-          "type": "text"
-         }
-        ]
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "text": "Feminine plural",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "כּוֹתְבוֹת",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "koisvois",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
      ]
     ]
    },
@@ -556,22 +624,22 @@
     ]
    },
    {
-    "text": " adjective form features a ו between the first and second root letters. You can see examples of the ",
+    "text": " participle generally features a ו between the first and second root letters. You can see examples of the ",
     "type": "text"
    },
    {
-    "text": "adjective form",
+    "text": "participle",
     "type": "global",
     "tokens": [
      {
-      "text": "adjective form",
+      "text": "participle",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Adjective form",
-    "targetTopic": "Adjective form",
+    "targetSubtopic": "Participle",
+    "targetTopic": "Participle",
     "enclosingTopic": "Pa'al",
-    "enclosingSubtopic": "Adjective form"
+    "enclosingSubtopic": "Participle"
    },
    {
     "text": " in ",
@@ -587,9 +655,9 @@
      }
     ],
     "targetSubtopic": "Versions in Hebrew",
-    "targetTopic": "Adjective form",
+    "targetTopic": "Participle",
     "enclosingTopic": "Pa'al",
-    "enclosingSubtopic": "Adjective form"
+    "enclosingSubtopic": "Participle"
    },
    {
     "text": ".",
@@ -647,20 +715,20 @@
     "enclosingSubtopic": "Past tense"
    },
    {
-    "text": ".) This is an example of how you conjugate a ",
+    "text": ".) This is an example of how you conjugate verbs with ",
     "type": "text"
    },
    {
-    "text": "regular shoresh",
+    "text": "regular shorushim",
     "type": "global",
     "tokens": [
      {
-      "text": "regular shoresh",
+      "text": "regular shorushim",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Regular shoresh",
-    "targetTopic": "Regular shoresh",
+    "targetSubtopic": "Regular shorushim",
+    "targetTopic": "Regular shorushim",
     "enclosingTopic": "Pa'al",
     "enclosingSubtopic": "Past tense"
    },
@@ -685,329 +753,409 @@
     "type": "table",
     "rows": [
      [
-      [
-       {
-        "type": "bold",
-        "tokens": [
-         {
-          "text": "Person",
-          "type": "text"
-         }
-        ]
-       }
-      ],
-      [
-       {
-        "type": "bold",
-        "tokens": [
-         {
-          "text": "Hebrew",
-          "type": "text"
-         }
-        ]
-       }
-      ],
-      [
-       {
-        "type": "bold",
-        "tokens": [
-         {
-          "text": "Transliteration",
-          "type": "text"
-         }
-        ]
-       }
-      ],
-      [
-       {
-        "type": "bold",
-        "tokens": [
-         {
-          "text": "Meaning",
-          "type": "text"
-         }
-        ]
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Person",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Hebrew",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Transliteration",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Meaning",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
      ],
      [
-      [
-       {
-        "text": "First singular",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "כָּתַבְתִּי",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "type": "italics",
-        "tokens": [
-         {
-          "text": "kosavti",
-          "type": "text"
-         }
-        ]
-       }
-      ],
-      [
-       {
-        "text": "I wrote",
-        "type": "text"
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "text": "First singular",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "כָּתַבְתִּי",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "kosavti",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "I wrote",
+         "type": "text"
+        }
+       ]
+      }
      ],
      [
-      [
-       {
-        "text": "First person plural",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "כּוֹתְבוֹת",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "type": "italics",
-        "tokens": [
-         {
-          "text": "kosavnu",
-          "type": "text"
-         }
-        ]
-       }
-      ],
-      [
-       {
-        "text": "We wrote",
-        "type": "text"
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "text": "First person plural",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "כּוֹתְבוֹת",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "kosavnu",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "We wrote",
+         "type": "text"
+        }
+       ]
+      }
      ],
      [
-      [
-       {
-        "text": "Second singular masculine",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "כָּתַבְתָּ",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "type": "italics",
-        "tokens": [
-         {
-          "text": "kosavto",
-          "type": "text"
-         }
-        ]
-       }
-      ],
-      [
-       {
-        "text": "You (man) wrote",
-        "type": "text"
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "text": "Second singular masculine",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "כָּתַבְתָּ",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "kosavto",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "You (man) wrote",
+         "type": "text"
+        }
+       ]
+      }
      ],
      [
-      [
-       {
-        "text": "Second singular feminine",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "כָּתַבְתְּ",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "type": "italics",
-        "tokens": [
-         {
-          "text": "kosavt",
-          "type": "text"
-         }
-        ]
-       }
-      ],
-      [
-       {
-        "text": "You (woman) wrote",
-        "type": "text"
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "text": "Second singular feminine",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "כָּתַבְתְּ",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "kosavt",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "You (woman) wrote",
+         "type": "text"
+        }
+       ]
+      }
      ],
      [
-      [
-       {
-        "text": "Second plural masculine",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "כְּתַבְתֶּם",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "type": "italics",
-        "tokens": [
-         {
-          "text": "ksavtem",
-          "type": "text"
-         }
-        ]
-       }
-      ],
-      [
-       {
-        "text": "You (men) wrote",
-        "type": "text"
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "text": "Second plural masculine",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "כְּתַבְתֶּם",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "ksavtem",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "You (men) wrote",
+         "type": "text"
+        }
+       ]
+      }
      ],
      [
-      [
-       {
-        "text": "Second plural feminine",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "כְּתַבְתֶּן",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "type": "italics",
-        "tokens": [
-         {
-          "text": "ksavten",
-          "type": "text"
-         }
-        ]
-       }
-      ],
-      [
-       {
-        "text": "You (women) wrote",
-        "type": "text"
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "text": "Second plural feminine",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "כְּתַבְתֶּן",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "ksavten",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "You (women) wrote",
+         "type": "text"
+        }
+       ]
+      }
      ],
      [
-      [
-       {
-        "text": "Third plural masculine",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "כָּתַב",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "type": "italics",
-        "tokens": [
-         {
-          "text": "kosav",
-          "type": "text"
-         }
-        ]
-       }
-      ],
-      [
-       {
-        "text": "He wrote",
-        "type": "text"
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "text": "Third plural masculine",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "כָּתַב",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "kosav",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "He wrote",
+         "type": "text"
+        }
+       ]
+      }
      ],
      [
-      [
-       {
-        "text": "Third plural feminine",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "כָּתְבָה",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "type": "italics",
-        "tokens": [
-         {
-          "text": "kosvo",
-          "type": "text"
-         }
-        ]
-       }
-      ],
-      [
-       {
-        "text": "She wrote",
-        "type": "text"
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "text": "Third plural feminine",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "כָּתְבָה",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "kosvo",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "She wrote",
+         "type": "text"
+        }
+       ]
+      }
      ],
      [
-      [
-       {
-        "text": "They/those",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "כָּתְבוּ",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "type": "italics",
-        "tokens": [
-         {
-          "text": "kosvu",
-          "type": "text"
-         }
-        ]
-       }
-      ],
-      [
-       {
-        "text": "They wrote",
-        "type": "text"
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "text": "They/those",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "כָּתְבוּ",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "kosvu",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "They wrote",
+         "type": "text"
+        }
+       ]
+      }
      ]
     ]
    }
@@ -1113,11 +1261,88 @@
     ]
    },
    {
-    "text": " | |-|-|-|\n| אכל | to eat |\n| קנה | to buy |\n| זכר | to remember |\n| אמר | to say |",
+    "text": " | |-|-|-|\n",
     "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "אכל",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to eat",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "קנה",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to buy",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "זכר",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to remember",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "אמר",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to say",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
    }
   ],
-  "Imperative tense": [
+  "Imperative": [
    {
     "text": "The ",
     "type": "text"
@@ -1132,22 +1357,22 @@
     ]
    },
    {
-    "text": " has an imperative tense. (The ",
+    "text": " has an imperative. (The ",
     "type": "text"
    },
    {
-    "text": "imperative tense",
+    "text": "imperative",
     "type": "global",
     "tokens": [
      {
-      "text": "imperative tense",
+      "text": "imperative",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Imperative tense",
-    "targetTopic": "Imperative tense",
+    "targetSubtopic": "Imperative",
+    "targetTopic": "Imperative",
     "enclosingTopic": "Pa'al",
-    "enclosingSubtopic": "Imperative tense"
+    "enclosingSubtopic": "Imperative"
    },
    {
     "text": " is one of the ",
@@ -1165,7 +1390,7 @@
     "targetSubtopic": "Verb forms of Hebrew and Aramaic",
     "targetTopic": "Verb forms of Hebrew and Aramaic",
     "enclosingTopic": "Pa'al",
-    "enclosingSubtopic": "Imperative tense"
+    "enclosingSubtopic": "Imperative"
    },
    {
     "text": ".)",

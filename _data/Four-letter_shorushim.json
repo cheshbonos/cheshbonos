@@ -1,0 +1,359 @@
+{
+ "displayTopicName": "Four-letter shorushim",
+ "topicTokens": [
+  {
+   "text": "Four-letter shorushim",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Four-letter shorushim": [
+   {
+    "text": "While most shorushim have three letters, and some arguably have two letters, sometimes we see shorushim that seem to have four distinct letters, like שבעד meaning subjugation, or טלטל meaning movement. These shorushim only have verbs in the \"heavy\" binyanim like the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pi'el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " because the doubled middle letter creates room for four consonant sounds, and the four letters of the root use those gaps: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Shoresh",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Meaning",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "_Pi'el_",
+           "type": "global",
+           "tokens": [
+            {
+             "type": "italics",
+             "tokens": [
+              {
+               "text": "Pi'el",
+               "type": "text"
+              }
+             ]
+            }
+           ],
+           "targetSubtopic": "Pi'el",
+           "targetTopic": "Pi'el",
+           "enclosingTopic": "Four-letter shorushim",
+           "enclosingSubtopic": "Four-letter shorushim"
+          },
+          {
+           "text": " example",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Transliteration",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "דבר",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "speech",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "מְדַבֵּר",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "me",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<b>d</b>"
+          },
+          {
+           "text": "a",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<b>b</b>"
+          },
+          {
+           "text": "'",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<b>b</b>"
+          },
+          {
+           "text": "e",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<b>r</b>"
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "שעבד",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "subjugation",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "מְשַׁעְבֵּד",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "me",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<b>sh</b>"
+          },
+          {
+           "text": "a'",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<b>a</b>"
+          },
+          {
+           "text": "-",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<b>b</b>"
+          },
+          {
+           "text": "ei",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<b>d</b>"
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "טלטל",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "movement",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "לְטַלְטֵל",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "me",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<b>t</b>"
+          },
+          {
+           "text": "a",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<b>l</b>"
+          },
+          {
+           "text": "'",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<b>t</b>"
+          },
+          {
+           "text": "e",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<b>l</b>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "text": " Four letter shorushim often are produced from regular shorushim via certain rules, such as in the ",
+    "type": "text"
+   },
+   {
+    "text": "_shaf'el_",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "shaf'el",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Shaf'el",
+    "targetTopic": "Shaf'el",
+    "enclosingTopic": "Four-letter shorushim",
+    "enclosingSubtopic": "Four-letter shorushim"
+   },
+   {
+    "text": " and the ",
+    "type": "text"
+   },
+   {
+    "text": "_pilpul_",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pilpul",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Pilpul",
+    "targetTopic": "Pilpul",
+    "enclosingTopic": "Four-letter shorushim",
+    "enclosingSubtopic": "Four-letter shorushim"
+   },
+   {
+    "text": " forms.",
+    "type": "text"
+   }
+  ]
+ }
+}

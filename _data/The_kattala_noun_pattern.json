@@ -1,0 +1,477 @@
+{
+ "displayTopicName": "The _kattala_ noun pattern",
+ "topicTokens": [
+  {
+   "text": "The ",
+   "type": "text"
+  },
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "kattala",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " noun pattern",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "The kattala noun pattern": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "kattala",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " noun pattern is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "Hebrew noun patterns",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Hebrew noun patterns",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Hebrew noun patterns",
+    "targetTopic": "Hebrew noun patterns",
+    "enclosingTopic": "The kattala noun pattern",
+    "enclosingSubtopic": "The kattala noun pattern"
+   },
+   {
+    "text": " and produces words such as: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Shoresh",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Pi'el",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " verb",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Kattala",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " Noun",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "בקשׁ ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " seeking",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "בִּקֵּשׁ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "bikeish",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " he requested",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "בַּקָּשָׁה ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "bakasha",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " an instance of eating",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "תקן",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " fixing",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "תִּקֵּן",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "tikein",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " he fixed",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "תַּקָּנָה",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "takkana",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " an instituted rule",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "כפר ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " atonement",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "כִּפֵּר",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "kipeir",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " he granted atonement",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "כַּפָּרָה ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "nechama",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " an atonement",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "text": " The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "kattala",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " pattern is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "noun patterns that come from _pi'el_ verbs",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "noun patterns that come from ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pi'el",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " verbs",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Noun patterns that come from Pi'el verbs",
+    "targetTopic": "Noun patterns that come from Pi'el verbs",
+    "enclosingTopic": "The kattala noun pattern",
+    "enclosingSubtopic": "The kattala noun pattern"
+   },
+   {
+    "text": ". More examples of words in the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "ktila",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " noun pattern ",
+    "type": "text"
+   },
+   {
+    "type": "url",
+    "url": "https://www.pealim.com/dict/?pos=noun&nm=qattala",
+    "text": "can be found on Pealim",
+    "tokens": [
+     {
+      "text": "can be found on Pealim",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ]
+ }
+}

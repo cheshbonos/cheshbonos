@@ -1,0 +1,429 @@
+{
+ "displayTopicName": "The _kittul_ noun pattern",
+ "topicTokens": [
+  {
+   "text": "The ",
+   "type": "text"
+  },
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "kittul",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " noun pattern",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "The kittul noun pattern": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "kittul",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " noun pattern is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "Hebrew noun patterns",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Hebrew noun patterns",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Hebrew noun patterns",
+    "targetTopic": "Hebrew noun patterns",
+    "enclosingTopic": "The kittul noun pattern",
+    "enclosingSubtopic": "The kittul noun pattern"
+   },
+   {
+    "text": " and produces words such as: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Shoresh",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Pi'el",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " Verb",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Pi'el",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " Noun",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "קדש ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " holiness",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "קִדֵּשׁ (",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "kideish",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": ") ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " he made holy",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "קִדּוּשׁ (",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "kiddush",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": ") ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " the making of holiness",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "דבר ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " speaking",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "דִּבֵּר (",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "dibeir",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": ") ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " he spoke",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "דִּבּוּר (",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "dibbur",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": ") ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " speech",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "בטל ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " canceling",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "מְבַטֵּל (",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "mevatel",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": ") ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " he canceled",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "בִּטּוּל (",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "bittul",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": ") ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " cancelation",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "text": " The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "kittul",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " noun pattern is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "noun patterns that come from _pi'el_ verbs",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "noun patterns that come from ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pi'el",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " verbs",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Noun patterns that come from Pi'el verbs",
+    "targetTopic": "Noun patterns that come from Pi'el verbs",
+    "enclosingTopic": "The kittul noun pattern",
+    "enclosingSubtopic": "The kittul noun pattern"
+   },
+   {
+    "text": ". More examples of words in the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "kittul",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " noun pattern ",
+    "type": "text"
+   },
+   {
+    "type": "url",
+    "url": "https://www.pealim.com/dict/?pos=noun&nm=qittul",
+    "text": "can be found on Pealim",
+    "tokens": [
+     {
+      "text": "can be found on Pealim",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ]
+ }
+}

@@ -1,0 +1,558 @@
+{
+ "displayTopicName": "The _haktala_ noun pattern",
+ "topicTokens": [
+  {
+   "text": "The ",
+   "type": "text"
+  },
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "haktala",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " noun pattern",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "The haktala noun pattern": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "haktala",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " noun pattern is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "Hebrew noun patterns",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Hebrew noun patterns",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Hebrew noun patterns",
+    "targetTopic": "Hebrew noun patterns",
+    "enclosingTopic": "The haktala noun pattern",
+    "enclosingSubtopic": "The haktala noun pattern"
+   },
+   {
+    "text": " and produces words such as: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Shoresh",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Hif'il",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " verb",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Haktala",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " Noun",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "דבל ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " seperation",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "הִדְבִּיל",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "hivdil",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " he seperated",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "הַבְדָּלָה ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "havdalah",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " an act of seperation",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "קדש",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " holiness",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "הִקְדִּישׁ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "hikdish",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " he donated to temple",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "הַקְדָּשָׁה",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "hakdasha",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " an act of donation to temple",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "דבל ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " seperation",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "הִזְמִין",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "hizmin",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " he invited",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "הַזְמָנָה ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "hazmana",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " an invitation",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "text": " ",
+    "type": "text"
+   },
+   {
+    "text": "Nouns in the _haktala_ noun pattern come from _hif'il_ verbs",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "Nouns in the ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "haktala",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " noun pattern come from ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "hif'il",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " verbs",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Nouns in the haktala noun pattern come from hif'il verbs",
+    "targetTopic": "The haktala noun pattern",
+    "enclosingTopic": "The haktala noun pattern",
+    "enclosingSubtopic": "The haktala noun pattern"
+   },
+   {
+    "text": ". More examples of words in the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "haktala",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " noun pattern ",
+    "type": "text"
+   },
+   {
+    "type": "url",
+    "url": "https://www.pealim.com/dict/?pos=noun&num-radicals=all&nm=haqtala",
+    "text": "can be found on Pealim",
+    "tokens": [
+     {
+      "text": "can be found on Pealim",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Nouns in the haktala noun pattern come from hif'il verbs": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "haktala",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " noun pattern is one the ",
+    "type": "text"
+   },
+   {
+    "text": "noun patterns that come from hif'il verbs",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "noun patterns that come from hif'il verbs",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Noun patterns that come from Hif'il verbs",
+    "targetTopic": "Noun patterns that come from Hif'il verbs",
+    "enclosingTopic": "The haktala noun pattern",
+    "enclosingSubtopic": "Nouns in the haktala noun pattern come from hif'il verbs"
+   },
+   {
+    "text": ", and there is a ",
+    "type": "text"
+   },
+   {
+    "text": "relationship between nouns in the _hektel_ noun pattern and the _haktala_ noun pattern",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "relationship between nouns in the ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "hektel",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " noun pattern and the ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "haktala",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " noun pattern",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Relationship between nouns in the hektel noun pattern and the haktala noun pattern",
+    "targetTopic": "Relationship between nouns in the hektel noun pattern and the haktala noun pattern",
+    "enclosingTopic": "The haktala noun pattern",
+    "enclosingSubtopic": "Nouns in the haktala noun pattern come from hif'il verbs"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ]
+ }
+}

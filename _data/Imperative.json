@@ -1,15 +1,15 @@
 {
- "displayTopicName": "Imperative tense",
+ "displayTopicName": "Imperative",
  "topicTokens": [
   {
-   "text": "Imperative tense",
+   "text": "Imperative",
    "type": "text"
   }
  ],
  "paragraphsBySubtopic": {
-  "Imperative tense": [
+  "Imperative": [
    {
-    "text": "The imperative tense, also known as \"the command tense,\" is one of the ",
+    "text": "The imperative, also known as \"the command,\" is one of the ",
     "type": "text"
    },
    {
@@ -23,8 +23,8 @@
     ],
     "targetSubtopic": "Verb forms of Hebrew and Aramaic",
     "targetTopic": "Verb forms of Hebrew and Aramaic",
-    "enclosingTopic": "Imperative tense",
-    "enclosingSubtopic": "Imperative tense"
+    "enclosingTopic": "Imperative",
+    "enclosingSubtopic": "Imperative"
    },
    {
     "text": ".",

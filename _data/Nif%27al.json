@@ -58,93 +58,120 @@
     "enclosingSubtopic": "Nif'al"
    },
    {
-    "text": ".) Verbs in the ",
+    "text": ".) ",
     "type": "text"
    },
    {
-    "type": "italics",
-    "tokens": [
+    "topLevelNodes": [
      {
-      "text": "nif'al",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " have the properties of being ",
-    "type": "text"
-   },
-   {
-    "text": "passive",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "passive",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Passive",
-    "targetTopic": "Passive",
-    "enclosingTopic": "Nif'al",
-    "enclosingSubtopic": "Nif'al"
-   },
-   {
-    "text": " and ",
-    "type": "text"
-   },
-   {
-    "text": "simple",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "simple",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Simple",
-    "targetTopic": "Simple",
-    "enclosingTopic": "Nif'al",
-    "enclosingSubtopic": "Nif'al"
-   },
-   {
-    "text": ". The ",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "nif'al",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " corresponds to the ",
-    "type": "text"
-   },
-   {
-    "text": "_ispe'el_",
-    "type": "global",
-    "tokens": [
-     {
-      "type": "italics",
-      "tokens": [
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
        {
-        "text": "ispe'el",
+        "text": "Verbs in the ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "nif'al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " have the properties of being ",
+        "type": "text"
+       },
+       {
+        "text": "passive",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "passive",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Passive",
+        "targetTopic": "Passive",
+        "enclosingTopic": "Nif'al",
+        "enclosingSubtopic": "Nif'al"
+       },
+       {
+        "text": " and ",
+        "type": "text"
+       },
+       {
+        "text": "simple",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "simple",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Simple",
+        "targetTopic": "Simple",
+        "enclosingTopic": "Nif'al",
+        "enclosingSubtopic": "Nif'al"
+       },
+       {
+        "text": ".",
         "type": "text"
        }
-      ]
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "nif'al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " corresponds to the ",
+        "type": "text"
+       },
+       {
+        "text": "_ispe'el_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "ispe'el",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Ispe'el",
+        "targetTopic": "Ispe'el",
+        "enclosingTopic": "Nif'al",
+        "enclosingSubtopic": "Nif'al"
+       },
+       {
+        "text": " in Aramaic.",
+        "type": "text"
+       }
+      ],
+      "children": []
      }
     ],
-    "targetSubtopic": "Ispe'el",
-    "targetTopic": "Ispe'el",
-    "enclosingTopic": "Nif'al",
-    "enclosingSubtopic": "Nif'al"
-   },
-   {
-    "text": " in Aramaic.",
-    "type": "text"
+    "type": "outline"
    }
   ]
  }

@@ -112,179 +112,227 @@
     "type": "table",
     "rows": [
      [
-      [
-       {
-        "type": "bold",
-        "tokens": [
-         {
-          "text": "Shoresh",
-          "type": "text"
-         }
-        ]
-       }
-      ],
-      [
-       {
-        "type": "bold",
-        "tokens": [
-         {
-          "text": "Simple verb",
-          "type": "text"
-         }
-        ]
-       }
-      ],
-      [
-       {
-        "type": "bold",
-        "tokens": [
-         {
-          "text": "Intensive verb",
-          "type": "text"
-         }
-        ]
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Shoresh",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Simple verb",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Intensive verb",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
      ],
      [
-      [
-       {
-        "text": "שבר",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "to break",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "to shatter",
-        "type": "text"
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "text": "שבר",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to break",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to shatter",
+         "type": "text"
+        }
+       ]
+      }
      ],
      [
-      [
-       {
-        "text": "חשב",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "to think",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "to calculate",
-        "type": "text"
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "text": "חשב",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to think",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to calculate",
+         "type": "text"
+        }
+       ]
+      }
      ],
      [
-      [
-       {
-        "text": "יקר",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "to value",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "to increase the price of something",
-        "type": "text"
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "text": "יקר",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to value",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to increase the price of something",
+         "type": "text"
+        }
+       ]
+      }
      ],
      [
-      [
-       {
-        "text": "ישב",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "to sit",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "to create a settlement",
-        "type": "text"
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "text": "ישב",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to sit",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to create a settlement",
+         "type": "text"
+        }
+       ]
+      }
      ],
      [
-      [
-       {
-        "text": "כלה",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "to finish",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "to annihilate",
-        "type": "text"
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "text": "כלה",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to finish",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to annihilate",
+         "type": "text"
+        }
+       ]
+      }
      ],
      [
-      [
-       {
-        "text": "כתב",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "to write",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "to engrave",
-        "type": "text"
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "text": "כתב",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to write",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to engrave",
+         "type": "text"
+        }
+       ]
+      }
      ],
      [
-      [
-       {
-        "text": "עור",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "to wake up",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "to arouse or energize someone",
-        "type": "text"
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "text": "עור",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to wake up",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to arouse or energize someone",
+         "type": "text"
+        }
+       ]
+      }
      ]
     ]
    },

@@ -1,0 +1,715 @@
+{
+ "displayTopicName": "Relationship between nouns in the _hektel_ noun pattern and the _haktala_ noun pattern",
+ "topicTokens": [
+  {
+   "text": "Relationship between nouns in the ",
+   "type": "text"
+  },
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "hektel",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " noun pattern and the ",
+   "type": "text"
+  },
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "haktala",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " noun pattern",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Relationship between nouns in the hektel noun pattern and the haktala noun pattern": [
+   {
+    "text": "There is a standard difference between nouns in ",
+    "type": "text"
+   },
+   {
+    "text": "the _hektel_ noun pattern",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "the ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "hektel",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " noun pattern",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "The hektel noun pattern",
+    "targetTopic": "The hektel noun pattern",
+    "enclosingTopic": "Relationship between nouns in the hektel noun pattern and the haktala noun pattern",
+    "enclosingSubtopic": "Relationship between nouns in the hektel noun pattern and the haktala noun pattern"
+   },
+   {
+    "text": " and ",
+    "type": "text"
+   },
+   {
+    "text": "the _haktala_ noun pattern",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "the ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "haktala",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " noun pattern",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "The haktala noun pattern",
+    "targetTopic": "The haktala noun pattern",
+    "enclosingTopic": "Relationship between nouns in the hektel noun pattern and the haktala noun pattern",
+    "enclosingSubtopic": "Relationship between nouns in the hektel noun pattern and the haktala noun pattern"
+   },
+   {
+    "text": ": ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Shoresh",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Hif'il",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " verb",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Hektel",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " noun",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Haktala",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " noun",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "דבל",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " seperation",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "הִדְבִּיל",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "hivdil",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " he seperated",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "הֶבְדֵּל",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "hevdel",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " a difference / seperation",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "הַבְדָּלָה",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "havdalah",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": "an act of seperation",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "קדש",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " holiness",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "הִקְדִּישׁ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "hikdish",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " he donated to the temple",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "הֶקְדֵּשׁ ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "hekdesh",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " property of the temple",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "הַקְדָּשָׁה",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "hakdasha",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " an act of donation to the temple",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "קשר",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " connection",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "הִקְשִׁיר",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "hikshir",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " he connected",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "הֶקְשֵׁר",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "heksher",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " a connection",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "הַקְשָׁרָה",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "hakshara",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " an act of connecting",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "text": " As you can see, the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "hif'il",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " verb represents an action, then the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "haktala",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " noun will be an instance of that action, and the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "hektel",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " noun will be the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "result",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " of that action. Not every ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "hif'il",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " verb however will have both a ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "hektel",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " and a ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "haktala",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " form. For a full list of ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "hektel-haktala",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " word pairs, see ",
+    "type": "text"
+   },
+   {
+    "type": "url",
+    "url": "https://www.sefaria.org/Klein_Dictionary%2C_%D7%94%D6%B7%D7%91%D6%B0%D7%93%D6%B8%D6%BC%D7%9C%D6%B8%D7%94.1",
+    "text": "Klein on _havdalah_",
+    "tokens": [
+     {
+      "text": "Klein on ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "havdalah",
+        "type": "text"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ]
+ }
+}

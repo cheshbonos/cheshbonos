@@ -27,7 +27,25 @@
     "enclosingSubtopic": "Binyan"
    },
    {
-    "text": " gets put into one of several binyanim in order to produce a verb. A binyan is ",
+    "text": " gets put into one of several binyanim in order to produce a verb, (see for example ",
+    "type": "text"
+   },
+   {
+    "text": "קדש",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "קדש",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "קדש",
+    "targetTopic": "קדש",
+    "enclosingTopic": "Binyan",
+    "enclosingSubtopic": "Binyan"
+   },
+   {
+    "text": ". A binyan is ",
     "type": "text"
    },
    {
@@ -148,202 +166,242 @@
     "type": "table",
     "rows": [
      [
-      [
-       {
-        "type": "bold",
-        "tokens": [
-         {
-          "text": "Shoresh",
-          "type": "text"
-         }
-        ]
-       }
-      ],
-      [
-       {
-        "type": "bold",
-        "tokens": [
-         {
-          "text": "Shoresh Meaning",
-          "type": "text"
-         }
-        ]
-       }
-      ],
-      [
-       {
-        "type": "bold",
-        "tokens": [
-         {
-          "text": "Binyan",
-          "type": "text"
-         }
-        ]
-       }
-      ],
-      [
-       {
-        "type": "bold",
-        "tokens": [
-         {
-          "text": "Binyan Meaning",
-          "type": "text"
-         }
-        ]
-       }
-      ],
-      [
-       {
-        "type": "bold",
-        "tokens": [
-         {
-          "text": "Resulting Verb",
-          "type": "text"
-         }
-        ]
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Shoresh",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Shoresh Meaning",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Binyan",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Binyan Meaning",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Resulting Verb",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
      ],
      [
-      [
-       {
-        "text": "אכל",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "eating",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "_hif'il_",
-        "type": "global",
-        "tokens": [
-         {
-          "type": "italics",
-          "tokens": [
-           {
-            "text": "hif'il",
-            "type": "text"
-           }
-          ]
-         }
-        ],
-        "targetSubtopic": "Hif'il",
-        "targetTopic": "Hif'il",
-        "enclosingTopic": "Binyan",
-        "enclosingSubtopic": "Like a flavor of the shoresh"
-       }
-      ],
-      [
-       {
-        "text": "causing someone else to do something",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "to cause someone to eat i.e. to feed",
-        "type": "text"
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "text": "אכל",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "eating",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_hif'il_",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "hif'il",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Hif'il",
+         "targetTopic": "Hif'il",
+         "enclosingTopic": "Binyan",
+         "enclosingSubtopic": "Like a flavor of the shoresh"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "causing someone else to do something",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to cause someone to eat i.e. to feed",
+         "type": "text"
+        }
+       ]
+      }
      ],
      [
-      [
-       {
-        "text": "כתב",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "writing",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "_pi'el_",
-        "type": "global",
-        "tokens": [
-         {
-          "type": "italics",
-          "tokens": [
-           {
-            "text": "pi'el",
-            "type": "text"
-           }
-          ]
-         }
-        ],
-        "targetSubtopic": "Pi'el",
-        "targetTopic": "Pi'el",
-        "enclosingTopic": "Binyan",
-        "enclosingSubtopic": "Like a flavor of the shoresh"
-       }
-      ],
-      [
-       {
-        "text": "doing something more intensely",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "to write intensely i.e. to engrave",
-        "type": "text"
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "text": "כתב",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "writing",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_pi'el_",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "pi'el",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Pi'el",
+         "targetTopic": "Pi'el",
+         "enclosingTopic": "Binyan",
+         "enclosingSubtopic": "Like a flavor of the shoresh"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "doing something more intensely",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to write intensely i.e. to engrave",
+         "type": "text"
+        }
+       ]
+      }
      ],
      [
-      [
-       {
-        "text": "קנה",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "buying",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "_nif'al_",
-        "type": "global",
-        "tokens": [
-         {
-          "type": "italics",
-          "tokens": [
-           {
-            "text": "nif'al",
-            "type": "text"
-           }
-          ]
-         }
-        ],
-        "targetSubtopic": "Nif'al",
-        "targetTopic": "Nif'al",
-        "enclosingTopic": "Binyan",
-        "enclosingSubtopic": "Like a flavor of the shoresh"
-       }
-      ],
-      [
-       {
-        "text": "having something done to you",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "to have someone buy you i.e. to be purchased",
-        "type": "text"
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "text": "קנה",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "buying",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_nif'al_",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "nif'al",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Nif'al",
+         "targetTopic": "Nif'al",
+         "enclosingTopic": "Binyan",
+         "enclosingSubtopic": "Like a flavor of the shoresh"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "having something done to you",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to have someone buy you i.e. to be purchased",
+         "type": "text"
+        }
+       ]
+      }
      ]
     ]
    }
@@ -581,233 +639,39 @@
     ]
    },
    {
-    "text": " noun with the same meaning by using the following vowel pattern: ",
+    "text": " noun with the same meaning by using ",
     "type": "text"
    },
    {
-    "type": "table",
-    "rows": [
-     [
-      [
+    "text": "the _kittul_ noun pattern",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "the ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
        {
-        "type": "bold",
-        "tokens": [
-         {
-          "type": "italics",
-          "tokens": [
-           {
-            "text": "Pi'el",
-            "type": "text"
-           }
-          ]
-         },
-         {
-          "text": " Verb",
-          "type": "text"
-         }
-        ]
-       }
-      ],
-      [
-       {
-        "type": "bold",
-        "tokens": [
-         {
-          "text": "Meaning",
-          "type": "text"
-         }
-        ]
-       }
-      ],
-      [
-       {
-        "type": "bold",
-        "tokens": [
-         {
-          "type": "italics",
-          "tokens": [
-           {
-            "text": "Pi'el",
-            "type": "text"
-           }
-          ]
-         },
-         {
-          "text": " Noun",
-          "type": "text"
-         }
-        ]
-       }
-      ],
-      [
-       {
-        "type": "bold",
-        "tokens": [
-         {
-          "text": "Meaning",
-          "type": "text"
-         }
-        ]
-       }
-      ]
-     ],
-     [
-      [
-       {
-        "text": "מְקַדֵּשׁ (",
-        "type": "text"
-       },
-       {
-        "type": "italics",
-        "tokens": [
-         {
-          "text": "mekadesh",
-          "type": "text"
-         }
-        ]
-       },
-       {
-        "text": ")",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "making holy",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "קִדּוּשׁ (",
-        "type": "text"
-       },
-       {
-        "type": "italics",
-        "tokens": [
-         {
-          "text": "kiddush",
-          "type": "text"
-         }
-        ]
-       },
-       {
-        "text": ")",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "an act of making holy",
+        "text": "kittul",
         "type": "text"
        }
       ]
-     ],
-     [
-      [
-       {
-        "text": "מְדַבֵּר (",
-        "type": "text"
-       },
-       {
-        "type": "italics",
-        "tokens": [
-         {
-          "text": "medaber",
-          "type": "text"
-         }
-        ]
-       },
-       {
-        "text": ")",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "speaking",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "דִּבּוּר (",
-        "type": "text"
-       },
-       {
-        "type": "italics",
-        "tokens": [
-         {
-          "text": "dibbur",
-          "type": "text"
-         }
-        ]
-       },
-       {
-        "text": ")",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "an act of speech",
-        "type": "text"
-       }
-      ]
-     ],
-     [
-      [
-       {
-        "text": "מְבַטֵּל (",
-        "type": "text"
-       },
-       {
-        "type": "italics",
-        "tokens": [
-         {
-          "text": "mevatel",
-          "type": "text"
-         }
-        ]
-       },
-       {
-        "text": ")",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "canceling",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "בִּטּוּל (",
-        "type": "text"
-       },
-       {
-        "type": "italics",
-        "tokens": [
-         {
-          "text": "bittul",
-          "type": "text"
-         }
-        ]
-       },
-       {
-        "text": ")",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "a cancelation",
-        "type": "text"
-       }
-      ]
-     ]
-    ]
+     },
+     {
+      "text": " noun pattern",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "The kittul noun pattern",
+    "targetTopic": "The kittul noun pattern",
+    "enclosingTopic": "Binyan",
+    "enclosingSubtopic": "Nouns and adjectives that come from particular binyanim"
+   },
+   {
+    "text": ".",
+    "type": "text"
    }
   ],
   "Make larger verbs out of multiple words": [

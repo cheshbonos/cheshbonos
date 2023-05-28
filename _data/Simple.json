@@ -107,119 +107,149 @@
     "type": "table",
     "rows": [
      [
-      [
-       {
-        "type": "bold",
-        "tokens": [
-         {
-          "text": "Shoresh",
-          "type": "text"
-         }
-        ]
-       }
-      ],
-      [
-       {
-        "type": "bold",
-        "tokens": [
-         {
-          "text": "Meaning",
-          "type": "text"
-         }
-        ]
-       }
-      ],
-      [
-       {
-        "type": "bold",
-        "tokens": [
-         {
-          "text": "Simple verb",
-          "type": "text"
-         }
-        ]
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Shoresh",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Meaning",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Simple verb",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
      ],
      [
-      [
-       {
-        "text": "אכל",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "eating",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "to eat",
-        "type": "text"
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "text": "אכל",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "eating",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to eat",
+         "type": "text"
+        }
+       ]
+      }
      ],
      [
-      [
-       {
-        "text": "הלח",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "walking",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "to walk",
-        "type": "text"
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "text": "הלח",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "walking",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to walk",
+         "type": "text"
+        }
+       ]
+      }
      ],
      [
-      [
-       {
-        "text": "אמר",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "speech",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "to say",
-        "type": "text"
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "text": "אמר",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "speech",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to say",
+         "type": "text"
+        }
+       ]
+      }
      ],
      [
-      [
-       {
-        "text": "ישב",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "sitting",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "to sit",
-        "type": "text"
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "text": "ישב",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "sitting",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to sit",
+         "type": "text"
+        }
+       ]
+      }
      ]
     ]
    }

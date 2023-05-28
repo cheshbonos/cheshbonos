@@ -94,119 +94,149 @@
     "type": "table",
     "rows": [
      [
-      [
-       {
-        "type": "bold",
-        "tokens": [
-         {
-          "text": "Shoresh",
-          "type": "text"
-         }
-        ]
-       }
-      ],
-      [
-       {
-        "type": "bold",
-        "tokens": [
-         {
-          "text": "Simple verb",
-          "type": "text"
-         }
-        ]
-       }
-      ],
-      [
-       {
-        "type": "bold",
-        "tokens": [
-         {
-          "text": "Reflexive verb",
-          "type": "text"
-         }
-        ]
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Shoresh",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Simple verb",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Reflexive verb",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
      ],
      [
-      [
-       {
-        "text": "לבש",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "to dress",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "to dress oneself",
-        "type": "text"
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "text": "לבש",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to dress",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to dress oneself",
+         "type": "text"
+        }
+       ]
+      }
      ],
      [
-      [
-       {
-        "text": "בדד",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "to seperate",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "to go into isolation",
-        "type": "text"
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "text": "בדד",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to seperate",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to go into isolation",
+         "type": "text"
+        }
+       ]
+      }
      ],
      [
-      [
-       {
-        "text": "בלל",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "to mix",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "to assimilate",
-        "type": "text"
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "text": "בלל",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to mix",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to assimilate",
+         "type": "text"
+        }
+       ]
+      }
      ],
      [
-      [
-       {
-        "text": "גדר",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "to fence",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "to limit oneself to something",
-        "type": "text"
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "text": "גדר",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to fence",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to limit oneself to something",
+         "type": "text"
+        }
+       ]
+      }
      ]
     ]
    },
@@ -224,99 +254,123 @@
     "type": "table",
     "rows": [
      [
-      [
-       {
-        "type": "bold",
-        "tokens": [
-         {
-          "text": "Shoresh",
-          "type": "text"
-         }
-        ]
-       }
-      ],
-      [
-       {
-        "type": "bold",
-        "tokens": [
-         {
-          "text": "Simple verb",
-          "type": "text"
-         }
-        ]
-       }
-      ],
-      [
-       {
-        "type": "bold",
-        "tokens": [
-         {
-          "text": "Reflexive verb",
-          "type": "text"
-         }
-        ]
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Shoresh",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Simple verb",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Reflexive verb",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
      ],
      [
-      [
-       {
-        "text": "חדש",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "to be new",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "to revitalize",
-        "type": "text"
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "text": "חדש",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to be new",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to revitalize",
+         "type": "text"
+        }
+       ]
+      }
      ],
      [
-      [
-       {
-        "text": "זקן",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "to be old",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "to grow old",
-        "type": "text"
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "text": "זקן",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to be old",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to grow old",
+         "type": "text"
+        }
+       ]
+      }
      ],
      [
-      [
-       {
-        "text": "חרש",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "to be deaf",
-        "type": "text"
-       }
-      ],
-      [
-       {
-        "text": "to become deaf",
-        "type": "text"
-       }
-      ]
+      {
+       "tokens": [
+        {
+         "text": "חרש",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to be deaf",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to become deaf",
+         "type": "text"
+        }
+       ]
+      }
      ]
     ]
    }

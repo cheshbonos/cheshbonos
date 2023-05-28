@@ -58,93 +58,120 @@
     "enclosingSubtopic": "Pa'el"
    },
    {
-    "text": ".) Verbs in the ",
+    "text": ".) ",
     "type": "text"
    },
    {
-    "type": "italics",
-    "tokens": [
+    "topLevelNodes": [
      {
-      "text": "pa'el",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " have the properties of being ",
-    "type": "text"
-   },
-   {
-    "text": "active",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "active",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Active",
-    "targetTopic": "Active",
-    "enclosingTopic": "Pa'el",
-    "enclosingSubtopic": "Pa'el"
-   },
-   {
-    "text": " and ",
-    "type": "text"
-   },
-   {
-    "text": "intensive",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "intensive",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Intensive",
-    "targetTopic": "Intensive",
-    "enclosingTopic": "Pa'el",
-    "enclosingSubtopic": "Pa'el"
-   },
-   {
-    "text": ". The ",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "pa'el",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " corresponds to the ",
-    "type": "text"
-   },
-   {
-    "text": "_pi'el_",
-    "type": "global",
-    "tokens": [
-     {
-      "type": "italics",
-      "tokens": [
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
        {
-        "text": "pi'el",
+        "text": "Verbs in the ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pa'el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " have the properties of being ",
+        "type": "text"
+       },
+       {
+        "text": "active",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "active",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Active",
+        "targetTopic": "Active",
+        "enclosingTopic": "Pa'el",
+        "enclosingSubtopic": "Pa'el"
+       },
+       {
+        "text": " and ",
+        "type": "text"
+       },
+       {
+        "text": "intensive",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "intensive",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Intensive",
+        "targetTopic": "Intensive",
+        "enclosingTopic": "Pa'el",
+        "enclosingSubtopic": "Pa'el"
+       },
+       {
+        "text": ".",
         "type": "text"
        }
-      ]
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pa'el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " corresponds to the ",
+        "type": "text"
+       },
+       {
+        "text": "_pi'el_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "pi'el",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Pi'el",
+        "targetTopic": "Pi'el",
+        "enclosingTopic": "Pa'el",
+        "enclosingSubtopic": "Pa'el"
+       },
+       {
+        "text": " in Hebrew.",
+        "type": "text"
+       }
+      ],
+      "children": []
      }
     ],
-    "targetSubtopic": "Pi'el",
-    "targetTopic": "Pi'el",
-    "enclosingTopic": "Pa'el",
-    "enclosingSubtopic": "Pa'el"
-   },
-   {
-    "text": " in Hebrew.",
-    "type": "text"
+    "type": "outline"
    }
   ]
  }

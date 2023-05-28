@@ -1,0 +1,421 @@
+{
+ "displayTopicName": "The _taktil_ noun pattern",
+ "topicTokens": [
+  {
+   "text": "The ",
+   "type": "text"
+  },
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "taktil",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " noun pattern",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "The taktil noun pattern": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "taktil",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " noun pattern is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "Hebrew noun patterns",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Hebrew noun patterns",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Hebrew noun patterns",
+    "targetTopic": "Hebrew noun patterns",
+    "enclosingTopic": "The taktil noun pattern",
+    "enclosingSubtopic": "The taktil noun pattern"
+   },
+   {
+    "text": " and produces words such as: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Shoresh",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Hif'il",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " Verb",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Pi'el",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " Noun",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "בשׁל ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " cooking",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "בִּשֵּׁל (",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "bish'sheil",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": ") ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " he cooked",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "תַּבְשִׁיל (",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "tavshil",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": ") ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " a cooked item",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "פקד ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " managing",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "הִפְקִיד (",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "hifkid",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": ") ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " he entrusted",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "תַּפְקִיד (",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "tafkid",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": ") ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " order, commanded duty",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "רגל ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " routine",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "הִרְגִּיל (",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "hirg'gil",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": ") ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " he habituated",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "תַּרְגִּיל (",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "targ'gil",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": ") ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " practice",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "text": " Nouns in the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "taktil",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " noun pattern come from ",
+    "type": "text"
+   },
+   {
+    "text": "_hif'il_",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "hif'il",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Hif'il",
+    "targetTopic": "Hif'il",
+    "enclosingTopic": "The taktil noun pattern",
+    "enclosingSubtopic": "The taktil noun pattern"
+   },
+   {
+    "text": " verbs. More examples of words in the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "kittul",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " noun pattern ",
+    "type": "text"
+   },
+   {
+    "type": "url",
+    "url": "https://www.pealim.com/dict/?pos=noun&nm=taqtil",
+    "text": "can be found on Pealim",
+    "tokens": [
+     {
+      "text": "can be found on Pealim",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ]
+ }
+}

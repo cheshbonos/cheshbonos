@@ -58,74 +58,261 @@
     "enclosingSubtopic": "Hispa'el"
    },
    {
-    "text": ".) Verbs in the ",
+    "text": ".) ",
     "type": "text"
    },
    {
-    "type": "italics",
-    "tokens": [
+    "topLevelNodes": [
      {
-      "text": "hispa'el",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " have the property of being ",
-    "type": "text"
-   },
-   {
-    "text": "reflexive",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "reflexive",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Reflexive",
-    "targetTopic": "Reflexive",
-    "enclosingTopic": "Hispa'el",
-    "enclosingSubtopic": "Hispa'el"
-   },
-   {
-    "text": ". The ",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "hispa'el",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " corresponds to the ",
-    "type": "text"
-   },
-   {
-    "text": "_ispa'al_",
-    "type": "global",
-    "tokens": [
-     {
-      "type": "italics",
-      "tokens": [
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
        {
-        "text": "ispa'al",
+        "text": "Verbs in the ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hispa'el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " have the property of being ",
+        "type": "text"
+       },
+       {
+        "text": "reflexive",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "reflexive",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Reflexive",
+        "targetTopic": "Reflexive",
+        "enclosingTopic": "Hispa'el",
+        "enclosingSubtopic": "Hispa'el"
+       },
+       {
+        "text": ".",
         "type": "text"
        }
-      ]
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hispa'el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " ",
+        "type": "text"
+       },
+       {
+        "text": "is one of the \"heavy\" binyanim due to its doubled middle letter",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "is one of the \"heavy\" binyanim due to its doubled middle letter",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Is one of the \"heavy\" binyanim due to its doubled middle letter",
+        "targetTopic": "Hispa'el",
+        "enclosingTopic": "Hispa'el",
+        "enclosingSubtopic": "Hispa'el"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "In Mishnaic Hebrew, the ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hispa'el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " sometimes appears as the ",
+        "type": "text"
+       },
+       {
+        "text": "_nispa'el_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "nispa'el",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Nispa'el",
+        "targetTopic": "Nispa'el",
+        "enclosingTopic": "Hispa'el",
+        "enclosingSubtopic": "Hispa'el"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hispa'el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " corresponds to the ",
+        "type": "text"
+       },
+       {
+        "text": "_ispa'al_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "ispa'al",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Ispa'al",
+        "targetTopic": "Ispa'al",
+        "enclosingTopic": "Hispa'el",
+        "enclosingSubtopic": "Hispa'el"
+       },
+       {
+        "text": " in Aramaic.",
+        "type": "text"
+       }
+      ],
+      "children": []
      }
     ],
-    "targetSubtopic": "Ispa'al",
-    "targetTopic": "Ispa'al",
-    "enclosingTopic": "Hispa'el",
-    "enclosingSubtopic": "Hispa'el"
+    "type": "outline"
+   }
+  ],
+  "Is one of the \"heavy\" binyanim due to its doubled middle letter": [
+   {
+    "text": "Verbs in the ",
+    "type": "text"
    },
    {
-    "text": " in Aramaic.",
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "hispa'el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " feature a doubled middle letter. For example, the ",
+    "type": "text"
+   },
+   {
+    "text": "shoresh",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "shoresh",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Shoresh",
+    "targetTopic": "Shoresh",
+    "enclosingTopic": "Hispa'el",
+    "enclosingSubtopic": "Is one of the \"heavy\" binyanim due to its doubled middle letter"
+   },
+   {
+    "text": " לבש when put in the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "hispa'el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " produces the verb מִתְלַבֵּשׁ (",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "misla",
+      "type": "text"
+     },
+     {
+      "type": "html_element",
+      "html": "<b>b'b</b>"
+     },
+     {
+      "text": "eish",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ") \"he is dressing himself.\"",
     "type": "text"
    }
   ]

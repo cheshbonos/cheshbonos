@@ -58,93 +58,120 @@
     "enclosingSubtopic": "Af'el"
    },
    {
-    "text": ".) Verbs in the ",
+    "text": ".) ",
     "type": "text"
    },
    {
-    "type": "italics",
-    "tokens": [
+    "topLevelNodes": [
      {
-      "text": "af'il",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " have the properties of being ",
-    "type": "text"
-   },
-   {
-    "text": "active",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "active",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Active",
-    "targetTopic": "Active",
-    "enclosingTopic": "Af'el",
-    "enclosingSubtopic": "Af'el"
-   },
-   {
-    "text": " and ",
-    "type": "text"
-   },
-   {
-    "text": "causative",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "causative",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Causative",
-    "targetTopic": "Causative",
-    "enclosingTopic": "Af'el",
-    "enclosingSubtopic": "Af'el"
-   },
-   {
-    "text": ". The ",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "af'il",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " corresponds to the ",
-    "type": "text"
-   },
-   {
-    "text": "_hif'il_",
-    "type": "global",
-    "tokens": [
-     {
-      "type": "italics",
-      "tokens": [
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
        {
-        "text": "hif'il",
+        "text": "Verbs in the ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "af'il",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " have the properties of being ",
+        "type": "text"
+       },
+       {
+        "text": "active",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "active",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Active",
+        "targetTopic": "Active",
+        "enclosingTopic": "Af'el",
+        "enclosingSubtopic": "Af'el"
+       },
+       {
+        "text": " and ",
+        "type": "text"
+       },
+       {
+        "text": "causative",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "causative",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Causative",
+        "targetTopic": "Causative",
+        "enclosingTopic": "Af'el",
+        "enclosingSubtopic": "Af'el"
+       },
+       {
+        "text": ".",
         "type": "text"
        }
-      ]
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "af'il",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " corresponds to the ",
+        "type": "text"
+       },
+       {
+        "text": "_hif'il_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "hif'il",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Hif'il",
+        "targetTopic": "Hif'il",
+        "enclosingTopic": "Af'el",
+        "enclosingSubtopic": "Af'el"
+       },
+       {
+        "text": " in Hebrew.",
+        "type": "text"
+       }
+      ],
+      "children": []
      }
     ],
-    "targetSubtopic": "Hif'il",
-    "targetTopic": "Hif'il",
-    "enclosingTopic": "Af'el",
-    "enclosingSubtopic": "Af'el"
-   },
-   {
-    "text": " in Hebrew.",
-    "type": "text"
+    "type": "outline"
    }
   ]
  }

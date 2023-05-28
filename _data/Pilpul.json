@@ -1,0 +1,351 @@
+{
+ "displayTopicName": "Pilpul",
+ "topicTokens": [
+  {
+   "text": "Pilpul",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Pilpul": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pilpul",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " is a form where a weak shoresh with only two strong letters (eg טול) or a shoresh with a repeated second letter (eg לחח) has the first and last letters doubled to produce a ",
+    "type": "text"
+   },
+   {
+    "text": "four-letter shoresh",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "four-letter shoresh",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Four-letter shorushim",
+    "targetTopic": "Four-letter shorushim",
+    "enclosingTopic": "Pilpul",
+    "enclosingSubtopic": "Pilpul"
+   },
+   {
+    "text": ". For example: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Shoresh",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Meaning",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Shif'el",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " Shoresh",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Meaning",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "טול",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to move",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "טלטל",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to teeter about",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "לחח",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to be moist",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "לחלח",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to moisten",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "בלל",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to mix",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "בלבל",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to confuse",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "משׁשׁ",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to touch",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "משׁמשׁ",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "to examine physically",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "text": " The meaning of the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pilpul",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " form is often a more repetitive version of the meaning of the two-letter form. Like all four-letter shorushim, a ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pilpul",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " shoresh can only have forms in binyanim that feature a doubled middle consonant sound, such as the ",
+    "type": "text"
+   },
+   {
+    "text": "_pi'el_",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pi'el",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Pi'el",
+    "targetTopic": "Pi'el",
+    "enclosingTopic": "Pilpul",
+    "enclosingSubtopic": "Pilpul"
+   },
+   {
+    "text": ", ",
+    "type": "text"
+   },
+   {
+    "text": "_pu'al_",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pu'al",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Pu'al",
+    "targetTopic": "Pu'al",
+    "enclosingTopic": "Pilpul",
+    "enclosingSubtopic": "Pilpul"
+   },
+   {
+    "text": ", and ",
+    "type": "text"
+   },
+   {
+    "text": "_hispa'el_",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "hispa'el",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Hispa'el",
+    "targetTopic": "Hispa'el",
+    "enclosingTopic": "Pilpul",
+    "enclosingSubtopic": "Pilpul"
+   },
+   {
+    "text": " forms.",
+    "type": "text"
+   }
+  ]
+ }
+}
