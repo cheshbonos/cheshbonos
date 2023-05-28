@@ -26,6 +26,16 @@
     "type": "text"
    },
    {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "האיש מקדש בו ובשלוחו האשה\nמתקדשת בה ובשלוחה האיש\nמקדש את בתו כשהיא נערה בו ובשלוחו",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   },
+   {
     "topLevelNodes": [
      {
       "ordinal": "-",
@@ -90,7 +100,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "You can try to read the Mishna as it appears in the Gemara yourself below, or see it ",
+        "text": "After trying to read the Mishnah as is, you can see it ",
         "type": "text"
        },
        {
@@ -116,16 +126,6 @@
      }
     ],
     "type": "outline"
-   },
-   {
-    "type": "block_quote",
-    "tokens": [
-     {
-      "text": "האיש מקדש בו ובשלוחו האשה\nמתקדשת בה ובשלוחה האיש\nמקדש את בתו כשהיא נערה בו ובשלוחו",
-      "type": "text"
-     }
-    ],
-    "direction": "rtl"
    }
   ],
   "Broken into separate sentences": [
