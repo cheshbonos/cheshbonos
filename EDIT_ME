@@ -289,7 +289,9 @@ Two verb forms that are spelled exactly like their shoresh: A [[shoresh]] like �
 
 Actual meaning of מקדש: The word מקדש here means for a man to create a status of _kedushin_ with a woman prior to marriage.
 
-Grammatical explanation of מקדש: For those interested in grammar, the word מקדש is the the [[pi'el participle]] of [[the shoresh {{קדש}}]].
+Grammatical explanation of מקדש: This is a grammatical explanation of the word מקדש:
+- Verbs in Hebrew and Aramaic come from a particular [[shoresh]], which is put into a particular [[binyan]], and then into a particular [[{verb form}s of Hebrew and Aramaic]].
+- The word מקדש is [[the shoresh {{קדש}}]], in the [[{{pi'el}} binyan]], in the [[{{_pi'el_ participle}} form]], in the masculine singular conjugation.
 
 Parts of speech: The word מקדש can function as a noun, meaning "someone who makes something holy", a verb, someone or something "is making holy," or an adjective, something has "the quality of making something holy."
 
@@ -475,26 +477,32 @@ There are several active binyanim in Hebrew and Aramaic:
 - Aramaic's active causative binyan is called the [[_af'el_]]
 
 
-* Binyan: "Binyan" is a grammatical concept in Hebrew and Aramaic that has no direct corollary in English. A [[shoresh]] gets put into one of several binyanim in order to produce a verb, (see for example [[קדש]]. A binyan is [[like a flavor of the shoresh]]. Every binyan is a combination of [[five basic types of action]]. English [[uses alternative means to achieve the same effect]].  There are [[seven {{Hebrew binyanim}}]] and [[six {{Aramaic binyanim}}]]. There are also [[nouns and adjectives that come from particular binyanim]].
+* Binyan: "Binyan" is a grammatical concept in Hebrew and Aramaic that has no direct corollary in English.
+- A verb is a [[shoresh]] that is put into a particular binyan.
+- A binyan functions [[like a flavor of the shoresh]].
+- Every binyan is a combination of [[five basic types of action]].
+- There are [[seven {{Hebrew binyanim}}]] and [[six {{Aramaic binyanim}}]].
+- There are also [[nouns and adjectives that come from particular binyanim]].
 
-Like a flavor of the shoresh: You can think of a binyan as being a "flavor" of meaning that gets mixed with the shoresh to produce a verb. For example:
-| *Shoresh* | *Shoresh Meaning*| *Binyan* | *Binyan Meaning* | *Resulting Verb* |
-|-|-|-|-|-|
-| אכל | eating | [[_hif'il_]] | causing someone else to do something | to cause someone to eat i.e. to feed |
-| כתב | writing | [[_pi'el_]] | doing something more intensely | to write intensely i.e. to engrave |
-| קנה | buying | [[_nif'al_]] | having something done to you | to have someone buy you i.e. to be purchased |
+Like a flavor of the shoresh: You can think of a binyan as being a "flavor" of meaning that gets mixed with the shoresh to produce different verbs. For example:
+| *Shoresh* | *Binyan* | *Binyan Meaning* | *Resulting Verb* |
+| אכל <br> eating | [[_hif'il_]] | causing someone else<br> to do something | causing + eating = <br> to feed |
+| כתב <br> writing | [[_pi'el_]] | doing something<br> more intensely | writing + intense = <br> to engrave |
+| קנה <br> buying | [[_nif'al_]] | having something<br> done to you | buying + <br>something done to you = <br> to be purchased |
+English by comparison [[uses alternative means to achieve the same effect]].
 
-Five basic types of action: There are five "types" of action:
+Five basic types of action: There are five "types" of action that get combined to produce different binyanim:
 - [[Active]]: Someone doing something themselves
 - [[Passive]]: Someone having something done to them
 - [[Simple]]: Someone doing a very straight-forward version of an action
 - [[Intensive]]: Someone doing an intense or repetitive version of an action
 - [[Causative]]: Someone causing someone else do an action
-All of the different binyanim of Hebrew and Aramaic are combinations of these five ideas. For example, the [[_hif'il_]] is active, and causative.
+All of the different [[Hebrew Binyanim|binyanim of Hebrew]] and [[Aramaic Binyanim|of Aramaic]] are different combinations of these five ideas. For example, the [[_hif'il_]] is active, and causative.
 
 Uses alternative means to achieve the same effect: In English, we do not use "binyan" to produce families of related verbs. Rather, we [[make larger verbs out of multiple words]], and [[use entirely separate words for related concepts]].
 
-Nouns and adjectives that come from particular binyanim: Every verb has one binyan, and there are nouns and adjectives that come from a verb in a particular binyan. For example, from every _pi'el_ verb you can produce a _pi'el_ noun with the same meaning by using [[the _kittul_ noun pattern]].
+Nouns and adjectives that come from particular binyanim: Every verb has one binyan, and there are nouns and adjectives that come from a verb in a particular binyan.
+- For example, from every _pi'el_ verb you can produce a _pi'el_ noun with the same meaning by using [[the _kittul_ noun pattern]].
 
 Make larger verbs out of multiple words: In English, you have one simple verb like "eat," and then you can add other words to form larger ideas like "he made someone eat," or "he was eaten," etc, whereas in Hebrew and Aramaic, all of these permutations will be entirely different one-word verbs with similar spellings because they are formed from the same [[shoresh]] root.
 
@@ -524,26 +532,25 @@ There are several causative binyanim in Hebrew and Aramaic
 - Aramaic's "passive" causative binyan is called the [[_itaf'al_]]
 
 
-* Intensive: "Intensive" is a category of verb in Hebrew and Aramaic. Intensive verbs often have meanings that are [[intensive or repetitive]]. A binyan that is intensive has verbs that are intensive and vice versa. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].) There are [[several intensive binyanim in Hebrew and Aramaic]].
+* Intensive: "Intensive" is a category of verb in Hebrew and Aramaic.
+- Intensive verbs often have meanings that are [[intensive or repetitive]].
+- A binyan that is intensive has verbs that are intensive and vice versa. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
+- There are [[several intensive binyanim in Hebrew and Aramaic]].
 
 Intensive or repetitive: Intensive verbs often have meanings that are more intensive or repetitive versions of their associated [[shoresh]], although sometimes the meaning is [[causative]]. For example:
-| *Shoresh* | *Simple verb* | *Intensive verb* |
+| *Shoresh* | *Simple Verb* | *Intensive Verb* |
 |-|-|-|
 | שבר | to break | to shatter |
-| חשב | to think | to calculate |
-| יקר | to value | to increase the price of something |
 | ישב | to sit | to create a settlement |
-| כלה | to finish | to annihilate |
 | כתב | to write | to engrave |
-| עור | to wake up | to arouse or energize someone |
-Ultimately these are just rules of thumb, and you can never be sure exactly what an intensive verb will mean just by looking at the meaning of its shoresh.
+Ultimately these are just rules of thumb, and you can never be sure exactly what an intensive verb will mean just by looking at the meaning of its shoresh generally.
 
 Several intensive binyanim in Hebrew and Aramaic:
 There are several intensive binyanim in Hebrew and Aramaic:
-- Hebrew's [["active"]] intensive binyan is the [[_pa'al_]]
-- Hebrew's [["passive"]] intensive binyan is the [[_nif'al_]]
-- Aramaic's "active" intensive binyan is the [[_pe'al_]]
-- Aramaic's "passive" intensive [[_ispe'el_]]
+- Hebrew's [[active]] intensive binyan is the [[_pi'el_]]
+- Hebrew's [[passive]] intensive binyan is the [[_nif'al_]]
+- Aramaic's active intensive binyan is the [[_pe'al_]]
+- Aramaic's passive intensive [[_ispe'el_]]
 
 
 * Passive: "Passive" is a category of verb in Hebrew and Aramaic. Passive verbs usually represent actions where [[the person being described is having an action done to them]]. A binyan that is passive has verbs that are passive and vice versa. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].) There are several passive binyanim [[in Hebrew]] and [[in Aramaic]].
@@ -617,6 +624,14 @@ There are several "simple" binyanim in Hebrew and Aramaic. ([[{{Binyan}} is a sp
 - Aramaic's "passive" simple binyan is called the [[_ispe'el_]]
 
 
+* Stative verbs: Stative verbs are a category of verb that have irregular conjugations in Hebrew and Aramaic.
+- A stative verb usually describe static qualities as opposed to actions.
+| *Example stative verb* | *Meaning* |
+| כּבֵד | to be heavy |
+| חָכַם | to be wise |
+| זָקֵן | to be old |
+
+
 [Lashonos/Binyanim/Aramaic]
 
 * Af'el: The _af'il_ (אַפְעֵל) is one of the [[Aramaic binyanim]]. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
@@ -624,7 +639,7 @@ There are several "simple" binyanim in Hebrew and Aramaic. ([[{{Binyan}} is a sp
 - The _af'il_ corresponds to the [[_hif'il_]] in Hebrew.
 
 
-* Aramaic binyanim: There six binyanim in Aramaic (select a term to learn more, or [[learn more about {{"binyan"}}]]):
+* Aramaic binyanim: There six binyanim in Aramaic. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
 | *Aramaic*  | [[Simple]] | [[Intensive]] | [[Causative]] | [[Reflexive]] |
 | [[Active]]  | [[_Pe'al_]] | [[_Pa'el_]] | [[_Af'el_]] | [[_Ispa'al_]] |
 | [[Passive]] | [[_Ispe'el_]] | [[_Ispa'al_]] | [[_Itaf'al_]] | \^ |
@@ -632,12 +647,12 @@ The binyanim of Aramaic mostly align with the [[Hebrew binyanim]].
 
 
 * Ispa'al: The _ispa'al_ (אִתְפַּעַל) is one of the [[Aramaic binyanim]]. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
-- Verbs in the _hif'il_ have the properties of being [[reflexive]].
+- Verbs in the _ispa'al_ can be [[reflexive]], or [[passive]] and [[intensive]].
 - The _ispa'al_ can correspond to either the [[pu'al]] and to the [[_hispa'el_]] in Hebrew.
 
 
 * Ispe'el: The _ispe'el_ (אִתְפְּעֵל) is one of the [[Aramaic binyanim]]. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
-- Verbs in the _hif'il_ have the properties of being [[active]] and [[causative]].
+- Verbs in the _ispe'el_ have the properties of being [[active]] and [[causative]].
 - The _ispe'el_ corresponds to the [[_nif'al_]] in Hebrew.
 
 
@@ -658,7 +673,7 @@ The binyanim of Aramaic mostly align with the [[Hebrew binyanim]].
 
 [Lashonos/Binyanim/Hebrew]
 
-* Hebrew binyanim: There are seven "binyanim" in Hebrew, (select a term to learn more, or [[learn more about {{"binyan"}}]]):
+* Hebrew binyanim: There are seven binyanim in Hebrew. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
 | *Hebrew*  | [[Simple]] | [[Intensive]] | [[Causative]] | [[Reflexive]] |
 |---------|--------|-----------|-----------|-----------|
 | [[Active]]  | [[_Pa'al_]] | [[_Pi'el_]] | [[_Hif'il_]] | [[_Hispa'el_]],<br>[[_Nispa'el_]] |
@@ -679,7 +694,9 @@ The binyanim of Hebrew mostly align with the [[Aramaic binyanim]].
 - In Mishnaic Hebrew, the _hispa'el_ sometimes appears as the [[_nispa'el_]].
 - The _hispa'el_ corresponds to the [[_ispa'al_]] in Aramaic.
 
-Is one of the "heavy" binyanim due to its doubled middle letter: Verbs in the _hispa'el_ feature a doubled middle letter. For example, the [[shoresh]] לבש when put in the _hispa'el_ produces the verb מִתְלַבֵּשׁ (_misla<b>b'b</b>eish_) "he is dressing himself."
+Is one of the "heavy" binyanim due to its doubled middle letter: Verbs in the _hispa'el_ are called "heavy."
+- This is because they are pronounced with a doubled middle letter.
+- For example, the [[shoresh]] לבש when put in the _hispa'el_ produces the verb מִתְלַבֵּשׁ (_misla<b>b'b</b>eish_) "he is dressing himself."
 
 
 * Huf'al: The _huf'al_ (הֻפְעַל) is one of the [[Hebrew binyanim]]. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
@@ -697,19 +714,25 @@ Is one of the "heavy" binyanim due to its doubled middle letter: Verbs in the _h
 
 * Pa'al: The _pa'al_ (פָּעַל), or _kal_ (קַל), is one of the [[Hebrew binyanim]]. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
 - Verbs in the _pa'al_ have the properties of being [[active]] and [[simple]].
-- The _pa'al_ has conjugations in various [[tenses]].
+- A _pa'al_ verb [[has various forms]].
+- The _pa'al_ is the only binyan to feature a finished participle form.
 - The _pa'al_ corresponds to the [[_pe'al_]] in Aramaic.
 
-Tenses: There is a [[_pa'al_ {{participle}}]], a [[_pa'al_ {{past tense}}]], a [[_pa'al_ {{future tense}}]], an [[_pa'al_ {{imperative}}]], and an [[_pa'al_ {{infinitive}}]].
+Has various forms:
+Verbs in the _pa'al_ have various forms. (There are [[various {{verb forms of Hebrew and Aramaic}}]].)
+| [[_Pa'al_ {{Past Tense}}]] | [[_Pa'al_ {{Future Tense}}]] | [[_Pa'al_ {{Active Participle}}]] |
+| [[_Pa'al_ {{Imperative}}]] | [[_Pa'al_ {{Infinitive}}]] | [[_Pa'al_ {{Passive Participle}}]] |
 
-Participle: The _pa'al_ has an participle. (The [[participle]] is one of the [[{verb forms|tenses} of Hebrew and Aramaic]].) This is an example of how you conjugate verbs with [[regular shorushim]] in the _pa'al_ participle:
-| Person | Hebrew | Transliteration |
+Passive Participle:
+
+Active Participle: The _pa'al_ has an active participle form, which is normally just called the "participle." (The [[participle]] is one of the [[{verb forms|tenses} of Hebrew and Aramaic]].) This is an example of how you conjugate verbs with [[regular shorushim]] in the _pa'al_ participle:
+| *Person* | *Hebrew* | *Transliteration* |
 |---------|--------|----------------|
-| Masculine singular | כּוֹתֵב | _koiseiv_  |
-| Feminine singular | כּוֹתֶבֶת | _koiseves_ |
-| Masculine plural | כּוֹתְבִים | _koisvim_ |
-| Feminine plural | כּוֹתְבוֹת | _koisvois_ |
-The _pa'al_ participle generally features a ו between the first and second root letters. You can see examples of the [[participle]] in [[versions in Hebrew|other binyanim]].
+| Masculine singular | כּוֹתֵב | _koseiv_  |
+| Feminine singular | כּוֹתֶבֶת | _koseves_ |
+| Masculine plural | כּוֹתְבִים | _kosvim_ |
+| Feminine plural | כּוֹתְבוֹת | _kosvos_ |
+The _pa'al_ participle generally features a ו between the first and second root letters. You can see examples of the [[participle]] in [[forms in Hebrew|other binyanim]].
 
 Past tense: The _pa'al_ has an past tense. (The [[past tense]] is one of the [[{verb forms|tenses} of Hebrew and Aramaic]].) This is an example of how you conjugate verbs with [[regular shorushim]] in the _pa'al_ past tense:
 | *Person* | *Hebrew* | *Transliteration* | *Meaning* |
@@ -746,7 +769,9 @@ Infinitive: The _pa'al_ has an infinitive. (The [[infinitive]] is one of the [[{
 - The _pi'el_ is one of the binyanim that can accept [[four-letter shorushim]]
 - The _pi'el_ has various [[forms]].
 
-Is one of the "heavy" binyanim due to its doubled middle letter: Verbs in the _pi'el_ feature a doubled middle letter. For example, the shoresh קדש when put in the _pi'el_ produces the verb מְקַדֵּשׁ (_meka<b>d'd</b>esh_) "he is donating to the temple."
+Is one of the "heavy" binyanim due to its doubled middle letter: Verbs in the _pi'el_ are called "heavy."
+- This is because they are pronounced with a doubled middle letter.
+- For example, the shoresh קדש when put in the _pi'el_ produces the verb מְקַדֵּשׁ (_meka<b>d'd</b>esh_) "he is donating to the temple."
 
 Forms:
 The _pi'el_ binyan has verbs in various forms:
@@ -764,9 +789,14 @@ Imperative: Verbs in the _pi'el_ with [[regular shorushim]] are conjugated in th
 Infinitive: Verbs in the _pi'el_ with [[regular shorushim]] have an [[{{infinitive}} form]] like the following examples:
 
 
-* Pu'al: The "pu'al" (פֻּעַל) is one of the [[Hebrew binyanim]]. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].) Verbs in the _pu'al_ have the properties of being [[passive]] and [[causative]]. The _pu'al_ [[is one of the "heavy" binyanim due to its doubled middle letter]]. The _pu'al_ has no corollary binyan in Aramaic.
+* Pu'al: The "pu'al" (פֻּעַל) is one of the [[Hebrew binyanim]]. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
+- Verbs in the _pu'al_ have the properties of being [[passive]] and [[causative]].
+- The _pu'al_ [[is one of the "heavy" binyanim due to its doubled middle letter]].
+- The _pu'al_ has no exact corollary binyan in Aramaic, but may sometimes overlap with the [[_ispa'al_]].
 
-Is one of the "heavy" binyanim due to its doubled middle letter: Verbs in the _pi'el_ feature a doubled middle letter. For example, the shoresh קדש when put in the _pi'el_ produces the verb מְקֻדָּשׁ (_meku<b>d'd</b>ash_) "it is being donated to the temple."
+Is one of the "heavy" binyanim due to its doubled middle letter: Verbs in the _pi'el_ are called "heavy."
+- This is because they are pronounced with a doubled middle letter.
+- For example, the shoresh קדש when put in the _pi'el_ produces the verb מְקֻדָּשׁ (_meku<b>d'd</b>ash_) "it is being donated to the temple."
 
 
 [Lashonos/Conjunctions]
@@ -905,9 +935,9 @@ There is a standard difference between nouns in [[the _hektel_ noun pattern]] an
 | *_Shoresh_* | *_Hif'il_ verb* | *_Hektel_ noun* | *_Haktala_ noun* |
 |-|-|-|-|
 | דבל<br> seperation | הִדְבִּיל<br> _hivdil_ <br> he seperated | הֶבְדֵּל<br> _hevdel_ <br> a difference / seperation | הַבְדָּלָה<br> _havdalah_ <br>an act of seperation |
-| קדש<br> holiness | הִקְדִּישׁ<br> _hikdish_ <br> he donated to the temple | הֶקְדֵּשׁ <br> _hekdesh_ <br> property of the temple |  הַקְדָּשָׁה<br> _hakdasha_ <br> an act of donation to the temple |
+| קדש<br> holiness | הִקְדִּישׁ<br> _hikdish_ <br> he donated to the temple | הֶקְדֵּשׁ <br> _hekdesh_ <br> property of the temple |  הַקְדָּשָׁה<br> _hakdasha_ <br> an act of donation<br> to the temple |
 | קשר<br> connection | הִקְשִׁיר<br> _hikshir_ <br> he connected | הֶקְשֵׁר<br> _heksher_ <br> a connection | הַקְשָׁרָה<br> _hakshara_ <br> an act of connecting |
-As you can see, the _hif'il_ verb represents an action, then the _haktala_ noun will be an instance of that action, and the _hektel_ noun will be the _result_ of that action. Not every _hif'il_ verb however will have both a _hektel_ and a _haktala_ form. For a full list of _hektel-haktala_ word pairs, see [Klein on _havdalah_](https://www.sefaria.org/Klein_Dictionary%2C_%D7%94%D6%B7%D7%91%D6%B0%D7%93%D6%B8%D6%BC%D7%9C%D6%B8%D7%94.1).
+As you can see, the _hif'il_ verb represents an action, the _haktala_ noun represents an instance of that action, and the _hektel_ noun will represent the _result_ of that action. Not every _hif'il_ verb however will have both a _hektel_ and a _haktala_ form. For a full list of _hektel-haktala_ word pairs, see [Klein on _havdalah_](https://www.sefaria.org/Klein_Dictionary%2C_%D7%94%D6%B7%D7%91%D6%B0%D7%93%D6%B8%D6%BC%D7%9C%D6%B8%D7%94.1).
 
 
 * The _haktala_ noun pattern: The _haktala_ noun pattern is one of the [[Hebrew noun patterns]] and produces words such as:
@@ -977,21 +1007,31 @@ Nouns in the _taktil_ noun pattern come from [[_hif'il_]] verbs. More examples o
 
 [Lashonos/Shoresh]
 
-* Four-letter shorushim: While most shorushim have three letters, and some arguably have two letters, sometimes we see shorushim that seem to have four distinct letters, like שבעד meaning subjugation, or טלטל meaning movement. These shorushim only have verbs in the "heavy" binyanim like the _pi'el_ because the doubled middle letter creates room for four consonant sounds, and the four letters of the root use those gaps:
-| *Shoresh* | *Meaning* | *[[_Pi'el_]] example* | *Transliteration* |
-|-|-|-|-|
-| דבר | speech | מְדַבֵּר | _me<b>d</b>a<b>b</b>'<b>b</b>e<b>r</b>_ |
-| שעבד | subjugation | מְשַׁעְבֵּד | _me<b>sh</b>a'<b>a</b>-<b>b</b>ei<b>d</b>_ |
-| טלטל | movement | לְטַלְטֵל | _me<b>t</b>a<b>l</b>'<b>t</b>e<b>l</b>_ |
-Four letter shorushim often are produced from regular shorushim via certain rules, such as in the [[_shaf'el_]] and the [[_pilpul_]] forms.
+* Four-letter shorushim: While most shorushim have three letters, sometimes we see shorushim that seem to have four distinct letters.
+- For example: שבעד, meaning subjugation, or טלטל meaning movement.
+- These shorushim [[can only have verb forms in binyanim with a doubled middle letter]].
+- Four letter shorushim are often special forms of normal shorushim, like the [[_shaf'el_]] and the [[_pilpul_]] forms, although [[some seem to have intrinsic meanings]].
+
+Can only have verb forms in binyanim with a doubled middle letter:
+Four-letter shorushim can only have verb forms in binyanim with a doubled middle letter like the [[_pi'el_]]. This is because the doubled letter creates room for the four consonant sounds.
+| *Shoresh* | *[[_Pi'el_]] example* | *Notes*|
+| דבר <br> speech | מְדַבֵּר <br> _me<b>d</b>a<b>b</b>'<b>b</b>e<b>r</b>_ <br> he is saying | - This is a regular three-letter shoresh. <br>- The middle בּ ("b") is said twice<br> - I.e. both middle slots are used for בּ |
+| שׁחרר <br> liberation | מְשַׁחְרֵר <br> _me<b>sh</b>a'<b>ch</b>-<b>r</b>ei<b>r</b>_ <br> he is liberating | - This is a four-letter shoresh<br>- First middle slot is used for ח ("ch") <br>- Second middle slot is used for ר|
+| טלטל <br> movement | מְטַלְטֵל <br> _me<b>t</b>a<b>l</b>'<b>t</b>e<b>l</b>_ <br> he is moving | - This is a four-letter shoresh<br> - First middle slot is used for ל <br> - Second middle slot is used for ט |
+
+Some seem to have intrinsic meanings: Some four letter shorushim seem to be intrinsically meaningful and are not related to other shorushim. For example:
+- פרנס, "livelihood," used in verbs like לְפַרְנֵס _lefarneis_ "to support financially."
+- קטרג, "accusation," used in verbs like לְקַטְרֵג _lekatreig_, "to accuse"
+
+- Also parnassa and kitrig
 
 
-* Irregular shorushim: An irregular shoresh, as opposed to [[regular shorushim]], is a [[shoresh]] that has special letters that affect the vowelization of verbs produced from it. Here are some examples of irregular shorushim having irregular verb conjugations:
-| *Shoresh* | *Oddity* | *Expected* | * Real* | *Comment* |
+* Irregular shorushim: An irregular shoresh, as opposed to a [[regular shor{ushim|esh}]], is a [[shoresh]] that has special letters that affect the vowelization of verbs produced from it. Here are some examples of irregular shorushim and their irregular verb conjugations:
+| *Shoresh* | *Irregularity* | *Expected<br>Conjugation* | * Real<br>Conjugation* | *Comment* |
 |-|-|-|-|-|
 | ישב | י in first position | מֵישִׁיב (_mayshiv_) | מוֹשִׁיב (_moshiv_) | י changes to וֹ |
-| נפל | נ in the first position | מַנְפִּיל (_manpil_) | מַפִּיל (_map'pil_) | נ drops and the פ is doubled |
-| בנה | ה in the last position | בָּנַהְתִּי  (_baunah'ti_) | בָּנִיתִי (_bauniti_) | the consonant ה becomes an יִ vowel |
+| נפל | נ in the first position | מַנְפִּיל (_manpil_) | מַפִּיל (_map'pil_) | נ drops, and the פ is doubled |
+| בנה | ה in the last position | בָּנַהְתִּי  (_baunah'ti_) | בָּנִיתִי (_bauniti_) | the consonant ה becomes an יִ vowel, like "bee" |
 There is a [[special naming convention for describing categories of irregular shorushim]].
 
 Special naming convention for describing categories of irregular shorushim: We use the traditional [[shoresh letter numbering convention]] to produce an [[irregular shoresh naming convention]].
@@ -1022,32 +1062,43 @@ The meaning of the _pilpul_ form is often a more repetitive version of the meani
 * Regular shorushim: A regular [[shoresh]] is a shoresh where the vowels and spelling of verbs that are produced from that shoresh follow the normal patterns for each verb form. This is as opposed to [[irregular shorushim]].
 
 
-* Shaf'el: The _shaf'el_ form is when a shoresh like עבד gets a ש added to the front to produce a new shoresh שעבד. A three-letter shoresh put into the _shaf'el_ will become a [[four-letter {shorushim|shoresh}]] and a shoresh with only two strong letters when put into the _shaf'el_ will become a three-letter shoresh, for example:
-| *Shoresh* | *Meaning* | *_Shif'el_ Shoresh* | *Meaning* |
-|-|-|-|-|
-| עבד | work | שעבד | subjugate (to make someone else work) |
-| זרע | seeding | שזרע | reseeding (causing to become seeded) |
-| נוע | moving | שנע | transporting (causing to move) |
+* Shaf'el: The _shaf'el_ form is a special type of [[four-letter shor{ushim|esh}]].
+- It is produced by taking a shoresh like עבד and adding a ש to the front to produce a new shoresh like שעבד.
+- A three-letter shoresh put into the _shaf'el_ will become a [[four-letter {shorushim|shoresh}]]
+- A shoresh with only two strong letters when put into the _shaf'el_ will become a three-letter shoresh, for example:
+| *Shoresh*  | *_Shif'el_ Shoresh* | *Notes* |
+| עבד <br> work | שעבד <br> subjugate<br> (to make someone else work) | This is a three-letter shoresh that becomes a four letter shoresh |
+| זרע <br> seeding | שזרע <br> reseeding (causing to become seeded) | This is a three-letter shoresh that becomes a four letter shoresh |
+| נוע <br> moving | שנע <br> transporting (causing to move) | This is a "weak" shoresh with only two strong letters, and it becomes a three letter shoresh |
 The addition of the ש produces a shoresh that has a [[causative]] meaning relative to the original shoresh. Like all four-letter shorushim, a _shaf'el_ shoresh can only have forms in binyanim that feature a doubled middle consonant sound, such as the [[_pi'el_]], [[_pu'al_]], and [[_hispa'el_]] forms.
 
 
-* Shoresh: A shoresh is a grammatical entity in Hebrew and Aramaic. The word shoresh [[means root]]. A shoresh is [[a series of letters]] and [[represents a range of meaning]]. Here are some examples:
-| *Shoresh* | אכל | שלח | ראה |
-|-|-|-|-|
-| *Meaning* | eating | sending | sight |
-Shorushim are [[used to produce words]]. Shorushim have [[corollaries in English]]. There is a [[debate over the exact definition of a shoresh]]. There are [[regular and irregular shorushim]].
+* Shoresh: Shoresh is a grammatical entity in Hebrew and Aramaic.
+- A shoresh is a series of letters that represents a range of meaning, <br> like אכל (eating) שלח (sending) or ראה (sight)
+- "Shoresh" [[means root]] because shorushim are [[used to produce words]].
+- Shorushim [[appear to have 2-4 letters]].
+- There are [[regular and irregular shorushim]].
 
-Means root: The Hebrew word שורש can mean "root" or "source," but in this context it means root in the sense that a words like "memory" and "memorize" come from the linguistic _root_ "mem."
+Means root:
+The word shoresh can mean "root" or "source."
+- In this context, it means "root" in the sense that a words like "memory" and "memorize" come from the same linguistic root "mem."
 
-A series of letters: A shoresh looks like a series of two or three letters like קדש or מת, but sometimes have [[four-letter{ shorushim|s}]].
+Appear to have 2-4 letters: Shorushim generally have three letters.
+- Some shorushim, however, [[appear to have two letters]]
+- Some shorushim have [[Four-letter shorushim|some have four letters]].
 
-Represents a range of meaning: A shoresh represents a broad category of meaning, like "holiness" for קדש, or "death" for מת.
-
-There is a debate in grammar whether to think of two letter roots like מת as being two letters, or really three letters like מות.
+Appear to have two letters: Sometimes, we find words that only appear to have two shoresh letters, like מֵת, _mais_, "he is dying."
+- Some grammarians consider מֵת to come from a shoresh "מת"
+- Other grammarians consider מֵת to come from a shoresh "מות," whose "weak middle letter" gets hidden in certain conjugations.
+- Either way, it is just a disagreement about what to call things, not over the spelling of any actual word.
+- Cheshbonos generally uses three letter shorushim like "מות" to keep things simple, but either system is fine to use.
 
 Corollaries in English: In English, you often have a linguistic root like "mem" which is used to produce a series of related words like "memory," "memorize," or "memorable." Shorushim are a similar concept, except they are a bit more formal than in English, because there are fixed rules for how many letters they can be, and how they get turned into words.
 
-Used to produce words: A shoresh that has a general meaning is used to generate many words with more specific meanings. For example, the shoresh אכל "eating" is plugged into a pattern like `‏הֶ _ _ י _‏` to generate the verb הֶאֱכִיל, "to feed." (For advanced readers, this form is called the [[hif'il]].)
+Used to produce words: A shoresh is called a "root" because many words derive from one shoresh.
+- A shoresh has a general meaning is used to generate many words with more specific meanings.
+- For example, the shoresh אכל "eating" can be plugged into a particular verb pattern to generate the verb לְהַאֲכִיל, _leha'achil_, "to feed."
+- (For advanced readers, this form is called the [[hif'il]].)
 
 Debate over the exact definition of a shoresh: Often we see words that only seem to have two root letters, like מת, and there is a debate over whether to think of these as being a special type of "two letter" shoresh, or whether to think of them as being a three-letter shoresh like מות that loses the middle letter in certain conjugations, but this dispute has no practical ramifications because everyone agrees on the spelling of the words that come from two-letter shorushim.
 
@@ -1063,56 +1114,92 @@ Regular and irregular shorushim: Shorushim can be [[{regular} shorushim]] or [[{
 
 * קדש: קדש is a [[shoresh]] in Hebrew and Aramaic.
 קדש has verbs in the following binyanim:
-| *Binyan* | *Type* | *Meanings*| *Forms* |
-| [[_Pa'al_]] | Hebrew [[Active]], [[Simple]] | to be or become pure, sacred, holy | [[_Pa'al_ forms]] |
-| [[_Pi'el_]] | Hebrew [[Active]], [[Intensive]] | to make holy, creating [[_kiddushin_]] with a woman, saying _kiddush_ before a meal on Shabbos or Yuntif | [[_Pi'el_ forms]] |
-| [[_Pu'al_]] | Hebrew [[Passive]], [[Intensive]] | to be made holy, for a woman to enter _kiddushin_ | [[_Pu'al_ forms]] |
-| [[_Hispa'el_]] | Hebrew [[Reflexive]] | to be made holy, for a woman to enter _kiddushin_ | [[_Hispa'el_ forms]] |
-More information can be found in [[dictionaries]].
-
-Pa'al forms:
-
-Pi'el forms: The _pi'el_ of the [[shoresh]] קדש has the following forms:
-| [[_Pi'el_ Past Tense]] | [[_Pi'el_ Future Tense]] | [[_Pi'el_ Participle]] |
-| [[_Pi'el_ Imperative]] | [[_Pi'el_ Infinitive]] | \^ |
-
-_Pi'el_ Past Tense:
-
-_Pi'el_ Future Tense:
-
-_Pi'el_ Participle: The participle of the shoresh קדש follows the general pattern for [[pi'el]] [[{{participle}} verbs]].
-
-_Pi'el_ Imperative:
-
-_Pi'el_ Infinitive:
-
-Pu'al forms:
-
-Hispa'el forms:
+| *Binyan* | *Type* | *Meanings* |
+| [[_Pa'al_]] | Hebrew [[Active]], [[Simple]] | to be or become pure, sacred, holy |
+| [[_Pi'el_]] | Hebrew [[Active]], [[Intensive]] | to make something holy, creating the first stage of marriage with a woman, saying _kiddush_ before a meal on Shabbos or Yuntif |
+| [[_Pu'al_]] | Hebrew [[Passive]], [[Intensive]] | to be made holy, for a woman to enter _kiddushin_ |
+| [[_Hispa'el_]] | Hebrew [[Reflexive]] | to be made holy, for a woman to enter _kiddushin_ |
+More information can be found in the [Jastrow](https://www.sefaria.org/Jastrow%2C_%D7%A7%D6%B8%D7%93%D6%B7%D7%A9%D7%81.1) and [Klein](https://www.sefaria.org/Klein_Dictionary%2C_%D7%A7%D7%93%D7%A9%D7%81.1) dictionaries.
 
 Kiddushin: _Kiddushin_ is a stage of the marriage process. A man creates kiddushin with a woman, after which she is designated to him and needs to receive a divorce to remarry. After this stage, there is _nisyuin_, after which the marriage process is complete.
-
-Dictionaries: More information regarding the shoresh קדש can be found in the [Jastrow](https://www.sefaria.org/Jastrow%2C_%D7%A7%D6%B8%D7%93%D6%B7%D7%A9%D7%81.1) and [Klein](https://www.sefaria.org/Klein_Dictionary%2C_%D7%A7%D7%93%D7%A9%D7%81.1) dictionaries.
 
 
 [Lashonos/Tenses]
 
 * Future Tense: The future tense is one of the [[verb forms of Hebrew and Aramaic]].
+- The future tense generally describes a future action, but has [[several uses]].
+
+Several uses: The future tense generally describes a future action, however:
+- The future tense [[can describe a command]].
+- The future tense [[can describe a prayer]].
+- The future tense [[can describe a moral suggestion]].
+
+Can describe a command: The future tense can describe a command.
+- For example, תִּכְתֹּב _tichtov_ (lit. "you will write") can mean "you _shall_ write."
+- The _Chumash_ generally expresses positive commandments using the alternative [[{{imperative}} form]], but negative commandments are often expressed using the future tense, such as לֹא תִּרְצָח, "thou shalt not kill."
+
+Can describe a prayer:
+The future tense can describe a prayer.
+- For example, השם יְרַחֵם, _Hashem yeracheim_ (lit. "Hashem will be compassionate") can mean "I pray Hashem will be compassionate."
+
+Can describe a moral suggestion:
+The future tense can describe a moral suggestion.
+- For example, תַּעֲזֹר, _ta'azoir_ (lit. "you will help") can mean "you should help."
 
 
-* Imperative: The imperative, also known as "the command," is one of the [[verb forms of Hebrew and Aramaic]].
+* _Hif'il Participle_:
+
+
+* _Hispa'el Participle_:
+
+
+* _Huf'al_ Participle:
+
+
+* Imperative: The imperative, also known as "the command form," is one of the [[verb forms of Hebrew and Aramaic]].
 
 
 * Infinitive: The infinitive is one of the [[verb forms of Hebrew and Aramaic]].
 
 
-* Participle: The participle (sometimes called _lashon po'el_) is one of the [[verb forms of Hebrew and Aramaic]]. It is similar to English "ing" verbs, like "running." The participle [[has various uses]], and it [[has various forms]].
+* _Nif'al_ Participle:
 
-Has various uses: The Hebrew and Aramaic participle [[corresponds to both the English present and participle]]. It can be [[used for various time periods]], and can [[function as a noun or adjective]].
 
-Has various forms: There are multiple versions of the participle [[versions {in Hebrew}]] and [[versions {in Aramaic}]], and for each version there are conjugations [[for gender and number]].
+* _Nispa'el Participle_:
 
-Corresponds to both the English present and participle: Whereas in English you can say "he is writing" or "he writes," in Hebrew and Aramaic, both of these meanings would be expressed with the same participle eg הוא כותב, _hu koisev_, and so when we see the word כותב, we can't be sure without context whether it is referring to someone who is writing right now, or someone writes habitually.
+
+* _Pa'al Participle_: This is the _pa'al_ participle conjugation for [[regular shorushim]], but there is also a [[_pa'al_ participle for stative verbs]] and other irregular forms. The [[_pa'al_]] is one of the [[Hebrew Binyanim]], and [[{{binyan}} is a special concept in Hebrew and Aramaic grammar]].
+| *Person* | *Hebrew* | *Transliteration* | *Meaning* |
+|---------|--------|----------------|---------|
+| Masculine singular | כּוֹתֵב | _koseiv_ | one man writing |
+| Feminine singular | כּוֹתֶבֶת | _koseves_ | one woman writing |
+| Masculine plural | כּוֹתְבִים | _kosvim_ | multiple men writing |
+| Feminine plural | כּוֹתְבוֹת | _kosvos_ | multiple women writing |
+
+_Pa'al_ participle for stative verbs:
+There is a special category of verbs that are called [[stative verbs]], and in the participle they do not get the normal ו after the first root letter, like in כּוֹתֵב _kosev_ "writing."
+| *Person* | *Hebrew* | *Transliteration* | *Meaning* |
+|---------|--------|----------------|---------|
+| Masculine singular | זָקֵן | _zaukein_ | one man is old |
+| Feminine singular | זְקֵנָה | _z'keinau_ | one woman is old |
+| Masculine plural | זְקֵנִים | _z'keinim_ | multiple men are old |
+| Feminine plural | זְקֵנוֹת | _z'keinos_ | multiple women are old |
+
+
+* Participle: The active participle, or just "the participle" (sometimes called _lashon po'el_) is one of the [[verb forms of Hebrew and Aramaic]].
+- The participle is similar to English "ing" verbs, like "running."
+- The participle [[has various uses]].
+- The participle has [[forms in Hebrew]] and [[forms {in Aramaic}]].
+
+Has various uses: The Hebrew and Aramaic participle has various uses.
+- The Hebrew and Aramaic participle [[corresponds to both the English present and participle]].
+- The participle can be [[used for various time periods]]
+- It can [[function as a noun or adjective]].
+
+Corresponds to both the English present and participle: The Hebrew and Aramaic participle corresponds to multiple English verb forms.
+- In English you can say "he is writing" or "he writes."
+- In Hebrew and Aramaic, both of these forms would be expressed with the same participle i.e. הוּא כּוֹתֵב, _hu koseiv_.
+- Thus, when we see the word כּוֹתֵב, _koseiv_, we can't be sure from the word alone if it means "he is writing" or "he writes."
 
 Used for various time periods: A word in the participle technically [[has no time]], and can be used [[in the past]], [[in the present]], or [[in the future]].
 
@@ -1151,10 +1238,16 @@ As adjectives: A participle can function as an adjective, eg:
 | English | Shimeon is *holy*, or Shimeon is *being holy* |
 In English, "holy" is an adjective and "being holy" is a verb, but in Hebrew and Aramaic, the same participle word "קודש" would be used for both.
 
-Versions in Hebrew:
+Forms in Hebrew:
 These are the examples of the participle in the masculine singular for each of the [[Hebrew binyanim]]. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
-| *Binyan*        | *Type* |  *Example* | *Transliteration* | *See all* |
-| [[_Pa'al_]] | [[simple]], [[active]] | כּוֹתֵב | _koiseiv_ | [[Pa'al#Participle]] |
+| *Hebrew*  | [[Simple]] | [[Intensive]] | [[Causative]] | [[Reflexive]] |
+|---------|--------|-----------|-----------|-----------|
+| [[Active]]  | [[_Pa'al Participle_]] | [[_Pi'el Participle_]] | [[_Hif'il Participle_]] | [[_Hispa'el Participle_]],<br><br>[[_Nispa'el Participle_]] |
+| [[Passive]] | [[_Nif'al_ Participle]] | [[_Pu'al_ Participle]] | [[_Huf'al_ Participle]] | \^ |
+
+- Table might be overkill
+| *Binyan*        | *Type* |  *Example* | *Transliteration* | *See all forms* |
+| [[_Pa'al_]] | [[simple]], [[active]] | כּוֹתֵב | _koiseiv_ | [[Pa'al#Active Participle]] |
 | [[_Nif'al_]] | [[simple]], [[passive]] | נִכְתָּב | _nicht'tov_ | Nif'al#Participle |
 | [[_Pi'el_]] | [[intensive]], [[active]] | מְכַתֵּב | _mechat'teiv_ | Pi'el#Participle |
 | [[_Pu'al_]] | [[intensive]], [[passive]] | מְכֻתָּב | _mechut'tov_ | _Pu'al#Participle |
@@ -1162,7 +1255,7 @@ These are the examples of the participle in the masculine singular for each of t
 | [[_Huf'al_]] | [[causative]], [[passive]] | מֻכְתָּב | _muchtov_ | Huf'al#Participle |
 | [[_Hispa'el_]] | [[reflexive]] | מִתְכַּתֵּב | _miskat'teiv_ | Hispa'el#Participle |
 
-Versions in Aramaic:
+Forms in Aramaic:
 These are the examples of the participle in the masculine singular for each of the [[Aramaic binyanim]]. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
 | Binyan        | Type | Example | Transliteration |
 |---------------|------|---------|----------------|
@@ -1177,10 +1270,10 @@ For gender and number:
 The participle is conjugated for gender and number:
 | Person | Hebrew | Transliteration | Meaning |
 |---------|--------|----------------|---------|
-| Masculine singular | כּוֹתֵב | _koiseiv_ | one man writing |
-| Feminine singular | כּוֹתֶבֶת | _koiseves_ | one woman writing |
-| Masculine plural | כּוֹתְבִים | _koisvim_ | multiple men writing |
-| Feminine plural | כּוֹתְבוֹת | _koisvois_ | multiple women writing |
+| Masculine singular | כּוֹתֵב | _koseiv_ | one man writing |
+| Feminine singular | כּוֹתֶבֶת | _koseves_ | one woman writing |
+| Masculine plural | כּוֹתְבִים | _kosvim_ | multiple men writing |
+| Feminine plural | כּוֹתְבוֹת | _kosvos_ | multiple women writing |
 This is unlike the [[past tense]] or [[future tense]] that have [[separate forms for person]]. This is because the participle in Hebrew and Aramaic is [[like an adjective]].
 
 Separate forms for person: Tenses other than the participle have conjugations for every person, eg the [[_pa'al_]] [[past tense]]:
@@ -1199,12 +1292,48 @@ Separate forms for person: Tenses other than the participle have conjugations fo
 Like an adjective: The participle in Hebrew and Aramaic is more like an adjective than a verb, with "he is running" having the same grammatical form as "he is tall." (This example uses the participle of the [[_{{pa'al}} binyan_]]. [[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
 
 
+* Passive Participle: The passive participle is a special verb form in Hebrew and Aramaic.
+- The passive participle only exists in the [[active]] [[simple]] binyanim of Hebrew and Aramaic, [[the Hebrew {{_pa'al_}}]] and [[the Aramaic {{pe'al}}]].
+- There are [[differences in meaning between the passive participle and the passive binyanim]].
+- The passive participle functions like an adjective.
+- The passive participle in Hebrew looks like כָּתוּב _kasuv_, and in Aramaic like כְּתִיב, _kasiv_.
+
+Differences in meaning between the passive participle and the passive binyanim:
+There are differences in meaning between the passive participle and the passive binyanim:
+- The [[simple]] [[passive]] binyanim i.e. [[the Hebrew {{_nif'al_}}]] and [[the Aramaic {{_ispe'el_}}]] represent an ongoing action e.g. "it is _being_ written" or "it is _regularly_ written."
+- The passive participle by contrast would mean "it is written," without a connection to an ongoing action.
+
+
 * Past tense: The past tense is one of the [[verb forms of Hebrew and Aramaic]].
 
 
-* Verb forms of Hebrew and Aramaic: There are several verb forms in Hebrew and Aramaic:
-| [[Past Tense]] | [[Future Tense]] | [[Participle]] |
-| [[Imperative]] | [[Infinitive]] | \^ |
+* _Pi'el Participle_:
+The _pi'el participle_ is the [[{{participle}} form]] of the [[{{_pi'el_}} binyan]].
+- Below is an example of the _pi'el_ participle conjugation for כתב, which applies to other [[regular shorushim]].
+- [[Irregular shorushim have different conjugations in the _pi'el_ participle]].
+| *Person* | *Hebrew* | *Transliteration* | *Meaning* |
+|---------|--------|----------------|---------|
+| Masculine singular | מְכַתֵּב | _mechateiv_ | one man engraving |
+| Feminine singular | מְכַתֶּבֶת | _mechateves_ | one woman engraving |
+| Masculine plural | מְכַתְּבִים | _mechatvim_ | multiple men engraving |
+| Feminine plural | מְכַתְּבוֹת | _mechatvos_ | multiple women engraving |
+
+Irregular shorushim have different conjugations in the _pi'el_ participle:
+[[Irregular shorushim]] can have irregular conjugations in the _pi'el_ participle.
+- For example, גלה can be irregular due to ending with the weak letter ה, which causes the vowel below the last letter in the _pi'el_ participle to change:
+| *Person* | *Regular shoresh כתב* | * Irregular shoresh גלה* |
+| Masculine singular | מְכַתֵּב <br> _mechateiv_ | מְגַלֶּה <br> _megale_ |
+| Feminine singular | מְכַתֶּבֶת <br> _mechateves_ | מְגַלָּה <br> _megalau_ |
+| Masculine plural | מְכַתְּבִים <br> _mechatvim_ | מְגַלִּים <br> _megalim_ |
+| Feminine plural | מְכַתְּבוֹת <br> _mechatvos_ | מְגַלּוֹת <br> _megalos_ |
+
+
+* _Pu'al_ Participle:
+
+
+* Verb forms of Hebrew and Aramaic: There are several verb forms and tenses in Hebrew and Aramaic:
+| [[Past Tense]] | [[Future Tense]] | [[Active {{Participle}}]] |
+| [[Imperative]] | [[Infinitive]] | [[Passive Participle]] |
 
 
 [Lashonos/Terms]
