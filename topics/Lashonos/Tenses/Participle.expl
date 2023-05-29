@@ -1,52 +1,20 @@
-Participle: The participle (sometimes called _lashon po'el_) is one of the [[verb forms of Hebrew and Aramaic]]. It is similar to English "ing" verbs, like "running." The participle [[has various uses]], and it [[has various forms]].
+Participle: The active participle, or just "the participle" (sometimes called _lashon po'el_) is one of the [[verb forms of Hebrew and Aramaic]].
+- The participle corresponds to the English "ing" verbs, like "running."
+- The participle only has meaning when used in [[{|various }participle {constructions}]].
+- The participle has [[forms in Hebrew]] and [[forms in Aramaic]].
 
-Has various uses: The Hebrew and Aramaic participle [[corresponds to both the English present and participle]]. It can be [[used for various time periods]], and can [[function as a noun or adjective]].
+Produce the present tense:
 
-Has various forms: There are multiple versions of the participle [[versions {in Hebrew}]] and [[versions {in Aramaic}]], and for each version there are conjugations [[for gender and number]].
-
-Corresponds to both the English present and participle: Whereas in English you can say "he is writing" or "he writes," in Hebrew and Aramaic, both of these meanings would be expressed with the same participle eg הוא כותב, _hu koisev_, and so when we see the word כותב, we can't be sure without context whether it is referring to someone who is writing right now, or someone writes habitually.
-
-Used for various time periods: A word in the participle technically [[has no time]], and can be used [[in the past]], [[in the present]], or [[in the future]].
-
-Has no time: A word in the participle of Hebrew or Aramaic does not alone tell us what time the action happened. This is like the English word "running," which only describes an action, not when it happened. We require the context of the sentence to determine the time of the action.
-
-In the past: The participle can be used in the past tense, for example הוא היה כותב, _hu haya koisev_ meaning "he used to write" or "he used to be writing." If you wanted to say "he wrote," ie a one-time past event instead of an ongoing past event, you would just use the regular [[past tense]], and not the "past-tense version" of the participle.
-
-In the present: The participle can be used in the present tense by adding a noun before the verb, for example, הוא כותב, _hu koisev_, meaning "he is writing" or "he writes."
-
-In the future: The participle can be used in the future tense, for example, הוא יהיה כותב, _hu yiyeh koisev_, meaning "he will be writing." If you wanted to say "he will write," ie a one-time future event, you would just use the regular [[future tense]] and not the "future version" of the participle.
-
-Function as a noun or adjective: Words in the participle can function [[as nouns]] or [[as adjectives]].
-
-As nouns: The participle can function as a noun in two ways, [[describing someone doing the action]], or [[describing an instance of an action]].
-
-Describing someone doing the action:
-The participle can function as a noun describing someone or something doing the given action. For example:
-| Hebrew  | *כּוֹתֵב* צָרִיךְ פֶּֽתֶק |
-|-|-|
-| Transliteration | _*koisev* tzarich petek_ |
-| English | *a person who is running* needs shoes. |
-Here, we see the Hebrew word "running" can also mean "a person who is running." Putting a ה in front of the word ie הַכּוֹתֵב would mean "the one who runs."
-
-Describing an instance of an action:
-The participle can function as a noun describing someone or something doing the given action. For example:
-| Hebrew  | *כּוֹתֵב* שלו תמיד |
-|-|-|
-| Transliteration | _*koisev* shelo tamid_ |
-| English | his *writing* is constant |
-Here, we see that the Hebrew word "writing" can be used as a noun, meaning "this particular instance of the act of writing."
-
-As adjectives: A participle can function as an adjective, eg:
-| Hebrew  | שמעון *קודש* |
-|-|-|
-| Transliteration | _Shimeon *kodesh*_ |
-| English | Shimeon is *holy*, or Shimeon is *being holy* |
-In English, "holy" is an adjective and "being holy" is a verb, but in Hebrew and Aramaic, the same participle word "קודש" would be used for both.
-
-Versions in Hebrew:
+Forms in Hebrew:
 These are the examples of the participle in the masculine singular for each of the [[Hebrew binyanim]]. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
-| *Binyan*        | *Type* |  *Example* | *Transliteration* | *See all* |
-| [[_Pa'al_]] | [[simple]], [[active]] | כּוֹתֵב | _koiseiv_ | [[Pa'al#Participle]] |
+| *Hebrew*  | [[Simple]] | [[Intensive]] | [[Causative]] | [[Reflexive]] |
+|---------|--------|-----------|-----------|-----------|
+| [[Active]]  | [[_Pa'al Participle_]] | [[_Pi'el Participle_]] | [[_Hif'il Participle_]] | [[_Hispa'el Participle_]],<br><br>[[_Nispa'el Participle_]] |
+| [[Passive]] | [[_Nif'al_ Participle]] | [[_Pu'al_ Participle]] | [[_Huf'al_ Participle]] | \^ |
+
+- Table might be overkill
+| *Binyan*        | *Type* |  *Example* | *Transliteration* | *See all forms* |
+| [[_Pa'al_]] | [[simple]], [[active]] | כּוֹתֵב | _koiseiv_ | [[Pa'al#Active Participle]] |
 | [[_Nif'al_]] | [[simple]], [[passive]] | נִכְתָּב | _nicht'tov_ | Nif'al#Participle |
 | [[_Pi'el_]] | [[intensive]], [[active]] | מְכַתֵּב | _mechat'teiv_ | Pi'el#Participle |
 | [[_Pu'al_]] | [[intensive]], [[passive]] | מְכֻתָּב | _mechut'tov_ | _Pu'al#Participle |
@@ -54,7 +22,7 @@ These are the examples of the participle in the masculine singular for each of t
 | [[_Huf'al_]] | [[causative]], [[passive]] | מֻכְתָּב | _muchtov_ | Huf'al#Participle |
 | [[_Hispa'el_]] | [[reflexive]] | מִתְכַּתֵּב | _miskat'teiv_ | Hispa'el#Participle |
 
-Versions in Aramaic:
+Forms in Aramaic:
 These are the examples of the participle in the masculine singular for each of the [[Aramaic binyanim]]. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
 | Binyan        | Type | Example | Transliteration |
 |---------------|------|---------|----------------|
@@ -69,10 +37,10 @@ For gender and number:
 The participle is conjugated for gender and number:
 | Person | Hebrew | Transliteration | Meaning |
 |---------|--------|----------------|---------|
-| Masculine singular | כּוֹתֵב | _koiseiv_ | one man writing |
-| Feminine singular | כּוֹתֶבֶת | _koiseves_ | one woman writing |
-| Masculine plural | כּוֹתְבִים | _koisvim_ | multiple men writing |
-| Feminine plural | כּוֹתְבוֹת | _koisvois_ | multiple women writing |
+| Masculine singular | כּוֹתֵב | _koseiv_ | one man writing |
+| Feminine singular | כּוֹתֶבֶת | _koseves_ | one woman writing |
+| Masculine plural | כּוֹתְבִים | _kosvim_ | multiple men writing |
+| Feminine plural | כּוֹתְבוֹת | _kosvos_ | multiple women writing |
 This is unlike the [[past tense]] or [[future tense]] that have [[separate forms for person]]. This is because the participle in Hebrew and Aramaic is [[like an adjective]].
 
 Separate forms for person: Tenses other than the participle have conjugations for every person, eg the [[_pa'al_]] [[past tense]]:
