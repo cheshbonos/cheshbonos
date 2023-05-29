@@ -240,11 +240,54 @@
        }
       ],
       "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hispa'el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " ",
+        "type": "text"
+       },
+       {
+        "text": "has various verb forms",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "has various verb forms",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Forms",
+        "targetTopic": "Hispa'el",
+        "enclosingTopic": "Hispa'el",
+        "enclosingSubtopic": "Hispa'el"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
      }
     ],
     "type": "outline"
    }
   ],
+  "Forms": [],
   "Is one of the \"heavy\" binyanim due to its doubled middle letter": [
    {
     "text": "Verbs in the ",

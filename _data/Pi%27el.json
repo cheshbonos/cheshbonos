@@ -128,6 +128,48 @@
         ]
        },
        {
+        "text": " ",
+        "type": "text"
+       },
+       {
+        "text": "has various verb forms",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "has various verb forms",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Forms",
+        "targetTopic": "Pi'el",
+        "enclosingTopic": "Pi'el",
+        "enclosingSubtopic": "Pi'el"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pi'el",
+          "type": "text"
+         }
+        ]
+       },
+       {
         "text": " corresponds to the ",
         "type": "text"
        },
@@ -236,48 +278,6 @@
        }
       ],
       "children": []
-     },
-     {
-      "ordinal": "-",
-      "ordered": false,
-      "tokensOfLine": [
-       {
-        "text": "The ",
-        "type": "text"
-       },
-       {
-        "type": "italics",
-        "tokens": [
-         {
-          "text": "pi'el",
-          "type": "text"
-         }
-        ]
-       },
-       {
-        "text": " has various ",
-        "type": "text"
-       },
-       {
-        "text": "forms",
-        "type": "local",
-        "tokens": [
-         {
-          "text": "forms",
-          "type": "text"
-         }
-        ],
-        "targetSubtopic": "Forms",
-        "targetTopic": "Pi'el",
-        "enclosingTopic": "Pi'el",
-        "enclosingSubtopic": "Pi'el"
-       },
-       {
-        "text": ".",
-        "type": "text"
-       }
-      ],
-      "children": []
      }
     ],
     "type": "outline"
@@ -378,7 +378,7 @@
     ]
    },
    {
-    "text": " binyan has verbs in various forms: ",
+    "text": " binyan has verb conjugations in various forms: ",
     "type": "text"
    },
    {
@@ -647,8 +647,178 @@
     "enclosingSubtopic": "Participle"
    },
    {
-    "text": " like the following example:",
+    "text": " like the following example: ",
     "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Person",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Hebrew",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Transliteration",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Masculine singular",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "מְכַתֵּב",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "mechateiv",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Feminine singular",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "מְכַתֶּבֶת",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "mechateves",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Masculine plural",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "מְכַתְּבִים",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "mechatvim",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Feminine plural",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "מְכַתְּבוֹת",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "mechatvos",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    ]
    }
   ],
   "Imperative": [

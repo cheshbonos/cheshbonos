@@ -1822,20 +1822,29 @@
         "enclosingSubtopic": "Grammatical explanation of מקדש"
        },
        {
-        "text": ", in the ",
+        "text": ", in its ",
         "type": "text"
        },
        {
-        "text": "pi'el binyan",
-        "type": "global",
+        "text": "_pi'el_ form",
+        "type": "import",
         "tokens": [
          {
-          "text": "pi'el binyan",
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "pi'el",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " form",
           "type": "text"
          }
         ],
-        "targetSubtopic": "Pi'el",
-        "targetTopic": "Pi'el",
+        "targetSubtopic": "Pi'el form",
+        "targetTopic": "קדש",
         "enclosingTopic": "The Mishnah on Kiddushin 41a",
         "enclosingSubtopic": "Grammatical explanation of מקדש"
        },

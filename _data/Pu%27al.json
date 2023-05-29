@@ -198,11 +198,54 @@
        }
       ],
       "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pu'al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " ",
+        "type": "text"
+       },
+       {
+        "text": "has various verb forms",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "has various verb forms",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Forms",
+        "targetTopic": "Pu'al",
+        "enclosingTopic": "Pu'al",
+        "enclosingSubtopic": "Pu'al"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
      }
     ],
     "type": "outline"
    }
   ],
+  "Forms": [],
   "Is one of the \"heavy\" binyanim due to its doubled middle letter": [
    {
     "text": "Verbs in the ",

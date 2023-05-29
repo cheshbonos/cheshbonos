@@ -27,7 +27,7 @@
     "enclosingSubtopic": "קדש"
    },
    {
-    "text": " in Hebrew and Aramaic. קדש has verbs in the following binyanim:\n",
+    "text": " in Hebrew and Aramaic. It has forms in the following binyanim: ",
     "type": "text"
    },
    {
@@ -40,7 +40,7 @@
          "type": "bold",
          "tokens": [
           {
-           "text": "Binyan",
+           "text": "Hebrew",
            "type": "text"
           }
          ]
@@ -49,79 +49,6 @@
       },
       {
        "tokens": [
-        {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "Type",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "Meanings",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "_Pa'al_",
-         "type": "global",
-         "tokens": [
-          {
-           "type": "italics",
-           "tokens": [
-            {
-             "text": "Pa'al",
-             "type": "text"
-            }
-           ]
-          }
-         ],
-         "targetSubtopic": "Pa'al",
-         "targetTopic": "Pa'al",
-         "enclosingTopic": "קדש",
-         "enclosingSubtopic": "קדש"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Hebrew ",
-         "type": "text"
-        },
-        {
-         "text": "Active",
-         "type": "global",
-         "tokens": [
-          {
-           "text": "Active",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Active",
-         "targetTopic": "Active",
-         "enclosingTopic": "קדש",
-         "enclosingSubtopic": "קדש"
-        },
-        {
-         "text": ", ",
-         "type": "text"
-        },
         {
          "text": "Simple",
          "type": "global",
@@ -141,61 +68,6 @@
       {
        "tokens": [
         {
-         "text": "to be or become pure, sacred, holy",
-         "type": "text"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "_Pi'el_",
-         "type": "global",
-         "tokens": [
-          {
-           "type": "italics",
-           "tokens": [
-            {
-             "text": "Pi'el",
-             "type": "text"
-            }
-           ]
-          }
-         ],
-         "targetSubtopic": "Pi'el",
-         "targetTopic": "Pi'el",
-         "enclosingTopic": "קדש",
-         "enclosingSubtopic": "קדש"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Hebrew ",
-         "type": "text"
-        },
-        {
-         "text": "Active",
-         "type": "global",
-         "tokens": [
-          {
-           "text": "Active",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Active",
-         "targetTopic": "Active",
-         "enclosingTopic": "קדש",
-         "enclosingSubtopic": "קדש"
-        },
-        {
-         "text": ", ",
-         "type": "text"
-        },
-        {
          "text": "Intensive",
          "type": "global",
          "tokens": [
@@ -214,44 +86,16 @@
       {
        "tokens": [
         {
-         "text": "to make something holy, creating the first stage of marriage with a woman, saying ",
-         "type": "text"
-        },
-        {
-         "type": "italics",
-         "tokens": [
-          {
-           "text": "kiddush",
-           "type": "text"
-          }
-         ]
-        },
-        {
-         "text": " before a meal on Shabbos or Yuntif",
-         "type": "text"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "_Pu'al_",
+         "text": "Causative",
          "type": "global",
          "tokens": [
           {
-           "type": "italics",
-           "tokens": [
-            {
-             "text": "Pu'al",
-             "type": "text"
-            }
-           ]
+           "text": "Causative",
+           "type": "text"
           }
          ],
-         "targetSubtopic": "Pu'al",
-         "targetTopic": "Pu'al",
+         "targetSubtopic": "Causative",
+         "targetTopic": "Causative",
          "enclosingTopic": "קדש",
          "enclosingSubtopic": "קדש"
         }
@@ -259,92 +103,6 @@
       },
       {
        "tokens": [
-        {
-         "text": "Hebrew ",
-         "type": "text"
-        },
-        {
-         "text": "Passive",
-         "type": "global",
-         "tokens": [
-          {
-           "text": "Passive",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Passive",
-         "targetTopic": "Passive",
-         "enclosingTopic": "קדש",
-         "enclosingSubtopic": "קדש"
-        },
-        {
-         "text": ", ",
-         "type": "text"
-        },
-        {
-         "text": "Intensive",
-         "type": "global",
-         "tokens": [
-          {
-           "text": "Intensive",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Intensive",
-         "targetTopic": "Intensive",
-         "enclosingTopic": "קדש",
-         "enclosingSubtopic": "קדש"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "to be made holy, for a woman to enter ",
-         "type": "text"
-        },
-        {
-         "type": "italics",
-         "tokens": [
-          {
-           "text": "kiddushin",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "_Hispa'el_",
-         "type": "global",
-         "tokens": [
-          {
-           "type": "italics",
-           "tokens": [
-            {
-             "text": "Hispa'el",
-             "type": "text"
-            }
-           ]
-          }
-         ],
-         "targetSubtopic": "Hispa'el",
-         "targetTopic": "Hispa'el",
-         "enclosingTopic": "קדש",
-         "enclosingSubtopic": "קדש"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Hebrew ",
-         "type": "text"
-        },
         {
          "text": "Reflexive",
          "type": "global",
@@ -360,60 +118,981 @@
          "enclosingSubtopic": "קדש"
         }
        ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Active",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Active",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Active",
+         "targetTopic": "Active",
+         "enclosingTopic": "קדש",
+         "enclosingSubtopic": "קדש"
+        }
+       ]
       },
       {
        "tokens": [
         {
-         "text": "to be made holy, for a woman to enter ",
-         "type": "text"
-        },
+         "text": "_Pa'al_ form of קדש",
+         "type": "local",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Pa'al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " form of קדש",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Pa'al form",
+         "targetTopic": "קדש",
+         "enclosingTopic": "קדש",
+         "enclosingSubtopic": "קדש"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Pi'el_ form of קדש",
+         "type": "local",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Pi'el",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " form of קדש",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Pi'el form",
+         "targetTopic": "קדש",
+         "enclosingTopic": "קדש",
+         "enclosingSubtopic": "קדש"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Hif'il_ form of קדש",
+         "type": "local",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Hif'il",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " form of קדש",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Hif'il form",
+         "targetTopic": "קדש",
+         "enclosingTopic": "קדש",
+         "enclosingSubtopic": "קדש"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Hispa'el_ form of קדש",
+         "type": "local",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Hispa'el",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " form of קדש",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Hispa'el form",
+         "targetTopic": "קדש",
+         "enclosingTopic": "קדש",
+         "enclosingSubtopic": "קדש"
+        }
+       ],
+       "rowspan": 2
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Passive",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Passive",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Passive",
+         "targetTopic": "Passive",
+         "enclosingTopic": "קדש",
+         "enclosingSubtopic": "קדש"
+        }
+       ]
+      },
+      {
+       "tokens": [
         {
          "type": "italics",
          "tokens": [
           {
-           "text": "kiddushin",
+           "text": "Nif'al",
            "type": "text"
           }
          ]
         }
        ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Pu'al_ form of קדש",
+         "type": "local",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Pu'al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " form of קדש",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Pu'al form",
+         "targetTopic": "קדש",
+         "enclosingTopic": "קדש",
+         "enclosingSubtopic": "קדש"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Huf'al_ of קדש",
+         "type": "local",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Huf'al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " of קדש",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Huf'al",
+         "targetTopic": "קדש",
+         "enclosingTopic": "קדש",
+         "enclosingSubtopic": "קדש"
+        }
+       ]
+      },
+      {
+       "tokens": [],
+       "merge": true
       }
      ]
     ]
-   },
+   }
+  ],
+  "Pa'al form": [
    {
-    "text": " More information can be found in the ",
+    "text": "קדש has a ",
     "type": "text"
    },
    {
-    "type": "url",
-    "url": "https://www.sefaria.org/Jastrow%2C_%D7%A7%D6%B8%D7%93%D6%B7%D7%A9%D7%81.1",
-    "text": "Jastrow",
+    "text": "_pa'al_",
+    "type": "global",
     "tokens": [
      {
-      "text": "Jastrow",
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pa'al",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Pa'al",
+    "targetTopic": "Pa'al",
+    "enclosingTopic": "קדש",
+    "enclosingSubtopic": "Pa'al form"
+   },
+   {
+    "text": " form, which follows ",
+    "type": "text"
+   },
+   {
+    "text": "regular conjugations",
+    "type": "import",
+    "tokens": [
+     {
+      "text": "regular conjugations",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Forms",
+    "targetTopic": "Pa'al",
+    "enclosingTopic": "קדש",
+    "enclosingSubtopic": "Pa'al form"
+   },
+   {
+    "text": " for the ",
+    "type": "text"
+   },
+   {
+    "text": "_pa'al_",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pa'al",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Pa'al",
+    "targetTopic": "Pa'al",
+    "enclosingTopic": "קדש",
+    "enclosingSubtopic": "Pa'al form"
+   },
+   {
+    "text": ". קדש in the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pa'al",
       "type": "text"
      }
     ]
    },
    {
-    "text": " and ",
+    "text": " can mean: ",
     "type": "text"
    },
    {
-    "type": "url",
-    "url": "https://www.sefaria.org/Klein_Dictionary%2C_%D7%A7%D7%93%D7%A9%D7%81.1",
-    "text": "Klein",
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "to be or become pure",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "to be or become sacred/holy/connected",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "to be or become separated or designated for a special purpose",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "Pi'el form": [
+   {
+    "text": "קדש has a ",
+    "type": "text"
+   },
+   {
+    "text": "_pi'el_",
+    "type": "global",
     "tokens": [
      {
-      "text": "Klein",
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pi'el",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Pi'el",
+    "targetTopic": "Pi'el",
+    "enclosingTopic": "קדש",
+    "enclosingSubtopic": "Pi'el form"
+   },
+   {
+    "text": " form, which follows ",
+    "type": "text"
+   },
+   {
+    "text": "regular conjugations",
+    "type": "import",
+    "tokens": [
+     {
+      "text": "regular conjugations",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Forms",
+    "targetTopic": "Pi'el",
+    "enclosingTopic": "קדש",
+    "enclosingSubtopic": "Pi'el form"
+   },
+   {
+    "text": " for the ",
+    "type": "text"
+   },
+   {
+    "text": "_pi'el_",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pi'el",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Pi'el",
+    "targetTopic": "Pi'el",
+    "enclosingTopic": "קדש",
+    "enclosingSubtopic": "Pi'el form"
+   },
+   {
+    "text": ". קדש in the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pi'el",
       "type": "text"
      }
     ]
    },
    {
-    "text": " dictionaries.",
+    "text": " can mean: ",
     "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "to make something holy",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "to create ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "kiddushin",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ", the first stage of marriage, with a woman",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "saying ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "kiddush",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " before a meal on Shabbos or Yuntif",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "Hif'il form": [
+   {
+    "text": "קדש has a ",
+    "type": "text"
+   },
+   {
+    "text": "_hif'il_",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "hif'il",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Hif'il",
+    "targetTopic": "Hif'il",
+    "enclosingTopic": "קדש",
+    "enclosingSubtopic": "Hif'il form"
+   },
+   {
+    "text": " form, which follows ",
+    "type": "text"
+   },
+   {
+    "text": "regular conjugations",
+    "type": "import",
+    "tokens": [
+     {
+      "text": "regular conjugations",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Forms",
+    "targetTopic": "Hif'il",
+    "enclosingTopic": "קדש",
+    "enclosingSubtopic": "Hif'il form"
+   },
+   {
+    "text": " for the ",
+    "type": "text"
+   },
+   {
+    "text": "_hif'il_",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "hif'il",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Hif'il",
+    "targetTopic": "Hif'il",
+    "enclosingTopic": "קדש",
+    "enclosingSubtopic": "Hif'il form"
+   },
+   {
+    "text": ". קדש in the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pa'al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " can mean: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "to be or become pure",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "to be or become sacred/holy/connected",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "to be or become separated or designated for a special purpose",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "Hispa'el form": [
+   {
+    "text": "קדש has a ",
+    "type": "text"
+   },
+   {
+    "text": "_hispa'el_",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "hispa'el",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Hispa'el",
+    "targetTopic": "Hispa'el",
+    "enclosingTopic": "קדש",
+    "enclosingSubtopic": "Hispa'el form"
+   },
+   {
+    "text": " form, which follows ",
+    "type": "text"
+   },
+   {
+    "text": "regular conjugations",
+    "type": "import",
+    "tokens": [
+     {
+      "text": "regular conjugations",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Forms",
+    "targetTopic": "Hispa'el",
+    "enclosingTopic": "קדש",
+    "enclosingSubtopic": "Hispa'el form"
+   },
+   {
+    "text": " for the ",
+    "type": "text"
+   },
+   {
+    "text": "_hispa'el_",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "hispa'el",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Hispa'el",
+    "targetTopic": "Hispa'el",
+    "enclosingTopic": "קדש",
+    "enclosingSubtopic": "Hispa'el form"
+   },
+   {
+    "text": ". קדש in the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pa'al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " can mean: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "to be or become pure",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "to be or become sacred/holy/connected",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "to be or become separated or designated for a special purpose",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "Pu'al form": [
+   {
+    "text": "קדש has a ",
+    "type": "text"
+   },
+   {
+    "text": "_pu'al_",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pu'al",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Pu'al",
+    "targetTopic": "Pu'al",
+    "enclosingTopic": "קדש",
+    "enclosingSubtopic": "Pu'al form"
+   },
+   {
+    "text": " form, which follows ",
+    "type": "text"
+   },
+   {
+    "text": "regular conjugations",
+    "type": "import",
+    "tokens": [
+     {
+      "text": "regular conjugations",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Forms",
+    "targetTopic": "Pu'al",
+    "enclosingTopic": "קדש",
+    "enclosingSubtopic": "Pu'al form"
+   },
+   {
+    "text": " for the ",
+    "type": "text"
+   },
+   {
+    "text": "_pu'al_",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pu'al",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Pu'al",
+    "targetTopic": "Pu'al",
+    "enclosingTopic": "קדש",
+    "enclosingSubtopic": "Pu'al form"
+   },
+   {
+    "text": ". קדש in the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pa'al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " can mean: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "to be or become pure",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "to be or become sacred/holy/connected",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "to be or become separated or designated for a special purpose",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "Huf'al": [
+   {
+    "text": "קדש has a ",
+    "type": "text"
+   },
+   {
+    "text": "_huf'al_",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "huf'al",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Huf'al",
+    "targetTopic": "Huf'al",
+    "enclosingTopic": "קדש",
+    "enclosingSubtopic": "Huf'al"
+   },
+   {
+    "text": " form, which follows ",
+    "type": "text"
+   },
+   {
+    "text": "regular conjugations",
+    "type": "import",
+    "tokens": [
+     {
+      "text": "regular conjugations",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Forms",
+    "targetTopic": "Huf'al",
+    "enclosingTopic": "קדש",
+    "enclosingSubtopic": "Huf'al"
+   },
+   {
+    "text": " for the ",
+    "type": "text"
+   },
+   {
+    "text": "_huf'al_",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "huf'al",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Huf'al",
+    "targetTopic": "Huf'al",
+    "enclosingTopic": "קדש",
+    "enclosingSubtopic": "Huf'al"
+   },
+   {
+    "text": ". קדש in the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pa'al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " can mean: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "to be or become pure",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "to be or become sacred/holy/connected",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "to be or become separated or designated for a special purpose",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
    }
   ],
   "Kiddushin": [

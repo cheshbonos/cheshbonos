@@ -154,19 +154,19 @@
         ]
        },
        {
-        "text": " verb ",
+        "text": " verb has various ",
         "type": "text"
        },
        {
-        "text": "has various forms",
+        "text": "forms",
         "type": "local",
         "tokens": [
          {
-          "text": "has various forms",
+          "text": "forms",
           "type": "text"
          }
         ],
-        "targetSubtopic": "Has various forms",
+        "targetSubtopic": "Forms",
         "targetTopic": "Pa'al",
         "enclosingTopic": "Pa'al",
         "enclosingSubtopic": "Pa'al"
@@ -253,7 +253,7 @@
     "type": "outline"
    }
   ],
-  "Has various forms": [
+  "Forms": [
    {
     "text": "Verbs in the ",
     "type": "text"
@@ -283,7 +283,7 @@
     "targetSubtopic": "Verb forms of Hebrew and Aramaic",
     "targetTopic": "Verb forms of Hebrew and Aramaic",
     "enclosingTopic": "Pa'al",
-    "enclosingSubtopic": "Has various forms"
+    "enclosingSubtopic": "Forms"
    },
    {
     "text": ".) ",
@@ -316,7 +316,7 @@
          "targetSubtopic": "Past tense",
          "targetTopic": "Pa'al",
          "enclosingTopic": "Pa'al",
-         "enclosingSubtopic": "Has various forms"
+         "enclosingSubtopic": "Forms"
         }
        ]
       },
@@ -343,7 +343,7 @@
          "targetSubtopic": "Future tense",
          "targetTopic": "Pa'al",
          "enclosingTopic": "Pa'al",
-         "enclosingSubtopic": "Has various forms"
+         "enclosingSubtopic": "Forms"
         }
        ]
       },
@@ -370,7 +370,7 @@
          "targetSubtopic": "Active Participle",
          "targetTopic": "Pa'al",
          "enclosingTopic": "Pa'al",
-         "enclosingSubtopic": "Has various forms"
+         "enclosingSubtopic": "Forms"
         }
        ]
       }
@@ -399,7 +399,7 @@
          "targetSubtopic": "Imperative",
          "targetTopic": "Pa'al",
          "enclosingTopic": "Pa'al",
-         "enclosingSubtopic": "Has various forms"
+         "enclosingSubtopic": "Forms"
         }
        ]
       },
@@ -426,7 +426,7 @@
          "targetSubtopic": "Infinitive",
          "targetTopic": "Pa'al",
          "enclosingTopic": "Pa'al",
-         "enclosingSubtopic": "Has various forms"
+         "enclosingSubtopic": "Forms"
         }
        ]
       },
@@ -453,7 +453,7 @@
          "targetSubtopic": "Passive Participle",
          "targetTopic": "Pa'al",
          "enclosingTopic": "Pa'al",
-         "enclosingSubtopic": "Has various forms"
+         "enclosingSubtopic": "Forms"
         }
        ]
       }
