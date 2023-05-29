@@ -291,7 +291,7 @@ Actual meaning of מקדש: The word מקדש here means for a man to create a s
 
 Grammatical explanation of מקדש: This is a grammatical explanation of the word מקדש:
 - Verbs in Hebrew and Aramaic come from a particular [[shoresh]], which is put into a particular [[binyan]], and then into a particular [[{verb form}s of Hebrew and Aramaic]], and then into a particular conjugation of that verb form.
-- The word מקדש is [[the shoresh {{קדש}}]], in the [[{{pi'el}} binyan]], in the [[{{_pi'el_ participle}} form]], in the masculine singular conjugation.
+- The word מקדש is [[the shoresh {{קדש}}]], in its [[_pi'el_ form]], in the [[{{_pi'el_ participle}} form]], in the masculine singular conjugation.
 
 Parts of speech: The word מקדש can function as a noun, meaning "someone who makes something holy", a verb, someone or something "is making holy," or an adjective, something has "the quality of making something holy."
 
@@ -684,8 +684,11 @@ The binyanim of Hebrew mostly align with the [[Aramaic binyanim]].
 * Hif'il: The _hif'il_ (הִפְעִיל) is one of the [[Hebrew binyanim]]. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
 - Verbs in the _hif'il_ have the properties of being [[active]] and [[causative]].
 - The _hif'il_ corresponds to the [[_af'el_]] in Aramaic.
+- The _hif'il_ [[has various verb {{forms}}]].
 
 - הרחיק
+
+Forms:
 
 
 * Hispa'el: The _hispa'el_ (הִתְפַּעֵל) is one of the [[Hebrew binyanim]]. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
@@ -693,6 +696,9 @@ The binyanim of Hebrew mostly align with the [[Aramaic binyanim]].
 - The _hispa'el_ [[is one of the "heavy" binyanim due to its doubled middle letter]].
 - In Mishnaic Hebrew, the _hispa'el_ sometimes appears as the [[_nispa'el_]].
 - The _hispa'el_ corresponds to the [[_ispa'al_]] in Aramaic.
+- The _hispa'el_ [[has various verb {{forms}}]].
+
+Forms:
 
 Is one of the "heavy" binyanim due to its doubled middle letter: Verbs in the _hispa'el_ are called "heavy."
 - This is because they are pronounced with a doubled middle letter.
@@ -702,6 +708,9 @@ Is one of the "heavy" binyanim due to its doubled middle letter: Verbs in the _h
 * Huf'al: The _huf'al_ (הֻפְעַל) is one of the [[Hebrew binyanim]]. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
 - Verbs in the _huf'al_ have the properties of being [[passive]] and [[causative]].
 - The _huf'al_ corresponds to the [[_itaf'al_]] in Aramaic.
+- The _huf'al_ [[has various verb {{forms}}]].
+
+Forms:
 
 
 * Nif'al: The _nif'al_ (נִפְעַל) is one of the [[Hebrew binyanim]]. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
@@ -714,11 +723,11 @@ Is one of the "heavy" binyanim due to its doubled middle letter: Verbs in the _h
 
 * Pa'al: The _pa'al_ (פָּעַל), or _kal_ (קַל), is one of the [[Hebrew binyanim]]. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
 - Verbs in the _pa'al_ have the properties of being [[active]] and [[simple]].
-- A _pa'al_ verb [[has various forms]].
+- A _pa'al_ verb has various [[forms]].
 - The _pa'al_ is the only binyan to feature a finished participle form.
 - The _pa'al_ corresponds to the [[_pe'al_]] in Aramaic.
 
-Has various forms:
+Forms:
 Verbs in the _pa'al_ have various forms. (There are [[various {{verb forms of Hebrew and Aramaic}}]].)
 | [[_Pa'al_ {{Past Tense}}]] | [[_Pa'al_ {{Future Tense}}]] | [[_Pa'al_ {{Active Participle}}]] |
 | [[_Pa'al_ {{Imperative}}]] | [[_Pa'al_ {{Infinitive}}]] | [[_Pa'al_ {{Passive Participle}}]] |
@@ -764,17 +773,17 @@ Infinitive: The _pa'al_ has an infinitive. (The [[infinitive]] is one of the [[{
 
 * Pi'el: The "pi'el" (פִּעֵל) is one of the [[Hebrew binyanim]]. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
 - Verbs in the _pi'el_ have the properties of being [[active]] and [[intensive]].
+- The _pi'el_ [[has various verb {{forms}}]].
 - The _pi'el_ corresponds to the [[_pa'el_]] in Aramaic.
 - The _pi'el_ [[is one of the "heavy" binyanim due to its doubled middle letter]].
 - The _pi'el_ is one of the binyanim that can accept [[four-letter shorushim]]
-- The _pi'el_ has various [[forms]].
 
 Is one of the "heavy" binyanim due to its doubled middle letter: Verbs in the _pi'el_ are called "heavy."
 - This is because they are pronounced with a doubled middle letter.
 - For example, the shoresh קדש when put in the _pi'el_ produces the verb מְקַדֵּשׁ (_meka<b>d'd</b>esh_) "he is donating to the temple."
 
 Forms:
-The _pi'el_ binyan has verbs in various forms:
+The _pi'el_ binyan has verb conjugations in various forms:
 | [[Past Tense]] | [[Future Tense]] | [[Participle]] |
 | [[Imperative]] | [[Infinitive]] | \^ |
 
@@ -783,6 +792,12 @@ Past Tense: Verbs in the _pi'el_ with [[regular shorushim]] are conjugated in th
 Future Tense: Verbs in the _pi'el_ with [[regular shorushim]] are conjugated in the [[future tense]] like the following example:
 
 Participle: Verbs in the _pi'el_ with [[regular shorushim]] are conjugated in the [[participle]] like the following example:
+| *Person* | *Hebrew* | *Transliteration* |
+|---------|--------|----------------|
+| Masculine singular | מְכַתֵּב | _mechateiv_  |
+| Feminine singular | מְכַתֶּבֶת | _mechateves_ |
+| Masculine plural | מְכַתְּבִים | _mechatvim_ |
+| Feminine plural | מְכַתְּבוֹת | _mechatvos_ |
 
 Imperative: Verbs in the _pi'el_ with [[regular shorushim]] are conjugated in the [[{{imperative}} tense]] like the following example:
 
@@ -793,6 +808,9 @@ Infinitive: Verbs in the _pi'el_ with [[regular shorushim]] have an [[{{infiniti
 - Verbs in the _pu'al_ have the properties of being [[passive]] and [[causative]].
 - The _pu'al_ [[is one of the "heavy" binyanim due to its doubled middle letter]].
 - The _pu'al_ has no exact corollary binyan in Aramaic, but may sometimes overlap with the [[_ispa'al_]].
+- The _pu'al_ [[has various verb {{forms}}]].
+
+Forms:
 
 Is one of the "heavy" binyanim due to its doubled middle letter: Verbs in the _pi'el_ are called "heavy."
 - This is because they are pronounced with a doubled middle letter.
@@ -1112,14 +1130,50 @@ Regular and irregular shorushim: Shorushim can be [[{regular} shorushim]] or [[{
 
 [Lashonos/Shorushim/קדש]
 
-* קדש: קדש is a [[shoresh]] in Hebrew and Aramaic.
-קדש has verbs in the following binyanim:
+* קדש: קדש is a [[shoresh]] in Hebrew and Aramaic. It has forms in the following binyanim:
+| *Hebrew*  | [[Simple]] | [[Intensive]] | [[Causative]] | [[Reflexive]] |
+|---------|--------|-----------|-----------|-----------|
+| [[Active]]  | [[{{_Pa'al_ form}} of קדש]] | [[{{_Pi'el_ form}} of קדש]] | [[{{_Hif'il_ form}} of קדש]] | [[{{_Hispa'el_ form}} of קדש]] |
+| [[Passive]] | _Nif'al_ | [[{{_Pu'al_ form}} of קדש]] | [[{{_Huf'al_}} of קדש]] | \^ |
+
+More information can be found in the [Jastrow](https://www.sefaria.org/Jastrow%2C_%D7%A7%D6%B8%D7%93%D6%B7%D7%A9%D7%81.1) and [Klein](https://www.sefaria.org/Klein_Dictionary%2C_%D7%A7%D7%93%D7%A9%D7%81.1) dictionaries.
+
+-old table
 | *Binyan* | *Type* | *Meanings* |
 | [[_Pa'al_]] | Hebrew [[Active]], [[Simple]] | to be or become pure, sacred, holy |
 | [[_Pi'el_]] | Hebrew [[Active]], [[Intensive]] | to make something holy, creating the first stage of marriage with a woman, saying _kiddush_ before a meal on Shabbos or Yuntif |
 | [[_Pu'al_]] | Hebrew [[Passive]], [[Intensive]] | to be made holy, for a woman to enter _kiddushin_ |
 | [[_Hispa'el_]] | Hebrew [[Reflexive]] | to be made holy, for a woman to enter _kiddushin_ |
-More information can be found in the [Jastrow](https://www.sefaria.org/Jastrow%2C_%D7%A7%D6%B8%D7%93%D6%B7%D7%A9%D7%81.1) and [Klein](https://www.sefaria.org/Klein_Dictionary%2C_%D7%A7%D7%93%D7%A9%D7%81.1) dictionaries.
+
+_Pa'al_ form: קדש has a [[_pa'al_]] form, which follows [[forms|regular conjugations]] for the [[_pa'al_]]. קדש in the _pa'al_ can mean:
+- to be or become pure
+- to be or become sacred/holy/connected
+- to be or become separated or designated for a special purpose
+
+_Pi'el_ form: קדש has a [[_pi'el_]] form, which follows [[forms|regular conjugations]] for the [[_pi'el_]]. קדש in the _pi'el_ can mean:
+- to make something holy
+- to create _kiddushin_, the first stage of marriage, with a woman
+- saying _kiddush_ before a meal on Shabbos or Yuntif
+
+_Hif'il_ form: קדש has a [[_hif'il_]] form, which follows [[forms|regular conjugations]] for the [[_hif'il_]]. קדש in the _pa'al_ can mean:
+- to be or become pure
+- to be or become sacred/holy/connected
+- to be or become separated or designated for a special purpose
+
+_Hispa'el_ form: קדש has a [[_hispa'el_]] form, which follows [[forms|regular conjugations]] for the [[_hispa'el_]]. קדש in the _pa'al_ can mean:
+- to be or become pure
+- to be or become sacred/holy/connected
+- to be or become separated or designated for a special purpose
+
+_Pu'al_ form: קדש has a [[_pu'al_]] form, which follows [[forms|regular conjugations]] for the [[_pu'al_]]. קדש in the _pa'al_ can mean:
+- to be or become pure
+- to be or become sacred/holy/connected
+- to be or become separated or designated for a special purpose
+
+_Huf'al_: קדש has a [[_huf'al_]] form, which follows [[forms|regular conjugations]] for the [[_huf'al_]]. קדש in the _pa'al_ can mean:
+- to be or become pure
+- to be or become sacred/holy/connected
+- to be or become separated or designated for a special purpose
 
 Kiddushin: _Kiddushin_ is a stage of the marriage process. A man creates kiddushin with a woman, after which she is designated to him and needs to receive a divorce to remarry. After this stage, there is _nisyuin_, after which the marriage process is complete.
 
