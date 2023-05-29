@@ -9,157 +9,181 @@
  "paragraphsBySubtopic": {
   "Binyan": [
    {
-    "text": "\"Binyan\" is a grammatical concept in Hebrew and Aramaic that has no direct corollary in English. A ",
+    "text": "\"Binyan\" is a grammatical concept in Hebrew and Aramaic that has no direct corollary in English. ",
     "type": "text"
    },
    {
-    "text": "shoresh",
-    "type": "global",
-    "tokens": [
+    "topLevelNodes": [
      {
-      "text": "shoresh",
-      "type": "text"
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "A verb is a ",
+        "type": "text"
+       },
+       {
+        "text": "shoresh",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "shoresh",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Shoresh",
+        "targetTopic": "Shoresh",
+        "enclosingTopic": "Binyan",
+        "enclosingSubtopic": "Binyan"
+       },
+       {
+        "text": " that is put into a particular binyan.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "A binyan functions ",
+        "type": "text"
+       },
+       {
+        "text": "like a flavor of the shoresh",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "like a flavor of the shoresh",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Like a flavor of the shoresh",
+        "targetTopic": "Binyan",
+        "enclosingTopic": "Binyan",
+        "enclosingSubtopic": "Binyan"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Every binyan is a combination of ",
+        "type": "text"
+       },
+       {
+        "text": "five basic types of action",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "five basic types of action",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Five basic types of action",
+        "targetTopic": "Binyan",
+        "enclosingTopic": "Binyan",
+        "enclosingSubtopic": "Binyan"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "There are ",
+        "type": "text"
+       },
+       {
+        "text": "seven Hebrew binyanim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "seven Hebrew binyanim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Hebrew binyanim",
+        "targetTopic": "Hebrew binyanim",
+        "enclosingTopic": "Binyan",
+        "enclosingSubtopic": "Binyan"
+       },
+       {
+        "text": " and ",
+        "type": "text"
+       },
+       {
+        "text": "six Aramaic binyanim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "six Aramaic binyanim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Aramaic binyanim",
+        "targetTopic": "Aramaic binyanim",
+        "enclosingTopic": "Binyan",
+        "enclosingSubtopic": "Binyan"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "There are also ",
+        "type": "text"
+       },
+       {
+        "text": "nouns and adjectives that come from particular binyanim",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "nouns and adjectives that come from particular binyanim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Nouns and adjectives that come from particular binyanim",
+        "targetTopic": "Binyan",
+        "enclosingTopic": "Binyan",
+        "enclosingSubtopic": "Binyan"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
      }
     ],
-    "targetSubtopic": "Shoresh",
-    "targetTopic": "Shoresh",
-    "enclosingTopic": "Binyan",
-    "enclosingSubtopic": "Binyan"
-   },
-   {
-    "text": " gets put into one of several binyanim in order to produce a verb, (see for example ",
-    "type": "text"
-   },
-   {
-    "text": "קדש",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "קדש",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "קדש",
-    "targetTopic": "קדש",
-    "enclosingTopic": "Binyan",
-    "enclosingSubtopic": "Binyan"
-   },
-   {
-    "text": ". A binyan is ",
-    "type": "text"
-   },
-   {
-    "text": "like a flavor of the shoresh",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "like a flavor of the shoresh",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Like a flavor of the shoresh",
-    "targetTopic": "Binyan",
-    "enclosingTopic": "Binyan",
-    "enclosingSubtopic": "Binyan"
-   },
-   {
-    "text": ". Every binyan is a combination of ",
-    "type": "text"
-   },
-   {
-    "text": "five basic types of action",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "five basic types of action",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Five basic types of action",
-    "targetTopic": "Binyan",
-    "enclosingTopic": "Binyan",
-    "enclosingSubtopic": "Binyan"
-   },
-   {
-    "text": ". English ",
-    "type": "text"
-   },
-   {
-    "text": "uses alternative means to achieve the same effect",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "uses alternative means to achieve the same effect",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Uses alternative means to achieve the same effect",
-    "targetTopic": "Binyan",
-    "enclosingTopic": "Binyan",
-    "enclosingSubtopic": "Binyan"
-   },
-   {
-    "text": ".  There are ",
-    "type": "text"
-   },
-   {
-    "text": "seven Hebrew binyanim",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "seven Hebrew binyanim",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Hebrew binyanim",
-    "targetTopic": "Hebrew binyanim",
-    "enclosingTopic": "Binyan",
-    "enclosingSubtopic": "Binyan"
-   },
-   {
-    "text": " and ",
-    "type": "text"
-   },
-   {
-    "text": "six Aramaic binyanim",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "six Aramaic binyanim",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Aramaic binyanim",
-    "targetTopic": "Aramaic binyanim",
-    "enclosingTopic": "Binyan",
-    "enclosingSubtopic": "Binyan"
-   },
-   {
-    "text": ". There are also ",
-    "type": "text"
-   },
-   {
-    "text": "nouns and adjectives that come from particular binyanim",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "nouns and adjectives that come from particular binyanim",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Nouns and adjectives that come from particular binyanim",
-    "targetTopic": "Binyan",
-    "enclosingTopic": "Binyan",
-    "enclosingSubtopic": "Binyan"
-   },
-   {
-    "text": ".",
-    "type": "text"
+    "type": "outline"
    }
   ],
   "Like a flavor of the shoresh": [
    {
-    "text": "You can think of a binyan as being a \"flavor\" of meaning that gets mixed with the shoresh to produce a verb. For example: ",
+    "text": "You can think of a binyan as being a \"flavor\" of meaning that gets mixed with the shoresh to produce different verbs. For example: ",
     "type": "text"
    },
    {
@@ -173,19 +197,6 @@
          "tokens": [
           {
            "text": "Shoresh",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "Shoresh Meaning",
            "type": "text"
           }
          ]
@@ -236,15 +247,15 @@
       {
        "tokens": [
         {
-         "text": "אכל",
+         "text": "אכל ",
          "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
+        },
         {
-         "text": "eating",
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " eating",
          "type": "text"
         }
        ]
@@ -275,7 +286,15 @@
       {
        "tokens": [
         {
-         "text": "causing someone else to do something",
+         "text": "causing someone else",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " to do something",
          "type": "text"
         }
        ]
@@ -283,7 +302,15 @@
       {
        "tokens": [
         {
-         "text": "to cause someone to eat i.e. to feed",
+         "text": "causing + eating = ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " to feed",
          "type": "text"
         }
        ]
@@ -293,15 +320,15 @@
       {
        "tokens": [
         {
-         "text": "כתב",
+         "text": "כתב ",
          "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
+        },
         {
-         "text": "writing",
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " writing",
          "type": "text"
         }
        ]
@@ -332,7 +359,15 @@
       {
        "tokens": [
         {
-         "text": "doing something more intensely",
+         "text": "doing something",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " more intensely",
          "type": "text"
         }
        ]
@@ -340,7 +375,15 @@
       {
        "tokens": [
         {
-         "text": "to write intensely i.e. to engrave",
+         "text": "writing + intense = ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " to engrave",
          "type": "text"
         }
        ]
@@ -350,15 +393,15 @@
       {
        "tokens": [
         {
-         "text": "קנה",
+         "text": "קנה ",
          "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
+        },
         {
-         "text": "buying",
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " buying",
          "type": "text"
         }
        ]
@@ -389,7 +432,15 @@
       {
        "tokens": [
         {
-         "text": "having something done to you",
+         "text": "having something",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " done to you",
          "type": "text"
         }
        ]
@@ -397,18 +448,56 @@
       {
        "tokens": [
         {
-         "text": "to have someone buy you i.e. to be purchased",
+         "text": "buying + ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": "something done to you = ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " to be purchased",
          "type": "text"
         }
        ]
       }
      ]
     ]
+   },
+   {
+    "text": " English by comparison ",
+    "type": "text"
+   },
+   {
+    "text": "uses alternative means to achieve the same effect",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "uses alternative means to achieve the same effect",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Uses alternative means to achieve the same effect",
+    "targetTopic": "Binyan",
+    "enclosingTopic": "Binyan",
+    "enclosingSubtopic": "Like a flavor of the shoresh"
+   },
+   {
+    "text": ".",
+    "type": "text"
    }
   ],
   "Five basic types of action": [
    {
-    "text": "There are five \"types\" of action: ",
+    "text": "There are five \"types\" of action that get combined to produce different binyanim: ",
     "type": "text"
    },
    {
@@ -542,7 +631,43 @@
     "type": "outline"
    },
    {
-    "text": "All of the different binyanim of Hebrew and Aramaic are combinations of these five ideas. For example, the ",
+    "text": "All of the different ",
+    "type": "text"
+   },
+   {
+    "text": "binyanim of Hebrew",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "binyanim of Hebrew",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Hebrew binyanim",
+    "targetTopic": "Hebrew binyanim",
+    "enclosingTopic": "Binyan",
+    "enclosingSubtopic": "Five basic types of action"
+   },
+   {
+    "text": " and ",
+    "type": "text"
+   },
+   {
+    "text": "of Aramaic",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "of Aramaic",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Aramaic binyanim",
+    "targetTopic": "Aramaic binyanim",
+    "enclosingTopic": "Binyan",
+    "enclosingSubtopic": "Five basic types of action"
+   },
+   {
+    "text": " are different combinations of these five ideas. For example, the ",
     "type": "text"
    },
    {
@@ -613,65 +738,81 @@
   ],
   "Nouns and adjectives that come from particular binyanim": [
    {
-    "text": "Every verb has one binyan, and there are nouns and adjectives that come from a verb in a particular binyan. For example, from every ",
+    "text": "Every verb has one binyan, and there are nouns and adjectives that come from a verb in a particular binyan. ",
     "type": "text"
    },
    {
-    "type": "italics",
-    "tokens": [
+    "topLevelNodes": [
      {
-      "text": "pi'el",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " verb you can produce a ",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "pi'el",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " noun with the same meaning by using ",
-    "type": "text"
-   },
-   {
-    "text": "the _kittul_ noun pattern",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "the ",
-      "type": "text"
-     },
-     {
-      "type": "italics",
-      "tokens": [
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
        {
-        "text": "kittul",
+        "text": "For example, from every ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pi'el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " verb you can produce a ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pi'el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " noun with the same meaning by using ",
+        "type": "text"
+       },
+       {
+        "text": "the _kittul_ noun pattern",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "the ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "kittul",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " noun pattern",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "The kittul noun pattern",
+        "targetTopic": "The kittul noun pattern",
+        "enclosingTopic": "Binyan",
+        "enclosingSubtopic": "Nouns and adjectives that come from particular binyanim"
+       },
+       {
+        "text": ".",
         "type": "text"
        }
-      ]
-     },
-     {
-      "text": " noun pattern",
-      "type": "text"
+      ],
+      "children": []
      }
     ],
-    "targetSubtopic": "The kittul noun pattern",
-    "targetTopic": "The kittul noun pattern",
-    "enclosingTopic": "Binyan",
-    "enclosingSubtopic": "Nouns and adjectives that come from particular binyanim"
-   },
-   {
-    "text": ".",
-    "type": "text"
+    "type": "outline"
    }
   ],
   "Make larger verbs out of multiple words": [

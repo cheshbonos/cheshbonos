@@ -9,15 +9,15 @@
  "paragraphsBySubtopic": {
   "Irregular shorushim": [
    {
-    "text": "An irregular shoresh, as opposed to ",
+    "text": "An irregular shoresh, as opposed to a ",
     "type": "text"
    },
    {
-    "text": "regular shorushim",
+    "text": "regular shoresh",
     "type": "global",
     "tokens": [
      {
-      "text": "regular shorushim",
+      "text": "regular shoresh",
       "type": "text"
      }
     ],
@@ -45,7 +45,7 @@
     "enclosingSubtopic": "Irregular shorushim"
    },
    {
-    "text": " that has special letters that affect the vowelization of verbs produced from it. Here are some examples of irregular shorushim having irregular verb conjugations: ",
+    "text": " that has special letters that affect the vowelization of verbs produced from it. Here are some examples of irregular shorushim and their irregular verb conjugations: ",
     "type": "text"
    },
    {
@@ -71,7 +71,7 @@
          "type": "bold",
          "tokens": [
           {
-           "text": "Oddity",
+           "text": "Irregularity",
            "type": "text"
           }
          ]
@@ -86,6 +86,14 @@
           {
            "text": "Expected",
            "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": "Conjugation",
+           "type": "text"
           }
          ]
         }
@@ -98,6 +106,14 @@
          "tokens": [
           {
            "text": " Real",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": "Conjugation",
            "type": "text"
           }
          ]
@@ -248,7 +264,7 @@
       {
        "tokens": [
         {
-         "text": "נ drops and the פ is doubled",
+         "text": "נ drops, and the פ is doubled",
          "type": "text"
         }
        ]
@@ -316,7 +332,7 @@
       {
        "tokens": [
         {
-         "text": "the consonant ה becomes an יִ vowel",
+         "text": "the consonant ה becomes an יִ vowel, like \"bee\"",
          "type": "text"
         }
        ]

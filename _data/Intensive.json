@@ -9,62 +9,100 @@
  "paragraphsBySubtopic": {
   "Intensive": [
    {
-    "text": "\"Intensive\" is a category of verb in Hebrew and Aramaic. Intensive verbs often have meanings that are ",
+    "text": "\"Intensive\" is a category of verb in Hebrew and Aramaic. ",
     "type": "text"
    },
    {
-    "text": "intensive or repetitive",
-    "type": "local",
-    "tokens": [
+    "topLevelNodes": [
      {
-      "text": "intensive or repetitive",
-      "type": "text"
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Intensive verbs often have meanings that are ",
+        "type": "text"
+       },
+       {
+        "text": "intensive or repetitive",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "intensive or repetitive",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Intensive or repetitive",
+        "targetTopic": "Intensive",
+        "enclosingTopic": "Intensive",
+        "enclosingSubtopic": "Intensive"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "A binyan that is intensive has verbs that are intensive and vice versa. (",
+        "type": "text"
+       },
+       {
+        "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Binyan",
+        "targetTopic": "Binyan",
+        "enclosingTopic": "Intensive",
+        "enclosingSubtopic": "Intensive"
+       },
+       {
+        "text": ".)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "There are ",
+        "type": "text"
+       },
+       {
+        "text": "several intensive binyanim in Hebrew and Aramaic",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "several intensive binyanim in Hebrew and Aramaic",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Several intensive binyanim in Hebrew and Aramaic",
+        "targetTopic": "Intensive",
+        "enclosingTopic": "Intensive",
+        "enclosingSubtopic": "Intensive"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
      }
     ],
-    "targetSubtopic": "Intensive or repetitive",
-    "targetTopic": "Intensive",
-    "enclosingTopic": "Intensive",
-    "enclosingSubtopic": "Intensive"
-   },
-   {
-    "text": ". A binyan that is intensive has verbs that are intensive and vice versa. (",
-    "type": "text"
-   },
-   {
-    "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Binyan",
-    "targetTopic": "Binyan",
-    "enclosingTopic": "Intensive",
-    "enclosingSubtopic": "Intensive"
-   },
-   {
-    "text": ".) There are ",
-    "type": "text"
-   },
-   {
-    "text": "several intensive binyanim in Hebrew and Aramaic",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "several intensive binyanim in Hebrew and Aramaic",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Several intensive binyanim in Hebrew and Aramaic",
-    "targetTopic": "Intensive",
-    "enclosingTopic": "Intensive",
-    "enclosingSubtopic": "Intensive"
-   },
-   {
-    "text": ".",
-    "type": "text"
+    "type": "outline"
    }
   ],
   "Intensive or repetitive": [
@@ -131,7 +169,7 @@
          "type": "bold",
          "tokens": [
           {
-           "text": "Simple verb",
+           "text": "Simple Verb",
            "type": "text"
           }
          ]
@@ -144,7 +182,7 @@
          "type": "bold",
          "tokens": [
           {
-           "text": "Intensive verb",
+           "text": "Intensive Verb",
            "type": "text"
           }
          ]
@@ -182,58 +220,6 @@
       {
        "tokens": [
         {
-         "text": "חשב",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "to think",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "to calculate",
-         "type": "text"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "יקר",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "to value",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "to increase the price of something",
-         "type": "text"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
          "text": "ישב",
          "type": "text"
         }
@@ -251,32 +237,6 @@
        "tokens": [
         {
          "text": "to create a settlement",
-         "type": "text"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "כלה",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "to finish",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "to annihilate",
          "type": "text"
         }
        ]
@@ -307,37 +267,11 @@
         }
        ]
       }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "עור",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "to wake up",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "to arouse or energize someone",
-         "type": "text"
-        }
-       ]
-      }
      ]
     ]
    },
    {
-    "text": " Ultimately these are just rules of thumb, and you can never be sure exactly what an intensive verb will mean just by looking at the meaning of its shoresh.",
+    "text": " Ultimately these are just rules of thumb, and you can never be sure exactly what an intensive verb will mean just by looking at the meaning of its shoresh generally.",
     "type": "text"
    }
   ],
@@ -357,11 +291,11 @@
         "type": "text"
        },
        {
-        "text": "\"active\"",
+        "text": "active",
         "type": "global",
         "tokens": [
          {
-          "text": "\"active\"",
+          "text": "active",
           "type": "text"
          }
         ],
@@ -375,21 +309,21 @@
         "type": "text"
        },
        {
-        "text": "_pa'al_",
+        "text": "_pi'el_",
         "type": "global",
         "tokens": [
          {
           "type": "italics",
           "tokens": [
            {
-            "text": "pa'al",
+            "text": "pi'el",
             "type": "text"
            }
           ]
          }
         ],
-        "targetSubtopic": "Pa'al",
-        "targetTopic": "Pa'al",
+        "targetSubtopic": "Pi'el",
+        "targetTopic": "Pi'el",
         "enclosingTopic": "Intensive",
         "enclosingSubtopic": "Several intensive binyanim in Hebrew and Aramaic"
        }
@@ -405,11 +339,11 @@
         "type": "text"
        },
        {
-        "text": "\"passive\"",
+        "text": "passive",
         "type": "global",
         "tokens": [
          {
-          "text": "\"passive\"",
+          "text": "passive",
           "type": "text"
          }
         ],
@@ -449,7 +383,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Aramaic's \"active\" intensive binyan is the ",
+        "text": "Aramaic's active intensive binyan is the ",
         "type": "text"
        },
        {
@@ -479,7 +413,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Aramaic's \"passive\" intensive ",
+        "text": "Aramaic's passive intensive ",
         "type": "text"
        },
        {

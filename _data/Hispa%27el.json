@@ -260,60 +260,87 @@
     ]
    },
    {
-    "text": " feature a doubled middle letter. For example, the ",
+    "text": " are called \"heavy.\" ",
     "type": "text"
    },
    {
-    "text": "shoresh",
-    "type": "global",
-    "tokens": [
+    "topLevelNodes": [
      {
-      "text": "shoresh",
-      "type": "text"
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "This is because they are pronounced with a doubled middle letter.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "For example, the ",
+        "type": "text"
+       },
+       {
+        "text": "shoresh",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "shoresh",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Shoresh",
+        "targetTopic": "Shoresh",
+        "enclosingTopic": "Hispa'el",
+        "enclosingSubtopic": "Is one of the \"heavy\" binyanim due to its doubled middle letter"
+       },
+       {
+        "text": " לבש when put in the ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hispa'el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " produces the verb מִתְלַבֵּשׁ (",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "misla",
+          "type": "text"
+         },
+         {
+          "type": "html_element",
+          "html": "<b>b'b</b>"
+         },
+         {
+          "text": "eish",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ") \"he is dressing himself.\"",
+        "type": "text"
+       }
+      ],
+      "children": []
      }
     ],
-    "targetSubtopic": "Shoresh",
-    "targetTopic": "Shoresh",
-    "enclosingTopic": "Hispa'el",
-    "enclosingSubtopic": "Is one of the \"heavy\" binyanim due to its doubled middle letter"
-   },
-   {
-    "text": " לבש when put in the ",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "hispa'el",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " produces the verb מִתְלַבֵּשׁ (",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "misla",
-      "type": "text"
-     },
-     {
-      "type": "html_element",
-      "html": "<b>b'b</b>"
-     },
-     {
-      "text": "eish",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": ") \"he is dressing himself.\"",
-    "type": "text"
+    "type": "outline"
    }
   ]
  }

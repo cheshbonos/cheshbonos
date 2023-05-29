@@ -9,20 +9,156 @@
  "paragraphsBySubtopic": {
   "Four-letter shorushim": [
    {
-    "text": "While most shorushim have three letters, and some arguably have two letters, sometimes we see shorushim that seem to have four distinct letters, like שבעד meaning subjugation, or טלטל meaning movement. These shorushim only have verbs in the \"heavy\" binyanim like the ",
+    "text": "While most shorushim have three letters, sometimes we see shorushim that seem to have four distinct letters. ",
     "type": "text"
    },
    {
-    "type": "italics",
-    "tokens": [
+    "topLevelNodes": [
      {
-      "text": "pi'el",
-      "type": "text"
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "For example: שבעד, meaning subjugation, or טלטל meaning movement.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "These shorushim ",
+        "type": "text"
+       },
+       {
+        "text": "can only have verb forms in binyanim with a doubled middle letter",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "can only have verb forms in binyanim with a doubled middle letter",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Can only have verb forms in binyanim with a doubled middle letter",
+        "targetTopic": "Four-letter shorushim",
+        "enclosingTopic": "Four-letter shorushim",
+        "enclosingSubtopic": "Four-letter shorushim"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Four letter shorushim are often special forms of normal shorushim, like the ",
+        "type": "text"
+       },
+       {
+        "text": "_shaf'el_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "shaf'el",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Shaf'el",
+        "targetTopic": "Shaf'el",
+        "enclosingTopic": "Four-letter shorushim",
+        "enclosingSubtopic": "Four-letter shorushim"
+       },
+       {
+        "text": " and the ",
+        "type": "text"
+       },
+       {
+        "text": "_pilpul_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "pilpul",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Pilpul",
+        "targetTopic": "Pilpul",
+        "enclosingTopic": "Four-letter shorushim",
+        "enclosingSubtopic": "Four-letter shorushim"
+       },
+       {
+        "text": " forms, although ",
+        "type": "text"
+       },
+       {
+        "text": "some seem to have intrinsic meanings",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "some seem to have intrinsic meanings",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Some seem to have intrinsic meanings",
+        "targetTopic": "Four-letter shorushim",
+        "enclosingTopic": "Four-letter shorushim",
+        "enclosingSubtopic": "Four-letter shorushim"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
      }
-    ]
+    ],
+    "type": "outline"
+   }
+  ],
+  "Can only have verb forms in binyanim with a doubled middle letter": [
+   {
+    "text": "Four-letter shorushim can only have verb forms in binyanim with a doubled middle letter like the ",
+    "type": "text"
    },
    {
-    "text": " because the doubled middle letter creates room for four consonant sounds, and the four letters of the root use those gaps: ",
+    "text": "_pi'el_",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pi'el",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Pi'el",
+    "targetTopic": "Pi'el",
+    "enclosingTopic": "Four-letter shorushim",
+    "enclosingSubtopic": "Can only have verb forms in binyanim with a doubled middle letter"
+   },
+   {
+    "text": ". This is because the doubled letter creates room for the four consonant sounds. ",
     "type": "text"
    },
    {
@@ -36,19 +172,6 @@
          "tokens": [
           {
            "text": "Shoresh",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "Meaning",
            "type": "text"
           }
          ]
@@ -77,7 +200,7 @@
            "targetSubtopic": "Pi'el",
            "targetTopic": "Pi'el",
            "enclosingTopic": "Four-letter shorushim",
-           "enclosingSubtopic": "Four-letter shorushim"
+           "enclosingSubtopic": "Can only have verb forms in binyanim with a doubled middle letter"
           },
           {
            "text": " example",
@@ -93,7 +216,7 @@
          "type": "bold",
          "tokens": [
           {
-           "text": "Transliteration",
+           "text": "Notes",
            "type": "text"
           }
          ]
@@ -105,7 +228,15 @@
       {
        "tokens": [
         {
-         "text": "דבר",
+         "text": "דבר ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " speech",
          "type": "text"
         }
        ]
@@ -113,21 +244,17 @@
       {
        "tokens": [
         {
-         "text": "speech",
+         "text": "מְדַבֵּר ",
          "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
+        },
         {
-         "text": "מְדַבֵּר",
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
          "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
+        },
         {
          "type": "italics",
          "tokens": [
@@ -164,6 +291,42 @@
            "html": "<b>r</b>"
           }
          ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " he is saying",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "- This is a regular three-letter shoresh. ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": "- The middle בּ (\"b\") is said twice",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " - I.e. both middle slots are used for בּ",
+         "type": "text"
         }
        ]
       }
@@ -172,7 +335,15 @@
       {
        "tokens": [
         {
-         "text": "שעבד",
+         "text": "שׁחרר ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " liberation",
          "type": "text"
         }
        ]
@@ -180,21 +351,17 @@
       {
        "tokens": [
         {
-         "text": "subjugation",
+         "text": "מְשַׁחְרֵר ",
          "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
+        },
         {
-         "text": "מְשַׁעְבֵּד",
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
          "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
+        },
         {
          "type": "italics",
          "tokens": [
@@ -212,7 +379,7 @@
           },
           {
            "type": "html_element",
-           "html": "<b>a</b>"
+           "html": "<b>ch</b>"
           },
           {
            "text": "-",
@@ -220,7 +387,7 @@
           },
           {
            "type": "html_element",
-           "html": "<b>b</b>"
+           "html": "<b>r</b>"
           },
           {
            "text": "ei",
@@ -228,9 +395,45 @@
           },
           {
            "type": "html_element",
-           "html": "<b>d</b>"
+           "html": "<b>r</b>"
           }
          ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " he is liberating",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "- This is a four-letter shoresh",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": "- First middle slot is used for ח (\"ch\") ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": "- Second middle slot is used for ר",
+         "type": "text"
         }
        ]
       }
@@ -239,7 +442,15 @@
       {
        "tokens": [
         {
-         "text": "טלטל",
+         "text": "טלטל ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " movement",
          "type": "text"
         }
        ]
@@ -247,21 +458,17 @@
       {
        "tokens": [
         {
-         "text": "movement",
+         "text": "מְטַלְטֵל ",
          "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
+        },
         {
-         "text": "לְטַלְטֵל",
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
          "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
+        },
         {
          "type": "italics",
          "tokens": [
@@ -298,61 +505,106 @@
            "html": "<b>l</b>"
           }
          ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " he is moving",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "- This is a four-letter shoresh",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " - First middle slot is used for ל ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " - Second middle slot is used for ט",
+         "type": "text"
         }
        ]
       }
      ]
     ]
-   },
+   }
+  ],
+  "Some seem to have intrinsic meanings": [
    {
-    "text": " Four letter shorushim often are produced from regular shorushim via certain rules, such as in the ",
+    "text": "Some four letter shorushim seem to be intrinsically meaningful and are not related to other shorushim. For example: ",
     "type": "text"
    },
    {
-    "text": "_shaf'el_",
-    "type": "global",
-    "tokens": [
+    "topLevelNodes": [
      {
-      "type": "italics",
-      "tokens": [
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
        {
-        "text": "shaf'el",
+        "text": "פרנס, \"livelihood,\" used in verbs like לְפַרְנֵס ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "lefarneis",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " \"to support financially.\"",
         "type": "text"
        }
-      ]
-     }
-    ],
-    "targetSubtopic": "Shaf'el",
-    "targetTopic": "Shaf'el",
-    "enclosingTopic": "Four-letter shorushim",
-    "enclosingSubtopic": "Four-letter shorushim"
-   },
-   {
-    "text": " and the ",
-    "type": "text"
-   },
-   {
-    "text": "_pilpul_",
-    "type": "global",
-    "tokens": [
+      ],
+      "children": []
+     },
      {
-      "type": "italics",
-      "tokens": [
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
        {
-        "text": "pilpul",
+        "text": "קטרג, \"accusation,\" used in verbs like לְקַטְרֵג ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "lekatreig",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ", \"to accuse\"",
         "type": "text"
        }
-      ]
+      ],
+      "children": []
      }
     ],
-    "targetSubtopic": "Pilpul",
-    "targetTopic": "Pilpul",
-    "enclosingTopic": "Four-letter shorushim",
-    "enclosingSubtopic": "Four-letter shorushim"
-   },
-   {
-    "text": " forms.",
-    "type": "text"
+    "type": "outline"
    }
   ]
  }

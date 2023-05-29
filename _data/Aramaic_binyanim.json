@@ -9,15 +9,15 @@
  "paragraphsBySubtopic": {
   "Aramaic binyanim": [
    {
-    "text": "There six binyanim in Aramaic (select a term to learn more, or ",
+    "text": "There six binyanim in Aramaic. (",
     "type": "text"
    },
    {
-    "text": "learn more about \"binyan\"",
+    "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
     "type": "global",
     "tokens": [
      {
-      "text": "learn more about \"binyan\"",
+      "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
       "type": "text"
      }
     ],
@@ -27,7 +27,7 @@
     "enclosingSubtopic": "Aramaic binyanim"
    },
    {
-    "text": "): ",
+    "text": ".) ",
     "type": "text"
    },
    {

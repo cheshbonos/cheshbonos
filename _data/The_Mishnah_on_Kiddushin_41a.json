@@ -1729,44 +1729,152 @@
   ],
   "Grammatical explanation of מקדש": [
    {
-    "text": "For those interested in grammar, the word מקדש is the the ",
+    "text": "This is a grammatical explanation of the word מקדש: ",
     "type": "text"
    },
    {
-    "text": "pi'el participle",
-    "type": "import",
-    "tokens": [
+    "topLevelNodes": [
      {
-      "text": "pi'el participle",
-      "type": "text"
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Verbs in Hebrew and Aramaic come from a particular ",
+        "type": "text"
+       },
+       {
+        "text": "shoresh",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "shoresh",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Shoresh",
+        "targetTopic": "Shoresh",
+        "enclosingTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingSubtopic": "Grammatical explanation of מקדש"
+       },
+       {
+        "text": ", which is put into a particular ",
+        "type": "text"
+       },
+       {
+        "text": "binyan",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "binyan",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Binyan",
+        "targetTopic": "Binyan",
+        "enclosingTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingSubtopic": "Grammatical explanation of מקדש"
+       },
+       {
+        "text": ", and then into a particular ",
+        "type": "text"
+       },
+       {
+        "text": "verb form",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "verb form",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Verb forms of Hebrew and Aramaic",
+        "targetTopic": "Verb forms of Hebrew and Aramaic",
+        "enclosingTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingSubtopic": "Grammatical explanation of מקדש"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The word מקדש is ",
+        "type": "text"
+       },
+       {
+        "text": "the shoresh קדש",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "the shoresh קדש",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "קדש",
+        "targetTopic": "קדש",
+        "enclosingTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingSubtopic": "Grammatical explanation of מקדש"
+       },
+       {
+        "text": ", in the ",
+        "type": "text"
+       },
+       {
+        "text": "pi'el binyan",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "pi'el binyan",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pi'el",
+        "targetTopic": "Pi'el",
+        "enclosingTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingSubtopic": "Grammatical explanation of מקדש"
+       },
+       {
+        "text": ", in the ",
+        "type": "text"
+       },
+       {
+        "text": "_pi'el_ participle form",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "pi'el",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " participle form",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pi'el Participle",
+        "targetTopic": "Pi'el Participle",
+        "enclosingTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingSubtopic": "Grammatical explanation of מקדש"
+       },
+       {
+        "text": ", in the masculine singular conjugation.",
+        "type": "text"
+       }
+      ],
+      "children": []
      }
     ],
-    "targetSubtopic": "Pi'el Participle",
-    "targetTopic": "קדש",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Grammatical explanation of מקדש"
-   },
-   {
-    "text": " of ",
-    "type": "text"
-   },
-   {
-    "text": "the shoresh קדש",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "the shoresh קדש",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "קדש",
-    "targetTopic": "קדש",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Grammatical explanation of מקדש"
-   },
-   {
-    "text": ".",
-    "type": "text"
+    "type": "outline"
    }
   ],
   "Parts of speech": [

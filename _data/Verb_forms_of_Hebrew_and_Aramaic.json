@@ -9,7 +9,7 @@
  "paragraphsBySubtopic": {
   "Verb forms of Hebrew and Aramaic": [
    {
-    "text": "There are several verb forms in Hebrew and Aramaic: ",
+    "text": "There are several verb forms and tenses in Hebrew and Aramaic: ",
     "type": "text"
    },
    {
@@ -55,11 +55,11 @@
       {
        "tokens": [
         {
-         "text": "Participle",
+         "text": "Active Participle",
          "type": "global",
          "tokens": [
           {
-           "text": "Participle",
+           "text": "Active Participle",
            "type": "text"
           }
          ],
@@ -68,8 +68,7 @@
          "enclosingTopic": "Verb forms of Hebrew and Aramaic",
          "enclosingSubtopic": "Verb forms of Hebrew and Aramaic"
         }
-       ],
-       "rowspan": 2
+       ]
       }
      ],
      [
@@ -110,8 +109,22 @@
        ]
       },
       {
-       "tokens": [],
-       "merge": true
+       "tokens": [
+        {
+         "text": "Passive Participle",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Passive Participle",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Passive Participle",
+         "targetTopic": "Passive Participle",
+         "enclosingTopic": "Verb forms of Hebrew and Aramaic",
+         "enclosingSubtopic": "Verb forms of Hebrew and Aramaic"
+        }
+       ]
       }
      ]
     ]

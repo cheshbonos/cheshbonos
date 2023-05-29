@@ -22,20 +22,7 @@
     ]
    },
    {
-    "text": " form is when a shoresh like עבד gets a ש added to the front to produce a new shoresh שעבד. A three-letter shoresh put into the ",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "shaf'el",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " will become a ",
+    "text": " form is a special type of ",
     "type": "text"
    },
    {
@@ -53,21 +40,86 @@
     "enclosingSubtopic": "Shaf'el"
    },
    {
-    "text": " and a shoresh with only two strong letters when put into the ",
+    "text": ". ",
     "type": "text"
    },
    {
-    "type": "italics",
-    "tokens": [
+    "topLevelNodes": [
      {
-      "text": "shaf'el",
-      "type": "text"
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "It is produced by taking a shoresh like עבד and adding a ש to the front to produce a new shoresh like שעבד.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "A three-letter shoresh put into the ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "shaf'el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " will become a ",
+        "type": "text"
+       },
+       {
+        "text": "four-letter shoresh",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "four-letter shoresh",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Four-letter shorushim",
+        "targetTopic": "Four-letter shorushim",
+        "enclosingTopic": "Shaf'el",
+        "enclosingSubtopic": "Shaf'el"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "A shoresh with only two strong letters when put into the ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "shaf'el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " will become a three-letter shoresh, for example:",
+        "type": "text"
+       }
+      ],
+      "children": []
      }
-    ]
-   },
-   {
-    "text": " will become a three-letter shoresh, for example: ",
-    "type": "text"
+    ],
+    "type": "outline"
    },
    {
     "type": "table",
@@ -80,19 +132,6 @@
          "tokens": [
           {
            "text": "Shoresh",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "Meaning",
            "type": "text"
           }
          ]
@@ -127,7 +166,7 @@
          "type": "bold",
          "tokens": [
           {
-           "text": "Meaning",
+           "text": "Notes",
            "type": "text"
           }
          ]
@@ -139,7 +178,15 @@
       {
        "tokens": [
         {
-         "text": "עבד",
+         "text": "עבד ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " work",
          "type": "text"
         }
        ]
@@ -147,7 +194,23 @@
       {
        "tokens": [
         {
-         "text": "work",
+         "text": "שעבד ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " subjugate",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " (to make someone else work)",
          "type": "text"
         }
        ]
@@ -155,15 +218,7 @@
       {
        "tokens": [
         {
-         "text": "שעבד",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "subjugate (to make someone else work)",
+         "text": "This is a three-letter shoresh that becomes a four letter shoresh",
          "type": "text"
         }
        ]
@@ -173,7 +228,15 @@
       {
        "tokens": [
         {
-         "text": "זרע",
+         "text": "זרע ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " seeding",
          "type": "text"
         }
        ]
@@ -181,7 +244,15 @@
       {
        "tokens": [
         {
-         "text": "seeding",
+         "text": "שזרע ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " reseeding (causing to become seeded)",
          "type": "text"
         }
        ]
@@ -189,15 +260,7 @@
       {
        "tokens": [
         {
-         "text": "שזרע",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "reseeding (causing to become seeded)",
+         "text": "This is a three-letter shoresh that becomes a four letter shoresh",
          "type": "text"
         }
        ]
@@ -207,7 +270,15 @@
       {
        "tokens": [
         {
-         "text": "נוע",
+         "text": "נוע ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " moving",
          "type": "text"
         }
        ]
@@ -215,7 +286,15 @@
       {
        "tokens": [
         {
-         "text": "moving",
+         "text": "שנע ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " transporting (causing to move)",
          "type": "text"
         }
        ]
@@ -223,15 +302,7 @@
       {
        "tokens": [
         {
-         "text": "שנע",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "transporting (causing to move)",
+         "text": "This is a \"weak\" shoresh with only two strong letters, and it becomes a three letter shoresh",
          "type": "text"
         }
        ]

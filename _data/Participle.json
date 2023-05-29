@@ -9,7 +9,7 @@
  "paragraphsBySubtopic": {
   "Participle": [
    {
-    "text": "The participle (sometimes called ",
+    "text": "The active participle, or just \"the participle\" (sometimes called ",
     "type": "text"
    },
    {
@@ -40,183 +40,264 @@
     "enclosingSubtopic": "Participle"
    },
    {
-    "text": ". It is similar to English \"ing\" verbs, like \"running.\" The participle ",
+    "text": ". ",
     "type": "text"
    },
    {
-    "text": "has various uses",
-    "type": "local",
-    "tokens": [
+    "topLevelNodes": [
      {
-      "text": "has various uses",
-      "type": "text"
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The participle is similar to English \"ing\" verbs, like \"running.\"",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The participle ",
+        "type": "text"
+       },
+       {
+        "text": "has various uses",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "has various uses",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Has various uses",
+        "targetTopic": "Participle",
+        "enclosingTopic": "Participle",
+        "enclosingSubtopic": "Participle"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The participle has ",
+        "type": "text"
+       },
+       {
+        "text": "forms in Hebrew",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "forms in Hebrew",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Forms in Hebrew",
+        "targetTopic": "Participle",
+        "enclosingTopic": "Participle",
+        "enclosingSubtopic": "Participle"
+       },
+       {
+        "text": " and ",
+        "type": "text"
+       },
+       {
+        "text": "in Aramaic",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "in Aramaic",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Forms in Aramaic",
+        "targetTopic": "Participle",
+        "enclosingTopic": "Participle",
+        "enclosingSubtopic": "Participle"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
      }
     ],
-    "targetSubtopic": "Has various uses",
-    "targetTopic": "Participle",
-    "enclosingTopic": "Participle",
-    "enclosingSubtopic": "Participle"
-   },
-   {
-    "text": ", and it ",
-    "type": "text"
-   },
-   {
-    "text": "has various forms",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "has various forms",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Has various forms",
-    "targetTopic": "Participle",
-    "enclosingTopic": "Participle",
-    "enclosingSubtopic": "Participle"
-   },
-   {
-    "text": ".",
-    "type": "text"
+    "type": "outline"
    }
   ],
   "Has various uses": [
    {
-    "text": "The Hebrew and Aramaic participle ",
+    "text": "The Hebrew and Aramaic participle has various uses. ",
     "type": "text"
    },
    {
-    "text": "corresponds to both the English present and participle",
-    "type": "local",
-    "tokens": [
+    "topLevelNodes": [
      {
-      "text": "corresponds to both the English present and participle",
-      "type": "text"
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The Hebrew and Aramaic participle ",
+        "type": "text"
+       },
+       {
+        "text": "corresponds to both the English present and participle",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "corresponds to both the English present and participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Corresponds to both the English present and participle",
+        "targetTopic": "Participle",
+        "enclosingTopic": "Participle",
+        "enclosingSubtopic": "Has various uses"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The participle can be ",
+        "type": "text"
+       },
+       {
+        "text": "used for various time periods",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "used for various time periods",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Used for various time periods",
+        "targetTopic": "Participle",
+        "enclosingTopic": "Participle",
+        "enclosingSubtopic": "Has various uses"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "It can ",
+        "type": "text"
+       },
+       {
+        "text": "function as a noun or adjective",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "function as a noun or adjective",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Function as a noun or adjective",
+        "targetTopic": "Participle",
+        "enclosingTopic": "Participle",
+        "enclosingSubtopic": "Has various uses"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
      }
     ],
-    "targetSubtopic": "Corresponds to both the English present and participle",
-    "targetTopic": "Participle",
-    "enclosingTopic": "Participle",
-    "enclosingSubtopic": "Has various uses"
-   },
-   {
-    "text": ". It can be ",
-    "type": "text"
-   },
-   {
-    "text": "used for various time periods",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "used for various time periods",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Used for various time periods",
-    "targetTopic": "Participle",
-    "enclosingTopic": "Participle",
-    "enclosingSubtopic": "Has various uses"
-   },
-   {
-    "text": ", and can ",
-    "type": "text"
-   },
-   {
-    "text": "function as a noun or adjective",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "function as a noun or adjective",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Function as a noun or adjective",
-    "targetTopic": "Participle",
-    "enclosingTopic": "Participle",
-    "enclosingSubtopic": "Has various uses"
-   },
-   {
-    "text": ".",
-    "type": "text"
-   }
-  ],
-  "Has various forms": [
-   {
-    "text": "There are multiple versions of the participle ",
-    "type": "text"
-   },
-   {
-    "text": "in Hebrew",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "in Hebrew",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Versions in Hebrew",
-    "targetTopic": "Participle",
-    "enclosingTopic": "Participle",
-    "enclosingSubtopic": "Has various forms"
-   },
-   {
-    "text": " and ",
-    "type": "text"
-   },
-   {
-    "text": "in Aramaic",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "in Aramaic",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Versions in Aramaic",
-    "targetTopic": "Participle",
-    "enclosingTopic": "Participle",
-    "enclosingSubtopic": "Has various forms"
-   },
-   {
-    "text": ", and for each version there are conjugations ",
-    "type": "text"
-   },
-   {
-    "text": "for gender and number",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "for gender and number",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "For gender and number",
-    "targetTopic": "Participle",
-    "enclosingTopic": "Participle",
-    "enclosingSubtopic": "Has various forms"
-   },
-   {
-    "text": ".",
-    "type": "text"
+    "type": "outline"
    }
   ],
   "Corresponds to both the English present and participle": [
    {
-    "text": "Whereas in English you can say \"he is writing\" or \"he writes,\" in Hebrew and Aramaic, both of these meanings would be expressed with the same participle eg הוא כותב, ",
+    "text": "The Hebrew and Aramaic participle corresponds to multiple English verb forms. ",
     "type": "text"
    },
    {
-    "type": "italics",
-    "tokens": [
+    "topLevelNodes": [
      {
-      "text": "hu koisev",
-      "type": "text"
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "In English you can say \"he is writing\" or \"he writes.\"",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "In Hebrew and Aramaic, both of these forms would be expressed with the same participle i.e. הוּא כּוֹתֵב, ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hu koseiv",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Thus, when we see the word כּוֹתֵב, ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "koseiv",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ", we can't be sure from the word alone if it means \"he is writing\" or \"he writes.\"",
+        "type": "text"
+       }
+      ],
+      "children": []
      }
-    ]
-   },
-   {
-    "text": ", and so when we see the word כותב, we can't be sure without context whether it is referring to someone who is writing right now, or someone writes habitually.",
-    "type": "text"
+    ],
+    "type": "outline"
    }
   ],
   "Used for various time periods": [
@@ -800,7 +881,7 @@
     "type": "text"
    }
   ],
-  "Versions in Hebrew": [
+  "Forms in Hebrew": [
    {
     "text": "These are the examples of the participle in the masculine singular for each of the ",
     "type": "text"
@@ -817,7 +898,7 @@
     "targetSubtopic": "Hebrew binyanim",
     "targetTopic": "Hebrew binyanim",
     "enclosingTopic": "Participle",
-    "enclosingSubtopic": "Versions in Hebrew"
+    "enclosingSubtopic": "Forms in Hebrew"
    },
    {
     "text": ". (",
@@ -835,7 +916,7 @@
     "targetSubtopic": "Binyan",
     "targetTopic": "Binyan",
     "enclosingTopic": "Participle",
-    "enclosingSubtopic": "Versions in Hebrew"
+    "enclosingSubtopic": "Forms in Hebrew"
    },
    {
     "text": ".) ",
@@ -851,7 +932,7 @@
          "type": "bold",
          "tokens": [
           {
-           "text": "Binyan",
+           "text": "Hebrew",
            "type": "text"
           }
          ]
@@ -861,152 +942,72 @@
       {
        "tokens": [
         {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "Type",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "Example",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "Transliteration",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "See all",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "_Pa'al_",
+         "text": "Simple",
          "type": "global",
          "tokens": [
           {
-           "type": "italics",
-           "tokens": [
-            {
-             "text": "Pa'al",
-             "type": "text"
-            }
-           ]
-          }
-         ],
-         "targetSubtopic": "Pa'al",
-         "targetTopic": "Pa'al",
-         "enclosingTopic": "Participle",
-         "enclosingSubtopic": "Versions in Hebrew"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "simple",
-         "type": "global",
-         "tokens": [
-          {
-           "text": "simple",
+           "text": "Simple",
            "type": "text"
           }
          ],
          "targetSubtopic": "Simple",
          "targetTopic": "Simple",
          "enclosingTopic": "Participle",
-         "enclosingSubtopic": "Versions in Hebrew"
-        },
+         "enclosingSubtopic": "Forms in Hebrew"
+        }
+       ]
+      },
+      {
+       "tokens": [
         {
-         "text": ", ",
-         "type": "text"
-        },
-        {
-         "text": "active",
+         "text": "Intensive",
          "type": "global",
          "tokens": [
           {
-           "text": "active",
+           "text": "Intensive",
            "type": "text"
           }
          ],
-         "targetSubtopic": "Active",
-         "targetTopic": "Active",
+         "targetSubtopic": "Intensive",
+         "targetTopic": "Intensive",
          "enclosingTopic": "Participle",
-         "enclosingSubtopic": "Versions in Hebrew"
+         "enclosingSubtopic": "Forms in Hebrew"
         }
        ]
       },
       {
        "tokens": [
         {
-         "text": "כּוֹתֵב",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "italics",
+         "text": "Causative",
+         "type": "global",
          "tokens": [
           {
-           "text": "koiseiv",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Participle",
-         "type": "import",
-         "tokens": [
-          {
-           "text": "Participle",
+           "text": "Causative",
            "type": "text"
           }
          ],
-         "targetSubtopic": "Participle",
-         "targetTopic": "Pa'al",
+         "targetSubtopic": "Causative",
+         "targetTopic": "Causative",
          "enclosingTopic": "Participle",
-         "enclosingSubtopic": "Versions in Hebrew"
+         "enclosingSubtopic": "Forms in Hebrew"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Reflexive",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Reflexive",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Reflexive",
+         "targetTopic": "Reflexive",
+         "enclosingTopic": "Participle",
+         "enclosingSubtopic": "Forms in Hebrew"
         }
        ]
       }
@@ -1015,7 +1016,169 @@
       {
        "tokens": [
         {
-         "text": "_Nif'al_",
+         "text": "Active",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Active",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Active",
+         "targetTopic": "Active",
+         "enclosingTopic": "Participle",
+         "enclosingSubtopic": "Forms in Hebrew"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Pa'al Participle_",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Pa'al Participle",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Pa'al Participle",
+         "targetTopic": "Pa'al Participle",
+         "enclosingTopic": "Participle",
+         "enclosingSubtopic": "Forms in Hebrew"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Pi'el Participle_",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Pi'el Participle",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Pi'el Participle",
+         "targetTopic": "Pi'el Participle",
+         "enclosingTopic": "Participle",
+         "enclosingSubtopic": "Forms in Hebrew"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Hif'il Participle_",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Hif'il Participle",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Hif'il Participle",
+         "targetTopic": "Hif'il Participle",
+         "enclosingTopic": "Participle",
+         "enclosingSubtopic": "Forms in Hebrew"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Hispa'el Participle_",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Hispa'el Participle",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Hispa'el Participle",
+         "targetTopic": "Hispa'el Participle",
+         "enclosingTopic": "Participle",
+         "enclosingSubtopic": "Forms in Hebrew"
+        },
+        {
+         "text": ",",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": "_Nispa'el Participle_",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Nispa'el Participle",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Nispa'el Participle",
+         "targetTopic": "Nispa'el Participle",
+         "enclosingTopic": "Participle",
+         "enclosingSubtopic": "Forms in Hebrew"
+        }
+       ],
+       "rowspan": 2
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Passive",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Passive",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Passive",
+         "targetTopic": "Passive",
+         "enclosingTopic": "Participle",
+         "enclosingSubtopic": "Forms in Hebrew"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Nif'al_ Participle",
          "type": "global",
          "tokens": [
           {
@@ -1026,176 +1189,23 @@
              "type": "text"
             }
            ]
-          }
-         ],
-         "targetSubtopic": "Nif'al",
-         "targetTopic": "Nif'al",
-         "enclosingTopic": "Participle",
-         "enclosingSubtopic": "Versions in Hebrew"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "simple",
-         "type": "global",
-         "tokens": [
+          },
           {
-           "text": "simple",
+           "text": " Participle",
            "type": "text"
           }
          ],
-         "targetSubtopic": "Simple",
-         "targetTopic": "Simple",
+         "targetSubtopic": "Nif'al Participle",
+         "targetTopic": "Nif'al Participle",
          "enclosingTopic": "Participle",
-         "enclosingSubtopic": "Versions in Hebrew"
-        },
-        {
-         "text": ", ",
-         "type": "text"
-        },
-        {
-         "text": "passive",
-         "type": "global",
-         "tokens": [
-          {
-           "text": "passive",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Passive",
-         "targetTopic": "Passive",
-         "enclosingTopic": "Participle",
-         "enclosingSubtopic": "Versions in Hebrew"
+         "enclosingSubtopic": "Forms in Hebrew"
         }
        ]
       },
       {
        "tokens": [
         {
-         "text": "נִכְתָּב",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "italics",
-         "tokens": [
-          {
-           "text": "nicht'tov",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Nif'al#Participle",
-         "type": "text"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "_Pi'el_",
-         "type": "global",
-         "tokens": [
-          {
-           "type": "italics",
-           "tokens": [
-            {
-             "text": "Pi'el",
-             "type": "text"
-            }
-           ]
-          }
-         ],
-         "targetSubtopic": "Pi'el",
-         "targetTopic": "Pi'el",
-         "enclosingTopic": "Participle",
-         "enclosingSubtopic": "Versions in Hebrew"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "intensive",
-         "type": "global",
-         "tokens": [
-          {
-           "text": "intensive",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Intensive",
-         "targetTopic": "Intensive",
-         "enclosingTopic": "Participle",
-         "enclosingSubtopic": "Versions in Hebrew"
-        },
-        {
-         "text": ", ",
-         "type": "text"
-        },
-        {
-         "text": "active",
-         "type": "global",
-         "tokens": [
-          {
-           "text": "active",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Active",
-         "targetTopic": "Active",
-         "enclosingTopic": "Participle",
-         "enclosingSubtopic": "Versions in Hebrew"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "מְכַתֵּב",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "italics",
-         "tokens": [
-          {
-           "text": "mechat'teiv",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Pi'el#Participle",
-         "type": "text"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "_Pu'al_",
+         "text": "_Pu'al_ Participle",
          "type": "global",
          "tokens": [
           {
@@ -1206,176 +1216,23 @@
              "type": "text"
             }
            ]
-          }
-         ],
-         "targetSubtopic": "Pu'al",
-         "targetTopic": "Pu'al",
-         "enclosingTopic": "Participle",
-         "enclosingSubtopic": "Versions in Hebrew"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "intensive",
-         "type": "global",
-         "tokens": [
+          },
           {
-           "text": "intensive",
+           "text": " Participle",
            "type": "text"
           }
          ],
-         "targetSubtopic": "Intensive",
-         "targetTopic": "Intensive",
+         "targetSubtopic": "Pu'al Participle",
+         "targetTopic": "Pu'al Participle",
          "enclosingTopic": "Participle",
-         "enclosingSubtopic": "Versions in Hebrew"
-        },
-        {
-         "text": ", ",
-         "type": "text"
-        },
-        {
-         "text": "passive",
-         "type": "global",
-         "tokens": [
-          {
-           "text": "passive",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Passive",
-         "targetTopic": "Passive",
-         "enclosingTopic": "Participle",
-         "enclosingSubtopic": "Versions in Hebrew"
+         "enclosingSubtopic": "Forms in Hebrew"
         }
        ]
       },
       {
        "tokens": [
         {
-         "text": "מְכֻתָּב",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "italics",
-         "tokens": [
-          {
-           "text": "mechut'tov",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "_Pu'al#Participle",
-         "type": "text"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "_Hif'il_",
-         "type": "global",
-         "tokens": [
-          {
-           "type": "italics",
-           "tokens": [
-            {
-             "text": "Hif'il",
-             "type": "text"
-            }
-           ]
-          }
-         ],
-         "targetSubtopic": "Hif'il",
-         "targetTopic": "Hif'il",
-         "enclosingTopic": "Participle",
-         "enclosingSubtopic": "Versions in Hebrew"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "causative",
-         "type": "global",
-         "tokens": [
-          {
-           "text": "causative",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Causative",
-         "targetTopic": "Causative",
-         "enclosingTopic": "Participle",
-         "enclosingSubtopic": "Versions in Hebrew"
-        },
-        {
-         "text": ", ",
-         "type": "text"
-        },
-        {
-         "text": "active",
-         "type": "global",
-         "tokens": [
-          {
-           "text": "active",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Active",
-         "targetTopic": "Active",
-         "enclosingTopic": "Participle",
-         "enclosingSubtopic": "Versions in Hebrew"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "מַכְתִּיב",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "italics",
-         "tokens": [
-          {
-           "text": "machtiv",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Hif'il#Participle",
-         "type": "text"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "_Huf'al_",
+         "text": "_Huf'al_ Participle",
          "type": "global",
          "tokens": [
           {
@@ -1386,157 +1243,28 @@
              "type": "text"
             }
            ]
-          }
-         ],
-         "targetSubtopic": "Huf'al",
-         "targetTopic": "Huf'al",
-         "enclosingTopic": "Participle",
-         "enclosingSubtopic": "Versions in Hebrew"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "causative",
-         "type": "global",
-         "tokens": [
+          },
           {
-           "text": "causative",
+           "text": " Participle",
            "type": "text"
           }
          ],
-         "targetSubtopic": "Causative",
-         "targetTopic": "Causative",
+         "targetSubtopic": "Huf'al Participle",
+         "targetTopic": "Huf'al Participle",
          "enclosingTopic": "Participle",
-         "enclosingSubtopic": "Versions in Hebrew"
-        },
-        {
-         "text": ", ",
-         "type": "text"
-        },
-        {
-         "text": "passive",
-         "type": "global",
-         "tokens": [
-          {
-           "text": "passive",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Passive",
-         "targetTopic": "Passive",
-         "enclosingTopic": "Participle",
-         "enclosingSubtopic": "Versions in Hebrew"
+         "enclosingSubtopic": "Forms in Hebrew"
         }
        ]
       },
       {
-       "tokens": [
-        {
-         "text": "מֻכְתָּב",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "italics",
-         "tokens": [
-          {
-           "text": "muchtov",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Huf'al#Participle",
-         "type": "text"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "_Hispa'el_",
-         "type": "global",
-         "tokens": [
-          {
-           "type": "italics",
-           "tokens": [
-            {
-             "text": "Hispa'el",
-             "type": "text"
-            }
-           ]
-          }
-         ],
-         "targetSubtopic": "Hispa'el",
-         "targetTopic": "Hispa'el",
-         "enclosingTopic": "Participle",
-         "enclosingSubtopic": "Versions in Hebrew"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "reflexive",
-         "type": "global",
-         "tokens": [
-          {
-           "text": "reflexive",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Reflexive",
-         "targetTopic": "Reflexive",
-         "enclosingTopic": "Participle",
-         "enclosingSubtopic": "Versions in Hebrew"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "מִתְכַּתֵּב",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "italics",
-         "tokens": [
-          {
-           "text": "miskat'teiv",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Hispa'el#Participle",
-         "type": "text"
-        }
-       ]
+       "tokens": [],
+       "merge": true
       }
      ]
     ]
    }
   ],
-  "Versions in Aramaic": [
+  "Forms in Aramaic": [
    {
     "text": "These are the examples of the participle in the masculine singular for each of the ",
     "type": "text"
@@ -1553,7 +1281,7 @@
     "targetSubtopic": "Aramaic binyanim",
     "targetTopic": "Aramaic binyanim",
     "enclosingTopic": "Participle",
-    "enclosingSubtopic": "Versions in Aramaic"
+    "enclosingSubtopic": "Forms in Aramaic"
    },
    {
     "text": ". (",
@@ -1571,7 +1299,7 @@
     "targetSubtopic": "Binyan",
     "targetTopic": "Binyan",
     "enclosingTopic": "Participle",
-    "enclosingSubtopic": "Versions in Aramaic"
+    "enclosingSubtopic": "Forms in Aramaic"
    },
    {
     "text": ".) ",
@@ -1634,7 +1362,7 @@
          "targetSubtopic": "Pe'al",
          "targetTopic": "Pe'al",
          "enclosingTopic": "Participle",
-         "enclosingSubtopic": "Versions in Aramaic"
+         "enclosingSubtopic": "Forms in Aramaic"
         }
        ]
       },
@@ -1652,7 +1380,7 @@
          "targetSubtopic": "Simple",
          "targetTopic": "Simple",
          "enclosingTopic": "Participle",
-         "enclosingSubtopic": "Versions in Aramaic"
+         "enclosingSubtopic": "Forms in Aramaic"
         },
         {
          "text": ", ",
@@ -1670,7 +1398,7 @@
          "targetSubtopic": "Active",
          "targetTopic": "Active",
          "enclosingTopic": "Participle",
-         "enclosingSubtopic": "Versions in Aramaic"
+         "enclosingSubtopic": "Forms in Aramaic"
         }
        ]
       },
@@ -1716,7 +1444,7 @@
          "targetSubtopic": "Ispe'el",
          "targetTopic": "Ispe'el",
          "enclosingTopic": "Participle",
-         "enclosingSubtopic": "Versions in Aramaic"
+         "enclosingSubtopic": "Forms in Aramaic"
         }
        ]
       },
@@ -1734,7 +1462,7 @@
          "targetSubtopic": "Simple",
          "targetTopic": "Simple",
          "enclosingTopic": "Participle",
-         "enclosingSubtopic": "Versions in Aramaic"
+         "enclosingSubtopic": "Forms in Aramaic"
         },
         {
          "text": ", ",
@@ -1752,7 +1480,7 @@
          "targetSubtopic": "Passive",
          "targetTopic": "Passive",
          "enclosingTopic": "Participle",
-         "enclosingSubtopic": "Versions in Aramaic"
+         "enclosingSubtopic": "Forms in Aramaic"
         }
        ]
       },
@@ -1798,7 +1526,7 @@
          "targetSubtopic": "Pa'el",
          "targetTopic": "Pa'el",
          "enclosingTopic": "Participle",
-         "enclosingSubtopic": "Versions in Aramaic"
+         "enclosingSubtopic": "Forms in Aramaic"
         }
        ]
       },
@@ -1816,7 +1544,7 @@
          "targetSubtopic": "Intensive",
          "targetTopic": "Intensive",
          "enclosingTopic": "Participle",
-         "enclosingSubtopic": "Versions in Aramaic"
+         "enclosingSubtopic": "Forms in Aramaic"
         },
         {
          "text": ", ",
@@ -1834,7 +1562,7 @@
          "targetSubtopic": "Active",
          "targetTopic": "Active",
          "enclosingTopic": "Participle",
-         "enclosingSubtopic": "Versions in Aramaic"
+         "enclosingSubtopic": "Forms in Aramaic"
         }
        ]
       },
@@ -1880,7 +1608,7 @@
          "targetSubtopic": "Ispa'al",
          "targetTopic": "Ispa'al",
          "enclosingTopic": "Participle",
-         "enclosingSubtopic": "Versions in Aramaic"
+         "enclosingSubtopic": "Forms in Aramaic"
         }
        ]
       },
@@ -1898,7 +1626,7 @@
          "targetSubtopic": "Intensive",
          "targetTopic": "Intensive",
          "enclosingTopic": "Participle",
-         "enclosingSubtopic": "Versions in Aramaic"
+         "enclosingSubtopic": "Forms in Aramaic"
         },
         {
          "text": ", ",
@@ -1916,7 +1644,7 @@
          "targetSubtopic": "Passive",
          "targetTopic": "Passive",
          "enclosingTopic": "Participle",
-         "enclosingSubtopic": "Versions in Aramaic"
+         "enclosingSubtopic": "Forms in Aramaic"
         }
        ]
       },
@@ -1962,7 +1690,7 @@
          "targetSubtopic": "Af'el",
          "targetTopic": "Af'el",
          "enclosingTopic": "Participle",
-         "enclosingSubtopic": "Versions in Aramaic"
+         "enclosingSubtopic": "Forms in Aramaic"
         }
        ]
       },
@@ -1980,7 +1708,7 @@
          "targetSubtopic": "Causative",
          "targetTopic": "Causative",
          "enclosingTopic": "Participle",
-         "enclosingSubtopic": "Versions in Aramaic"
+         "enclosingSubtopic": "Forms in Aramaic"
         },
         {
          "text": ", ",
@@ -1998,7 +1726,7 @@
          "targetSubtopic": "Active",
          "targetTopic": "Active",
          "enclosingTopic": "Participle",
-         "enclosingSubtopic": "Versions in Aramaic"
+         "enclosingSubtopic": "Forms in Aramaic"
         }
        ]
       },
@@ -2044,7 +1772,7 @@
          "targetSubtopic": "Itaf'al",
          "targetTopic": "Itaf'al",
          "enclosingTopic": "Participle",
-         "enclosingSubtopic": "Versions in Aramaic"
+         "enclosingSubtopic": "Forms in Aramaic"
         }
        ]
       },
@@ -2062,7 +1790,7 @@
          "targetSubtopic": "Causative",
          "targetTopic": "Causative",
          "enclosingTopic": "Participle",
-         "enclosingSubtopic": "Versions in Aramaic"
+         "enclosingSubtopic": "Forms in Aramaic"
         },
         {
          "text": " ",
@@ -2080,7 +1808,7 @@
          "targetSubtopic": "Passive",
          "targetTopic": "Passive",
          "enclosingTopic": "Participle",
-         "enclosingSubtopic": "Versions in Aramaic"
+         "enclosingSubtopic": "Forms in Aramaic"
         },
         {
          "text": ", or ",
@@ -2098,7 +1826,7 @@
          "targetSubtopic": "Reflexive",
          "targetTopic": "Reflexive",
          "enclosingTopic": "Participle",
-         "enclosingSubtopic": "Versions in Aramaic"
+         "enclosingSubtopic": "Forms in Aramaic"
         }
        ]
       },
@@ -2192,7 +1920,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "koiseiv",
+           "text": "koseiv",
            "type": "text"
           }
          ]
@@ -2231,7 +1959,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "koiseves",
+           "text": "koseves",
            "type": "text"
           }
          ]
@@ -2270,7 +1998,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "koisvim",
+           "text": "kosvim",
            "type": "text"
           }
          ]
@@ -2309,7 +2037,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "koisvois",
+           "text": "kosvos",
            "type": "text"
           }
          ]

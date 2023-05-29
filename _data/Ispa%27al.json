@@ -75,13 +75,13 @@
         "type": "italics",
         "tokens": [
          {
-          "text": "hif'il",
+          "text": "ispa'al",
           "type": "text"
          }
         ]
        },
        {
-        "text": " have the properties of being ",
+        "text": " can be ",
         "type": "text"
        },
        {
@@ -95,6 +95,42 @@
         ],
         "targetSubtopic": "Reflexive",
         "targetTopic": "Reflexive",
+        "enclosingTopic": "Ispa'al",
+        "enclosingSubtopic": "Ispa'al"
+       },
+       {
+        "text": ", or ",
+        "type": "text"
+       },
+       {
+        "text": "passive",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "passive",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Passive",
+        "targetTopic": "Passive",
+        "enclosingTopic": "Ispa'al",
+        "enclosingSubtopic": "Ispa'al"
+       },
+       {
+        "text": " and ",
+        "type": "text"
+       },
+       {
+        "text": "intensive",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "intensive",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Intensive",
+        "targetTopic": "Intensive",
         "enclosingTopic": "Ispa'al",
         "enclosingSubtopic": "Ispa'al"
        },

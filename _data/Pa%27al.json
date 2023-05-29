@@ -141,6 +141,48 @@
       "ordered": false,
       "tokensOfLine": [
        {
+        "text": "A ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pa'al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " verb ",
+        "type": "text"
+       },
+       {
+        "text": "has various forms",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "has various forms",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Has various forms",
+        "targetTopic": "Pa'al",
+        "enclosingTopic": "Pa'al",
+        "enclosingSubtopic": "Pa'al"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
         "text": "The ",
         "type": "text"
        },
@@ -154,25 +196,7 @@
         ]
        },
        {
-        "text": " has conjugations in various ",
-        "type": "text"
-       },
-       {
-        "text": "tenses",
-        "type": "local",
-        "tokens": [
-         {
-          "text": "tenses",
-          "type": "text"
-         }
-        ],
-        "targetSubtopic": "Tenses",
-        "targetTopic": "Pa'al",
-        "enclosingTopic": "Pa'al",
-        "enclosingSubtopic": "Pa'al"
-       },
-       {
-        "text": ".",
+        "text": " is the only binyan to feature a finished participle form.",
         "type": "text"
        }
       ],
@@ -229,148 +253,216 @@
     "type": "outline"
    }
   ],
-  "Tenses": [
+  "Has various forms": [
    {
-    "text": "There is a ",
+    "text": "Verbs in the ",
     "type": "text"
    },
    {
-    "text": "_pa'al_ participle",
-    "type": "local",
+    "type": "italics",
     "tokens": [
      {
-      "type": "italics",
-      "tokens": [
-       {
-        "text": "pa'al",
-        "type": "text"
-       }
-      ]
-     },
+      "text": "pa'al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " have various forms. (There are ",
+    "type": "text"
+   },
+   {
+    "text": "various verb forms of Hebrew and Aramaic",
+    "type": "global",
+    "tokens": [
      {
-      "text": " participle",
+      "text": "various verb forms of Hebrew and Aramaic",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Participle",
-    "targetTopic": "Pa'al",
+    "targetSubtopic": "Verb forms of Hebrew and Aramaic",
+    "targetTopic": "Verb forms of Hebrew and Aramaic",
     "enclosingTopic": "Pa'al",
-    "enclosingSubtopic": "Tenses"
+    "enclosingSubtopic": "Has various forms"
    },
    {
-    "text": ", a ",
+    "text": ".) ",
     "type": "text"
    },
    {
-    "text": "_pa'al_ past tense",
-    "type": "local",
-    "tokens": [
-     {
-      "type": "italics",
-      "tokens": [
-       {
-        "text": "pa'al",
-        "type": "text"
-       }
-      ]
-     },
-     {
-      "text": " past tense",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Past tense",
-    "targetTopic": "Pa'al",
-    "enclosingTopic": "Pa'al",
-    "enclosingSubtopic": "Tenses"
-   },
-   {
-    "text": ", a ",
-    "type": "text"
-   },
-   {
-    "text": "_pa'al_ future tense",
-    "type": "local",
-    "tokens": [
-     {
-      "type": "italics",
-      "tokens": [
-       {
-        "text": "pa'al",
-        "type": "text"
-       }
-      ]
-     },
-     {
-      "text": " future tense",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Future tense",
-    "targetTopic": "Pa'al",
-    "enclosingTopic": "Pa'al",
-    "enclosingSubtopic": "Tenses"
-   },
-   {
-    "text": ", an ",
-    "type": "text"
-   },
-   {
-    "text": "_pa'al_ imperative",
-    "type": "local",
-    "tokens": [
-     {
-      "type": "italics",
-      "tokens": [
-       {
-        "text": "pa'al",
-        "type": "text"
-       }
-      ]
-     },
-     {
-      "text": " imperative",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Imperative",
-    "targetTopic": "Pa'al",
-    "enclosingTopic": "Pa'al",
-    "enclosingSubtopic": "Tenses"
-   },
-   {
-    "text": ", and an ",
-    "type": "text"
-   },
-   {
-    "text": "_pa'al_ infinitive",
-    "type": "local",
-    "tokens": [
-     {
-      "type": "italics",
-      "tokens": [
-       {
-        "text": "pa'al",
-        "type": "text"
-       }
-      ]
-     },
-     {
-      "text": " infinitive",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Infinitive",
-    "targetTopic": "Pa'al",
-    "enclosingTopic": "Pa'al",
-    "enclosingSubtopic": "Tenses"
-   },
-   {
-    "text": ".",
-    "type": "text"
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "_Pa'al_ Past Tense",
+         "type": "local",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Pa'al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " Past Tense",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Past tense",
+         "targetTopic": "Pa'al",
+         "enclosingTopic": "Pa'al",
+         "enclosingSubtopic": "Has various forms"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Pa'al_ Future Tense",
+         "type": "local",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Pa'al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " Future Tense",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Future tense",
+         "targetTopic": "Pa'al",
+         "enclosingTopic": "Pa'al",
+         "enclosingSubtopic": "Has various forms"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Pa'al_ Active Participle",
+         "type": "local",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Pa'al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " Active Participle",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Active Participle",
+         "targetTopic": "Pa'al",
+         "enclosingTopic": "Pa'al",
+         "enclosingSubtopic": "Has various forms"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "_Pa'al_ Imperative",
+         "type": "local",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Pa'al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " Imperative",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Imperative",
+         "targetTopic": "Pa'al",
+         "enclosingTopic": "Pa'al",
+         "enclosingSubtopic": "Has various forms"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Pa'al_ Infinitive",
+         "type": "local",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Pa'al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " Infinitive",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Infinitive",
+         "targetTopic": "Pa'al",
+         "enclosingTopic": "Pa'al",
+         "enclosingSubtopic": "Has various forms"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Pa'al_ Passive Participle",
+         "type": "local",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Pa'al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " Passive Participle",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Passive Participle",
+         "targetTopic": "Pa'al",
+         "enclosingTopic": "Pa'al",
+         "enclosingSubtopic": "Has various forms"
+        }
+       ]
+      }
+     ]
+    ]
    }
   ],
-  "Participle": [
+  "Passive Participle": [],
+  "Active Participle": [
    {
     "text": "The ",
     "type": "text"
@@ -385,7 +477,7 @@
     ]
    },
    {
-    "text": " has an participle. (The ",
+    "text": " has an active participle form, which is normally just called the \"participle.\" (The ",
     "type": "text"
    },
    {
@@ -400,7 +492,7 @@
     "targetSubtopic": "Participle",
     "targetTopic": "Participle",
     "enclosingTopic": "Pa'al",
-    "enclosingSubtopic": "Participle"
+    "enclosingSubtopic": "Active Participle"
    },
    {
     "text": " is one of the ",
@@ -418,7 +510,7 @@
     "targetSubtopic": "Verb forms of Hebrew and Aramaic",
     "targetTopic": "Verb forms of Hebrew and Aramaic",
     "enclosingTopic": "Pa'al",
-    "enclosingSubtopic": "Participle"
+    "enclosingSubtopic": "Active Participle"
    },
    {
     "text": ".) This is an example of how you conjugate verbs with ",
@@ -436,7 +528,7 @@
     "targetSubtopic": "Regular shorushim",
     "targetTopic": "Regular shorushim",
     "enclosingTopic": "Pa'al",
-    "enclosingSubtopic": "Participle"
+    "enclosingSubtopic": "Active Participle"
    },
    {
     "text": " in the ",
@@ -462,24 +554,39 @@
       {
        "tokens": [
         {
-         "text": "Person",
-         "type": "text"
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Person",
+           "type": "text"
+          }
+         ]
         }
        ]
       },
       {
        "tokens": [
         {
-         "text": "Hebrew",
-         "type": "text"
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Hebrew",
+           "type": "text"
+          }
+         ]
         }
        ]
       },
       {
        "tokens": [
         {
-         "text": "Transliteration",
-         "type": "text"
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Transliteration",
+           "type": "text"
+          }
+         ]
         }
        ]
       }
@@ -507,7 +614,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "koiseiv",
+           "text": "koseiv",
            "type": "text"
           }
          ]
@@ -538,7 +645,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "koiseves",
+           "text": "koseves",
            "type": "text"
           }
          ]
@@ -569,7 +676,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "koisvim",
+           "text": "kosvim",
            "type": "text"
           }
          ]
@@ -600,7 +707,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "koisvois",
+           "text": "kosvos",
            "type": "text"
           }
          ]
@@ -639,7 +746,7 @@
     "targetSubtopic": "Participle",
     "targetTopic": "Participle",
     "enclosingTopic": "Pa'al",
-    "enclosingSubtopic": "Participle"
+    "enclosingSubtopic": "Active Participle"
    },
    {
     "text": " in ",
@@ -654,10 +761,10 @@
       "type": "text"
      }
     ],
-    "targetSubtopic": "Versions in Hebrew",
+    "targetSubtopic": "Forms in Hebrew",
     "targetTopic": "Participle",
     "enclosingTopic": "Pa'al",
-    "enclosingSubtopic": "Participle"
+    "enclosingSubtopic": "Active Participle"
    },
    {
     "text": ".",

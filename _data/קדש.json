@@ -72,19 +72,6 @@
          ]
         }
        ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "Forms",
-           "type": "text"
-          }
-         ]
-        }
-       ]
       }
      ],
      [
@@ -158,33 +145,6 @@
          "type": "text"
         }
        ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "_Pa'al_ forms",
-         "type": "local",
-         "tokens": [
-          {
-           "type": "italics",
-           "tokens": [
-            {
-             "text": "Pa'al",
-             "type": "text"
-            }
-           ]
-          },
-          {
-           "text": " forms",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Pa'al forms",
-         "targetTopic": "קדש",
-         "enclosingTopic": "קדש",
-         "enclosingSubtopic": "קדש"
-        }
-       ]
       }
      ],
      [
@@ -254,30 +214,7 @@
       {
        "tokens": [
         {
-         "text": "to make holy, creating ",
-         "type": "text"
-        },
-        {
-         "text": "_kiddushin_",
-         "type": "local",
-         "tokens": [
-          {
-           "type": "italics",
-           "tokens": [
-            {
-             "text": "kiddushin",
-             "type": "text"
-            }
-           ]
-          }
-         ],
-         "targetSubtopic": "Kiddushin",
-         "targetTopic": "קדש",
-         "enclosingTopic": "קדש",
-         "enclosingSubtopic": "קדש"
-        },
-        {
-         "text": " with a woman, saying ",
+         "text": "to make something holy, creating the first stage of marriage with a woman, saying ",
          "type": "text"
         },
         {
@@ -292,33 +229,6 @@
         {
          "text": " before a meal on Shabbos or Yuntif",
          "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "_Pi'el_ forms",
-         "type": "local",
-         "tokens": [
-          {
-           "type": "italics",
-           "tokens": [
-            {
-             "text": "Pi'el",
-             "type": "text"
-            }
-           ]
-          },
-          {
-           "text": " forms",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Pi'el forms",
-         "targetTopic": "קדש",
-         "enclosingTopic": "קדש",
-         "enclosingSubtopic": "קדש"
         }
        ]
       }
@@ -403,33 +313,6 @@
          ]
         }
        ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "_Pu'al_ forms",
-         "type": "local",
-         "tokens": [
-          {
-           "type": "italics",
-           "tokens": [
-            {
-             "text": "Pu'al",
-             "type": "text"
-            }
-           ]
-          },
-          {
-           "text": " forms",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Pu'al forms",
-         "targetTopic": "קדש",
-         "enclosingTopic": "קדש",
-         "enclosingSubtopic": "קדש"
-        }
-       ]
       }
      ],
      [
@@ -494,326 +377,12 @@
          ]
         }
        ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "_Hispa'el_ forms",
-         "type": "local",
-         "tokens": [
-          {
-           "type": "italics",
-           "tokens": [
-            {
-             "text": "Hispa'el",
-             "type": "text"
-            }
-           ]
-          },
-          {
-           "text": " forms",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Hispa'el forms",
-         "targetTopic": "קדש",
-         "enclosingTopic": "קדש",
-         "enclosingSubtopic": "קדש"
-        }
-       ]
       }
      ]
     ]
    },
    {
-    "text": " More information can be found in ",
-    "type": "text"
-   },
-   {
-    "text": "dictionaries",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "dictionaries",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Dictionaries",
-    "targetTopic": "קדש",
-    "enclosingTopic": "קדש",
-    "enclosingSubtopic": "קדש"
-   },
-   {
-    "text": ".",
-    "type": "text"
-   }
-  ],
-  "Pa'al forms": [],
-  "Pi'el forms": [
-   {
-    "text": "The ",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "pi'el",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " of the ",
-    "type": "text"
-   },
-   {
-    "text": "shoresh",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "shoresh",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Shoresh",
-    "targetTopic": "Shoresh",
-    "enclosingTopic": "קדש",
-    "enclosingSubtopic": "Pi'el forms"
-   },
-   {
-    "text": " קדש has the following forms: ",
-    "type": "text"
-   },
-   {
-    "type": "table",
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "_Pi'el_ Past Tense",
-         "type": "local",
-         "tokens": [
-          {
-           "type": "italics",
-           "tokens": [
-            {
-             "text": "Pi'el",
-             "type": "text"
-            }
-           ]
-          },
-          {
-           "text": " Past Tense",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Pi'el Past Tense",
-         "targetTopic": "קדש",
-         "enclosingTopic": "קדש",
-         "enclosingSubtopic": "Pi'el forms"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "_Pi'el_ Future Tense",
-         "type": "local",
-         "tokens": [
-          {
-           "type": "italics",
-           "tokens": [
-            {
-             "text": "Pi'el",
-             "type": "text"
-            }
-           ]
-          },
-          {
-           "text": " Future Tense",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Pi'el Future Tense",
-         "targetTopic": "קדש",
-         "enclosingTopic": "קדש",
-         "enclosingSubtopic": "Pi'el forms"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "_Pi'el_ Participle",
-         "type": "local",
-         "tokens": [
-          {
-           "type": "italics",
-           "tokens": [
-            {
-             "text": "Pi'el",
-             "type": "text"
-            }
-           ]
-          },
-          {
-           "text": " Participle",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Pi'el Participle",
-         "targetTopic": "קדש",
-         "enclosingTopic": "קדש",
-         "enclosingSubtopic": "Pi'el forms"
-        }
-       ],
-       "rowspan": 2
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "_Pi'el_ Imperative",
-         "type": "local",
-         "tokens": [
-          {
-           "type": "italics",
-           "tokens": [
-            {
-             "text": "Pi'el",
-             "type": "text"
-            }
-           ]
-          },
-          {
-           "text": " Imperative",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Pi'el Imperative",
-         "targetTopic": "קדש",
-         "enclosingTopic": "קדש",
-         "enclosingSubtopic": "Pi'el forms"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "_Pi'el_ Infinitive",
-         "type": "local",
-         "tokens": [
-          {
-           "type": "italics",
-           "tokens": [
-            {
-             "text": "Pi'el",
-             "type": "text"
-            }
-           ]
-          },
-          {
-           "text": " Infinitive",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Pi'el Infinitive",
-         "targetTopic": "קדש",
-         "enclosingTopic": "קדש",
-         "enclosingSubtopic": "Pi'el forms"
-        }
-       ]
-      },
-      {
-       "tokens": [],
-       "merge": true
-      }
-     ]
-    ]
-   }
-  ],
-  "Pi'el Past Tense": [],
-  "Pi'el Future Tense": [],
-  "Pi'el Participle": [
-   {
-    "text": "The participle of the shoresh קדש follows the general pattern for ",
-    "type": "text"
-   },
-   {
-    "text": "pi'el",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "pi'el",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Pi'el",
-    "targetTopic": "Pi'el",
-    "enclosingTopic": "קדש",
-    "enclosingSubtopic": "Pi'el Participle"
-   },
-   {
-    "text": " ",
-    "type": "text"
-   },
-   {
-    "text": "participle verbs",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "participle verbs",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Participle",
-    "targetTopic": "Participle",
-    "enclosingTopic": "קדש",
-    "enclosingSubtopic": "Pi'el Participle"
-   },
-   {
-    "text": ".",
-    "type": "text"
-   }
-  ],
-  "Pi'el Imperative": [],
-  "Pi'el Infinitive": [],
-  "Pu'al forms": [],
-  "Hispa'el forms": [],
-  "Kiddushin": [
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "Kiddushin",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " is a stage of the marriage process. A man creates kiddushin with a woman, after which she is designated to him and needs to receive a divorce to remarry. After this stage, there is ",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "nisyuin",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": ", after which the marriage process is complete.",
-    "type": "text"
-   }
-  ],
-  "Dictionaries": [
-   {
-    "text": "More information regarding the shoresh קדש can be found in the ",
+    "text": " More information can be found in the ",
     "type": "text"
    },
    {
@@ -844,6 +413,34 @@
    },
    {
     "text": " dictionaries.",
+    "type": "text"
+   }
+  ],
+  "Kiddushin": [
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "Kiddushin",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " is a stage of the marriage process. A man creates kiddushin with a woman, after which she is designated to him and needs to receive a divorce to remarry. After this stage, there is ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "nisyuin",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ", after which the marriage process is complete.",
     "type": "text"
    }
   ]

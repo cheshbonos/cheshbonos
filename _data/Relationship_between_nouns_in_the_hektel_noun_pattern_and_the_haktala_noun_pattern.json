@@ -441,7 +441,15 @@
          "html": "<br>"
         },
         {
-         "text": " an act of donation to the temple",
+         "text": " an act of donation",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " to the temple",
          "type": "text"
         }
        ]
@@ -592,7 +600,7 @@
     ]
    },
    {
-    "text": " verb represents an action, then the ",
+    "text": " verb represents an action, the ",
     "type": "text"
    },
    {
@@ -605,7 +613,7 @@
     ]
    },
    {
-    "text": " noun will be an instance of that action, and the ",
+    "text": " noun represents an instance of that action, and the ",
     "type": "text"
    },
    {
@@ -618,7 +626,7 @@
     ]
    },
    {
-    "text": " noun will be the ",
+    "text": " noun will represent the ",
     "type": "text"
    },
    {

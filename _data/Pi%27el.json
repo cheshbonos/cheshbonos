@@ -298,42 +298,69 @@
     ]
    },
    {
-    "text": " feature a doubled middle letter. For example, the shoresh קדש when put in the ",
+    "text": " are called \"heavy.\" ",
     "type": "text"
    },
    {
-    "type": "italics",
-    "tokens": [
+    "topLevelNodes": [
      {
-      "text": "pi'el",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " produces the verb מְקַדֵּשׁ (",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "meka",
-      "type": "text"
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "This is because they are pronounced with a doubled middle letter.",
+        "type": "text"
+       }
+      ],
+      "children": []
      },
      {
-      "type": "html_element",
-      "html": "<b>d'd</b>"
-     },
-     {
-      "text": "esh",
-      "type": "text"
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "For example, the shoresh קדש when put in the ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pi'el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " produces the verb מְקַדֵּשׁ (",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "meka",
+          "type": "text"
+         },
+         {
+          "type": "html_element",
+          "html": "<b>d'd</b>"
+         },
+         {
+          "text": "esh",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ") \"he is donating to the temple.\"",
+        "type": "text"
+       }
+      ],
+      "children": []
      }
-    ]
-   },
-   {
-    "text": ") \"he is donating to the temple.\"",
-    "type": "text"
+    ],
+    "type": "outline"
    }
   ],
   "Forms": [
