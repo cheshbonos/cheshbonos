@@ -19,7 +19,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "a name beginning with ה, eg הוֹשֵׁעַ (",
+        "text": "a name or proper noun beginning with ה, eg הוֹשֵׁעַ (",
         "type": "text"
        },
        {
@@ -165,7 +165,7 @@
   ],
   "A word formed from a shoresh beginning with ה": [
    {
-    "text": "A ה at the start of a word might be part of a word formed from a ",
+    "text": "A ה might be part of a word formed from a ",
     "type": "text"
    },
    {
@@ -183,40 +183,94 @@
     "enclosingSubtopic": "A word formed from a shoresh beginning with ה"
    },
    {
-    "text": " beginning with ה, such as the shoresh הלך, which produces nouns like הֲלִיכָה (",
+    "text": " beginning with ה. ",
     "type": "text"
    },
    {
-    "type": "italics",
-    "tokens": [
+    "topLevelNodes": [
      {
-      "text": "halicha",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": ", the activity of walking), and verbs like הוֹלֵךְ (",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "For example, the shoresh הלך begins with ה",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
      {
-      "text": "holech",
-      "type": "text"
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The shoresh הלך produces nouns like הֲלִיכָה (",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "halicha",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ", the activity of walking)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The shoresh הלך produces verbs like הוֹלֵךְ (",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "holech",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ", [he is] walking).",
+        "type": "text"
+       }
+      ],
+      "children": []
      }
-    ]
-   },
-   {
-    "text": ", he is walking).",
-    "type": "text"
+    ],
+    "type": "outline"
    }
   ],
   "The Hebrew version of the word \"the\"": [
    {
-    "text": "A ה at the start of a word might be the Hebrew version of the word \"the\", for example הַאֶבֶן, \"the rock,\" formed from the word אֶבֶן, meaning \"rock.\"",
+    "text": "A ה at the start of a word might be the Hebrew version of the word \"the\". ",
     "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "For example הַאֶבֶן, \"the rock,\" formed from the word אֶבֶן, meaning \"rock.\"",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
    }
   ],
   "Past-tense verb that begins with ה": [

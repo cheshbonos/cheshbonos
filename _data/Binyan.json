@@ -219,26 +219,16 @@
       {
        "tokens": [
         {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "Binyan Meaning",
-           "type": "text"
-          }
-         ]
+         "text": "*Binyan Meaning*",
+         "type": "text"
         }
        ]
       },
       {
        "tokens": [
         {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "Resulting Verb",
-           "type": "text"
-          }
-         ]
+         "text": "*Resulting Verb*",
+         "type": "text"
         }
        ]
       }

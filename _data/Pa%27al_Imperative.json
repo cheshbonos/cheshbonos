@@ -1,0 +1,66 @@
+{
+ "displayTopicName": "Pa'al Imperative",
+ "topicTokens": [
+  {
+   "text": "Pa'al Imperative",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Pa'al Imperative": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pa'al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " has an imperative. (The ",
+    "type": "text"
+   },
+   {
+    "text": "imperative",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "imperative",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Imperative",
+    "targetTopic": "Imperative",
+    "enclosingTopic": "Pa'al Imperative",
+    "enclosingSubtopic": "Pa'al Imperative"
+   },
+   {
+    "text": " is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "tenses of Hebrew and Aramaic",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "tenses of Hebrew and Aramaic",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Verb forms of Hebrew and Aramaic",
+    "targetTopic": "Verb forms of Hebrew and Aramaic",
+    "enclosingTopic": "Pa'al Imperative",
+    "enclosingSubtopic": "Pa'al Imperative"
+   },
+   {
+    "text": ".)",
+    "type": "text"
+   }
+  ]
+ }
+}

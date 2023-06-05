@@ -1,15 +1,15 @@
 {
- "displayTopicName": "Participle",
+ "displayTopicName": "Ongoing Participle",
  "topicTokens": [
   {
-   "text": "Participle",
+   "text": "Ongoing Participle",
    "type": "text"
   }
  ],
  "paragraphsBySubtopic": {
-  "Participle": [
+  "Ongoing Participle": [
    {
-    "text": "The active participle, or just \"the participle\" (sometimes called ",
+    "text": "The ongoing participle, usually just called \"the participle\" (and sometimes called ",
     "type": "text"
    },
    {
@@ -36,8 +36,8 @@
     ],
     "targetSubtopic": "Verb forms of Hebrew and Aramaic",
     "targetTopic": "Verb forms of Hebrew and Aramaic",
-    "enclosingTopic": "Participle",
-    "enclosingSubtopic": "Participle"
+    "enclosingTopic": "Ongoing Participle",
+    "enclosingSubtopic": "Ongoing Participle"
    },
    {
     "text": ". ",
@@ -50,7 +50,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "The participle is similar to English \"ing\" verbs, like \"running.\"",
+        "text": "The ongoing participle corresponds to the English \"ing\" verbs, like \"running.\"",
         "type": "text"
        }
       ],
@@ -61,22 +61,22 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "The participle ",
+        "text": "The ongoing participle describes an ongoing action, as opposed to ",
         "type": "text"
        },
        {
-        "text": "has various uses",
-        "type": "local",
+        "text": "the finished participle",
+        "type": "global",
         "tokens": [
          {
-          "text": "has various uses",
+          "text": "the finished participle",
           "type": "text"
          }
         ],
-        "targetSubtopic": "Has various uses",
-        "targetTopic": "Participle",
-        "enclosingTopic": "Participle",
-        "enclosingSubtopic": "Participle"
+        "targetSubtopic": "Finished Participle",
+        "targetTopic": "Finished Participle",
+        "enclosingTopic": "Ongoing Participle",
+        "enclosingSubtopic": "Ongoing Participle"
        },
        {
         "text": ".",
@@ -90,7 +90,36 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "The participle has ",
+        "text": "Participles can only be used when combined with other words in special combinations called ",
+        "type": "text"
+       },
+       {
+        "text": "constructions",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "constructions",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Participle constructions",
+        "targetTopic": "Participle constructions",
+        "enclosingTopic": "Ongoing Participle",
+        "enclosingSubtopic": "Ongoing Participle"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ongoing participle has ",
         "type": "text"
        },
        {
@@ -103,27 +132,27 @@
          }
         ],
         "targetSubtopic": "Forms in Hebrew",
-        "targetTopic": "Participle",
-        "enclosingTopic": "Participle",
-        "enclosingSubtopic": "Participle"
+        "targetTopic": "Ongoing Participle",
+        "enclosingTopic": "Ongoing Participle",
+        "enclosingSubtopic": "Ongoing Participle"
        },
        {
         "text": " and ",
         "type": "text"
        },
        {
-        "text": "in Aramaic",
+        "text": "forms in Aramaic",
         "type": "local",
         "tokens": [
          {
-          "text": "in Aramaic",
+          "text": "forms in Aramaic",
           "type": "text"
          }
         ],
         "targetSubtopic": "Forms in Aramaic",
-        "targetTopic": "Participle",
-        "enclosingTopic": "Participle",
-        "enclosingSubtopic": "Participle"
+        "targetTopic": "Ongoing Participle",
+        "enclosingTopic": "Ongoing Participle",
+        "enclosingSubtopic": "Ongoing Participle"
        },
        {
         "text": ".",
@@ -134,751 +163,6 @@
      }
     ],
     "type": "outline"
-   }
-  ],
-  "Has various uses": [
-   {
-    "text": "The Hebrew and Aramaic participle has various uses. ",
-    "type": "text"
-   },
-   {
-    "topLevelNodes": [
-     {
-      "ordinal": "-",
-      "ordered": false,
-      "tokensOfLine": [
-       {
-        "text": "The Hebrew and Aramaic participle ",
-        "type": "text"
-       },
-       {
-        "text": "corresponds to both the English present and participle",
-        "type": "local",
-        "tokens": [
-         {
-          "text": "corresponds to both the English present and participle",
-          "type": "text"
-         }
-        ],
-        "targetSubtopic": "Corresponds to both the English present and participle",
-        "targetTopic": "Participle",
-        "enclosingTopic": "Participle",
-        "enclosingSubtopic": "Has various uses"
-       },
-       {
-        "text": ".",
-        "type": "text"
-       }
-      ],
-      "children": []
-     },
-     {
-      "ordinal": "-",
-      "ordered": false,
-      "tokensOfLine": [
-       {
-        "text": "The participle can be ",
-        "type": "text"
-       },
-       {
-        "text": "used for various time periods",
-        "type": "local",
-        "tokens": [
-         {
-          "text": "used for various time periods",
-          "type": "text"
-         }
-        ],
-        "targetSubtopic": "Used for various time periods",
-        "targetTopic": "Participle",
-        "enclosingTopic": "Participle",
-        "enclosingSubtopic": "Has various uses"
-       }
-      ],
-      "children": []
-     },
-     {
-      "ordinal": "-",
-      "ordered": false,
-      "tokensOfLine": [
-       {
-        "text": "It can ",
-        "type": "text"
-       },
-       {
-        "text": "function as a noun or adjective",
-        "type": "local",
-        "tokens": [
-         {
-          "text": "function as a noun or adjective",
-          "type": "text"
-         }
-        ],
-        "targetSubtopic": "Function as a noun or adjective",
-        "targetTopic": "Participle",
-        "enclosingTopic": "Participle",
-        "enclosingSubtopic": "Has various uses"
-       },
-       {
-        "text": ".",
-        "type": "text"
-       }
-      ],
-      "children": []
-     }
-    ],
-    "type": "outline"
-   }
-  ],
-  "Corresponds to both the English present and participle": [
-   {
-    "text": "The Hebrew and Aramaic participle corresponds to multiple English verb forms. ",
-    "type": "text"
-   },
-   {
-    "topLevelNodes": [
-     {
-      "ordinal": "-",
-      "ordered": false,
-      "tokensOfLine": [
-       {
-        "text": "In English you can say \"he is writing\" or \"he writes.\"",
-        "type": "text"
-       }
-      ],
-      "children": []
-     },
-     {
-      "ordinal": "-",
-      "ordered": false,
-      "tokensOfLine": [
-       {
-        "text": "In Hebrew and Aramaic, both of these forms would be expressed with the same participle i.e. הוּא כּוֹתֵב, ",
-        "type": "text"
-       },
-       {
-        "type": "italics",
-        "tokens": [
-         {
-          "text": "hu koseiv",
-          "type": "text"
-         }
-        ]
-       },
-       {
-        "text": ".",
-        "type": "text"
-       }
-      ],
-      "children": []
-     },
-     {
-      "ordinal": "-",
-      "ordered": false,
-      "tokensOfLine": [
-       {
-        "text": "Thus, when we see the word כּוֹתֵב, ",
-        "type": "text"
-       },
-       {
-        "type": "italics",
-        "tokens": [
-         {
-          "text": "koseiv",
-          "type": "text"
-         }
-        ]
-       },
-       {
-        "text": ", we can't be sure from the word alone if it means \"he is writing\" or \"he writes.\"",
-        "type": "text"
-       }
-      ],
-      "children": []
-     }
-    ],
-    "type": "outline"
-   }
-  ],
-  "Used for various time periods": [
-   {
-    "text": "A word in the participle technically ",
-    "type": "text"
-   },
-   {
-    "text": "has no time",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "has no time",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Has no time",
-    "targetTopic": "Participle",
-    "enclosingTopic": "Participle",
-    "enclosingSubtopic": "Used for various time periods"
-   },
-   {
-    "text": ", and can be used ",
-    "type": "text"
-   },
-   {
-    "text": "in the past",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "in the past",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "In the past",
-    "targetTopic": "Participle",
-    "enclosingTopic": "Participle",
-    "enclosingSubtopic": "Used for various time periods"
-   },
-   {
-    "text": ", ",
-    "type": "text"
-   },
-   {
-    "text": "in the present",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "in the present",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "In the present",
-    "targetTopic": "Participle",
-    "enclosingTopic": "Participle",
-    "enclosingSubtopic": "Used for various time periods"
-   },
-   {
-    "text": ", or ",
-    "type": "text"
-   },
-   {
-    "text": "in the future",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "in the future",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "In the future",
-    "targetTopic": "Participle",
-    "enclosingTopic": "Participle",
-    "enclosingSubtopic": "Used for various time periods"
-   },
-   {
-    "text": ".",
-    "type": "text"
-   }
-  ],
-  "Has no time": [
-   {
-    "text": "A word in the participle of Hebrew or Aramaic does not alone tell us what time the action happened. This is like the English word \"running,\" which only describes an action, not when it happened. We require the context of the sentence to determine the time of the action.",
-    "type": "text"
-   }
-  ],
-  "In the past": [
-   {
-    "text": "The participle can be used in the past tense, for example הוא היה כותב, ",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "hu haya koisev",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " meaning \"he used to write\" or \"he used to be writing.\" If you wanted to say \"he wrote,\" ie a one-time past event instead of an ongoing past event, you would just use the regular ",
-    "type": "text"
-   },
-   {
-    "text": "past tense",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "past tense",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Past tense",
-    "targetTopic": "Past tense",
-    "enclosingTopic": "Participle",
-    "enclosingSubtopic": "In the past"
-   },
-   {
-    "text": ", and not the \"past-tense version\" of the participle.",
-    "type": "text"
-   }
-  ],
-  "In the present": [
-   {
-    "text": "The participle can be used in the present tense by adding a noun before the verb, for example, הוא כותב, ",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "hu koisev",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": ", meaning \"he is writing\" or \"he writes.\"",
-    "type": "text"
-   }
-  ],
-  "In the future": [
-   {
-    "text": "The participle can be used in the future tense, for example, הוא יהיה כותב, ",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "hu yiyeh koisev",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": ", meaning \"he will be writing.\" If you wanted to say \"he will write,\" ie a one-time future event, you would just use the regular ",
-    "type": "text"
-   },
-   {
-    "text": "future tense",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "future tense",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Future Tense",
-    "targetTopic": "Future Tense",
-    "enclosingTopic": "Participle",
-    "enclosingSubtopic": "In the future"
-   },
-   {
-    "text": " and not the \"future version\" of the participle.",
-    "type": "text"
-   }
-  ],
-  "Function as a noun or adjective": [
-   {
-    "text": "Words in the participle can function ",
-    "type": "text"
-   },
-   {
-    "text": "as nouns",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "as nouns",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "As nouns",
-    "targetTopic": "Participle",
-    "enclosingTopic": "Participle",
-    "enclosingSubtopic": "Function as a noun or adjective"
-   },
-   {
-    "text": " or ",
-    "type": "text"
-   },
-   {
-    "text": "as adjectives",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "as adjectives",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "As adjectives",
-    "targetTopic": "Participle",
-    "enclosingTopic": "Participle",
-    "enclosingSubtopic": "Function as a noun or adjective"
-   },
-   {
-    "text": ".",
-    "type": "text"
-   }
-  ],
-  "As nouns": [
-   {
-    "text": "The participle can function as a noun in two ways, ",
-    "type": "text"
-   },
-   {
-    "text": "describing someone doing the action",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "describing someone doing the action",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Describing someone doing the action",
-    "targetTopic": "Participle",
-    "enclosingTopic": "Participle",
-    "enclosingSubtopic": "As nouns"
-   },
-   {
-    "text": ", or ",
-    "type": "text"
-   },
-   {
-    "text": "describing an instance of an action",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "describing an instance of an action",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Describing an instance of an action",
-    "targetTopic": "Participle",
-    "enclosingTopic": "Participle",
-    "enclosingSubtopic": "As nouns"
-   },
-   {
-    "text": ".",
-    "type": "text"
-   }
-  ],
-  "Describing someone doing the action": [
-   {
-    "text": "The participle can function as a noun describing someone or something doing the given action. For example: ",
-    "type": "text"
-   },
-   {
-    "type": "table",
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "Hebrew",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "כּוֹתֵב",
-           "type": "text"
-          }
-         ]
-        },
-        {
-         "text": " צָרִיךְ פֶּֽתֶק",
-         "type": "text"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "Transliteration",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "italics",
-         "tokens": [
-          {
-           "type": "bold",
-           "tokens": [
-            {
-             "text": "koisev",
-             "type": "text"
-            }
-           ]
-          },
-          {
-           "text": " tzarich petek",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "English",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "a person who is running",
-           "type": "text"
-          }
-         ]
-        },
-        {
-         "text": " needs shoes.",
-         "type": "text"
-        }
-       ]
-      }
-     ]
-    ]
-   },
-   {
-    "text": " Here, we see the Hebrew word \"running\" can also mean \"a person who is running.\" Putting a ה in front of the word ie הַכּוֹתֵב would mean \"the one who runs.\"",
-    "type": "text"
-   }
-  ],
-  "Describing an instance of an action": [
-   {
-    "text": "The participle can function as a noun describing someone or something doing the given action. For example: ",
-    "type": "text"
-   },
-   {
-    "type": "table",
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "Hebrew",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "כּוֹתֵב",
-           "type": "text"
-          }
-         ]
-        },
-        {
-         "text": " שלו תמיד",
-         "type": "text"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "Transliteration",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "italics",
-         "tokens": [
-          {
-           "type": "bold",
-           "tokens": [
-            {
-             "text": "koisev",
-             "type": "text"
-            }
-           ]
-          },
-          {
-           "text": " shelo tamid",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "English",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "his ",
-         "type": "text"
-        },
-        {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "writing",
-           "type": "text"
-          }
-         ]
-        },
-        {
-         "text": " is constant",
-         "type": "text"
-        }
-       ]
-      }
-     ]
-    ]
-   },
-   {
-    "text": " Here, we see that the Hebrew word \"writing\" can be used as a noun, meaning \"this particular instance of the act of writing.\"",
-    "type": "text"
-   }
-  ],
-  "As adjectives": [
-   {
-    "text": "A participle can function as an adjective, eg: ",
-    "type": "text"
-   },
-   {
-    "type": "table",
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "Hebrew",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "שמעון ",
-         "type": "text"
-        },
-        {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "קודש",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "Transliteration",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "italics",
-         "tokens": [
-          {
-           "text": "Shimeon ",
-           "type": "text"
-          },
-          {
-           "type": "bold",
-           "tokens": [
-            {
-             "text": "kodesh",
-             "type": "text"
-            }
-           ]
-          }
-         ]
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "English",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Shimeon is ",
-         "type": "text"
-        },
-        {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "holy",
-           "type": "text"
-          }
-         ]
-        },
-        {
-         "text": ", or Shimeon is ",
-         "type": "text"
-        },
-        {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "being holy",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      }
-     ]
-    ]
-   },
-   {
-    "text": " In English, \"holy\" is an adjective and \"being holy\" is a verb, but in Hebrew and Aramaic, the same participle word \"קודש\" would be used for both.",
-    "type": "text"
    }
   ],
   "Forms in Hebrew": [
@@ -897,7 +181,7 @@
     ],
     "targetSubtopic": "Hebrew binyanim",
     "targetTopic": "Hebrew binyanim",
-    "enclosingTopic": "Participle",
+    "enclosingTopic": "Ongoing Participle",
     "enclosingSubtopic": "Forms in Hebrew"
    },
    {
@@ -915,7 +199,7 @@
     ],
     "targetSubtopic": "Binyan",
     "targetTopic": "Binyan",
-    "enclosingTopic": "Participle",
+    "enclosingTopic": "Ongoing Participle",
     "enclosingSubtopic": "Forms in Hebrew"
    },
    {
@@ -952,7 +236,7 @@
          ],
          "targetSubtopic": "Simple",
          "targetTopic": "Simple",
-         "enclosingTopic": "Participle",
+         "enclosingTopic": "Ongoing Participle",
          "enclosingSubtopic": "Forms in Hebrew"
         }
        ]
@@ -970,7 +254,7 @@
          ],
          "targetSubtopic": "Intensive",
          "targetTopic": "Intensive",
-         "enclosingTopic": "Participle",
+         "enclosingTopic": "Ongoing Participle",
          "enclosingSubtopic": "Forms in Hebrew"
         }
        ]
@@ -988,7 +272,7 @@
          ],
          "targetSubtopic": "Causative",
          "targetTopic": "Causative",
-         "enclosingTopic": "Participle",
+         "enclosingTopic": "Ongoing Participle",
          "enclosingSubtopic": "Forms in Hebrew"
         }
        ]
@@ -1006,7 +290,7 @@
          ],
          "targetSubtopic": "Reflexive",
          "targetTopic": "Reflexive",
-         "enclosingTopic": "Participle",
+         "enclosingTopic": "Ongoing Participle",
          "enclosingSubtopic": "Forms in Hebrew"
         }
        ]
@@ -1026,7 +310,7 @@
          ],
          "targetSubtopic": "Active",
          "targetTopic": "Active",
-         "enclosingTopic": "Participle",
+         "enclosingTopic": "Ongoing Participle",
          "enclosingSubtopic": "Forms in Hebrew"
         }
        ]
@@ -1034,22 +318,26 @@
       {
        "tokens": [
         {
-         "text": "_Pa'al Participle_",
+         "text": "_Pa'al_ (Ongoing Participle)",
          "type": "global",
          "tokens": [
           {
            "type": "italics",
            "tokens": [
             {
-             "text": "Pa'al Participle",
+             "text": "Pa'al",
              "type": "text"
             }
            ]
+          },
+          {
+           "text": " (Ongoing Participle)",
+           "type": "text"
           }
          ],
-         "targetSubtopic": "Pa'al Participle",
-         "targetTopic": "Pa'al Participle",
-         "enclosingTopic": "Participle",
+         "targetSubtopic": "Pa'al Ongoing Participle",
+         "targetTopic": "Pa'al Ongoing Participle",
+         "enclosingTopic": "Ongoing Participle",
          "enclosingSubtopic": "Forms in Hebrew"
         }
        ]
@@ -1057,22 +345,26 @@
       {
        "tokens": [
         {
-         "text": "_Pi'el Participle_",
+         "text": "_Pi'el_ (Ongoing Participle)",
          "type": "global",
          "tokens": [
           {
            "type": "italics",
            "tokens": [
             {
-             "text": "Pi'el Participle",
+             "text": "Pi'el",
              "type": "text"
             }
            ]
+          },
+          {
+           "text": " (Ongoing Participle)",
+           "type": "text"
           }
          ],
-         "targetSubtopic": "Pi'el Participle",
-         "targetTopic": "Pi'el Participle",
-         "enclosingTopic": "Participle",
+         "targetSubtopic": "Pi'el Ongoing Participle",
+         "targetTopic": "Pi'el Ongoing Participle",
+         "enclosingTopic": "Ongoing Participle",
          "enclosingSubtopic": "Forms in Hebrew"
         }
        ]
@@ -1080,49 +372,33 @@
       {
        "tokens": [
         {
-         "text": "_Hif'il Participle_",
-         "type": "global",
+         "type": "italics",
          "tokens": [
           {
-           "type": "italics",
-           "tokens": [
-            {
-             "text": "Hif'il Participle",
-             "type": "text"
-            }
-           ]
+           "text": "Hif'il",
+           "type": "text"
           }
-         ],
-         "targetSubtopic": "Hif'il Participle",
-         "targetTopic": "Hif'il Participle",
-         "enclosingTopic": "Participle",
-         "enclosingSubtopic": "Forms in Hebrew"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "_Hispa'el Participle_",
-         "type": "global",
-         "tokens": [
-          {
-           "type": "italics",
-           "tokens": [
-            {
-             "text": "Hispa'el Participle",
-             "type": "text"
-            }
-           ]
-          }
-         ],
-         "targetSubtopic": "Hispa'el Participle",
-         "targetTopic": "Hispa'el Participle",
-         "enclosingTopic": "Participle",
-         "enclosingSubtopic": "Forms in Hebrew"
+         ]
         },
         {
-         "text": ",",
+         "text": " (Ongoing Participle)",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "Hispa'el",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " (Ongoing Participle),",
          "type": "text"
         },
         {
@@ -1134,23 +410,8 @@
          "html": "<br>"
         },
         {
-         "text": "_Nispa'el Participle_",
-         "type": "global",
-         "tokens": [
-          {
-           "type": "italics",
-           "tokens": [
-            {
-             "text": "Nispa'el Participle",
-             "type": "text"
-            }
-           ]
-          }
-         ],
-         "targetSubtopic": "Nispa'el Participle",
-         "targetTopic": "Nispa'el Participle",
-         "enclosingTopic": "Participle",
-         "enclosingSubtopic": "Forms in Hebrew"
+         "text": "_Nispa'el_ (Ongoing Participle)",
+         "type": "text"
         }
        ],
        "rowspan": 2
@@ -1170,7 +431,7 @@
          ],
          "targetSubtopic": "Passive",
          "targetTopic": "Passive",
-         "enclosingTopic": "Participle",
+         "enclosingTopic": "Ongoing Participle",
          "enclosingSubtopic": "Forms in Hebrew"
         }
        ]
@@ -1178,81 +439,51 @@
       {
        "tokens": [
         {
-         "text": "_Nif'al_ Participle",
-         "type": "global",
+         "type": "italics",
          "tokens": [
           {
-           "type": "italics",
-           "tokens": [
-            {
-             "text": "Nif'al",
-             "type": "text"
-            }
-           ]
-          },
-          {
-           "text": " Participle",
+           "text": "Nif'al",
            "type": "text"
           }
-         ],
-         "targetSubtopic": "Nif'al Participle",
-         "targetTopic": "Nif'al Participle",
-         "enclosingTopic": "Participle",
-         "enclosingSubtopic": "Forms in Hebrew"
+         ]
+        },
+        {
+         "text": " (Ongoing Participle)",
+         "type": "text"
         }
        ]
       },
       {
        "tokens": [
         {
-         "text": "_Pu'al_ Participle",
-         "type": "global",
+         "type": "italics",
          "tokens": [
           {
-           "type": "italics",
-           "tokens": [
-            {
-             "text": "Pu'al",
-             "type": "text"
-            }
-           ]
-          },
-          {
-           "text": " Participle",
+           "text": "Pu'al",
            "type": "text"
           }
-         ],
-         "targetSubtopic": "Pu'al Participle",
-         "targetTopic": "Pu'al Participle",
-         "enclosingTopic": "Participle",
-         "enclosingSubtopic": "Forms in Hebrew"
+         ]
+        },
+        {
+         "text": " (Ongoing Participle)",
+         "type": "text"
         }
        ]
       },
       {
        "tokens": [
         {
-         "text": "_Huf'al_ Participle",
-         "type": "global",
+         "type": "italics",
          "tokens": [
           {
-           "type": "italics",
-           "tokens": [
-            {
-             "text": "Huf'al",
-             "type": "text"
-            }
-           ]
-          },
-          {
-           "text": " Participle",
+           "text": "Huf'al",
            "type": "text"
           }
-         ],
-         "targetSubtopic": "Huf'al Participle",
-         "targetTopic": "Huf'al Participle",
-         "enclosingTopic": "Participle",
-         "enclosingSubtopic": "Forms in Hebrew"
+         ]
+        },
+        {
+         "text": " (Ongoing Participle)",
+         "type": "text"
         }
        ]
       },
@@ -1280,7 +511,7 @@
     ],
     "targetSubtopic": "Aramaic binyanim",
     "targetTopic": "Aramaic binyanim",
-    "enclosingTopic": "Participle",
+    "enclosingTopic": "Ongoing Participle",
     "enclosingSubtopic": "Forms in Aramaic"
    },
    {
@@ -1298,7 +529,7 @@
     ],
     "targetSubtopic": "Binyan",
     "targetTopic": "Binyan",
-    "enclosingTopic": "Participle",
+    "enclosingTopic": "Ongoing Participle",
     "enclosingSubtopic": "Forms in Aramaic"
    },
    {
@@ -1361,7 +592,7 @@
          ],
          "targetSubtopic": "Pe'al",
          "targetTopic": "Pe'al",
-         "enclosingTopic": "Participle",
+         "enclosingTopic": "Ongoing Participle",
          "enclosingSubtopic": "Forms in Aramaic"
         }
        ]
@@ -1379,7 +610,7 @@
          ],
          "targetSubtopic": "Simple",
          "targetTopic": "Simple",
-         "enclosingTopic": "Participle",
+         "enclosingTopic": "Ongoing Participle",
          "enclosingSubtopic": "Forms in Aramaic"
         },
         {
@@ -1397,7 +628,7 @@
          ],
          "targetSubtopic": "Active",
          "targetTopic": "Active",
-         "enclosingTopic": "Participle",
+         "enclosingTopic": "Ongoing Participle",
          "enclosingSubtopic": "Forms in Aramaic"
         }
        ]
@@ -1443,7 +674,7 @@
          ],
          "targetSubtopic": "Ispe'el",
          "targetTopic": "Ispe'el",
-         "enclosingTopic": "Participle",
+         "enclosingTopic": "Ongoing Participle",
          "enclosingSubtopic": "Forms in Aramaic"
         }
        ]
@@ -1461,7 +692,7 @@
          ],
          "targetSubtopic": "Simple",
          "targetTopic": "Simple",
-         "enclosingTopic": "Participle",
+         "enclosingTopic": "Ongoing Participle",
          "enclosingSubtopic": "Forms in Aramaic"
         },
         {
@@ -1479,7 +710,7 @@
          ],
          "targetSubtopic": "Passive",
          "targetTopic": "Passive",
-         "enclosingTopic": "Participle",
+         "enclosingTopic": "Ongoing Participle",
          "enclosingSubtopic": "Forms in Aramaic"
         }
        ]
@@ -1525,7 +756,7 @@
          ],
          "targetSubtopic": "Pa'el",
          "targetTopic": "Pa'el",
-         "enclosingTopic": "Participle",
+         "enclosingTopic": "Ongoing Participle",
          "enclosingSubtopic": "Forms in Aramaic"
         }
        ]
@@ -1543,7 +774,7 @@
          ],
          "targetSubtopic": "Intensive",
          "targetTopic": "Intensive",
-         "enclosingTopic": "Participle",
+         "enclosingTopic": "Ongoing Participle",
          "enclosingSubtopic": "Forms in Aramaic"
         },
         {
@@ -1561,7 +792,7 @@
          ],
          "targetSubtopic": "Active",
          "targetTopic": "Active",
-         "enclosingTopic": "Participle",
+         "enclosingTopic": "Ongoing Participle",
          "enclosingSubtopic": "Forms in Aramaic"
         }
        ]
@@ -1607,7 +838,7 @@
          ],
          "targetSubtopic": "Ispa'al",
          "targetTopic": "Ispa'al",
-         "enclosingTopic": "Participle",
+         "enclosingTopic": "Ongoing Participle",
          "enclosingSubtopic": "Forms in Aramaic"
         }
        ]
@@ -1625,7 +856,7 @@
          ],
          "targetSubtopic": "Intensive",
          "targetTopic": "Intensive",
-         "enclosingTopic": "Participle",
+         "enclosingTopic": "Ongoing Participle",
          "enclosingSubtopic": "Forms in Aramaic"
         },
         {
@@ -1643,7 +874,7 @@
          ],
          "targetSubtopic": "Passive",
          "targetTopic": "Passive",
-         "enclosingTopic": "Participle",
+         "enclosingTopic": "Ongoing Participle",
          "enclosingSubtopic": "Forms in Aramaic"
         }
        ]
@@ -1689,7 +920,7 @@
          ],
          "targetSubtopic": "Af'el",
          "targetTopic": "Af'el",
-         "enclosingTopic": "Participle",
+         "enclosingTopic": "Ongoing Participle",
          "enclosingSubtopic": "Forms in Aramaic"
         }
        ]
@@ -1707,7 +938,7 @@
          ],
          "targetSubtopic": "Causative",
          "targetTopic": "Causative",
-         "enclosingTopic": "Participle",
+         "enclosingTopic": "Ongoing Participle",
          "enclosingSubtopic": "Forms in Aramaic"
         },
         {
@@ -1725,7 +956,7 @@
          ],
          "targetSubtopic": "Active",
          "targetTopic": "Active",
-         "enclosingTopic": "Participle",
+         "enclosingTopic": "Ongoing Participle",
          "enclosingSubtopic": "Forms in Aramaic"
         }
        ]
@@ -1771,7 +1002,7 @@
          ],
          "targetSubtopic": "Itaf'al",
          "targetTopic": "Itaf'al",
-         "enclosingTopic": "Participle",
+         "enclosingTopic": "Ongoing Participle",
          "enclosingSubtopic": "Forms in Aramaic"
         }
        ]
@@ -1789,7 +1020,7 @@
          ],
          "targetSubtopic": "Causative",
          "targetTopic": "Causative",
-         "enclosingTopic": "Participle",
+         "enclosingTopic": "Ongoing Participle",
          "enclosingSubtopic": "Forms in Aramaic"
         },
         {
@@ -1807,7 +1038,7 @@
          ],
          "targetSubtopic": "Passive",
          "targetTopic": "Passive",
-         "enclosingTopic": "Participle",
+         "enclosingTopic": "Ongoing Participle",
          "enclosingSubtopic": "Forms in Aramaic"
         },
         {
@@ -1825,7 +1056,7 @@
          ],
          "targetSubtopic": "Reflexive",
          "targetTopic": "Reflexive",
-         "enclosingTopic": "Participle",
+         "enclosingTopic": "Ongoing Participle",
          "enclosingSubtopic": "Forms in Aramaic"
         }
        ]
@@ -2070,7 +1301,7 @@
     ],
     "targetSubtopic": "Past tense",
     "targetTopic": "Past tense",
-    "enclosingTopic": "Participle",
+    "enclosingTopic": "Ongoing Participle",
     "enclosingSubtopic": "For gender and number"
    },
    {
@@ -2088,7 +1319,7 @@
     ],
     "targetSubtopic": "Future Tense",
     "targetTopic": "Future Tense",
-    "enclosingTopic": "Participle",
+    "enclosingTopic": "Ongoing Participle",
     "enclosingSubtopic": "For gender and number"
    },
    {
@@ -2105,8 +1336,8 @@
      }
     ],
     "targetSubtopic": "Separate forms for person",
-    "targetTopic": "Participle",
-    "enclosingTopic": "Participle",
+    "targetTopic": "Ongoing Participle",
+    "enclosingTopic": "Ongoing Participle",
     "enclosingSubtopic": "For gender and number"
    },
    {
@@ -2123,8 +1354,8 @@
      }
     ],
     "targetSubtopic": "Like an adjective",
-    "targetTopic": "Participle",
-    "enclosingTopic": "Participle",
+    "targetTopic": "Ongoing Participle",
+    "enclosingTopic": "Ongoing Participle",
     "enclosingSubtopic": "For gender and number"
    },
    {
@@ -2153,7 +1384,7 @@
     ],
     "targetSubtopic": "Pa'al",
     "targetTopic": "Pa'al",
-    "enclosingTopic": "Participle",
+    "enclosingTopic": "Ongoing Participle",
     "enclosingSubtopic": "Separate forms for person"
    },
    {
@@ -2171,7 +1402,7 @@
     ],
     "targetSubtopic": "Past tense",
     "targetTopic": "Past tense",
-    "enclosingTopic": "Participle",
+    "enclosingTopic": "Ongoing Participle",
     "enclosingSubtopic": "Separate forms for person"
    },
    {
@@ -2610,7 +1841,7 @@
     ],
     "targetSubtopic": "Pa'al",
     "targetTopic": "Pa'al",
-    "enclosingTopic": "Participle",
+    "enclosingTopic": "Ongoing Participle",
     "enclosingSubtopic": "Like an adjective"
    },
    {
@@ -2628,7 +1859,7 @@
     ],
     "targetSubtopic": "Binyan",
     "targetTopic": "Binyan",
-    "enclosingTopic": "Participle",
+    "enclosingTopic": "Ongoing Participle",
     "enclosingSubtopic": "Like an adjective"
    },
    {

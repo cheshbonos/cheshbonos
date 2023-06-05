@@ -154,15 +154,15 @@
         ]
        },
        {
-        "text": " verb has various ",
+        "text": " verb ",
         "type": "text"
        },
        {
-        "text": "forms",
+        "text": "has various verb forms",
         "type": "local",
         "tokens": [
          {
-          "text": "forms",
+          "text": "has various verb forms",
           "type": "text"
          }
         ],
@@ -196,7 +196,25 @@
         ]
        },
        {
-        "text": " is the only binyan to feature a finished participle form.",
+        "text": " is the only binyan to feature a ",
+        "type": "text"
+       },
+       {
+        "text": "finished participle form",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "finished participle form",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Finished Participle",
+        "targetTopic": "Finished Participle",
+        "enclosingTopic": "Pa'al",
+        "enclosingSubtopic": "Pa'al"
+       },
+       {
+        "text": ".",
         "type": "text"
        }
       ],
@@ -296,14 +314,14 @@
       {
        "tokens": [
         {
-         "text": "_Pa'al_ Past Tense",
-         "type": "local",
+         "text": "_(Pa'al)_ Past Tense",
+         "type": "global",
          "tokens": [
           {
            "type": "italics",
            "tokens": [
             {
-             "text": "Pa'al",
+             "text": "(Pa'al)",
              "type": "text"
             }
            ]
@@ -313,8 +331,8 @@
            "type": "text"
           }
          ],
-         "targetSubtopic": "Past tense",
-         "targetTopic": "Pa'al",
+         "targetSubtopic": "Pa'al Past tense",
+         "targetTopic": "Pa'al Past tense",
          "enclosingTopic": "Pa'al",
          "enclosingSubtopic": "Forms"
         }
@@ -323,14 +341,14 @@
       {
        "tokens": [
         {
-         "text": "_Pa'al_ Future Tense",
-         "type": "local",
+         "text": "_(Pa'al)_ Future Tense",
+         "type": "global",
          "tokens": [
           {
            "type": "italics",
            "tokens": [
             {
-             "text": "Pa'al",
+             "text": "(Pa'al)",
              "type": "text"
             }
            ]
@@ -340,8 +358,8 @@
            "type": "text"
           }
          ],
-         "targetSubtopic": "Future tense",
-         "targetTopic": "Pa'al",
+         "targetSubtopic": "Pa'al Future tense",
+         "targetTopic": "Pa'al Future tense",
          "enclosingTopic": "Pa'al",
          "enclosingSubtopic": "Forms"
         }
@@ -350,25 +368,25 @@
       {
        "tokens": [
         {
-         "text": "_Pa'al_ Active Participle",
-         "type": "local",
+         "text": "_(Pa'al)_ Ongoing Participle",
+         "type": "global",
          "tokens": [
           {
            "type": "italics",
            "tokens": [
             {
-             "text": "Pa'al",
+             "text": "(Pa'al)",
              "type": "text"
             }
            ]
           },
           {
-           "text": " Active Participle",
+           "text": " Ongoing Participle",
            "type": "text"
           }
          ],
-         "targetSubtopic": "Active Participle",
-         "targetTopic": "Pa'al",
+         "targetSubtopic": "Pa'al Ongoing Participle",
+         "targetTopic": "Pa'al Ongoing Participle",
          "enclosingTopic": "Pa'al",
          "enclosingSubtopic": "Forms"
         }
@@ -379,14 +397,14 @@
       {
        "tokens": [
         {
-         "text": "_Pa'al_ Imperative",
-         "type": "local",
+         "text": "_(Pa'al)_ Imperative",
+         "type": "global",
          "tokens": [
           {
            "type": "italics",
            "tokens": [
             {
-             "text": "Pa'al",
+             "text": "(Pa'al)",
              "type": "text"
             }
            ]
@@ -396,8 +414,8 @@
            "type": "text"
           }
          ],
-         "targetSubtopic": "Imperative",
-         "targetTopic": "Pa'al",
+         "targetSubtopic": "Pa'al Imperative",
+         "targetTopic": "Pa'al Imperative",
          "enclosingTopic": "Pa'al",
          "enclosingSubtopic": "Forms"
         }
@@ -406,14 +424,14 @@
       {
        "tokens": [
         {
-         "text": "_Pa'al_ Infinitive",
-         "type": "local",
+         "text": "_(Pa'al)_ Infinitive",
+         "type": "global",
          "tokens": [
           {
            "type": "italics",
            "tokens": [
             {
-             "text": "Pa'al",
+             "text": "(Pa'al)",
              "type": "text"
             }
            ]
@@ -423,8 +441,8 @@
            "type": "text"
           }
          ],
-         "targetSubtopic": "Infinitive",
-         "targetTopic": "Pa'al",
+         "targetSubtopic": "Pa'al Infinitive",
+         "targetTopic": "Pa'al Infinitive",
          "enclosingTopic": "Pa'al",
          "enclosingSubtopic": "Forms"
         }
@@ -433,25 +451,25 @@
       {
        "tokens": [
         {
-         "text": "_Pa'al_ Passive Participle",
-         "type": "local",
+         "text": "_(Pa'al)_ Finished Participle",
+         "type": "global",
          "tokens": [
           {
            "type": "italics",
            "tokens": [
             {
-             "text": "Pa'al",
+             "text": "(Pa'al)",
              "type": "text"
             }
            ]
           },
           {
-           "text": " Passive Participle",
+           "text": " Finished Participle",
            "type": "text"
           }
          ],
-         "targetSubtopic": "Passive Participle",
-         "targetTopic": "Pa'al",
+         "targetSubtopic": "Pa'al Finished Participle",
+         "targetTopic": "Pa'al Finished Participle",
          "enclosingTopic": "Pa'al",
          "enclosingSubtopic": "Forms"
         }
@@ -459,1104 +477,6 @@
       }
      ]
     ]
-   }
-  ],
-  "Passive Participle": [],
-  "Active Participle": [
-   {
-    "text": "The ",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "pa'al",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " has an active participle form, which is normally just called the \"participle.\" (The ",
-    "type": "text"
-   },
-   {
-    "text": "participle",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "participle",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Participle",
-    "targetTopic": "Participle",
-    "enclosingTopic": "Pa'al",
-    "enclosingSubtopic": "Active Participle"
-   },
-   {
-    "text": " is one of the ",
-    "type": "text"
-   },
-   {
-    "text": "tenses of Hebrew and Aramaic",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "tenses of Hebrew and Aramaic",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Verb forms of Hebrew and Aramaic",
-    "targetTopic": "Verb forms of Hebrew and Aramaic",
-    "enclosingTopic": "Pa'al",
-    "enclosingSubtopic": "Active Participle"
-   },
-   {
-    "text": ".) This is an example of how you conjugate verbs with ",
-    "type": "text"
-   },
-   {
-    "text": "regular shorushim",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "regular shorushim",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Regular shorushim",
-    "targetTopic": "Regular shorushim",
-    "enclosingTopic": "Pa'al",
-    "enclosingSubtopic": "Active Participle"
-   },
-   {
-    "text": " in the ",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "pa'al",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " participle: ",
-    "type": "text"
-   },
-   {
-    "type": "table",
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "Person",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "Hebrew",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "Transliteration",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "Masculine singular",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "כּוֹתֵב",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "italics",
-         "tokens": [
-          {
-           "text": "koseiv",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "Feminine singular",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "כּוֹתֶבֶת",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "italics",
-         "tokens": [
-          {
-           "text": "koseves",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "Masculine plural",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "כּוֹתְבִים",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "italics",
-         "tokens": [
-          {
-           "text": "kosvim",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "Feminine plural",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "כּוֹתְבוֹת",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "italics",
-         "tokens": [
-          {
-           "text": "kosvos",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      }
-     ]
-    ]
-   },
-   {
-    "text": " The ",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "pa'al",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " participle generally features a ו between the first and second root letters. You can see examples of the ",
-    "type": "text"
-   },
-   {
-    "text": "participle",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "participle",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Participle",
-    "targetTopic": "Participle",
-    "enclosingTopic": "Pa'al",
-    "enclosingSubtopic": "Active Participle"
-   },
-   {
-    "text": " in ",
-    "type": "text"
-   },
-   {
-    "text": "other binyanim",
-    "type": "import",
-    "tokens": [
-     {
-      "text": "other binyanim",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Forms in Hebrew",
-    "targetTopic": "Participle",
-    "enclosingTopic": "Pa'al",
-    "enclosingSubtopic": "Active Participle"
-   },
-   {
-    "text": ".",
-    "type": "text"
-   }
-  ],
-  "Past tense": [
-   {
-    "text": "The ",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "pa'al",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " has an past tense. (The ",
-    "type": "text"
-   },
-   {
-    "text": "past tense",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "past tense",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Past tense",
-    "targetTopic": "Past tense",
-    "enclosingTopic": "Pa'al",
-    "enclosingSubtopic": "Past tense"
-   },
-   {
-    "text": " is one of the ",
-    "type": "text"
-   },
-   {
-    "text": "tenses of Hebrew and Aramaic",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "tenses of Hebrew and Aramaic",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Verb forms of Hebrew and Aramaic",
-    "targetTopic": "Verb forms of Hebrew and Aramaic",
-    "enclosingTopic": "Pa'al",
-    "enclosingSubtopic": "Past tense"
-   },
-   {
-    "text": ".) This is an example of how you conjugate verbs with ",
-    "type": "text"
-   },
-   {
-    "text": "regular shorushim",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "regular shorushim",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Regular shorushim",
-    "targetTopic": "Regular shorushim",
-    "enclosingTopic": "Pa'al",
-    "enclosingSubtopic": "Past tense"
-   },
-   {
-    "text": " in the ",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "pa'al",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " past tense: ",
-    "type": "text"
-   },
-   {
-    "type": "table",
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "Person",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "Hebrew",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "Transliteration",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "Meaning",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "First singular",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "כָּתַבְתִּי",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "italics",
-         "tokens": [
-          {
-           "text": "kosavti",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "I wrote",
-         "type": "text"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "First person plural",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "כּוֹתְבוֹת",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "italics",
-         "tokens": [
-          {
-           "text": "kosavnu",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "We wrote",
-         "type": "text"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "Second singular masculine",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "כָּתַבְתָּ",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "italics",
-         "tokens": [
-          {
-           "text": "kosavto",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "You (man) wrote",
-         "type": "text"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "Second singular feminine",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "כָּתַבְתְּ",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "italics",
-         "tokens": [
-          {
-           "text": "kosavt",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "You (woman) wrote",
-         "type": "text"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "Second plural masculine",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "כְּתַבְתֶּם",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "italics",
-         "tokens": [
-          {
-           "text": "ksavtem",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "You (men) wrote",
-         "type": "text"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "Second plural feminine",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "כְּתַבְתֶּן",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "italics",
-         "tokens": [
-          {
-           "text": "ksavten",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "You (women) wrote",
-         "type": "text"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "Third plural masculine",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "כָּתַב",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "italics",
-         "tokens": [
-          {
-           "text": "kosav",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "He wrote",
-         "type": "text"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "Third plural feminine",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "כָּתְבָה",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "italics",
-         "tokens": [
-          {
-           "text": "kosvo",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "She wrote",
-         "type": "text"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "They/those",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "כָּתְבוּ",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "italics",
-         "tokens": [
-          {
-           "text": "kosvu",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "They wrote",
-         "type": "text"
-        }
-       ]
-      }
-     ]
-    ]
-   }
-  ],
-  "Future tense": [
-   {
-    "text": "The ",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "pa'al",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " has a future tense. (The ",
-    "type": "text"
-   },
-   {
-    "text": "future tense",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "future tense",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Future Tense",
-    "targetTopic": "Future Tense",
-    "enclosingTopic": "Pa'al",
-    "enclosingSubtopic": "Future tense"
-   },
-   {
-    "text": " is one of the ",
-    "type": "text"
-   },
-   {
-    "text": "tenses of Hebrew and Aramaic",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "tenses of Hebrew and Aramaic",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Verb forms of Hebrew and Aramaic",
-    "targetTopic": "Verb forms of Hebrew and Aramaic",
-    "enclosingTopic": "Pa'al",
-    "enclosingSubtopic": "Future tense"
-   },
-   {
-    "text": ".) The future tense has various ",
-    "type": "text"
-   },
-   {
-    "text": "uses",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "uses",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Uses",
-    "targetTopic": "Pa'al",
-    "enclosingTopic": "Pa'al",
-    "enclosingSubtopic": "Future tense"
-   },
-   {
-    "text": ".",
-    "type": "text"
-   }
-  ],
-  "Uses": [
-   {
-    "text": "The future tense is often used to describe an action that will occur in the future, but it has several other uses: | ",
-    "type": "text"
-   },
-   {
-    "type": "bold",
-    "tokens": [
-     {
-      "text": "Future Verb",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " | ",
-    "type": "text"
-   },
-   {
-    "type": "bold",
-    "tokens": [
-     {
-      "text": "Meaning",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " | |-|-|-|\n",
-    "type": "text"
-   },
-   {
-    "type": "table",
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "אכל",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "to eat",
-         "type": "text"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "קנה",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "to buy",
-         "type": "text"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "זכר",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "to remember",
-         "type": "text"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "אמר",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "to say",
-         "type": "text"
-        }
-       ]
-      }
-     ]
-    ]
-   }
-  ],
-  "Imperative": [
-   {
-    "text": "The ",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "pa'al",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " has an imperative. (The ",
-    "type": "text"
-   },
-   {
-    "text": "imperative",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "imperative",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Imperative",
-    "targetTopic": "Imperative",
-    "enclosingTopic": "Pa'al",
-    "enclosingSubtopic": "Imperative"
-   },
-   {
-    "text": " is one of the ",
-    "type": "text"
-   },
-   {
-    "text": "tenses of Hebrew and Aramaic",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "tenses of Hebrew and Aramaic",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Verb forms of Hebrew and Aramaic",
-    "targetTopic": "Verb forms of Hebrew and Aramaic",
-    "enclosingTopic": "Pa'al",
-    "enclosingSubtopic": "Imperative"
-   },
-   {
-    "text": ".)",
-    "type": "text"
-   }
-  ],
-  "Infinitive": [
-   {
-    "text": "The ",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "pa'al",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " has an infinitive. (The ",
-    "type": "text"
-   },
-   {
-    "text": "infinitive",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "infinitive",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Infinitive",
-    "targetTopic": "Infinitive",
-    "enclosingTopic": "Pa'al",
-    "enclosingSubtopic": "Infinitive"
-   },
-   {
-    "text": " is one of the ",
-    "type": "text"
-   },
-   {
-    "text": "tenses of Hebrew and Aramaic",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "tenses of Hebrew and Aramaic",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Verb forms of Hebrew and Aramaic",
-    "targetTopic": "Verb forms of Hebrew and Aramaic",
-    "enclosingTopic": "Pa'al",
-    "enclosingSubtopic": "Infinitive"
-   },
-   {
-    "text": ".)",
-    "type": "text"
    }
   ]
  }

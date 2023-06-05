@@ -1,0 +1,938 @@
+{
+ "displayTopicName": "Participle constructions",
+ "topicTokens": [
+  {
+   "text": "Participle constructions",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Participle constructions": [
+   {
+    "text": "The Hebrew and Aramaic ",
+    "type": "text"
+   },
+   {
+    "text": "ongoing participle",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "ongoing participle",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Ongoing Participle",
+    "targetTopic": "Ongoing Participle",
+    "enclosingTopic": "Participle constructions",
+    "enclosingSubtopic": "Participle constructions"
+   },
+   {
+    "text": " can be used in various constructions. ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Like the word \"running\" in English, verbs in the participle require other words to form a full sentence. These word combinations are often called \"constructions.\"",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The participle is most commonly ",
+        "type": "text"
+       },
+       {
+        "text": "used to produce the present tense",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "used to produce the present tense",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Used to produce the present tense",
+        "targetTopic": "Participle constructions",
+        "enclosingTopic": "Participle constructions",
+        "enclosingSubtopic": "Participle constructions"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The participle by itself has no time, and can be ",
+        "type": "text"
+       },
+       {
+        "text": "used for various time periods",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "used for various time periods",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Used for various time periods",
+        "targetTopic": "Participle constructions",
+        "enclosingTopic": "Participle constructions",
+        "enclosingSubtopic": "Participle constructions"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Words in the participle can ",
+        "type": "text"
+       },
+       {
+        "text": "function as nouns",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "function as nouns",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Function as nouns",
+        "targetTopic": "Participle constructions",
+        "enclosingTopic": "Participle constructions",
+        "enclosingSubtopic": "Participle constructions"
+       },
+       {
+        "text": " or ",
+        "type": "text"
+       },
+       {
+        "text": "function as adjectives",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "function as adjectives",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Function as adjectives",
+        "targetTopic": "Participle constructions",
+        "enclosingTopic": "Participle constructions",
+        "enclosingSubtopic": "Participle constructions"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "All of these rules apply to both the ",
+        "type": "text"
+       },
+       {
+        "text": "active ongoing participle",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "active ongoing participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Ongoing Participle",
+        "targetTopic": "Ongoing Participle",
+        "enclosingTopic": "Participle constructions",
+        "enclosingSubtopic": "Participle constructions"
+       },
+       {
+        "text": " and the ",
+        "type": "text"
+       },
+       {
+        "text": "finished participle",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "finished participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Finished Participle",
+        "targetTopic": "Finished Participle",
+        "enclosingTopic": "Participle constructions",
+        "enclosingSubtopic": "Participle constructions"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "Used to produce the present tense": [
+   {
+    "text": "The participle can be used to produce the Hebrew and Aramaic present tense. ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The present tense is produced by taking a pronoun like הוּא (",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hu",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ", \"he\") followed by a participle like כּוֹתֵב (",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "koseiv",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ", \"writing\") i.e. \"he is writing.\"",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "There is no word equivalent to \"is\" in Hebrew and Aramaic, so it is implied by context.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "A participle like כּוֹתֵב (",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "koseiv",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ", \"writing\") alone is not necessarily in the present tense, and can be used in the past or future, as in \"he was writing.\"",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The Hebrew and Aramaic \"present tense\" correspond to both the English present tense and participle",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "The Hebrew and Aramaic \"present tense\" correspond to both the English present tense and participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "The Hebrew and Aramaic \"present tense\" correspond to both the English present tense and participle",
+        "targetTopic": "Participle constructions",
+        "enclosingTopic": "Participle constructions",
+        "enclosingSubtopic": "Used to produce the present tense"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "The Hebrew and Aramaic \"present tense\" correspond to both the English present tense and participle": [
+   {
+    "text": "The Hebrew and Aramaic \"present tense\" construction corresponds to multiple English verb forms. ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "In English you can say \"he is writing\" (English participle) or \"he writes\" (English present tense.)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "In Hebrew and Aramaic, both of these forms would be expressed with the same participle construction i.e. הוּא כּוֹתֵב (",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hu koseiv",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ".)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Thus, when we see a sentence like הוּא כּוֹתֵב (",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hu koseiv",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": "), we can't be sure from the sentence alone if it means \"he is writing\" or \"he writes.\"",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "Used for various time periods": [
+   {
+    "text": "A word in the participle technically ",
+    "type": "text"
+   },
+   {
+    "text": "has no time",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "has no time",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Has no time",
+    "targetTopic": "Participle constructions",
+    "enclosingTopic": "Participle constructions",
+    "enclosingSubtopic": "Used for various time periods"
+   },
+   {
+    "text": ", and can be used ",
+    "type": "text"
+   },
+   {
+    "text": "in the past",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "in the past",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "In the past",
+    "targetTopic": "Participle constructions",
+    "enclosingTopic": "Participle constructions",
+    "enclosingSubtopic": "Used for various time periods"
+   },
+   {
+    "text": ", ",
+    "type": "text"
+   },
+   {
+    "text": "in the present",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "in the present",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "In the present",
+    "targetTopic": "Participle constructions",
+    "enclosingTopic": "Participle constructions",
+    "enclosingSubtopic": "Used for various time periods"
+   },
+   {
+    "text": ", or ",
+    "type": "text"
+   },
+   {
+    "text": "in the future",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "in the future",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "In the future",
+    "targetTopic": "Participle constructions",
+    "enclosingTopic": "Participle constructions",
+    "enclosingSubtopic": "Used for various time periods"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Has no time": [
+   {
+    "text": "A word in the participle of Hebrew or Aramaic does not alone tell us what time the action happened. This is like the English word \"running,\" which only describes an action, not when it happened. We require the context of the sentence to determine the time of the action.",
+    "type": "text"
+   }
+  ],
+  "In the past": [
+   {
+    "text": "The participle can be used in the past tense, for example הוא היה כותב, ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "hu haya koisev",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " meaning \"he used to write\" or \"he used to be writing.\" If you wanted to say \"he wrote,\" ie a one-time past event instead of an ongoing past event, you would just use the regular ",
+    "type": "text"
+   },
+   {
+    "text": "past tense",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "past tense",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Past tense",
+    "targetTopic": "Past tense",
+    "enclosingTopic": "Participle constructions",
+    "enclosingSubtopic": "In the past"
+   },
+   {
+    "text": ", and not the \"past-tense version\" of the participle.",
+    "type": "text"
+   }
+  ],
+  "In the present": [
+   {
+    "text": "The participle can be used in the present tense by adding a noun before the verb, for example, הוא כותב, ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "hu koisev",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ", meaning \"he is writing\" or \"he writes.\"",
+    "type": "text"
+   }
+  ],
+  "In the future": [
+   {
+    "text": "The participle can be used in the future tense, for example, הוא יהיה כותב, ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "hu yiyeh koisev",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ", meaning \"he will be writing.\" If you wanted to say \"he will write,\" ie a one-time future event, you would just use the regular ",
+    "type": "text"
+   },
+   {
+    "text": "future tense",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "future tense",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Future Tense",
+    "targetTopic": "Future Tense",
+    "enclosingTopic": "Participle constructions",
+    "enclosingSubtopic": "In the future"
+   },
+   {
+    "text": " and not the \"future version\" of the participle.",
+    "type": "text"
+   }
+  ],
+  "Function as nouns": [
+   {
+    "text": "The participle can function as a noun in two ways: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "A participle can ",
+        "type": "text"
+       },
+       {
+        "text": "describe someone doing the action",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "describe someone doing the action",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Describe someone doing the action",
+        "targetTopic": "Participle constructions",
+        "enclosingTopic": "Participle constructions",
+        "enclosingSubtopic": "Function as nouns"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "A participle can ",
+        "type": "text"
+       },
+       {
+        "text": "describe an instance of an action",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "describe an instance of an action",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Describe an instance of an action",
+        "targetTopic": "Participle constructions",
+        "enclosingTopic": "Participle constructions",
+        "enclosingSubtopic": "Function as nouns"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "Describe someone doing the action": [
+   {
+    "text": "The participle can function as a noun describing someone or something doing the given action. For example: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "Hebrew",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "כּוֹתֵב",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " צָרִיךְ פֶּֽתֶק",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Transliteration",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "type": "bold",
+           "tokens": [
+            {
+             "text": "kosev",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " tzarich petek",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "English",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "a person who is writing",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " needs paper.",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "text": " Here, we see the Hebrew word \"running\" can also mean \"a person who is running.\"\n",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Putting a ה in front of the word ie הַכּוֹתֵב would mean \"the one who runs,\" a verb form found commonly in the Mishnah.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "Describe an instance of an action": [
+   {
+    "text": "The participle can function as a noun describing someone or something doing the given action. For example: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "Hebrew",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "כּוֹתֵב",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " שלוֹ תַּמִיד",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Transliteration",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "type": "bold",
+           "tokens": [
+            {
+             "text": "koisev",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " shelo tamid",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "English",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "his ",
+         "type": "text"
+        },
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "writing",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " is constant",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "text": " Here, we see that the Hebrew word \"writing\" can be used as a noun, meaning \"this particular instance of the act of writing.\"",
+    "type": "text"
+   }
+  ],
+  "Function as adjectives": [
+   {
+    "text": "A participle can function as an adjective, eg: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "Hebrew",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "שמעון ",
+         "type": "text"
+        },
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "קודש",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Transliteration",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "Shimeon ",
+           "type": "text"
+          },
+          {
+           "type": "bold",
+           "tokens": [
+            {
+             "text": "kodesh",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "English",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Shimeon is ",
+         "type": "text"
+        },
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "holy",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": ", or Shimeon is *being holy*",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "text": " In English, \"holy\" is an adjective and \"being holy\" is a verb, but in Hebrew and Aramaic, the same participle word \"קודש\" would be used for both.",
+    "type": "text"
+   }
+  ]
+ }
+}

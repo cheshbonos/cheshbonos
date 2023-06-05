@@ -998,7 +998,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Understand the ",
+        "text": "For more advanced students, understand the ",
         "type": "text"
        },
        {
@@ -1023,7 +1023,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Write a ",
+        "text": "Understand a ",
         "type": "text"
        },
        {
@@ -1039,6 +1039,10 @@
         "targetTopic": "The Mishnah on Kiddushin 41a",
         "enclosingTopic": "The Mishnah on Kiddushin 41a",
         "enclosingSubtopic": "Closely read the first clause"
+       },
+       {
+        "text": ".",
+        "type": "text"
        }
       ],
       "children": []
@@ -1232,44 +1236,81 @@
   ],
   "האיש": [
    {
-    "text": "The word האיש has ",
+    "text": "The word האיש has: ",
     "type": "text"
    },
    {
-    "text": "possible meanings",
-    "type": "local",
-    "tokens": [
+    "topLevelNodes": [
      {
-      "text": "possible meanings",
-      "type": "text"
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Possible meanings of האיש",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Possible meanings of האיש",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Possible meanings of האיש",
+        "targetTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingSubtopic": "האיש"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "A translation of האיש",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Actual meaning of האיש",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Actual meaning of האיש",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Actual meaning of האיש",
+        "targetTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingSubtopic": "האיש"
+       },
+       {
+        "text": " (Try reading the \"possible meanings\" of all the words in the sentence before looking at the \"actual meaning\" of any word, so that you can practice figuring it out yourself.)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "How you can figure it out",
+        "type": "text"
+       }
+      ],
+      "children": []
      }
     ],
-    "targetSubtopic": "Possible meanings of האיש",
-    "targetTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "האיש"
-   },
-   {
-    "text": " and an ",
-    "type": "text"
-   },
-   {
-    "text": "actual meaning",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "actual meaning",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Actual meaning of האיש",
-    "targetTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "האיש"
-   },
-   {
-    "text": ". (Try reading the \"possible meanings\" of all the words in the sentence before looking at the \"actual meaning\" of any word, so that you can practice figuring it out yourself.)",
-    "type": "text"
+    "type": "outline"
    }
   ],
   "Possible meanings of האיש": [
@@ -1512,140 +1553,213 @@
   ],
   "מקדש": [
    {
-    "text": "The word מקדש has ",
+    "text": "The word מקדש has: ",
     "type": "text"
    },
    {
-    "text": "possible meanings",
-    "type": "local",
-    "tokens": [
+    "topLevelNodes": [
      {
-      "text": "possible meanings",
-      "type": "text"
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Hints for how to read מקדש",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Hints for how to read מקדש",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Hints for how to read מקדש",
+        "targetTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingSubtopic": "מקדש"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "A translation of מקדש",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "A translation of מקדש",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "A translation of מקדש",
+        "targetTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingSubtopic": "מקדש"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "A grammatical explanation of מקדש",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "A grammatical explanation of מקדש",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "A grammatical explanation of מקדש",
+        "targetTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingSubtopic": "מקדש"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "How to figure out the meaning of מקדש",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "How to figure out the meaning of מקדש",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "How to figure out the meaning of מקדש",
+        "targetTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingSubtopic": "מקדש"
+       }
+      ],
+      "children": []
      }
     ],
-    "targetSubtopic": "Possible meanings of מקדש",
-    "targetTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "מקדש"
-   },
-   {
-    "text": ", an ",
-    "type": "text"
-   },
-   {
-    "text": "actual meaning",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "actual meaning",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Actual meaning of מקדש",
-    "targetTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "מקדש"
-   },
-   {
-    "text": " and a ",
-    "type": "text"
-   },
-   {
-    "text": "grammatical explanation",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "grammatical explanation",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Grammatical explanation of מקדש",
-    "targetTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "מקדש"
-   },
-   {
-    "text": ".",
-    "type": "text"
+    "type": "outline"
    }
   ],
-  "Possible meanings of מקדש": [
+  "Hints for how to read מקדש": [
    {
-    "text": "Try to use the following hints to guess the meaning of the word. There are ",
+    "text": "Try to use the following hints to guess the meaning of the word. ",
     "type": "text"
    },
    {
-    "text": "different things a מ at the start of a word could mean",
-    "type": "global",
-    "tokens": [
+    "topLevelNodes": [
      {
-      "text": "different things a מ at the start of a word could mean",
-      "type": "text"
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "There are ",
+        "type": "text"
+       },
+       {
+        "text": "different things a מ at the start of a word could mean",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "different things a מ at the start of a word could mean",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Different things a מ at the start of a word could mean",
+        "targetTopic": "Different things a מ at the start of a word could mean",
+        "enclosingTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingSubtopic": "Hints for how to read מקדש"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "There is a ",
+        "type": "text"
+       },
+       {
+        "text": "shoresh",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "shoresh",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Shoresh",
+        "targetTopic": "Shoresh",
+        "enclosingTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingSubtopic": "Hints for how to read מקדש"
+       },
+       {
+        "text": " spelled ",
+        "type": "text"
+       },
+       {
+        "text": "קדש",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "קדש",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "קדש",
+        "targetTopic": "קדש",
+        "enclosingTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingSubtopic": "Hints for how to read מקדש"
+       },
+       {
+        "text": " which has various meanings",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "There are ",
+        "type": "text"
+       },
+       {
+        "text": "two verb forms that are spelled exactly like their shoresh",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "two verb forms that are spelled exactly like their shoresh",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Two verb forms that are spelled exactly like their shoresh",
+        "targetTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingSubtopic": "Hints for how to read מקדש"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
      }
     ],
-    "targetSubtopic": "Different things a מ at the start of a word could mean",
-    "targetTopic": "Different things a מ at the start of a word could mean",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Possible meanings of מקדש"
-   },
-   {
-    "text": ". There is a ",
-    "type": "text"
-   },
-   {
-    "text": "shoresh",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "shoresh",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Shoresh",
-    "targetTopic": "Shoresh",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Possible meanings of מקדש"
-   },
-   {
-    "text": " spelled ",
-    "type": "text"
-   },
-   {
-    "text": "קדש",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "קדש",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "קדש",
-    "targetTopic": "קדש",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Possible meanings of מקדש"
-   },
-   {
-    "text": " which has various meanings, and there ",
-    "type": "text"
-   },
-   {
-    "text": "two verb forms that are spelled exactly like their shoresh",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "two verb forms that are spelled exactly like their shoresh",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Two verb forms that are spelled exactly like their shoresh",
-    "targetTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingTopic": "The Mishnah on Kiddushin 41a",
-    "enclosingSubtopic": "Possible meanings of מקדש"
-   },
-   {
-    "text": ".",
-    "type": "text"
+    "type": "outline"
    }
   ],
   "Two verb forms that are spelled exactly like their shoresh": [
@@ -1708,9 +1822,9 @@
     "type": "text"
    }
   ],
-  "Actual meaning of מקדש": [
+  "A translation of מקדש": [
    {
-    "text": "The word מקדש here means for a man to create a status of ",
+    "text": "The word מקדש here is a verb describing a man who is creating the initial stage of marriage, i.e. ",
     "type": "text"
    },
    {
@@ -1723,11 +1837,11 @@
     ]
    },
    {
-    "text": " with a woman prior to marriage.",
+    "text": " with a woman.",
     "type": "text"
    }
   ],
-  "Grammatical explanation of מקדש": [
+  "A grammatical explanation of מקדש": [
    {
     "text": "This is a grammatical explanation of the word מקדש: ",
     "type": "text"
@@ -1754,7 +1868,7 @@
         "targetSubtopic": "Shoresh",
         "targetTopic": "Shoresh",
         "enclosingTopic": "The Mishnah on Kiddushin 41a",
-        "enclosingSubtopic": "Grammatical explanation of מקדש"
+        "enclosingSubtopic": "A grammatical explanation of מקדש"
        },
        {
         "text": ", which is put into a particular ",
@@ -1772,7 +1886,7 @@
         "targetSubtopic": "Binyan",
         "targetTopic": "Binyan",
         "enclosingTopic": "The Mishnah on Kiddushin 41a",
-        "enclosingSubtopic": "Grammatical explanation of מקדש"
+        "enclosingSubtopic": "A grammatical explanation of מקדש"
        },
        {
         "text": ", and then into a particular ",
@@ -1790,7 +1904,7 @@
         "targetSubtopic": "Verb forms of Hebrew and Aramaic",
         "targetTopic": "Verb forms of Hebrew and Aramaic",
         "enclosingTopic": "The Mishnah on Kiddushin 41a",
-        "enclosingSubtopic": "Grammatical explanation of מקדש"
+        "enclosingSubtopic": "A grammatical explanation of מקדש"
        },
        {
         "text": ", and then into a particular conjugation of that verb form.",
@@ -1804,7 +1918,72 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "The word מקדש is ",
+        "text": "There is a binyan called the ",
+        "type": "text"
+       },
+       {
+        "text": "_pi'el_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "pi'el",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Pi'el",
+        "targetTopic": "Pi'el",
+        "enclosingTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingSubtopic": "A grammatical explanation of מקדש"
+       },
+       {
+        "text": ", and a tense called the ",
+        "type": "text"
+       },
+       {
+        "text": "ongoing participle",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "ongoing participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Ongoing Participle",
+        "targetTopic": "Ongoing Participle",
+        "enclosingTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingSubtopic": "A grammatical explanation of מקדש"
+       },
+       {
+        "text": ", and the ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pi'el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " binyan has a participle.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The word מקדש is the ",
         "type": "text"
        },
        {
@@ -1819,16 +1998,20 @@
         "targetSubtopic": "קדש",
         "targetTopic": "קדש",
         "enclosingTopic": "The Mishnah on Kiddushin 41a",
-        "enclosingSubtopic": "Grammatical explanation of מקדש"
+        "enclosingSubtopic": "A grammatical explanation of מקדש"
        },
        {
-        "text": ", in its ",
+        "text": ", in ",
         "type": "text"
        },
        {
-        "text": "_pi'el_ form",
-        "type": "import",
+        "text": "its _pi'el_ form",
+        "type": "global",
         "tokens": [
+         {
+          "text": "its ",
+          "type": "text"
+         },
          {
           "type": "italics",
           "tokens": [
@@ -1843,17 +2026,17 @@
           "type": "text"
          }
         ],
-        "targetSubtopic": "Pi'el form",
-        "targetTopic": "קדש",
+        "targetSubtopic": "Pi'el",
+        "targetTopic": "Pi'el",
         "enclosingTopic": "The Mishnah on Kiddushin 41a",
-        "enclosingSubtopic": "Grammatical explanation of מקדש"
+        "enclosingSubtopic": "A grammatical explanation of מקדש"
        },
        {
         "text": ", in the ",
         "type": "text"
        },
        {
-        "text": "_pi'el_ participle form",
+        "text": "_pi'el__'s_ \"ongoing participle\" form",
         "type": "global",
         "tokens": [
          {
@@ -1866,17 +2049,121 @@
           ]
          },
          {
-          "text": " participle form",
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "'s",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " \"ongoing participle\" form",
           "type": "text"
          }
         ],
-        "targetSubtopic": "Pi'el Participle",
-        "targetTopic": "Pi'el Participle",
+        "targetSubtopic": "Pi'el Ongoing Participle",
+        "targetTopic": "Pi'el Ongoing Participle",
         "enclosingTopic": "The Mishnah on Kiddushin 41a",
-        "enclosingSubtopic": "Grammatical explanation of מקדש"
+        "enclosingSubtopic": "A grammatical explanation of מקדש"
        },
        {
-        "text": ", in the masculine singular conjugation.",
+        "text": ", in the participle's masculine singular conjugation.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "How to figure out the meaning of מקדש": [
+   {
+    "text": "There are several ways to figure out the meaning of מקדש. ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "We are reading a Mishnah so we know it is Hebrew",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Once we know האיש is a noun, we should expect a verb",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "We have 4 strong letters, so either the ",
+        "type": "text"
+       },
+       {
+        "text": "shoresh",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "shoresh",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Shoresh",
+        "targetTopic": "Shoresh",
+        "enclosingTopic": "The Mishnah on Kiddushin 41a",
+        "enclosingSubtopic": "How to figure out the meaning of מקדש"
+       },
+       {
+        "text": " is מקד and there is a ש suffix, or the shoresh is קדש and there is a מ prefix.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "There is no such suffix as ש, nor such a shoresh as מקד, so we see the shoresh is קדש and the prefix is מ.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "There are only two verb forms in Hebrew that have a מ prefix, the [pi'el participle] and the [hif'il participle].",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The hif'il participle has a י between the second and third shoresh letters, so we see this is a [pi'el participle].",
         "type": "text"
        }
       ],

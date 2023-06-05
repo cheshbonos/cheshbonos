@@ -1,20 +1,15 @@
 {
- "displayTopicName": "_Pa'al Participle_",
+ "displayTopicName": "Pa'al Past tense",
  "topicTokens": [
   {
-   "type": "italics",
-   "tokens": [
-    {
-     "text": "Pa'al Participle",
-     "type": "text"
-    }
-   ]
+   "text": "Pa'al Past tense",
+   "type": "text"
   }
  ],
  "paragraphsBySubtopic": {
-  "Pa'al Participle": [
+  "Pa'al Past tense": [
    {
-    "text": "This is the ",
+    "text": "The ",
     "type": "text"
    },
    {
@@ -27,7 +22,43 @@
     ]
    },
    {
-    "text": " participle conjugation for ",
+    "text": " has an past tense. (The ",
+    "type": "text"
+   },
+   {
+    "text": "past tense",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "past tense",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Past tense",
+    "targetTopic": "Past tense",
+    "enclosingTopic": "Pa'al Past tense",
+    "enclosingSubtopic": "Pa'al Past tense"
+   },
+   {
+    "text": " is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "tenses of Hebrew and Aramaic",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "tenses of Hebrew and Aramaic",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Verb forms of Hebrew and Aramaic",
+    "targetTopic": "Verb forms of Hebrew and Aramaic",
+    "enclosingTopic": "Pa'al Past tense",
+    "enclosingSubtopic": "Pa'al Past tense"
+   },
+   {
+    "text": ".) This is an example of how you conjugate verbs with ",
     "type": "text"
    },
    {
@@ -41,97 +72,24 @@
     ],
     "targetSubtopic": "Regular shorushim",
     "targetTopic": "Regular shorushim",
-    "enclosingTopic": "Pa'al Participle",
-    "enclosingSubtopic": "Pa'al Participle"
+    "enclosingTopic": "Pa'al Past tense",
+    "enclosingSubtopic": "Pa'al Past tense"
    },
    {
-    "text": ", but there is also a ",
+    "text": " in the ",
     "type": "text"
    },
    {
-    "text": "_pa'al_ participle for stative verbs",
-    "type": "local",
+    "type": "italics",
     "tokens": [
      {
-      "type": "italics",
-      "tokens": [
-       {
-        "text": "pa'al",
-        "type": "text"
-       }
-      ]
-     },
-     {
-      "text": " participle for stative verbs",
+      "text": "pa'al",
       "type": "text"
      }
-    ],
-    "targetSubtopic": "Pa'al participle for stative verbs",
-    "targetTopic": "Pa'al Participle",
-    "enclosingTopic": "Pa'al Participle",
-    "enclosingSubtopic": "Pa'al Participle"
+    ]
    },
    {
-    "text": " and other irregular forms. The ",
-    "type": "text"
-   },
-   {
-    "text": "_pa'al_",
-    "type": "global",
-    "tokens": [
-     {
-      "type": "italics",
-      "tokens": [
-       {
-        "text": "pa'al",
-        "type": "text"
-       }
-      ]
-     }
-    ],
-    "targetSubtopic": "Pa'al",
-    "targetTopic": "Pa'al",
-    "enclosingTopic": "Pa'al Participle",
-    "enclosingSubtopic": "Pa'al Participle"
-   },
-   {
-    "text": " is one of the ",
-    "type": "text"
-   },
-   {
-    "text": "Hebrew Binyanim",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "Hebrew Binyanim",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Hebrew binyanim",
-    "targetTopic": "Hebrew binyanim",
-    "enclosingTopic": "Pa'al Participle",
-    "enclosingSubtopic": "Pa'al Participle"
-   },
-   {
-    "text": ", and ",
-    "type": "text"
-   },
-   {
-    "text": "binyan is a special concept in Hebrew and Aramaic grammar",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "binyan is a special concept in Hebrew and Aramaic grammar",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Binyan",
-    "targetTopic": "Binyan",
-    "enclosingTopic": "Pa'al Participle",
-    "enclosingSubtopic": "Pa'al Participle"
-   },
-   {
-    "text": ". ",
+    "text": " past tense: ",
     "type": "text"
    },
    {
@@ -195,7 +153,7 @@
       {
        "tokens": [
         {
-         "text": "Masculine singular",
+         "text": "First singular",
          "type": "text"
         }
        ]
@@ -203,46 +161,7 @@
       {
        "tokens": [
         {
-         "text": "כּוֹתֵב",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "italics",
-         "tokens": [
-          {
-           "text": "koseiv",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "one man writing",
-         "type": "text"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "Feminine singular",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "כּוֹתֶבֶת",
+         "text": "כָּתַבְתִּי",
          "type": "text"
         }
        ]
@@ -253,7 +172,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "koseves",
+           "text": "kosavti",
            "type": "text"
           }
          ]
@@ -263,7 +182,7 @@
       {
        "tokens": [
         {
-         "text": "one woman writing",
+         "text": "I wrote",
          "type": "text"
         }
        ]
@@ -273,46 +192,7 @@
       {
        "tokens": [
         {
-         "text": "Masculine plural",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "כּוֹתְבִים",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "italics",
-         "tokens": [
-          {
-           "text": "kosvim",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "multiple men writing",
-         "type": "text"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "Feminine plural",
+         "text": "First person plural",
          "type": "text"
         }
        ]
@@ -331,7 +211,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "kosvos",
+           "text": "kosavnu",
            "type": "text"
           }
          ]
@@ -341,104 +221,8 @@
       {
        "tokens": [
         {
-         "text": "multiple women writing",
+         "text": "We wrote",
          "type": "text"
-        }
-       ]
-      }
-     ]
-    ]
-   }
-  ],
-  "Pa'al participle for stative verbs": [
-   {
-    "text": "There is a special category of verbs that are called ",
-    "type": "text"
-   },
-   {
-    "text": "stative verbs",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "stative verbs",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Stative verbs",
-    "targetTopic": "Stative verbs",
-    "enclosingTopic": "Pa'al Participle",
-    "enclosingSubtopic": "Pa'al participle for stative verbs"
-   },
-   {
-    "text": ", and in the participle they do not get the normal ו after the first root letter, like in כּוֹתֵב ",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "kosev",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " \"writing.\" ",
-    "type": "text"
-   },
-   {
-    "type": "table",
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "Person",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "Hebrew",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "Transliteration",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "Meaning",
-           "type": "text"
-          }
-         ]
         }
        ]
       }
@@ -447,7 +231,7 @@
       {
        "tokens": [
         {
-         "text": "Masculine singular",
+         "text": "Second singular masculine",
          "type": "text"
         }
        ]
@@ -455,7 +239,7 @@
       {
        "tokens": [
         {
-         "text": "זָקֵן",
+         "text": "כָּתַבְתָּ",
          "type": "text"
         }
        ]
@@ -466,7 +250,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "zaukein",
+           "text": "kosavto",
            "type": "text"
           }
          ]
@@ -476,7 +260,7 @@
       {
        "tokens": [
         {
-         "text": "one man is old",
+         "text": "You (man) wrote",
          "type": "text"
         }
        ]
@@ -486,7 +270,7 @@
       {
        "tokens": [
         {
-         "text": "Feminine singular",
+         "text": "Second singular feminine",
          "type": "text"
         }
        ]
@@ -494,7 +278,7 @@
       {
        "tokens": [
         {
-         "text": "זְקֵנָה",
+         "text": "כָּתַבְתְּ",
          "type": "text"
         }
        ]
@@ -505,7 +289,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "z'keinau",
+           "text": "kosavt",
            "type": "text"
           }
          ]
@@ -515,7 +299,7 @@
       {
        "tokens": [
         {
-         "text": "one woman is old",
+         "text": "You (woman) wrote",
          "type": "text"
         }
        ]
@@ -525,7 +309,7 @@
       {
        "tokens": [
         {
-         "text": "Masculine plural",
+         "text": "Second plural masculine",
          "type": "text"
         }
        ]
@@ -533,7 +317,7 @@
       {
        "tokens": [
         {
-         "text": "זְקֵנִים",
+         "text": "כְּתַבְתֶּם",
          "type": "text"
         }
        ]
@@ -544,7 +328,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "z'keinim",
+           "text": "ksavtem",
            "type": "text"
           }
          ]
@@ -554,7 +338,7 @@
       {
        "tokens": [
         {
-         "text": "multiple men are old",
+         "text": "You (men) wrote",
          "type": "text"
         }
        ]
@@ -564,7 +348,7 @@
       {
        "tokens": [
         {
-         "text": "Feminine plural",
+         "text": "Second plural feminine",
          "type": "text"
         }
        ]
@@ -572,7 +356,7 @@
       {
        "tokens": [
         {
-         "text": "זְקֵנוֹת",
+         "text": "כְּתַבְתֶּן",
          "type": "text"
         }
        ]
@@ -583,7 +367,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "z'keinos",
+           "text": "ksavten",
            "type": "text"
           }
          ]
@@ -593,7 +377,124 @@
       {
        "tokens": [
         {
-         "text": "multiple women are old",
+         "text": "You (women) wrote",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Third plural masculine",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "כָּתַב",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "kosav",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "He wrote",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Third plural feminine",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "כָּתְבָה",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "kosvo",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "She wrote",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "They/those",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "כָּתְבוּ",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "kosvu",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "They wrote",
          "type": "text"
         }
        ]

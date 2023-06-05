@@ -76,44 +76,42 @@
       {
        "tokens": [
         {
-         "type": "bold",
+         "text": "*",
+         "type": "text"
+        },
+        {
+         "type": "italics",
          "tokens": [
           {
-           "type": "italics",
-           "tokens": [
-            {
-             "text": "Pi'el",
-             "type": "text"
-            }
-           ]
-          },
-          {
-           "text": " Verb",
+           "text": "Pi'el",
            "type": "text"
           }
          ]
+        },
+        {
+         "text": " Verb*",
+         "type": "text"
         }
        ]
       },
       {
        "tokens": [
         {
-         "type": "bold",
+         "text": "*",
+         "type": "text"
+        },
+        {
+         "type": "italics",
          "tokens": [
           {
-           "type": "italics",
-           "tokens": [
-            {
-             "text": "Pi'el",
-             "type": "text"
-            }
-           ]
-          },
-          {
-           "text": " Noun",
+           "text": "Pi'el",
            "type": "text"
           }
          ]
+        },
+        {
+         "text": " Noun*",
+         "type": "text"
         }
        ]
       }

@@ -1,14 +1,9 @@
 {
- "displayTopicName": "_Hif'il Participle_",
+ "displayTopicName": "Hif'il Participle",
  "topicTokens": [
   {
-   "type": "italics",
-   "tokens": [
-    {
-     "text": "Hif'il Participle",
-     "type": "text"
-    }
-   ]
+   "text": "Hif'il Participle",
+   "type": "text"
   }
  ],
  "paragraphsBySubtopic": {

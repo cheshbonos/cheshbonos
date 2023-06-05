@@ -166,26 +166,16 @@
       {
        "tokens": [
         {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "Simple Verb",
-           "type": "text"
-          }
-         ]
+         "text": "*Simple Verb*",
+         "type": "text"
         }
        ]
       },
       {
        "tokens": [
         {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "Intensive Verb",
-           "type": "text"
-          }
-         ]
+         "text": "*Intensive Verb*",
+         "type": "text"
         }
        ]
       }

@@ -1,14 +1,9 @@
 {
- "displayTopicName": "_Nispa'el Participle_",
+ "displayTopicName": "Nispa'el Participle",
  "topicTokens": [
   {
-   "type": "italics",
-   "tokens": [
-    {
-     "text": "Nispa'el Participle",
-     "type": "text"
-    }
-   ]
+   "text": "Nispa'el Participle",
+   "type": "text"
   }
  ],
  "paragraphsBySubtopic": {

@@ -76,44 +76,42 @@
       {
        "tokens": [
         {
-         "type": "bold",
+         "text": "*",
+         "type": "text"
+        },
+        {
+         "type": "italics",
          "tokens": [
           {
-           "type": "italics",
-           "tokens": [
-            {
-             "text": "Pa'al",
-             "type": "text"
-            }
-           ]
-          },
-          {
-           "text": " verb",
+           "text": "Pa'al",
            "type": "text"
           }
          ]
+        },
+        {
+         "text": " verb*",
+         "type": "text"
         }
        ]
       },
       {
        "tokens": [
         {
-         "type": "bold",
+         "text": "*",
+         "type": "text"
+        },
+        {
+         "type": "italics",
          "tokens": [
           {
-           "type": "italics",
-           "tokens": [
-            {
-             "text": "Haktala",
-             "type": "text"
-            }
-           ]
-          },
-          {
-           "text": " Noun",
+           "text": "Haktala",
            "type": "text"
           }
          ]
+        },
+        {
+         "text": " Noun*",
+         "type": "text"
         }
        ]
       }

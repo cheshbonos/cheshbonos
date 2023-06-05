@@ -76,44 +76,42 @@
       {
        "tokens": [
         {
-         "type": "bold",
+         "text": "*",
+         "type": "text"
+        },
+        {
+         "type": "italics",
          "tokens": [
           {
-           "type": "italics",
-           "tokens": [
-            {
-             "text": "Pi'el",
-             "type": "text"
-            }
-           ]
-          },
-          {
-           "text": " verb",
+           "text": "Pi'el",
            "type": "text"
           }
          ]
+        },
+        {
+         "text": " verb*",
+         "type": "text"
         }
        ]
       },
       {
        "tokens": [
         {
-         "type": "bold",
+         "text": "*",
+         "type": "text"
+        },
+        {
+         "type": "italics",
          "tokens": [
           {
-           "type": "italics",
-           "tokens": [
-            {
-             "text": "Kattala",
-             "type": "text"
-            }
-           ]
-          },
-          {
-           "text": " Noun",
+           "text": "Kattala",
            "type": "text"
           }
          ]
+        },
+        {
+         "text": " Noun*",
+         "type": "text"
         }
        ]
       }

@@ -1,15 +1,28 @@
 {
- "displayTopicName": "Passive Participle",
+ "displayTopicName": "Finished Participle",
  "topicTokens": [
   {
-   "text": "Passive Participle",
+   "text": "Finished Participle",
    "type": "text"
   }
  ],
  "paragraphsBySubtopic": {
-  "Passive Participle": [
+  "Finished Participle": [
    {
-    "text": "The passive participle is a special verb form in Hebrew and Aramaic. ",
+    "text": "The finished participle (sometimes called the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pa'ul",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ") is a special type of word in Hebrew and Aramaic. ",
     "type": "text"
    },
    {
@@ -19,43 +32,66 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "The passive participle only exists in the ",
+        "text": "Examples of finished participles include words like \"burnt\" or \"written.\"",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Finished participles are adjectives that are formed from verbs, like \"burnt\" from \"to burn.\"",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The Hebrew passive participle looks like כָּתוּב (",
         "type": "text"
        },
        {
-        "text": "active",
-        "type": "global",
+        "type": "italics",
         "tokens": [
          {
-          "text": "active",
+          "text": "kasuv",
           "type": "text"
          }
-        ],
-        "targetSubtopic": "Active",
-        "targetTopic": "Active",
-        "enclosingTopic": "Passive Participle",
-        "enclosingSubtopic": "Passive Participle"
+        ]
        },
        {
-        "text": " ",
+        "text": "), and in Aramaic like כְּתִיב (",
         "type": "text"
        },
        {
-        "text": "simple",
-        "type": "global",
+        "type": "italics",
         "tokens": [
          {
-          "text": "simple",
+          "text": "kasiv",
           "type": "text"
          }
-        ],
-        "targetSubtopic": "Simple",
-        "targetTopic": "Simple",
-        "enclosingTopic": "Passive Participle",
-        "enclosingSubtopic": "Passive Participle"
+        ]
        },
        {
-        "text": " binyanim of Hebrew and Aramaic, ",
+        "text": ").",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The passive participle only exists in certain binyanim, namely ",
         "type": "text"
        },
        {
@@ -78,8 +114,8 @@
         ],
         "targetSubtopic": "Pa'al",
         "targetTopic": "Pa'al",
-        "enclosingTopic": "Passive Participle",
-        "enclosingSubtopic": "Passive Participle"
+        "enclosingTopic": "Finished Participle",
+        "enclosingSubtopic": "Finished Participle"
        },
        {
         "text": " and ",
@@ -96,8 +132,8 @@
         ],
         "targetSubtopic": "Pe'al",
         "targetTopic": "Pe'al",
-        "enclosingTopic": "Passive Participle",
-        "enclosingSubtopic": "Passive Participle"
+        "enclosingTopic": "Finished Participle",
+        "enclosingSubtopic": "Finished Participle"
        },
        {
         "text": ".",
@@ -115,18 +151,27 @@
         "type": "text"
        },
        {
-        "text": "differences in meaning between the passive participle and the passive binyanim",
+        "text": "differences in meaning between the passive participle and the passive binyanim like _nif'al_",
         "type": "local",
         "tokens": [
          {
-          "text": "differences in meaning between the passive participle and the passive binyanim",
+          "text": "differences in meaning between the passive participle and the passive binyanim like ",
           "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "nif'al",
+            "type": "text"
+           }
+          ]
          }
         ],
-        "targetSubtopic": "Differences in meaning between the passive participle and the passive binyanim",
-        "targetTopic": "Passive Participle",
-        "enclosingTopic": "Passive Participle",
-        "enclosingSubtopic": "Passive Participle"
+        "targetSubtopic": "Differences in meaning between the passive participle and the passive binyanim like nif'al",
+        "targetTopic": "Finished Participle",
+        "enclosingTopic": "Finished Participle",
+        "enclosingSubtopic": "Finished Participle"
        },
        {
         "text": ".",
@@ -140,41 +185,40 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "The passive participle functions like an adjective.",
-        "type": "text"
-       }
-      ],
-      "children": []
-     },
-     {
-      "ordinal": "-",
-      "ordered": false,
-      "tokensOfLine": [
-       {
-        "text": "The passive participle in Hebrew looks like כָּתוּב ",
+        "text": "Like ",
         "type": "text"
        },
        {
-        "type": "italics",
+        "text": "the ongoing participle",
+        "type": "global",
         "tokens": [
          {
-          "text": "kasuv",
+          "text": "the ongoing participle",
           "type": "text"
          }
-        ]
+        ],
+        "targetSubtopic": "Ongoing Participle",
+        "targetTopic": "Ongoing Participle",
+        "enclosingTopic": "Finished Participle",
+        "enclosingSubtopic": "Finished Participle"
        },
        {
-        "text": ", and in Aramaic like כְּתִיב, ",
+        "text": ", the passive participle only has meaning in one of several ",
         "type": "text"
        },
        {
-        "type": "italics",
+        "text": "constructions",
+        "type": "global",
         "tokens": [
          {
-          "text": "kasiv",
+          "text": "constructions",
           "type": "text"
          }
-        ]
+        ],
+        "targetSubtopic": "Participle constructions",
+        "targetTopic": "Participle constructions",
+        "enclosingTopic": "Finished Participle",
+        "enclosingSubtopic": "Finished Participle"
        },
        {
         "text": ".",
@@ -187,7 +231,7 @@
     "type": "outline"
    }
   ],
-  "Differences in meaning between the passive participle and the passive binyanim": [
+  "Differences in meaning between the passive participle and the passive binyanim like nif'al": [
    {
     "text": "There are differences in meaning between the passive participle and the passive binyanim: ",
     "type": "text"
@@ -213,8 +257,8 @@
         ],
         "targetSubtopic": "Simple",
         "targetTopic": "Simple",
-        "enclosingTopic": "Passive Participle",
-        "enclosingSubtopic": "Differences in meaning between the passive participle and the passive binyanim"
+        "enclosingTopic": "Finished Participle",
+        "enclosingSubtopic": "Differences in meaning between the passive participle and the passive binyanim like nif'al"
        },
        {
         "text": " ",
@@ -231,8 +275,8 @@
         ],
         "targetSubtopic": "Passive",
         "targetTopic": "Passive",
-        "enclosingTopic": "Passive Participle",
-        "enclosingSubtopic": "Differences in meaning between the passive participle and the passive binyanim"
+        "enclosingTopic": "Finished Participle",
+        "enclosingSubtopic": "Differences in meaning between the passive participle and the passive binyanim like nif'al"
        },
        {
         "text": " binyanim i.e. ",
@@ -258,8 +302,8 @@
         ],
         "targetSubtopic": "Nif'al",
         "targetTopic": "Nif'al",
-        "enclosingTopic": "Passive Participle",
-        "enclosingSubtopic": "Differences in meaning between the passive participle and the passive binyanim"
+        "enclosingTopic": "Finished Participle",
+        "enclosingSubtopic": "Differences in meaning between the passive participle and the passive binyanim like nif'al"
        },
        {
         "text": " and ",
@@ -285,8 +329,8 @@
         ],
         "targetSubtopic": "Ispe'el",
         "targetTopic": "Ispe'el",
-        "enclosingTopic": "Passive Participle",
-        "enclosingSubtopic": "Differences in meaning between the passive participle and the passive binyanim"
+        "enclosingTopic": "Finished Participle",
+        "enclosingSubtopic": "Differences in meaning between the passive participle and the passive binyanim like nif'al"
        },
        {
         "text": " represent an ongoing action e.g. \"it is ",

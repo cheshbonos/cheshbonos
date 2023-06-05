@@ -181,32 +181,31 @@
       {
        "tokens": [
         {
-         "type": "bold",
+         "text": "*",
+         "type": "text"
+        },
+        {
+         "text": "_Pi'el_",
+         "type": "global",
          "tokens": [
           {
-           "text": "_Pi'el_",
-           "type": "global",
+           "type": "italics",
            "tokens": [
             {
-             "type": "italics",
-             "tokens": [
-              {
-               "text": "Pi'el",
-               "type": "text"
-              }
-             ]
+             "text": "Pi'el",
+             "type": "text"
             }
-           ],
-           "targetSubtopic": "Pi'el",
-           "targetTopic": "Pi'el",
-           "enclosingTopic": "Four-letter shorushim",
-           "enclosingSubtopic": "Can only have verb forms in binyanim with a doubled middle letter"
-          },
-          {
-           "text": " example",
-           "type": "text"
+           ]
           }
-         ]
+         ],
+         "targetSubtopic": "Pi'el",
+         "targetTopic": "Pi'el",
+         "enclosingTopic": "Four-letter shorushim",
+         "enclosingSubtopic": "Can only have verb forms in binyanim with a doubled middle letter"
+        },
+        {
+         "text": " example*",
+         "type": "text"
         }
        ]
       },
@@ -263,32 +262,52 @@
            "type": "text"
           },
           {
-           "type": "html_element",
-           "html": "<b>d</b>"
+           "type": "bold",
+           "tokens": [
+            {
+             "text": "d",
+             "type": "text"
+            }
+           ]
           },
           {
            "text": "a",
            "type": "text"
           },
           {
-           "type": "html_element",
-           "html": "<b>b</b>"
+           "type": "bold",
+           "tokens": [
+            {
+             "text": "b",
+             "type": "text"
+            }
+           ]
           },
           {
            "text": "'",
            "type": "text"
           },
           {
-           "type": "html_element",
-           "html": "<b>b</b>"
+           "type": "bold",
+           "tokens": [
+            {
+             "text": "b",
+             "type": "text"
+            }
+           ]
           },
           {
            "text": "e",
            "type": "text"
           },
           {
-           "type": "html_element",
-           "html": "<b>r</b>"
+           "type": "bold",
+           "tokens": [
+            {
+             "text": "r",
+             "type": "text"
+            }
+           ]
           }
          ]
         },
@@ -370,32 +389,43 @@
            "type": "text"
           },
           {
-           "type": "html_element",
-           "html": "<b>sh</b>"
+           "type": "bold",
+           "tokens": [
+            {
+             "text": "sh",
+             "type": "text"
+            }
+           ]
           },
           {
            "text": "a'",
            "type": "text"
           },
           {
-           "type": "html_element",
-           "html": "<b>ch</b>"
+           "type": "bold",
+           "tokens": [
+            {
+             "text": "ch*-",
+             "type": "text"
+            }
+           ]
           },
           {
-           "text": "-",
+           "text": "r",
            "type": "text"
           },
           {
-           "type": "html_element",
-           "html": "<b>r</b>"
+           "type": "bold",
+           "tokens": [
+            {
+             "text": "ei",
+             "type": "text"
+            }
+           ]
           },
           {
-           "text": "ei",
+           "text": "r*",
            "type": "text"
-          },
-          {
-           "type": "html_element",
-           "html": "<b>r</b>"
           }
          ]
         },
@@ -477,32 +507,52 @@
            "type": "text"
           },
           {
-           "type": "html_element",
-           "html": "<b>t</b>"
+           "type": "bold",
+           "tokens": [
+            {
+             "text": "t",
+             "type": "text"
+            }
+           ]
           },
           {
            "text": "a",
            "type": "text"
           },
           {
-           "type": "html_element",
-           "html": "<b>l</b>"
+           "type": "bold",
+           "tokens": [
+            {
+             "text": "l",
+             "type": "text"
+            }
+           ]
           },
           {
            "text": "'",
            "type": "text"
           },
           {
-           "type": "html_element",
-           "html": "<b>t</b>"
+           "type": "bold",
+           "tokens": [
+            {
+             "text": "t",
+             "type": "text"
+            }
+           ]
           },
           {
            "text": "e",
            "type": "text"
           },
           {
-           "type": "html_element",
-           "html": "<b>l</b>"
+           "type": "bold",
+           "tokens": [
+            {
+             "text": "l",
+             "type": "text"
+            }
+           ]
           }
          ]
         },

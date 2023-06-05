@@ -136,13 +136,8 @@
       {
        "tokens": [
         {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "Simple verb",
-           "type": "text"
-          }
-         ]
+         "text": "*Simple verb*",
+         "type": "text"
         }
        ]
       }

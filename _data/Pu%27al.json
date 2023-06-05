@@ -306,8 +306,13 @@
           "type": "text"
          },
          {
-          "type": "html_element",
-          "html": "<b>d'd</b>"
+          "type": "bold",
+          "tokens": [
+           {
+            "text": "d'd",
+            "type": "text"
+           }
+          ]
          },
          {
           "text": "ash",

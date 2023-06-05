@@ -61,31 +61,27 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "The first Mishnah of the second perek",
+        "text": "The first Mishnah of the second perek\\, _ha'ish mekadesh_",
         "type": "global",
         "tokens": [
          {
-          "text": "The first Mishnah of the second perek",
+          "text": "The first Mishnah of the second perek, ",
           "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "ha'ish mekadesh",
+            "type": "text"
+           }
+          ]
          }
         ],
         "targetSubtopic": "The Mishnah on Kiddushin 41a",
         "targetTopic": "The Mishnah on Kiddushin 41a",
         "enclosingTopic": "Kiddushin 41a",
         "enclosingSubtopic": "Kiddushin 41a"
-       },
-       {
-        "text": ", ",
-        "type": "text"
-       },
-       {
-        "type": "italics",
-        "tokens": [
-         {
-          "text": "ha'ish mekadesh",
-          "type": "text"
-         }
-        ]
        },
        {
         "text": ".",
@@ -99,13 +95,13 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "The sugya of ",
-        "type": "text"
-       },
-       {
-        "text": "_hashta b'shlucho mekadesh bo meboy_",
+        "text": "The sugya of _hashta b'shlucho mekadesh bo meboy_",
         "type": "global",
         "tokens": [
+         {
+          "text": "The sugya of ",
+          "type": "text"
+         },
          {
           "type": "italics",
           "tokens": [

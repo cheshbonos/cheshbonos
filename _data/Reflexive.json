@@ -110,26 +110,16 @@
       {
        "tokens": [
         {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "Simple verb",
-           "type": "text"
-          }
-         ]
+         "text": "*Simple verb*",
+         "type": "text"
         }
        ]
       },
       {
        "tokens": [
         {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "Reflexive verb",
-           "type": "text"
-          }
-         ]
+         "text": "*Reflexive verb*",
+         "type": "text"
         }
        ]
       }
@@ -270,26 +260,16 @@
       {
        "tokens": [
         {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "Simple verb",
-           "type": "text"
-          }
-         ]
+         "text": "*Simple verb*",
+         "type": "text"
         }
        ]
       },
       {
        "tokens": [
         {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "Reflexive verb",
-           "type": "text"
-          }
-         ]
+         "text": "*Reflexive verb*",
+         "type": "text"
         }
        ]
       }

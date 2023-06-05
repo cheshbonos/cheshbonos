@@ -1,5 +1,5 @@
 {
- "displayTopicName": "_Pu'al_ Participle",
+ "displayTopicName": "_Pu'al_ Ongoing Participle",
  "topicTokens": [
   {
    "type": "italics",
@@ -11,11 +11,11 @@
    ]
   },
   {
-   "text": " Participle",
+   "text": " Ongoing Participle",
    "type": "text"
   }
  ],
  "paragraphsBySubtopic": {
-  "Pu'al Participle": []
+  "Pu'al Ongoing Participle": []
  }
 }

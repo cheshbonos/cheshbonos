@@ -343,8 +343,13 @@
           "type": "text"
          },
          {
-          "type": "html_element",
-          "html": "<b>d'd</b>"
+          "type": "bold",
+          "tokens": [
+           {
+            "text": "d'd",
+            "type": "text"
+           }
+          ]
          },
          {
           "text": "esh",
@@ -424,16 +429,16 @@
       {
        "tokens": [
         {
-         "text": "Participle",
-         "type": "local",
+         "text": "Ongoing Participle",
+         "type": "global",
          "tokens": [
           {
-           "text": "Participle",
+           "text": "Ongoing Participle",
            "type": "text"
           }
          ],
-         "targetSubtopic": "Participle",
-         "targetTopic": "Pi'el",
+         "targetSubtopic": "Ongoing Participle",
+         "targetTopic": "Ongoing Participle",
          "enclosingTopic": "Pi'el",
          "enclosingSubtopic": "Forms"
         }
@@ -633,16 +638,16 @@
     "type": "text"
    },
    {
-    "text": "participle",
+    "text": "ongoing participle",
     "type": "global",
     "tokens": [
      {
-      "text": "participle",
+      "text": "ongoing participle",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Participle",
-    "targetTopic": "Participle",
+    "targetSubtopic": "Ongoing Participle",
+    "targetTopic": "Ongoing Participle",
     "enclosingTopic": "Pi'el",
     "enclosingSubtopic": "Participle"
    },

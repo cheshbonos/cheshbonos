@@ -27,7 +27,7 @@
     "enclosingSubtopic": "קדש"
    },
    {
-    "text": " in Hebrew and Aramaic. It has forms in the following binyanim: ",
+    "text": " in Hebrew and Aramaic. It has forms with different meanings in the following binyanim: ",
     "type": "text"
    },
    {
@@ -142,7 +142,7 @@
       {
        "tokens": [
         {
-         "text": "_Pa'al_ form of קדש",
+         "text": "_Pa'al_ <br> (of קדש)",
          "type": "local",
          "tokens": [
           {
@@ -155,11 +155,19 @@
            ]
           },
           {
-           "text": " form of קדש",
+           "text": " ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of קדש)",
            "type": "text"
           }
          ],
-         "targetSubtopic": "Pa'al form",
+         "targetSubtopic": "Pa'al",
          "targetTopic": "קדש",
          "enclosingTopic": "קדש",
          "enclosingSubtopic": "קדש"
@@ -169,7 +177,7 @@
       {
        "tokens": [
         {
-         "text": "_Pi'el_ form of קדש",
+         "text": "_Pi'el_ <br> (of קדש)",
          "type": "local",
          "tokens": [
           {
@@ -182,11 +190,19 @@
            ]
           },
           {
-           "text": " form of קדש",
+           "text": " ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of קדש)",
            "type": "text"
           }
          ],
-         "targetSubtopic": "Pi'el form",
+         "targetSubtopic": "Pi'el",
          "targetTopic": "קדש",
          "enclosingTopic": "קדש",
          "enclosingSubtopic": "קדש"
@@ -196,7 +212,7 @@
       {
        "tokens": [
         {
-         "text": "_Hif'il_ form of קדש",
+         "text": "_Hif'il_ <br> (of קדש)",
          "type": "local",
          "tokens": [
           {
@@ -209,11 +225,19 @@
            ]
           },
           {
-           "text": " form of קדש",
+           "text": " ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of קדש)",
            "type": "text"
           }
          ],
-         "targetSubtopic": "Hif'il form",
+         "targetSubtopic": "Hif'il",
          "targetTopic": "קדש",
          "enclosingTopic": "קדש",
          "enclosingSubtopic": "קדש"
@@ -223,7 +247,7 @@
       {
        "tokens": [
         {
-         "text": "_Hispa'el_ form of קדש",
+         "text": "_Hispa'el_ <br>(of קדש)",
          "type": "local",
          "tokens": [
           {
@@ -236,11 +260,19 @@
            ]
           },
           {
-           "text": " form of קדש",
+           "text": " ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": "(of קדש)",
            "type": "text"
           }
          ],
-         "targetSubtopic": "Hispa'el form",
+         "targetSubtopic": "Hispa'el",
          "targetTopic": "קדש",
          "enclosingTopic": "קדש",
          "enclosingSubtopic": "קדש"
@@ -271,11 +303,16 @@
       {
        "tokens": [
         {
-         "type": "italics",
+         "type": "strikethrough",
          "tokens": [
           {
-           "text": "Nif'al",
-           "type": "text"
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Nif'al",
+             "type": "text"
+            }
+           ]
           }
          ]
         }
@@ -284,8 +321,8 @@
       {
        "tokens": [
         {
-         "text": "_Pu'al_ form of קדש",
-         "type": "local",
+         "text": "_Pu'al_ <br> (of קדש)",
+         "type": "global",
          "tokens": [
           {
            "type": "italics",
@@ -297,12 +334,20 @@
            ]
           },
           {
-           "text": " form of קדש",
+           "text": " ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of קדש)",
            "type": "text"
           }
          ],
-         "targetSubtopic": "Pu'al form",
-         "targetTopic": "קדש",
+         "targetSubtopic": "Pu'al",
+         "targetTopic": "Pu'al",
          "enclosingTopic": "קדש",
          "enclosingSubtopic": "קדש"
         }
@@ -311,7 +356,7 @@
       {
        "tokens": [
         {
-         "text": "_Huf'al_ of קדש",
+         "text": "_Huf'al_ <br> (of קדש)",
          "type": "local",
          "tokens": [
           {
@@ -324,7 +369,15 @@
            ]
           },
           {
-           "text": " of קדש",
+           "text": " ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of קדש)",
            "type": "text"
           }
          ],
@@ -343,9 +396,9 @@
     ]
    }
   ],
-  "Pa'al form": [
+  "Pa'al": [
    {
-    "text": "קדש has a ",
+    "text": "The shoresh קדש has a ",
     "type": "text"
    },
    {
@@ -365,7 +418,7 @@
     "targetSubtopic": "Pa'al",
     "targetTopic": "Pa'al",
     "enclosingTopic": "קדש",
-    "enclosingSubtopic": "Pa'al form"
+    "enclosingSubtopic": "Pa'al"
    },
    {
     "text": " form, which follows ",
@@ -383,30 +436,20 @@
     "targetSubtopic": "Forms",
     "targetTopic": "Pa'al",
     "enclosingTopic": "קדש",
-    "enclosingSubtopic": "Pa'al form"
+    "enclosingSubtopic": "Pa'al"
    },
    {
     "text": " for the ",
     "type": "text"
    },
    {
-    "text": "_pa'al_",
-    "type": "global",
+    "type": "italics",
     "tokens": [
      {
-      "type": "italics",
-      "tokens": [
-       {
-        "text": "pa'al",
-        "type": "text"
-       }
-      ]
+      "text": "pa'al",
+      "type": "text"
      }
-    ],
-    "targetSubtopic": "Pa'al",
-    "targetTopic": "Pa'al",
-    "enclosingTopic": "קדש",
-    "enclosingSubtopic": "Pa'al form"
+    ]
    },
    {
     "text": ". קדש in the ",
@@ -464,9 +507,9 @@
     "type": "outline"
    }
   ],
-  "Pi'el form": [
+  "Pi'el": [
    {
-    "text": "קדש has a ",
+    "text": "The shoresh קדש has a ",
     "type": "text"
    },
    {
@@ -486,7 +529,7 @@
     "targetSubtopic": "Pi'el",
     "targetTopic": "Pi'el",
     "enclosingTopic": "קדש",
-    "enclosingSubtopic": "Pi'el form"
+    "enclosingSubtopic": "Pi'el"
    },
    {
     "text": " form, which follows ",
@@ -504,30 +547,20 @@
     "targetSubtopic": "Forms",
     "targetTopic": "Pi'el",
     "enclosingTopic": "קדש",
-    "enclosingSubtopic": "Pi'el form"
+    "enclosingSubtopic": "Pi'el"
    },
    {
     "text": " for the ",
     "type": "text"
    },
    {
-    "text": "_pi'el_",
-    "type": "global",
+    "type": "italics",
     "tokens": [
      {
-      "type": "italics",
-      "tokens": [
-       {
-        "text": "pi'el",
-        "type": "text"
-       }
-      ]
+      "text": "pi'el",
+      "type": "text"
      }
-    ],
-    "targetSubtopic": "Pi'el",
-    "targetTopic": "Pi'el",
-    "enclosingTopic": "קדש",
-    "enclosingSubtopic": "Pi'el form"
+    ]
    },
    {
     "text": ". קדש in the ",
@@ -611,9 +644,9 @@
     "type": "outline"
    }
   ],
-  "Hif'il form": [
+  "Hif'il": [
    {
-    "text": "קדש has a ",
+    "text": "The shoresh קדש has a ",
     "type": "text"
    },
    {
@@ -633,7 +666,7 @@
     "targetSubtopic": "Hif'il",
     "targetTopic": "Hif'il",
     "enclosingTopic": "קדש",
-    "enclosingSubtopic": "Hif'il form"
+    "enclosingSubtopic": "Hif'il"
    },
    {
     "text": " form, which follows ",
@@ -651,30 +684,20 @@
     "targetSubtopic": "Forms",
     "targetTopic": "Hif'il",
     "enclosingTopic": "קדש",
-    "enclosingSubtopic": "Hif'il form"
+    "enclosingSubtopic": "Hif'il"
    },
    {
     "text": " for the ",
     "type": "text"
    },
    {
-    "text": "_hif'il_",
-    "type": "global",
+    "type": "italics",
     "tokens": [
      {
-      "type": "italics",
-      "tokens": [
-       {
-        "text": "hif'il",
-        "type": "text"
-       }
-      ]
+      "text": "hif'il",
+      "type": "text"
      }
-    ],
-    "targetSubtopic": "Hif'il",
-    "targetTopic": "Hif'il",
-    "enclosingTopic": "קדש",
-    "enclosingSubtopic": "Hif'il form"
+    ]
    },
    {
     "text": ". קדש in the ",
@@ -732,9 +755,9 @@
     "type": "outline"
    }
   ],
-  "Hispa'el form": [
+  "Hispa'el": [
    {
-    "text": "קדש has a ",
+    "text": "The shoresh קדש has a ",
     "type": "text"
    },
    {
@@ -754,7 +777,7 @@
     "targetSubtopic": "Hispa'el",
     "targetTopic": "Hispa'el",
     "enclosingTopic": "קדש",
-    "enclosingSubtopic": "Hispa'el form"
+    "enclosingSubtopic": "Hispa'el"
    },
    {
     "text": " form, which follows ",
@@ -772,30 +795,20 @@
     "targetSubtopic": "Forms",
     "targetTopic": "Hispa'el",
     "enclosingTopic": "קדש",
-    "enclosingSubtopic": "Hispa'el form"
+    "enclosingSubtopic": "Hispa'el"
    },
    {
     "text": " for the ",
     "type": "text"
    },
    {
-    "text": "_hispa'el_",
-    "type": "global",
+    "type": "italics",
     "tokens": [
      {
-      "type": "italics",
-      "tokens": [
-       {
-        "text": "hispa'el",
-        "type": "text"
-       }
-      ]
+      "text": "hispa'el",
+      "type": "text"
      }
-    ],
-    "targetSubtopic": "Hispa'el",
-    "targetTopic": "Hispa'el",
-    "enclosingTopic": "קדש",
-    "enclosingSubtopic": "Hispa'el form"
+    ]
    },
    {
     "text": ". קדש in the ",
@@ -855,7 +868,7 @@
   ],
   "Pu'al form": [
    {
-    "text": "קדש has a ",
+    "text": "The shoresh קדש has a ",
     "type": "text"
    },
    {
@@ -900,23 +913,13 @@
     "type": "text"
    },
    {
-    "text": "_pu'al_",
-    "type": "global",
+    "type": "italics",
     "tokens": [
      {
-      "type": "italics",
-      "tokens": [
-       {
-        "text": "pu'al",
-        "type": "text"
-       }
-      ]
+      "text": "pu'al",
+      "type": "text"
      }
-    ],
-    "targetSubtopic": "Pu'al",
-    "targetTopic": "Pu'al",
-    "enclosingTopic": "קדש",
-    "enclosingSubtopic": "Pu'al form"
+    ]
    },
    {
     "text": ". קדש in the ",
@@ -976,7 +979,7 @@
   ],
   "Huf'al": [
    {
-    "text": "קדש has a ",
+    "text": "The shoresh קדש has a ",
     "type": "text"
    },
    {
@@ -1017,30 +1020,7 @@
     "enclosingSubtopic": "Huf'al"
    },
    {
-    "text": " for the ",
-    "type": "text"
-   },
-   {
-    "text": "_huf'al_",
-    "type": "global",
-    "tokens": [
-     {
-      "type": "italics",
-      "tokens": [
-       {
-        "text": "huf'al",
-        "type": "text"
-       }
-      ]
-     }
-    ],
-    "targetSubtopic": "Huf'al",
-    "targetTopic": "Huf'al",
-    "enclosingTopic": "קדש",
-    "enclosingSubtopic": "Huf'al"
-   },
-   {
-    "text": ". קדש in the ",
+    "text": " for the _huf'al. קדש in the ",
     "type": "text"
    },
    {

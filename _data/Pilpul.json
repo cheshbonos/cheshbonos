@@ -76,22 +76,21 @@
       {
        "tokens": [
         {
-         "type": "bold",
+         "text": "*",
+         "type": "text"
+        },
+        {
+         "type": "italics",
          "tokens": [
           {
-           "type": "italics",
-           "tokens": [
-            {
-             "text": "Shif'el",
-             "type": "text"
-            }
-           ]
-          },
-          {
-           "text": " Shoresh",
+           "text": "Shif'el",
            "type": "text"
           }
          ]
+        },
+        {
+         "text": " Shoresh*",
+         "type": "text"
         }
        ]
       },

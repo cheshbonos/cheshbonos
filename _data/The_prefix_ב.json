@@ -201,15 +201,7 @@
   ],
   "\"inside\"": [
    {
-    "text": "The prefix ב can be short for the word בתוך meaning \"inside,\" for example ",
-    "type": "text"
-   },
-   {
-    "type": "html_element",
-    "html": "<b>ב</b>"
-   },
-   {
-    "text": "בית, \"",
+    "text": "The prefix ב can be short for the word בתוך meaning \"inside,\" for example *ב*בית, \"",
     "type": "text"
    },
    {
@@ -228,15 +220,7 @@
   ],
   "\"with\"": [
    {
-    "text": "The prefix ב can mean something that is \"with\" something else, eg הוא בא ",
-    "type": "text"
-   },
-   {
-    "type": "html_element",
-    "html": "<b>ב</b>"
-   },
-   {
-    "text": "חברו, \"he came ",
+    "text": "The prefix ב can mean something that is \"with\" something else, eg הוא בא *ב*חברו, \"he came ",
     "type": "text"
    },
    {
@@ -265,15 +249,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "הוא עושה כן ",
-        "type": "text"
-       },
-       {
-        "type": "html_element",
-        "html": "<b>ב</b>"
-       },
-       {
-        "text": "שליח - \"he did it ",
+        "text": "הוא עושה כן *ב*שליח - \"he did it ",
         "type": "text"
        },
        {
@@ -297,15 +273,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "הוא בא ",
-        "type": "text"
-       },
-       {
-        "type": "html_element",
-        "html": "<b>ב</b>"
-       },
-       {
-        "text": "חמור - \"he came ",
+        "text": "הוא בא *ב*חמור - \"he came ",
         "type": "text"
        },
        {
@@ -330,57 +298,25 @@
   ],
   "\"on\"": [
    {
-    "text": "The prefix ב can mean something that is on top of something else, eg ",
-    "type": "text"
-   },
-   {
-    "type": "html_element",
-    "html": "<b>ב</b>"
-   },
-   {
-    "text": "שלחן, \"on the table\"",
+    "text": "The prefix ב can mean something that is on top of something else, eg *ב*שלחן, \"on the table\"",
     "type": "text"
    }
   ],
   "\"because of\"": [
    {
-    "text": "The prefix ב can be short for the word בשביל meaning \"because of\", eg הוא בא ",
-    "type": "text"
-   },
-   {
-    "type": "html_element",
-    "html": "<b>ב</b>"
-   },
-   {
-    "text": "ך, \"he came for you.\"",
+    "text": "The prefix ב can be short for the word בשביל meaning \"because of\", eg הוא בא *ב*ך, \"he came for you.\"",
     "type": "text"
    }
   ],
   "\"using\"": [
    {
-    "text": "The prefix ב can mean \"using\" eg הוא חותך ",
-    "type": "text"
-   },
-   {
-    "type": "html_element",
-    "html": "<b>ב</b>"
-   },
-   {
-    "text": "סכין \"he cuts using a knife.\"",
+    "text": "The prefix ב can mean \"using\" eg הוא חותך *ב*סכין \"he cuts using a knife.\"",
     "type": "text"
    }
   ],
   "\"at the time of\"": [
    {
-    "text": "The prefix ב can mean \"at\" a certain time eg הוא הגיע ",
-    "type": "text"
-   },
-   {
-    "type": "html_element",
-    "html": "<b>ב</b>"
-   },
-   {
-    "text": "צהריים \"he came ",
+    "text": "The prefix ב can mean \"at\" a certain time eg הוא הגיע *ב*צהריים \"he came ",
     "type": "text"
    },
    {
@@ -399,15 +335,7 @@
   ],
   "Followed by a noun": [
    {
-    "text": "The prefix ב can be followed by a noun, for example, \"",
-    "type": "text"
-   },
-   {
-    "type": "html_element",
-    "html": "<b>ב</b>"
-   },
-   {
-    "text": "בית\", which is the prefix ב followed by the noun בית ie \"house,\" which together means \"in a house\" or \"in the house.\"",
+    "text": "The prefix ב can be followed by a noun, for example, \"*ב*בית\", which is the prefix ב followed by the noun בית ie \"house,\" which together means \"in a house\" or \"in the house.\"",
     "type": "text"
    }
   ],
@@ -423,17 +351,8 @@
       {
        "tokens": [
         {
-         "text": "‎ ",
+         "text": "‎ *ב with suffix*",
          "type": "text"
-        },
-        {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "ב with suffix",
-           "type": "text"
-          }
-         ]
         }
        ]
       },
@@ -466,13 +385,8 @@
       {
        "tokens": [
         {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "Example meaning",
-           "type": "text"
-          }
-         ]
+         "text": "*Example meaning*",
+         "type": "text"
         }
        ]
       }

@@ -366,8 +366,13 @@
           "type": "text"
          },
          {
-          "type": "html_element",
-          "html": "<b>b'b</b>"
+          "type": "bold",
+          "tokens": [
+           {
+            "text": "b'b",
+            "type": "text"
+           }
+          ]
          },
          {
           "text": "eish",

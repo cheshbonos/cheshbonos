@@ -76,44 +76,42 @@
       {
        "tokens": [
         {
-         "type": "bold",
+         "text": "*",
+         "type": "text"
+        },
+        {
+         "type": "italics",
          "tokens": [
           {
-           "type": "italics",
-           "tokens": [
-            {
-             "text": "Hisp'ael",
-             "type": "text"
-            }
-           ]
-          },
-          {
-           "text": " verb",
+           "text": "Hisp'ael",
            "type": "text"
           }
          ]
+        },
+        {
+         "text": " verb*",
+         "type": "text"
         }
        ]
       },
       {
        "tokens": [
         {
-         "type": "bold",
+         "text": "*",
+         "type": "text"
+        },
+        {
+         "type": "italics",
          "tokens": [
           {
-           "type": "italics",
-           "tokens": [
-            {
-             "text": "Hiskattlut",
-             "type": "text"
-            }
-           ]
-          },
-          {
-           "text": " noun",
+           "text": "Hiskattlut",
            "type": "text"
           }
          ]
+        },
+        {
+         "text": " noun*",
+         "type": "text"
         }
        ]
       }

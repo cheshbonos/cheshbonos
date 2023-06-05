@@ -125,66 +125,63 @@
       {
        "tokens": [
         {
-         "type": "bold",
+         "text": "*",
+         "type": "text"
+        },
+        {
+         "type": "italics",
          "tokens": [
           {
-           "type": "italics",
-           "tokens": [
-            {
-             "text": "Hif'il",
-             "type": "text"
-            }
-           ]
-          },
-          {
-           "text": " verb",
+           "text": "Hif'il",
            "type": "text"
           }
          ]
+        },
+        {
+         "text": " verb*",
+         "type": "text"
         }
        ]
       },
       {
        "tokens": [
         {
-         "type": "bold",
+         "text": "*",
+         "type": "text"
+        },
+        {
+         "type": "italics",
          "tokens": [
           {
-           "type": "italics",
-           "tokens": [
-            {
-             "text": "Hektel",
-             "type": "text"
-            }
-           ]
-          },
-          {
-           "text": " noun",
+           "text": "Hektel",
            "type": "text"
           }
          ]
+        },
+        {
+         "text": " noun*",
+         "type": "text"
         }
        ]
       },
       {
        "tokens": [
         {
-         "type": "bold",
+         "text": "*",
+         "type": "text"
+        },
+        {
+         "type": "italics",
          "tokens": [
           {
-           "type": "italics",
-           "tokens": [
-            {
-             "text": "Haktala",
-             "type": "text"
-            }
-           ]
-          },
-          {
-           "text": " noun",
+           "text": "Haktala",
            "type": "text"
           }
          ]
+        },
+        {
+         "text": " noun*",
+         "type": "text"
         }
        ]
       }
@@ -193,7 +190,7 @@
       {
        "tokens": [
         {
-         "text": "דבל",
+         "text": "בדל",
          "type": "text"
         },
         {
@@ -209,7 +206,7 @@
       {
        "tokens": [
         {
-         "text": "הִדְבִּיל",
+         "text": "הִבְדִיל",
          "type": "text"
         },
         {

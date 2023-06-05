@@ -1,18 +1,18 @@
 {
- "displayTopicName": "_Pi'el Participle_",
+ "displayTopicName": "_Pi'el Ongoing Participle_",
  "topicTokens": [
   {
    "type": "italics",
    "tokens": [
     {
-     "text": "Pi'el Participle",
+     "text": "Pi'el Ongoing Participle",
      "type": "text"
     }
    ]
   }
  ],
  "paragraphsBySubtopic": {
-  "Pi'el Participle": [
+  "Pi'el Ongoing Participle": [
    {
     "text": "The ",
     "type": "text"
@@ -31,18 +31,18 @@
     "type": "text"
    },
    {
-    "text": "participle form",
+    "text": "ongoing participle form",
     "type": "global",
     "tokens": [
      {
-      "text": "participle form",
+      "text": "ongoing participle form",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Participle",
-    "targetTopic": "Participle",
-    "enclosingTopic": "Pi'el Participle",
-    "enclosingSubtopic": "Pi'el Participle"
+    "targetSubtopic": "Ongoing Participle",
+    "targetTopic": "Ongoing Participle",
+    "enclosingTopic": "Pi'el Ongoing Participle",
+    "enclosingSubtopic": "Pi'el Ongoing Participle"
    },
    {
     "text": " of the ",
@@ -68,8 +68,8 @@
     ],
     "targetSubtopic": "Pi'el",
     "targetTopic": "Pi'el",
-    "enclosingTopic": "Pi'el Participle",
-    "enclosingSubtopic": "Pi'el Participle"
+    "enclosingTopic": "Pi'el Ongoing Participle",
+    "enclosingSubtopic": "Pi'el Ongoing Participle"
    },
    {
     "text": ". ",
@@ -109,46 +109,8 @@
         ],
         "targetSubtopic": "Regular shorushim",
         "targetTopic": "Regular shorushim",
-        "enclosingTopic": "Pi'el Participle",
-        "enclosingSubtopic": "Pi'el Participle"
-       },
-       {
-        "text": ".",
-        "type": "text"
-       }
-      ],
-      "children": []
-     },
-     {
-      "ordinal": "-",
-      "ordered": false,
-      "tokensOfLine": [
-       {
-        "text": "Irregular shorushim have different conjugations in the _pi'el_ participle",
-        "type": "local",
-        "tokens": [
-         {
-          "text": "Irregular shorushim have different conjugations in the ",
-          "type": "text"
-         },
-         {
-          "type": "italics",
-          "tokens": [
-           {
-            "text": "pi'el",
-            "type": "text"
-           }
-          ]
-         },
-         {
-          "text": " participle",
-          "type": "text"
-         }
-        ],
-        "targetSubtopic": "Irregular shorushim have different conjugations in the pi'el participle",
-        "targetTopic": "Pi'el Participle",
-        "enclosingTopic": "Pi'el Participle",
-        "enclosingSubtopic": "Pi'el Participle"
+        "enclosingTopic": "Pi'el Ongoing Participle",
+        "enclosingSubtopic": "Pi'el Ongoing Participle"
        },
        {
         "text": ".",
@@ -374,6 +336,53 @@
       }
      ]
     ]
+   },
+   {
+    "text": " ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Irregular shorushim have different conjugations in the _pi'el_ participle",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Irregular shorushim have different conjugations in the ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "pi'el",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Irregular shorushim have different conjugations in the pi'el participle",
+        "targetTopic": "Pi'el Ongoing Participle",
+        "enclosingTopic": "Pi'el Ongoing Participle",
+        "enclosingSubtopic": "Pi'el Ongoing Participle"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
    }
   ],
   "Irregular shorushim have different conjugations in the pi'el participle": [
@@ -388,7 +397,7 @@
     ],
     "targetSubtopic": "Irregular shorushim",
     "targetTopic": "Irregular shorushim",
-    "enclosingTopic": "Pi'el Participle",
+    "enclosingTopic": "Pi'el Ongoing Participle",
     "enclosingSubtopic": "Irregular shorushim have different conjugations in the pi'el participle"
    },
    {
@@ -457,26 +466,16 @@
       {
        "tokens": [
         {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "Regular shoresh כתב",
-           "type": "text"
-          }
-         ]
+         "text": "*Regular shoresh כתב*",
+         "type": "text"
         }
        ]
       },
       {
        "tokens": [
         {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": " Irregular shoresh גלה",
-           "type": "text"
-          }
-         ]
+         "text": "* Irregular shoresh גלה*",
+         "type": "text"
         }
        ]
       }

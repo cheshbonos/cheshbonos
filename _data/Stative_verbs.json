@@ -35,13 +35,8 @@
       {
        "tokens": [
         {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "Example stative verb",
-           "type": "text"
-          }
-         ]
+         "text": "*Example stative verb*",
+         "type": "text"
         }
        ]
       },

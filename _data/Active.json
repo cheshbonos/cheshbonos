@@ -92,26 +92,16 @@
       {
        "tokens": [
         {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "Active verb",
-           "type": "text"
-          }
-         ]
+         "text": "*Active verb*",
+         "type": "text"
         }
        ]
       },
       {
        "tokens": [
         {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "Passive verb",
-           "type": "text"
-          }
-         ]
+         "text": "*Passive verb*",
+         "type": "text"
         }
        ]
       }
