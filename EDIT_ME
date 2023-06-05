@@ -29,8 +29,8 @@ Dedication: Cheshbonos is dedicated to the memory of Rav Dov Zemmel z'l, a talmi
 * Kiddushin 41a:
 Kiddushin 41a, [[{{picture}}d here]], contains:
 - The last five lines of the previous perek, _ha'isha niknas_.
-- [[The mishnah on Kiddushin 41a|The first Mishnah of the second perek]], _ha'ish mekadesh_.
-- The sugya of [[_hashta b'shlucho mekadesh bo meboy_]].
+- [[The mishnah on Kiddushin 41a|The first Mishnah of the second perek\, _ha'ish mekadesh_]].
+- [[The sugya of {{_hashta b'shlucho mekadesh bo meboy_}}]].
 - The sugya of _k'sh'hi na'ara ein, k'sh'hi katana lo_.
 - The beginning of the sugya of _shlichus menalan_.
 
@@ -119,9 +119,11 @@ Haaras
 - Ki itmar DRav Yosef:
   - Why didn't the gemara stop there?
   - difference between intro of R Yosef and intro of R Yehuda amar Rav, R Yosef needs a total proof, why not say "one and one"?
+  - Why does R Yosef get knocked off?
   - Why didn't we have to move R Yehuda amar Rav?
   - Is this editing a memra of R Yosef, or was there never any memra?
-  - Why does R Yosef get knocked off?
+  - Why take the drastic step of editing R Yosef when we can make a machlochus?
+  - Why not say R Yosef holds RYAR's source is another mishna? BC there's no reason to think every chiddush of the mishnah is unique etc.
   - Why not just make it a machlochus / standard ika damri where there are multiple conflicting girsas?
   - Maybe we are moving R Yosef to explain the bah? But we don't see this in the shakla v'taria.
   - Why doesn't RYAR need a source for his halacha?
@@ -247,8 +249,8 @@ Consider what we would think the halacha should be: The first clause of the Mish
 
 Closely read the first clause: To closely read the first clause of the Mishna:
 - Ask [[how do you know where the first clause ends?]]
-- Understand the [[individual words]]
-- Write a [[literal translation]]
+- For more advanced students, understand the [[individual words]]
+- Understand a [[literal translation]].
 - Produce a [[contextual summary]].
 
 How do you know where the first clause ends? How do we know where the first clause of the Mishnah ends? By reading the Mishnah, we should notices some similar-looking words being repeated:
@@ -260,7 +262,11 @@ Individual words:
 Next we need to understand the individual words of the first clause, you can select one to learn more:
 < [[האיש]] [[מקדש]] [[בו]] [[ובשלוחו]]
 
-האיש: The word האיש has [[{possible meanings} of האיש]] and an [[{actual meaning} of האיש]]. (Try reading the "possible meanings" of all the words in the sentence before looking at the "actual meaning" of any word, so that you can practice figuring it out yourself.)
+האיש: The word האיש has:
+- [[Possible meanings of האיש]]
+- A translation of האיש
+- [[Actual meaning of האיש]] (Try reading the "possible meanings" of all the words in the sentence before looking at the "actual meaning" of any word, so that you can practice figuring it out yourself.)
+- How you can figure it out
 
 Possible meanings of האיש: Try to use the following hints to guess the meaning of the word in this context:
 - There are [[different things a ה at the start of a word could mean]].
@@ -281,17 +287,33 @@ The word איש: The word איש in Hebrew means "man."
 
 The prefix ה meaning "the": The prefix ה in front of a noun in Hebrew is similar to the English word "the."
 
-מקדש: The word מקדש has [[{possible meanings} of מקדש]], an [[{actual meaning} of מקדש]] and a [[{grammatical explanation} of מקדש]].
+מקדש: The word מקדש has:
+- [[Hints for how to read מקדש]]
+- [[A translation of מקדש]]
+- [[A grammatical explanation of מקדש]]
+- [[How to figure out the meaning of מקדש]]
 
-Possible meanings of מקדש: Try to use the following hints to guess the meaning of the word. There are [[different things a מ at the start of a word could mean]]. There is a [[shoresh]] spelled [[קדש]] which has various meanings, and there [[two verb forms that are spelled exactly like their shoresh]].
+Hints for how to read מקדש: Try to use the following hints to guess the meaning of the word.
+- There are [[different things a מ at the start of a word could mean]].
+- There is a [[shoresh]] spelled [[קדש]] which has various meanings
+- There are [[two verb forms that are spelled exactly like their shoresh]].
 
 Two verb forms that are spelled exactly like their shoresh: A [[shoresh]] like אכל can produce multiple types of past-tense verbs, and one type would look like אָכַל, and one type would look like אִכֵּל, and because the Gemara doesn't have vowels, if you see three shoresh letters together like אכל, you might be looking at one of these two types of past-tense verb. (For advanced readers, אָכַל is the past-tense form of a [[{{pa'al}} verb]], and אִכֵּל is the past-tense form of a [[{{pi'el}} verb]].)
 
-Actual meaning of מקדש: The word מקדש here means for a man to create a status of _kedushin_ with a woman prior to marriage.
+A translation of מקדש: The word מקדש here is a verb describing a man who is creating the initial stage of marriage, i.e. _kedushin_ with a woman.
 
-Grammatical explanation of מקדש: This is a grammatical explanation of the word מקדש:
+A grammatical explanation of מקדש: This is a grammatical explanation of the word מקדש:
 - Verbs in Hebrew and Aramaic come from a particular [[shoresh]], which is put into a particular [[binyan]], and then into a particular [[{verb form}s of Hebrew and Aramaic]], and then into a particular conjugation of that verb form.
-- The word מקדש is formed from [[the shoresh {{קדש}}]], in [[its {{_pi'el_}} form]], in the [[{{_pi'el_}}{|_'s_}{{ "participle"}} form]], in the participle's masculine singular conjugation.
+- There is a binyan called the [[_pi'el_]], and a tense called the [[ongoing participle]], and the _pi'el_ binyan has a participle.
+- The word מקדש is the [[the shoresh {{קדש}}]], in [[its {{_pi'el_}} form]], in the [[{{_pi'el_}}{|_'s_}{{ "ongoing participle"}} form]], in the participle's masculine singular conjugation.
+
+How to figure out the meaning of מקדש: There are several ways to figure out the meaning of מקדש.
+- We are reading a Mishnah so we know it is Hebrew
+- Once we know האיש is a noun, we should expect a verb
+- We have 4 strong letters, so either the [[shoresh]] is מקד and there is a ש suffix, or the shoresh is קדש and there is a מ prefix.
+- There is no such suffix as ש, nor such a shoresh as מקד, so we see the shoresh is קדש and the prefix is מ.
+- There are only two verb forms in Hebrew that have a מ prefix, the [pi'el participle] and the [hif'il participle].
+- The hif'il participle has a י between the second and third shoresh letters, so we see this is a [pi'el participle].
 
 Parts of speech: The word מקדש can function as a noun, meaning "someone who makes something holy", a verb, someone or something "is making holy," or an adjective, something has "the quality of making something holy."
 
@@ -702,7 +724,7 @@ Forms:
 
 Is one of the "heavy" binyanim due to its doubled middle letter: Verbs in the _hispa'el_ are called "heavy."
 - This is because they are pronounced with a doubled middle letter.
-- For example, the [[shoresh]] לבש when put in the _hispa'el_ produces the verb מִתְלַבֵּשׁ (_misla<b>b'b</b>eish_) "he is dressing himself."
+- For example, the [[shoresh]] לבש when put in the _hispa'el_ produces the verb מִתְלַבֵּשׁ (_misla*b'b*eish_) "he is dressing himself."
 
 
 * Huf'al: The _huf'al_ (הֻפְעַל) is one of the [[Hebrew binyanim]]. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
@@ -724,26 +746,28 @@ Forms:
 * Pa'al: The _pa'al_ (פָּעַל), or _kal_ (קַל), is one of the [[Hebrew binyanim]]. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
 - Verbs in the _pa'al_ have the properties of being [[active]] and [[simple]].
 - A _pa'al_ verb [[has various verb {{forms}}]].
-- The _pa'al_ is the only binyan to feature a [[{{passive participle}} form]].
+- The _pa'al_ is the only binyan to feature a [[{{finished participle}}{#finished participle|} form]].
 - The _pa'al_ corresponds to the [[_pe'al_]] in Aramaic.
 
 Forms:
 Verbs in the _pa'al_ have various forms. (There are [[various {{verb forms of Hebrew and Aramaic}}]].)
-| [[_Pa'al_ {{Past Tense}}]] | [[_Pa'al_ {{Future Tense}}]] | [[_Pa'al_ {{Active Participle}}]] |
-| [[_Pa'al_ {{Imperative}}]] | [[_Pa'al_ {{Infinitive}}]] | [[_Pa'al_ {{Passive Participle}}{form|}]] |
+| [[_(Pa'al)_ Past Tense]] | [[_(Pa'al)_ Future Tense]] | [[_(Pa'al)_ Ongoing Participle]] |
+| [[_(Pa'al)_ Imperative]] | [[_(Pa'al)_ Infinitive]] | [[_(Pa'al)_ Finished Participle]] |
 
-Passive Participle form:
 
-Active Participle: The _pa'al_ has an active participle form, which is normally just called the "participle." (The [[participle]] is one of the [[{verb forms|tenses} of Hebrew and Aramaic]].) This is an example of how you conjugate verbs with [[regular shorushim]] in the _pa'al_ participle:
-| *Person* | *Hebrew* | *Transliteration* |
-|---------|--------|----------------|
-| Masculine singular | כּוֹתֵב | _koseiv_  |
-| Feminine singular | כּוֹתֶבֶת | _koseves_ |
-| Masculine plural | כּוֹתְבִים | _kosvim_ |
-| Feminine plural | כּוֹתְבוֹת | _kosvos_ |
-The _pa'al_ participle generally features a ו between the first and second root letters. You can see examples of the [[participle]] in [[forms in Hebrew|other binyanim]].
+* Pa'al Finished Participle: The _pa'al_ has a finished participle form. (The [[finished participle]] is one of the [[{verb forms|tenses} of Hebrew and Aramaic]].)
 
-Past tense: The _pa'al_ has an past tense. (The [[past tense]] is one of the [[{verb forms|tenses} of Hebrew and Aramaic]].) This is an example of how you conjugate verbs with [[regular shorushim]] in the _pa'al_ past tense:
+
+* Pa'al Future tense: The _pa'al_ has a future tense. (The [[future tense]] is one of the [[{verb forms|tenses} of Hebrew and Aramaic]].)
+
+
+* Pa'al Imperative: The _pa'al_ has an imperative. (The [[imperative]] is one of the [[{verb forms|tenses} of Hebrew and Aramaic]].)
+
+
+* Pa'al Infinitive: The _pa'al_ has an infinitive. (The [[infinitive]] is one of the [[{verb forms|tenses} of Hebrew and Aramaic]].)
+
+
+* Pa'al Past tense: The _pa'al_ has an past tense. (The [[past tense]] is one of the [[{verb forms|tenses} of Hebrew and Aramaic]].) This is an example of how you conjugate verbs with [[regular shorushim]] in the _pa'al_ past tense:
 | *Person* | *Hebrew* | *Transliteration* | *Meaning* |
 |---------|--------|----------------|---------|
 | First singular | כָּתַבְתִּי | _kosavti_ | I wrote |
@@ -756,20 +780,6 @@ Past tense: The _pa'al_ has an past tense. (The [[past tense]] is one of the [[{
 | Third plural feminine | כָּתְבָה | _kosvo_ | She wrote |
 | They/those | כָּתְבוּ | _kosvu_ | They wrote |
 
-Future tense: The _pa'al_ has a future tense. (The [[future tense]] is one of the [[{verb forms|tenses} of Hebrew and Aramaic]].) The future tense has various [[uses]].
-
-Uses: The future tense is often used to describe an action that will occur in the future, but it has several other uses:
-| *Future Verb* | *Meaning* |
-|-|-|-|
-| אכל | to eat |
-| קנה | to buy |
-| זכר | to remember |
-| אמר | to say |
-
-Imperative: The _pa'al_ has an imperative. (The [[imperative]] is one of the [[{verb forms|tenses} of Hebrew and Aramaic]].)
-
-Infinitive: The _pa'al_ has an infinitive. (The [[infinitive]] is one of the [[{verb forms|tenses} of Hebrew and Aramaic]].)
-
 
 * Pi'el: The "pi'el" (פִּעֵל) is one of the [[Hebrew binyanim]]. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
 - Verbs in the _pi'el_ have the properties of being [[active]] and [[intensive]].
@@ -780,18 +790,18 @@ Infinitive: The _pa'al_ has an infinitive. (The [[infinitive]] is one of the [[{
 
 Is one of the "heavy" binyanim due to its doubled middle letter: Verbs in the _pi'el_ are called "heavy."
 - This is because they are pronounced with a doubled middle letter.
-- For example, the shoresh קדש when put in the _pi'el_ produces the verb מְקַדֵּשׁ (_meka<b>d'd</b>esh_) "he is donating to the temple."
+- For example, the shoresh קדש when put in the _pi'el_ produces the verb מְקַדֵּשׁ (_meka*d'd*esh_) "he is donating to the temple."
 
 Forms:
 The _pi'el_ binyan has verb conjugations in various forms:
-| [[Past Tense]] | [[Future Tense]] | [[Participle]] |
+| [[Past Tense]] | [[Future Tense]] | [[Ongoing Participle]] |
 | [[Imperative]] | [[Infinitive]] | \^ |
 
 Past Tense: Verbs in the _pi'el_ with [[regular shorushim]] are conjugated in the [[past tense]] like the following example:
 
 Future Tense: Verbs in the _pi'el_ with [[regular shorushim]] are conjugated in the [[future tense]] like the following example:
 
-Participle: Verbs in the _pi'el_ with [[regular shorushim]] are conjugated in the [[participle]] like the following example:
+Participle: Verbs in the _pi'el_ with [[regular shorushim]] are conjugated in the [[ongoing participle]] like the following example:
 | *Person* | *Hebrew* | *Transliteration* |
 |---------|--------|----------------|
 | Masculine singular | מְכַתֵּב | _mechateiv_  |
@@ -814,7 +824,7 @@ Forms:
 
 Is one of the "heavy" binyanim due to its doubled middle letter: Verbs in the _pi'el_ are called "heavy."
 - This is because they are pronounced with a doubled middle letter.
-- For example, the shoresh קדש when put in the _pi'el_ produces the verb מְקֻדָּשׁ (_meku<b>d'd</b>ash_) "it is being donated to the temple."
+- For example, the shoresh קדש when put in the _pi'el_ produces the verb מְקֻדָּשׁ (_meku*d'd*ash_) "it is being donated to the temple."
 
 
 [Lashonos/Conjunctions]
@@ -823,23 +833,23 @@ Is one of the "heavy" binyanim due to its doubled middle letter: Verbs in the _p
 
 Meanings: The prefix ב can mean [["inside"]], [["with"]], [["by" or "via"]], [["on"]], [["because of"]], [["using"]] or [["at the time of"]].
 
-"inside": The prefix ב can be short for the word בתוך meaning "inside," for example <b>ב</b>בית, "*in* the house."
+"inside": The prefix ב can be short for the word בתוך meaning "inside," for example *ב*בית, "*in* the house."
 
-"with": The prefix ב can mean something that is "with" something else, eg הוא בא <b>ב</b>חברו, "he came *with* his friends"
+"with": The prefix ב can mean something that is "with" something else, eg הוא בא *ב*חברו, "he came *with* his friends"
 
 "by" or "via": The prefix ב can mean doing something "by" or "via" a certain method, eg:
-- הוא עושה כן <b>ב</b>שליח - "he did it *via* his messenger"
-- הוא בא <b>ב</b>חמור - "he came *by* donkey."
+- הוא עושה כן *ב*שליח - "he did it *via* his messenger"
+- הוא בא *ב*חמור - "he came *by* donkey."
 
-"on": The prefix ב can mean something that is on top of something else, eg <b>ב</b>שלחן, "on the table"
+"on": The prefix ב can mean something that is on top of something else, eg *ב*שלחן, "on the table"
 
-"because of": The prefix ב can be short for the word בשביל meaning "because of", eg הוא בא <b>ב</b>ך, "he came for you."
+"because of": The prefix ב can be short for the word בשביל meaning "because of", eg הוא בא *ב*ך, "he came for you."
 
-"using": The prefix ב can mean "using" eg הוא חותך <b>ב</b>סכין "he cuts using a knife."
+"using": The prefix ב can mean "using" eg הוא חותך *ב*סכין "he cuts using a knife."
 
-"at the time of": The prefix ב can mean "at" a certain time eg הוא הגיע <b>ב</b>צהריים "he came *at* noon."
+"at the time of": The prefix ב can mean "at" a certain time eg הוא הגיע *ב*צהריים "he came *at* noon."
 
-Followed by a noun: The prefix ב can be followed by a noun, for example, "<b>ב</b>בית", which is the prefix ב followed by the noun בית ie "house," which together means "in a house" or "in the house."
+Followed by a noun: The prefix ב can be followed by a noun, for example, "*ב*בית", which is the prefix ב followed by the noun בית ie "house," which together means "in a house" or "in the house."
 
 Suffixes: The prefix ב in Hebrew has several suffixes that can be attached to indicate who or what is being referred to.
 | ‎ *ב with suffix* | *Transliteration* | *Person* | *Example meaning* |
@@ -866,16 +876,20 @@ Suffixes: The prefix ב in Hebrew has several suffixes that can be attached to i
 
 * Different things a ה at the start of a word could mean:
 A word beginning with ה could be:
-- a name beginning with ה, eg הוֹשֵׁעַ (_Hoshea_)
+- a name or proper noun beginning with ה, eg הוֹשֵׁעַ (_Hoshea_)
 - [[a word formed from a shoresh beginning with ה]]
 - a noun starting with [[the Hebrew version of the word "the"]]
 - a [[past-tense verb that begins with ה]]
 - an [[imperative verb that begin with ה]]
 - part of [[a type of noun that begins with ה]]
 
-A word formed from a shoresh beginning with ה: A ה at the start of a word might be part of a word formed from a [[shoresh]] beginning with ה, such as the shoresh הלך, which produces nouns like הֲלִיכָה (_halicha_, the activity of walking), and verbs like הוֹלֵךְ (_holech_, he is walking).
+A word formed from a shoresh beginning with ה: A ה might be part of a word formed from a [[shoresh]] beginning with ה.
+- For example, the shoresh הלך begins with ה
+- The shoresh הלך produces nouns like הֲלִיכָה (_halicha_, the activity of walking)
+- The shoresh הלך produces verbs like הוֹלֵךְ (_holech_, [he is] walking).
 
-The Hebrew version of the word "the": A ה at the start of a word might be the Hebrew version of the word "the", for example הַאֶבֶן, "the rock," formed from the word אֶבֶן, meaning "rock."
+The Hebrew version of the word "the": A ה at the start of a word might be the Hebrew version of the word "the".
+- For example הַאֶבֶן, "the rock," formed from the word אֶבֶן, meaning "rock."
 
 Past-tense verb that begins with ה:
 There are two kinds of [[past tense]] verb that begin with ה:
@@ -898,8 +912,8 @@ In Hebrew and Aramaic, there are [["noun patterns"]] which are families of noun 
 - A מ at the start of a word might be part of the actual word, for example מלח which means salt.
 - A מ at the start of a word might be short for מין, meaning "from," for example מבבל, "from Bavel."
 - A מ at the start of a word might be the word part of a comparison, corresponding to the word "than," for example יותר מזה, "more than that."
-- A מ at the start of a word might be part of the [[participle]] of an [[intensive]] verb in Hebrew or Aramaic, for example מדבר, "he is speaking."
-- A מ at the start of a word might be part of the [[participle]] of a [[causative]] verb in Hebrew or Aramaic, for example מבדיל, "he is separating."
+- A מ at the start of a word might be part of the [[ongoing participle]] of an [[intensive]] verb in Hebrew or Aramaic, for example מדבר, "he is speaking."
+- A מ at the start of a word might be part of the [[ongoing participle]] of a [[causative]] verb in Hebrew or Aramaic, for example מבדיל, "he is separating."
 
 
 * Hebrew definite article:
@@ -952,7 +966,7 @@ The noun patterns that come from [[_pi'el_]] verbs include:
 There is a standard difference between nouns in [[the _hektel_ noun pattern]] and [[the _haktala_ noun pattern]]:
 | *_Shoresh_* | *_Hif'il_ verb* | *_Hektel_ noun* | *_Haktala_ noun* |
 |-|-|-|-|
-| דבל<br> seperation | הִדְבִּיל<br> _hivdil_ <br> he seperated | הֶבְדֵּל<br> _hevdel_ <br> a difference / seperation | הַבְדָּלָה<br> _havdalah_ <br>an act of seperation |
+| בדל<br> seperation | הִבְדִיל<br> _hivdil_ <br> he seperated | הֶבְדֵּל<br> _hevdel_ <br> a difference / seperation | הַבְדָּלָה<br> _havdalah_ <br>an act of seperation |
 | קדש<br> holiness | הִקְדִּישׁ<br> _hikdish_ <br> he donated to the temple | הֶקְדֵּשׁ <br> _hekdesh_ <br> property of the temple |  הַקְדָּשָׁה<br> _hakdasha_ <br> an act of donation<br> to the temple |
 | קשר<br> connection | הִקְשִׁיר<br> _hikshir_ <br> he connected | הֶקְשֵׁר<br> _heksher_ <br> a connection | הַקְשָׁרָה<br> _hakshara_ <br> an act of connecting |
 As you can see, the _hif'il_ verb represents an action, the _haktala_ noun represents an instance of that action, and the _hektel_ noun will represent the _result_ of that action. Not every _hif'il_ verb however will have both a _hektel_ and a _haktala_ form. For a full list of _hektel-haktala_ word pairs, see [Klein on _havdalah_](https://www.sefaria.org/Klein_Dictionary%2C_%D7%94%D6%B7%D7%91%D6%B0%D7%93%D6%B8%D6%BC%D7%9C%D6%B8%D7%94.1).
@@ -1033,15 +1047,13 @@ Nouns in the _taktil_ noun pattern come from [[_hif'il_]] verbs. More examples o
 Can only have verb forms in binyanim with a doubled middle letter:
 Four-letter shorushim can only have verb forms in binyanim with a doubled middle letter like the [[_pi'el_]]. This is because the doubled letter creates room for the four consonant sounds.
 | *Shoresh* | *[[_Pi'el_]] example* | *Notes*|
-| דבר <br> speech | מְדַבֵּר <br> _me<b>d</b>a<b>b</b>'<b>b</b>e<b>r</b>_ <br> he is saying | - This is a regular three-letter shoresh. <br>- The middle בּ ("b") is said twice<br> - I.e. both middle slots are used for בּ |
-| שׁחרר <br> liberation | מְשַׁחְרֵר <br> _me<b>sh</b>a'<b>ch</b>-<b>r</b>ei<b>r</b>_ <br> he is liberating | - This is a four-letter shoresh<br>- First middle slot is used for ח ("ch") <br>- Second middle slot is used for ר|
-| טלטל <br> movement | מְטַלְטֵל <br> _me<b>t</b>a<b>l</b>'<b>t</b>e<b>l</b>_ <br> he is moving | - This is a four-letter shoresh<br> - First middle slot is used for ל <br> - Second middle slot is used for ט |
+| דבר <br> speech | מְדַבֵּר <br> _me*d*a*b*'*b*e*r*_ <br> he is saying | - This is a regular three-letter shoresh. <br>- The middle בּ ("b") is said twice<br> - I.e. both middle slots are used for בּ |
+| שׁחרר <br> liberation | מְשַׁחְרֵר <br> _me*sh*a'*ch*-*r*ei*r*_ <br> he is liberating | - This is a four-letter shoresh<br>- First middle slot is used for ח ("ch") <br>- Second middle slot is used for ר|
+| טלטל <br> movement | מְטַלְטֵל <br> _me*t*a*l*'*t*e*l*_ <br> he is moving | - This is a four-letter shoresh<br> - First middle slot is used for ל <br> - Second middle slot is used for ט |
 
 Some seem to have intrinsic meanings: Some four letter shorushim seem to be intrinsically meaningful and are not related to other shorushim. For example:
 - פרנס, "livelihood," used in verbs like לְפַרְנֵס _lefarneis_ "to support financially."
 - קטרג, "accusation," used in verbs like לְקַטְרֵג _lekatreig_, "to accuse"
-
-- Also parnassa and kitrig
 
 
 * Irregular shorushim: An irregular shoresh, as opposed to a [[regular shor{ushim|esh}]], is a [[shoresh]] that has special letters that affect the vowelization of verbs produced from it. Here are some examples of irregular shorushim and their irregular verb conjugations:
@@ -1133,8 +1145,8 @@ Regular and irregular shorushim: Shorushim can be [[{regular} shorushim]] or [[{
 * קדש: קדש is a [[shoresh]] in Hebrew and Aramaic. It has forms with different meanings in the following binyanim:
 | *Hebrew*  | [[Simple]] | [[Intensive]] | [[Causative]] | [[Reflexive]] |
 |---------|--------|-----------|-----------|-----------|
-| [[Active]]  | [[{{_Pa'al_}} of קדש]] | [[{{_Pi'el_}} of קדש]] | [[{{_Hif'il_}} of קדש]] | [[{{_Hispa'el_}} of קדש]] |
-| [[Passive]] | _Nif'al_ | [[{{_Pu'al_}} of קדש]] | [[{{_Huf'al_}} of קדש]] | \^ |
+| [[Active]]  | [[{{_Pa'al_}} <br> (of קדש)]] | [[{{_Pi'el_}} <br> (of קדש)]] | [[{{_Hif'il_}} <br> (of קדש)]] | [[{{_Hispa'el_}} <br>(of קדש)]] |
+| [[Passive]] | ~_Nif'al_~ | [[{{_Pu'al_}} <br> (of קדש)]] | [[{{_Huf'al_}} <br> (of קדש)]] | \^ |
 
 More information can be found in the [Jastrow](https://www.sefaria.org/Jastrow%2C_%D7%A7%D6%B8%D7%93%D6%B7%D7%A9%D7%81.1) and [Klein](https://www.sefaria.org/Klein_Dictionary%2C_%D7%A7%D7%93%D7%A9%D7%81.1) dictionaries.
 
@@ -1180,6 +1192,20 @@ Kiddushin: _Kiddushin_ is a stage of the marriage process. A man creates kiddush
 
 [Lashonos/Tenses]
 
+* Finished Participle: The finished participle (sometimes called the _pa'ul_) is a special type of word in Hebrew and Aramaic.
+- Examples of finished participles include words like "burnt" or "written."
+- Finished participles are adjectives that are formed from verbs, like "burnt" from "to burn."
+- The Hebrew passive participle looks like כָּתוּב (_kasuv_), and in Aramaic like כְּתִיב (_kasiv_).
+- The passive participle only exists in certain binyanim, namely [[the Hebrew {{_pa'al_}}]] and [[the Aramaic {{pe'al}}]].
+- There are [[differences in meaning between the passive participle and the passive binyanim like _nif'al_]].
+- Like [[the {{ongoing participle}}]], the passive participle only has meaning in one of several [[participle {constructions}]].
+
+Differences in meaning between the passive participle and the passive binyanim like _nif'al_:
+There are differences in meaning between the passive participle and the passive binyanim:
+- The [[simple]] [[passive]] binyanim i.e. [[the Hebrew {{_nif'al_}}]] and [[the Aramaic {{_ispe'el_}}]] represent an ongoing action e.g. "it is _being_ written" or "it is _regularly_ written."
+- The passive participle by contrast would mean "it is written," without a connection to an ongoing action.
+
+
 * Future Tense: The future tense is one of the [[verb forms of Hebrew and Aramaic]].
 - The future tense generally describes a future action, but has [[several uses]].
 
@@ -1201,13 +1227,13 @@ The future tense can describe a moral suggestion.
 - For example, תַּעֲזֹר, _ta'azoir_ (lit. "you will help") can mean "you should help."
 
 
-* _Hif'il Participle_:
+* Hif'il Participle:
 
 
-* _Hispa'el Participle_:
+* Hispa'el Participle:
 
 
-* _Huf'al_ Participle:
+* Huf'al Participle:
 
 
 * Imperative: The imperative, also known as "the command form," is one of the [[verb forms of Hebrew and Aramaic]].
@@ -1216,92 +1242,28 @@ The future tense can describe a moral suggestion.
 * Infinitive: The infinitive is one of the [[verb forms of Hebrew and Aramaic]].
 
 
-* _Nif'al_ Participle:
+* Nif'al Participle:
 
 
-* _Nispa'el Participle_:
+* Nispa'el Participle:
 
 
-* _Pa'al Participle_: This is the _pa'al_ participle conjugation for [[regular shorushim]], but there is also a [[_pa'al_ participle for stative verbs]] and other irregular forms. The [[_pa'al_]] is one of the [[Hebrew Binyanim]], and [[{{binyan}} is a special concept in Hebrew and Aramaic grammar]].
-| *Person* | *Hebrew* | *Transliteration* | *Meaning* |
-|---------|--------|----------------|---------|
-| Masculine singular | כּוֹתֵב | _koseiv_ | one man writing |
-| Feminine singular | כּוֹתֶבֶת | _koseves_ | one woman writing |
-| Masculine plural | כּוֹתְבִים | _kosvim_ | multiple men writing |
-| Feminine plural | כּוֹתְבוֹת | _kosvos_ | multiple women writing |
-
-_Pa'al_ participle for stative verbs:
-There is a special category of verbs that are called [[stative verbs]], and in the participle they do not get the normal ו after the first root letter, like in כּוֹתֵב _kosev_ "writing."
-| *Person* | *Hebrew* | *Transliteration* | *Meaning* |
-|---------|--------|----------------|---------|
-| Masculine singular | זָקֵן | _zaukein_ | one man is old |
-| Feminine singular | זְקֵנָה | _z'keinau_ | one woman is old |
-| Masculine plural | זְקֵנִים | _z'keinim_ | multiple men are old |
-| Feminine plural | זְקֵנוֹת | _z'keinos_ | multiple women are old |
-
-
-* Participle: The active participle, or just "the participle" (sometimes called _lashon po'el_) is one of the [[verb forms of Hebrew and Aramaic]].
-- The participle is similar to English "ing" verbs, like "running."
-- The participle [[has various uses]].
-- The participle has [[forms in Hebrew]] and [[forms {in Aramaic}]].
-
-Has various uses: The Hebrew and Aramaic participle has various uses.
-- The Hebrew and Aramaic participle [[corresponds to both the English present and participle]].
-- The participle can be [[used for various time periods]]
-- It can [[function as a noun or adjective]].
-
-Corresponds to both the English present and participle: The Hebrew and Aramaic participle corresponds to multiple English verb forms.
-- In English you can say "he is writing" or "he writes."
-- In Hebrew and Aramaic, both of these forms would be expressed with the same participle i.e. הוּא כּוֹתֵב, _hu koseiv_.
-- Thus, when we see the word כּוֹתֵב, _koseiv_, we can't be sure from the word alone if it means "he is writing" or "he writes."
-
-Used for various time periods: A word in the participle technically [[has no time]], and can be used [[in the past]], [[in the present]], or [[in the future]].
-
-Has no time: A word in the participle of Hebrew or Aramaic does not alone tell us what time the action happened. This is like the English word "running," which only describes an action, not when it happened. We require the context of the sentence to determine the time of the action.
-
-In the past: The participle can be used in the past tense, for example הוא היה כותב, _hu haya koisev_ meaning "he used to write" or "he used to be writing." If you wanted to say "he wrote," ie a one-time past event instead of an ongoing past event, you would just use the regular [[past tense]], and not the "past-tense version" of the participle.
-
-In the present: The participle can be used in the present tense by adding a noun before the verb, for example, הוא כותב, _hu koisev_, meaning "he is writing" or "he writes."
-
-In the future: The participle can be used in the future tense, for example, הוא יהיה כותב, _hu yiyeh koisev_, meaning "he will be writing." If you wanted to say "he will write," ie a one-time future event, you would just use the regular [[future tense]] and not the "future version" of the participle.
-
-Function as a noun or adjective: Words in the participle can function [[as nouns]] or [[as adjectives]].
-
-As nouns: The participle can function as a noun in two ways, [[describing someone doing the action]], or [[describing an instance of an action]].
-
-Describing someone doing the action:
-The participle can function as a noun describing someone or something doing the given action. For example:
-| Hebrew  | *כּוֹתֵב* צָרִיךְ פֶּֽתֶק |
-|-|-|
-| Transliteration | _*koisev* tzarich petek_ |
-| English | *a person who is running* needs shoes. |
-Here, we see the Hebrew word "running" can also mean "a person who is running." Putting a ה in front of the word ie הַכּוֹתֵב would mean "the one who runs."
-
-Describing an instance of an action:
-The participle can function as a noun describing someone or something doing the given action. For example:
-| Hebrew  | *כּוֹתֵב* שלו תמיד |
-|-|-|
-| Transliteration | _*koisev* shelo tamid_ |
-| English | his *writing* is constant |
-Here, we see that the Hebrew word "writing" can be used as a noun, meaning "this particular instance of the act of writing."
-
-As adjectives: A participle can function as an adjective, eg:
-| Hebrew  | שמעון *קודש* |
-|-|-|
-| Transliteration | _Shimeon *kodesh*_ |
-| English | Shimeon is *holy*, or Shimeon is *being holy* |
-In English, "holy" is an adjective and "being holy" is a verb, but in Hebrew and Aramaic, the same participle word "קודש" would be used for both.
+* Ongoing Participle: The ongoing participle, usually just called "the participle" (and sometimes called _lashon po'el_) is one of the [[verb forms of Hebrew and Aramaic]].
+- The ongoing participle corresponds to the English "ing" verbs, like "running."
+- The ongoing participle describes an ongoing action, as opposed to [[the {{finished participle}}]].
+- Participles can only be used when combined with other words in special combinations called [[participle {constructions}]].
+- The ongoing participle has [[forms in Hebrew]] and [[forms in Aramaic]].
 
 Forms in Hebrew:
 These are the examples of the participle in the masculine singular for each of the [[Hebrew binyanim]]. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
 | *Hebrew*  | [[Simple]] | [[Intensive]] | [[Causative]] | [[Reflexive]] |
 |---------|--------|-----------|-----------|-----------|
-| [[Active]]  | [[_Pa'al Participle_]] | [[_Pi'el Participle_]] | [[_Hif'il Participle_]] | [[_Hispa'el Participle_]],<br><br>[[_Nispa'el Participle_]] |
-| [[Passive]] | [[_Nif'al_ Participle]] | [[_Pu'al_ Participle]] | [[_Huf'al_ Participle]] | \^ |
+| [[Active]]  | [[_Pa'al_ (Ongoing Participle)]] | [[_Pi'el_ (Ongoing Participle)]] | _Hif'il_ (Ongoing Participle) | _Hispa'el_ (Ongoing Participle),<br><br>_Nispa'el_ (Ongoing Participle) |
+| [[Passive]] | _Nif'al_ (Ongoing Participle) | _Pu'al_ (Ongoing Participle) | _Huf'al_ (Ongoing Participle) | \^ |
 
 - Table might be overkill
 | *Binyan*        | *Type* |  *Example* | *Transliteration* | *See all forms* |
-| [[_Pa'al_]] | [[simple]], [[active]] | כּוֹתֵב | _koiseiv_ | [[Pa'al#Active Participle]] |
+| [[_Pa'al_]] | [[simple]], [[active]] | כּוֹתֵב | _koiseiv_ | [[Pa'al#Ongoing Participle]] |
 | [[_Nif'al_]] | [[simple]], [[passive]] | נִכְתָּב | _nicht'tov_ | Nif'al#Participle |
 | [[_Pi'el_]] | [[intensive]], [[active]] | מְכַתֵּב | _mechat'teiv_ | Pi'el#Participle |
 | [[_Pu'al_]] | [[intensive]], [[passive]] | מְכֻתָּב | _mechut'tov_ | _Pu'al#Participle |
@@ -1346,31 +1308,117 @@ Separate forms for person: Tenses other than the participle have conjugations fo
 Like an adjective: The participle in Hebrew and Aramaic is more like an adjective than a verb, with "he is running" having the same grammatical form as "he is tall." (This example uses the participle of the [[_{{pa'al}} binyan_]]. [[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
 
 
-* Passive Participle: The passive participle is a special verb form in Hebrew and Aramaic.
-- The passive participle only exists in the [[active]] [[simple]] binyanim of Hebrew and Aramaic, [[the Hebrew {{_pa'al_}}]] and [[the Aramaic {{pe'al}}]].
-- There are [[differences in meaning between the passive participle and the passive binyanim]].
-- The passive participle functions like an adjective.
-- The passive participle in Hebrew looks like כָּתוּב _kasuv_, and in Aramaic like כְּתִיב, _kasiv_.
+* Pa'al Ongoing Participle: There is a [[{{ongoing participle}} form]] of the [[{{_pa'al_}} binyan]].
+- The _pa'al_ participle is an [[active {{ongoing participle}}]], as opposed to the [[_pa'al's_ {{finished participle}}]].
+- There are different patterns of conjugation for the _pa'al_ participle:
+| [[Regular Shorushim]] | [[Shorushim ending with ח or ע]] |
+| [[Shorushim with a middle ו]] | [[Shorushim with stative meaning in _pa'al_]] |
 
-Differences in meaning between the passive participle and the passive binyanim:
-There are differences in meaning between the passive participle and the passive binyanim:
-- The [[simple]] [[passive]] binyanim i.e. [[the Hebrew {{_nif'al_}}]] and [[the Aramaic {{_ispe'el_}}]] represent an ongoing action e.g. "it is _being_ written" or "it is _regularly_ written."
-- The passive participle by contrast would mean "it is written," without a connection to an ongoing action.
+Regular shorushim:
+The _pa'al_ participle has the following conjugation pattern for [[regular shorushim]]:
+|            | *Masculine* | *Feminine* |
+| *Singular* | כּוֹתֵב <br> _k*o*teiv_ <br> [he is] writing | כּוֹתֶבֶת <br> _k*o*seves_ <br> [she is] writing |
+| *Plural*   | כּוֹתְבִים <br> _k*o*svim_ <br> [those men are] writing | כּוֹתְבוֹת <br> _k*o*svos_ <br> [those women are] writing |
+The _pa'al_ participle for regular shorushim can usually be identified by the distinctive ו between the first and second root letters.
+You can take any regular shoresh and replace the letters כ, ת, and ב in the conjugations above with the three letters of your shoresh to produce the _pa'al_ ongoing participle of the given shoresh.
+
+Shorushim ending with ח or ע:
+The _pa'al_ participle has a special conjugation for shorushim ending with "gutteral" letters like ח or ע, such as פתח.
+|            | *Masculine* | *Feminine* |
+| *Singular* | פּוֹתֵחַ <br> _posayach_ <br> [he is] opening | פּוֹתַחַת <br> _posachas_ <br> [she is] opening |
+| *Plural*   | פּוֹתְחִים <br> _poschim_ <br> [those men are] opening | פּוֹתְחוֹת <br> _poschos_ <br> [those women are] opening |
+Some bring this as [[evidence for the shift of the pronunciation of these letters]].
+You can take any shoresh ending in ח or ע and replace the letters פ, ת, and ח in the conjugations above with the three letters of your shoresh to produce the _pa'al_ ongoing participle of the given shoresh, (unless the shoresh has additional irregular features.)
+
+Evidence for the shift of the pronunciation of these letters: Some linguists posit that the reason shorushim ending in gutterals have an "extra" vowel sound (_po-say-ach_ as opposed to, e.g. _kos-eiv_) is because the real sound for a ח or ע is so low in the throat that the jaw needs to open fully to pronounce them, causing the shift from "ei" to "ah," unlike the similar כ or א letters which are just pronounced at the back of the mouth, without opening the throat, and can therefore accomidate an "ei" vowel.
+
+Shorushim with a middle ו:
+The _pa'al_ participle has a special conjugation for shorushim with a middle ו (also known as "two letter shorushim") like רוץ (running):
+|            | *Masculine* | *Feminine* |
+| *Singular* | רָץ <br> _rautz_ <br> [he is] running | רָצָה <br> _rautzau_ <br> [she is] running |
+| *Plural*   | רָצִים <br> _rautzim_ <br> [those men are] running | רָצוֹת <br> _rautzos_ <br> [those women are] running |
+You can take any shoresh with a weak middle litter and replace the letters ר and צ in the conjugations above with the first and last letters of your shoresh to produce the _pa'al_ ongoing participle of the given shoresh, (unless the shoresh has additional irregular features.)
+
+Shorushim with stative meaning in _pa'al_:
+There is a special category of verb called [[stative verbs]], and if the _pa'al_ of a shoresh is stative, there is a special conjugation:
+|            | *Masculine* | *Feminine* |
+| *Singular* | זָקֵן <br> _zaukein_ <br> [he is] old | זְקֵנָה <br> _z'keinau_ <br> [she is] old |
+| *Plural*   | זְקֵנִים <br> _z'keinim_ <br> [those men are] old | זְקֵנוֹת <br> _z'keinos_ <br> [those women are] old |
+In particular, a stative _pa'al_ participle does not get the normal ו after the first root letter, as in כּוֹתֵב _kosev_ "writing."
+You can take any shoresh with a stative meaning in the _pa'al_ form and replace the letters ז, ק, and ן in the conjugations above with the three letters of your shoresh to produce the _pa'al_ ongoing participle of the given shoresh, (unless the shoresh has additional irregular features.)
+
+
+* Participle constructions: The Hebrew and Aramaic [[ongoing participle]] can be used in various constructions.
+- Like the word "running" in English, verbs in the participle require other words to form a full sentence. These word combinations are often called "constructions."
+- The participle is most commonly [[used to produce the present tense]].
+- The participle by itself has no time, and can be [[used for various time periods]]
+- Words in the participle can [[function as nouns]] or [[function as adjectives]]
+- All of these rules apply to both the [[active {{ongoing participle}}]] and the [[finished participle]]
+
+Used to produce the present tense:
+The participle can be used to produce the Hebrew and Aramaic present tense.
+- The present tense is produced by taking a pronoun like הוּא (_hu_, "he") followed by a participle like כּוֹתֵב (_koseiv_, "writing") i.e. "he is writing."
+- There is no word equivalent to "is" in Hebrew and Aramaic, so it is implied by context.
+- A participle like כּוֹתֵב (_koseiv_, "writing") alone is not necessarily in the present tense, and can be used in the past or future, as in "he was writing."
+- [[The Hebrew and Aramaic "present tense" correspond to both the English present tense and participle]].
+
+The Hebrew and Aramaic "present tense" correspond to both the English present tense and participle: The Hebrew and Aramaic "present tense" construction corresponds to multiple English verb forms.
+- In English you can say "he is writing" (English participle) or "he writes" (English present tense.)
+- In Hebrew and Aramaic, both of these forms would be expressed with the same participle construction i.e. הוּא כּוֹתֵב (_hu koseiv_.)
+- Thus, when we see a sentence like הוּא כּוֹתֵב (_hu koseiv_), we can't be sure from the sentence alone if it means "he is writing" or "he writes."
+
+Used for various time periods: A word in the participle technically [[has no time]], and can be used [[in the past]], [[in the present]], or [[in the future]].
+
+Has no time: A word in the participle of Hebrew or Aramaic does not alone tell us what time the action happened. This is like the English word "running," which only describes an action, not when it happened. We require the context of the sentence to determine the time of the action.
+
+In the past: The participle can be used in the past tense, for example הוא היה כותב, _hu haya koisev_ meaning "he used to write" or "he used to be writing." If you wanted to say "he wrote," ie a one-time past event instead of an ongoing past event, you would just use the regular [[past tense]], and not the "past-tense version" of the participle.
+
+In the present: The participle can be used in the present tense by adding a noun before the verb, for example, הוא כותב, _hu koisev_, meaning "he is writing" or "he writes."
+
+In the future: The participle can be used in the future tense, for example, הוא יהיה כותב, _hu yiyeh koisev_, meaning "he will be writing." If you wanted to say "he will write," ie a one-time future event, you would just use the regular [[future tense]] and not the "future version" of the participle.
+
+Function as nouns: The participle can function as a noun in two ways:
+- A participle can [[describe someone doing the action]]
+- A participle can [[describe an instance of an action]].
+
+Describe someone doing the action:
+The participle can function as a noun describing someone or something doing the given action. For example:
+| Hebrew  | *כּוֹתֵב* צָרִיךְ פֶּֽתֶק |
+|-|-|
+| Transliteration | _*kosev* tzarich petek_ |
+| English | *a person who is writing* needs paper. |
+Here, we see the Hebrew word "running" can also mean "a person who is running."
+- Putting a ה in front of the word ie הַכּוֹתֵב would mean "the one who runs," a verb form found commonly in the Mishnah.
+
+Describe an instance of an action:
+The participle can function as a noun describing someone or something doing the given action. For example:
+| Hebrew  | *כּוֹתֵב* שלוֹ תַּמִיד |
+|-|-|
+| Transliteration | _*koisev* shelo tamid_ |
+| English | his *writing* is constant |
+Here, we see that the Hebrew word "writing" can be used as a noun, meaning "this particular instance of the act of writing."
+
+Function as adjectives: A participle can function as an adjective, eg:
+| Hebrew  | שמעון *קודש* |
+|-|-|
+| Transliteration | _Shimeon *kodesh*_ |
+| English | Shimeon is *holy*, or Shimeon is *being holy* |
+In English, "holy" is an adjective and "being holy" is a verb, but in Hebrew and Aramaic, the same participle word "קודש" would be used for both.
 
 
 * Past tense: The past tense is one of the [[verb forms of Hebrew and Aramaic]].
 
 
-* _Pi'el Participle_:
-The _pi'el participle_ is the [[{{participle}} form]] of the [[{{_pi'el_}} binyan]].
+* _Pi'el Ongoing Participle_:
+The _pi'el participle_ is the [[{{ongoing participle}} form]] of the [[{{_pi'el_}} binyan]].
 - Below is an example of the _pi'el_ participle conjugation for כתב, which applies to other [[regular shorushim]].
-- [[Irregular shorushim have different conjugations in the _pi'el_ participle]].
 | *Person* | *Hebrew* | *Transliteration* | *Meaning* |
 |---------|--------|----------------|---------|
 | Masculine singular | מְכַתֵּב | _mechateiv_ | one man engraving |
 | Feminine singular | מְכַתֶּבֶת | _mechateves_ | one woman engraving |
 | Masculine plural | מְכַתְּבִים | _mechatvim_ | multiple men engraving |
 | Feminine plural | מְכַתְּבוֹת | _mechatvos_ | multiple women engraving |
+- [[Irregular shorushim have different conjugations in the _pi'el_ participle]].
 
 Irregular shorushim have different conjugations in the _pi'el_ participle:
 [[Irregular shorushim]] can have irregular conjugations in the _pi'el_ participle.
@@ -1382,12 +1430,12 @@ Irregular shorushim have different conjugations in the _pi'el_ participle:
 | Feminine plural | מְכַתְּבוֹת <br> _mechatvos_ | מְגַלּוֹת <br> _megalos_ |
 
 
-* _Pu'al_ Participle:
+* _Pu'al_ Ongoing Participle:
 
 
 * Verb forms of Hebrew and Aramaic: There are several verb forms and tenses in Hebrew and Aramaic:
-| [[Past Tense]] | [[Future Tense]] | [[Active {{Participle}}]] |
-| [[Imperative]] | [[Infinitive]] | [[Passive Participle]] |
+| [[Past Tense]] | [[Future Tense]] | [[{{Ongoing Participle}}]] |
+| [[Imperative]] | [[Infinitive]] | [[Finished Participle]] |
 
 
 [Lashonos/Terms]
