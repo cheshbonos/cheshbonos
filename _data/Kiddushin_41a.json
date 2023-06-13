@@ -650,21 +650,18 @@
   ],
   "Picture": [
    {
-    "text": "![Kiddushin 41a Vilna Edition](/",
-    "type": "text"
-   },
-   {
-    "type": "italics",
+    "type": "image",
+    "resourceUrl": "/_assets/dafim/Kiddushin_41a.png",
+    "title": "Kiddushin 41a",
     "tokens": [
      {
-      "text": "assets/dafim/Kiddushin",
+      "text": "Kiddushin 41a Vilna Romm Edition 1880-86CE, courtesy of Sefaria.org",
       "type": "text"
      }
-    ]
-   },
-   {
-    "text": "41a.png “Kiddushin 41a” “Kiddushin 41a Vilna Romm Edition 1880-86CE, courtesy of Sefaria.org”)",
-    "type": "text"
+    ],
+    "altText": "Kiddushin 41a Vilna Edition",
+    "caption": "Kiddushin 41a Vilna Romm Edition 1880-86CE, courtesy of Sefaria.org",
+    "anchorUrl": null
    }
   ]
  }
