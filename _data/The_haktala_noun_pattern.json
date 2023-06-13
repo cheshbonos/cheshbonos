@@ -76,42 +76,44 @@
       {
        "tokens": [
         {
-         "text": "*",
-         "type": "text"
-        },
-        {
-         "type": "italics",
+         "type": "bold",
          "tokens": [
           {
-           "text": "Hif'il",
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Hif’il",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " verb",
            "type": "text"
           }
          ]
-        },
-        {
-         "text": " verb*",
-         "type": "text"
         }
        ]
       },
       {
        "tokens": [
         {
-         "text": "*",
-         "type": "text"
-        },
-        {
-         "type": "italics",
+         "type": "bold",
          "tokens": [
           {
-           "text": "Haktala",
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Haktala",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " Noun",
            "type": "text"
           }
          ]
-        },
-        {
-         "text": " Noun*",
-         "type": "text"
         }
        ]
       }
@@ -399,7 +401,7 @@
     "type": "text"
    },
    {
-    "text": "Nouns in the _haktala_ noun pattern come from _hif'il_ verbs",
+    "text": "Nouns in the _haktala_ noun pattern come from _hif’il_ verbs",
     "type": "local",
     "tokens": [
      {
@@ -423,7 +425,7 @@
       "type": "italics",
       "tokens": [
        {
-        "text": "hif'il",
+        "text": "hif’il",
         "type": "text"
        }
       ]
@@ -433,7 +435,7 @@
       "type": "text"
      }
     ],
-    "targetSubtopic": "Nouns in the haktala noun pattern come from hif'il verbs",
+    "targetSubtopic": "Nouns in the haktala noun pattern come from hif’il verbs",
     "targetTopic": "The haktala noun pattern",
     "enclosingTopic": "The haktala noun pattern",
     "enclosingSubtopic": "The haktala noun pattern"
@@ -471,7 +473,7 @@
     "type": "text"
    }
   ],
-  "Nouns in the haktala noun pattern come from hif'il verbs": [
+  "Nouns in the haktala noun pattern come from hif’il verbs": [
    {
     "text": "The ",
     "type": "text"
@@ -490,18 +492,18 @@
     "type": "text"
    },
    {
-    "text": "noun patterns that come from hif'il verbs",
+    "text": "noun patterns that come from hif’il verbs",
     "type": "global",
     "tokens": [
      {
-      "text": "noun patterns that come from hif'il verbs",
+      "text": "noun patterns that come from hif’il verbs",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Noun patterns that come from Hif'il verbs",
-    "targetTopic": "Noun patterns that come from Hif'il verbs",
+    "targetSubtopic": "Noun patterns that come from Hif’il verbs",
+    "targetTopic": "Noun patterns that come from Hif’il verbs",
     "enclosingTopic": "The haktala noun pattern",
-    "enclosingSubtopic": "Nouns in the haktala noun pattern come from hif'il verbs"
+    "enclosingSubtopic": "Nouns in the haktala noun pattern come from hif’il verbs"
    },
    {
     "text": ", and there is a ",
@@ -545,7 +547,7 @@
     "targetSubtopic": "Relationship between nouns in the hektel noun pattern and the haktala noun pattern",
     "targetTopic": "Relationship between nouns in the hektel noun pattern and the haktala noun pattern",
     "enclosingTopic": "The haktala noun pattern",
-    "enclosingSubtopic": "Nouns in the haktala noun pattern come from hif'il verbs"
+    "enclosingSubtopic": "Nouns in the haktala noun pattern come from hif’il verbs"
    },
    {
     "text": ".",

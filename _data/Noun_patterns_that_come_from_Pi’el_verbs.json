@@ -1,0 +1,92 @@
+{
+ "displayTopicName": "Noun patterns that come from _Pi’el_ verbs",
+ "topicTokens": [
+  {
+   "text": "Noun patterns that come from ",
+   "type": "text"
+  },
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Pi’el",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " verbs",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Noun patterns that come from Pi’el verbs": [
+   {
+    "text": "The noun patterns that come from ",
+    "type": "text"
+   },
+   {
+    "text": "_pi’el_",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pi’el",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Pi’el",
+    "targetTopic": "Pi’el",
+    "enclosingTopic": "Noun patterns that come from Pi’el verbs",
+    "enclosingSubtopic": "Noun patterns that come from Pi’el verbs"
+   },
+   {
+    "text": " verbs include: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "the _kittul_ noun pattern",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "the ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "kittul",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " noun pattern",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "The kittul noun pattern",
+        "targetTopic": "The kittul noun pattern",
+        "enclosingTopic": "Noun patterns that come from Pi’el verbs",
+        "enclosingSubtopic": "Noun patterns that come from Pi’el verbs"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

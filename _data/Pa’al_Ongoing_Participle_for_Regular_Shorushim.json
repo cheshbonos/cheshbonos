@@ -1,0 +1,358 @@
+{
+ "displayTopicName": "Pa’al Ongoing Participle for Regular Shorushim",
+ "topicTokens": [
+  {
+   "text": "Pa’al Ongoing Participle for Regular Shorushim",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Pa’al Ongoing Participle for Regular Shorushim": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pa’al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " participle has the following conjugation pattern for ",
+    "type": "text"
+   },
+   {
+    "text": "regular shorushim",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "regular shorushim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Regular shorushim",
+    "targetTopic": "Regular shorushim",
+    "enclosingTopic": "Pa’al Ongoing Participle for Regular Shorushim",
+    "enclosingSubtopic": "Pa’al Ongoing Participle for Regular Shorushim"
+   },
+   {
+    "text": ": ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": []
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Masculine",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Feminine",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Singular",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "כּוֹתֵב ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "k",
+           "type": "text"
+          },
+          {
+           "type": "bold",
+           "tokens": [
+            {
+             "text": "o",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": "teiv",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " [he is] writing",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "כּוֹתֶבֶת ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "k",
+           "type": "text"
+          },
+          {
+           "type": "bold",
+           "tokens": [
+            {
+             "text": "o",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": "seves",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " [she is] writing",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Plural",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "כּוֹתְבִים ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "k",
+           "type": "text"
+          },
+          {
+           "type": "bold",
+           "tokens": [
+            {
+             "text": "o",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": "svim",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " [those men are] writing",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "כּוֹתְבוֹת ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "k",
+           "type": "text"
+          },
+          {
+           "type": "bold",
+           "tokens": [
+            {
+             "text": "o",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": "svos",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " [those women are] writing",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "text": " ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pa’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " participle for regular shorushim can usually be identified by the distinctive ו between the first and second root letters.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "For any regular shoresh, you can replace the letters ‎כ, ‎ת, and ב above with the letters of your shoresh to produce the proper conjugations.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

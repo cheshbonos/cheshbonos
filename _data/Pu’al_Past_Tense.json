@@ -1,0 +1,97 @@
+{
+ "displayTopicName": "_Pu’al_ Past Tense",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Pu’al",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " Past Tense",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Pu’al Past Tense": [
+   {
+    "text": "The _pu’al binyan has a past tense. ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pu’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " past tense has ",
+        "type": "text"
+       },
+       {
+        "text": "conjugations for regular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "conjugations for regular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pu’al Past Tense for regular shorushim",
+        "targetTopic": "Pu’al Past Tense for regular shorushim",
+        "enclosingTopic": "Pu’al Past Tense",
+        "enclosingSubtopic": "Pu’al Past Tense"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pu’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " past tense has conjugations for irregular shorushim which will be added at a later time.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

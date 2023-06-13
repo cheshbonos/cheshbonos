@@ -1,0 +1,167 @@
+{
+ "displayTopicName": "How to identify verbs in Hebrew and Aramaic",
+ "topicTokens": [
+  {
+   "text": "How to identify verbs in Hebrew and Aramaic",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "How to identify verbs in Hebrew and Aramaic": [
+   {
+    "text": "This is what you need to know to identify a verb in Hebrew and Aramaic: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Every verb comes from a ",
+        "type": "text"
+       },
+       {
+        "text": "shoresh",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "shoresh",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Shoresh",
+        "targetTopic": "Shoresh",
+        "enclosingTopic": "How to identify verbs in Hebrew and Aramaic",
+        "enclosingSubtopic": "How to identify verbs in Hebrew and Aramaic"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "A shoresh gets put into a ",
+        "type": "text"
+       },
+       {
+        "text": "“binyan”",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "“binyan”",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Binyan",
+        "targetTopic": "Binyan",
+        "enclosingTopic": "How to identify verbs in Hebrew and Aramaic",
+        "enclosingSubtopic": "How to identify verbs in Hebrew and Aramaic"
+       },
+       {
+        "text": " which produces a verb, which might have several possible meanings.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "A verb is then conjugated into a particular ",
+        "type": "text"
+       },
+       {
+        "text": "form",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "form",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Verb forms of Hebrew and Aramaic",
+        "targetTopic": "Verb forms of Hebrew and Aramaic",
+        "enclosingTopic": "How to identify verbs in Hebrew and Aramaic",
+        "enclosingSubtopic": "How to identify verbs in Hebrew and Aramaic"
+       },
+       {
+        "text": ", like the ",
+        "type": "text"
+       },
+       {
+        "text": "future tense",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "future tense",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Future Tense",
+        "targetTopic": "Future Tense",
+        "enclosingTopic": "How to identify verbs in Hebrew and Aramaic",
+        "enclosingSubtopic": "How to identify verbs in Hebrew and Aramaic"
+       },
+       {
+        "text": " or ",
+        "type": "text"
+       },
+       {
+        "text": "infinitive",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "infinitive",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Infinitive",
+        "targetTopic": "Infinitive",
+        "enclosingTopic": "How to identify verbs in Hebrew and Aramaic",
+        "enclosingSubtopic": "How to identify verbs in Hebrew and Aramaic"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Within a form there are several “persons,” eg “first-person” (“I run”) or “second-person” (“you run”), etc.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "So, when we see a verb in the Gemara, we want to identify the shoresh, the binyan, the form, and the person.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

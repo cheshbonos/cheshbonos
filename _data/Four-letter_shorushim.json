@@ -19,7 +19,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "For example: שבעד, meaning subjugation, or טלטל meaning movement.",
+        "text": "For example: שבעד, meaning “subjugation,” or טלטל meaning “movement.”",
         "type": "text"
        }
       ],
@@ -30,19 +30,19 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "These shorushim ",
+        "text": "These four-letter shorushim ",
         "type": "text"
        },
        {
-        "text": "can only have verb forms in binyanim with a doubled middle letter",
+        "text": "can only have verb forms in certain binyanim",
         "type": "local",
         "tokens": [
          {
-          "text": "can only have verb forms in binyanim with a doubled middle letter",
+          "text": "can only have verb forms in certain binyanim",
           "type": "text"
          }
         ],
-        "targetSubtopic": "Can only have verb forms in binyanim with a doubled middle letter",
+        "targetSubtopic": "Can only have verb forms in certain binyanim",
         "targetTopic": "Four-letter shorushim",
         "enclosingTopic": "Four-letter shorushim",
         "enclosingSubtopic": "Four-letter shorushim"
@@ -63,21 +63,21 @@
         "type": "text"
        },
        {
-        "text": "_shaf'el_",
+        "text": "_shaf’el_",
         "type": "global",
         "tokens": [
          {
           "type": "italics",
           "tokens": [
            {
-            "text": "shaf'el",
+            "text": "shaf’el",
             "type": "text"
            }
           ]
          }
         ],
-        "targetSubtopic": "Shaf'el",
-        "targetTopic": "Shaf'el",
+        "targetSubtopic": "Shaf’el",
+        "targetTopic": "Shaf’el",
         "enclosingTopic": "Four-letter shorushim",
         "enclosingSubtopic": "Four-letter shorushim"
        },
@@ -133,33 +133,67 @@
     "type": "outline"
    }
   ],
-  "Can only have verb forms in binyanim with a doubled middle letter": [
+  "Can only have verb forms in certain binyanim": [
    {
-    "text": "Four-letter shorushim can only have verb forms in binyanim with a doubled middle letter like the ",
+    "text": "Four-letter shorushim can only have verb forms in ",
     "type": "text"
    },
    {
-    "text": "_pi'el_",
+    "text": "binyanim",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "binyanim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Binyan",
+    "targetTopic": "Binyan",
+    "enclosingTopic": "Four-letter shorushim",
+    "enclosingSubtopic": "Can only have verb forms in certain binyanim"
+   },
+   {
+    "text": " with a doubled middle letter, like the ",
+    "type": "text"
+   },
+   {
+    "text": "_pi’el_",
     "type": "global",
     "tokens": [
      {
       "type": "italics",
       "tokens": [
        {
-        "text": "pi'el",
+        "text": "pi’el",
         "type": "text"
        }
       ]
      }
     ],
-    "targetSubtopic": "Pi'el",
-    "targetTopic": "Pi'el",
+    "targetSubtopic": "Pi’el",
+    "targetTopic": "Pi’el",
     "enclosingTopic": "Four-letter shorushim",
-    "enclosingSubtopic": "Can only have verb forms in binyanim with a doubled middle letter"
+    "enclosingSubtopic": "Can only have verb forms in certain binyanim"
    },
    {
-    "text": ". This is because the doubled letter creates room for the four consonant sounds. ",
+    "text": ". ",
     "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "This is because the doubled letter creates room for the four consonant sounds of the shoresh:",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
    },
    {
     "type": "table",
@@ -181,31 +215,32 @@
       {
        "tokens": [
         {
-         "text": "*",
-         "type": "text"
-        },
-        {
-         "text": "_Pi'el_",
-         "type": "global",
+         "type": "bold",
          "tokens": [
           {
-           "type": "italics",
+           "text": "_Pi’el_",
+           "type": "global",
            "tokens": [
             {
-             "text": "Pi'el",
-             "type": "text"
+             "type": "italics",
+             "tokens": [
+              {
+               "text": "Pi’el",
+               "type": "text"
+              }
+             ]
             }
-           ]
+           ],
+           "targetSubtopic": "Pi’el",
+           "targetTopic": "Pi’el",
+           "enclosingTopic": "Four-letter shorushim",
+           "enclosingSubtopic": "Can only have verb forms in certain binyanim"
+          },
+          {
+           "text": " example",
+           "type": "text"
           }
-         ],
-         "targetSubtopic": "Pi'el",
-         "targetTopic": "Pi'el",
-         "enclosingTopic": "Four-letter shorushim",
-         "enclosingSubtopic": "Can only have verb forms in binyanim with a doubled middle letter"
-        },
-        {
-         "text": " example*",
-         "type": "text"
+         ]
         }
        ]
       },
@@ -243,7 +278,20 @@
       {
        "tokens": [
         {
-         "text": "מְדַבֵּר ",
+         "text": "מְדַ",
+         "type": "text"
+        },
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "בֵּ",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": "ר ",
          "type": "text"
         },
         {
@@ -258,20 +306,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "me",
-           "type": "text"
-          },
-          {
-           "type": "bold",
-           "tokens": [
-            {
-             "text": "d",
-             "type": "text"
-            }
-           ]
-          },
-          {
-           "text": "a",
+           "text": "meda",
            "type": "text"
           },
           {
@@ -284,7 +319,7 @@
            ]
           },
           {
-           "text": "'",
+           "text": "’",
            "type": "text"
           },
           {
@@ -297,17 +332,8 @@
            ]
           },
           {
-           "text": "e",
+           "text": "er",
            "type": "text"
-          },
-          {
-           "type": "bold",
-           "tokens": [
-            {
-             "text": "r",
-             "type": "text"
-            }
-           ]
           }
          ]
         },
@@ -336,7 +362,7 @@
          "html": "<br>"
         },
         {
-         "text": "- The middle בּ (\"b\") is said twice",
+         "text": "- The middle בּ (“b”) is said twice",
          "type": "text"
         },
         {
@@ -344,7 +370,7 @@
          "html": "<br>"
         },
         {
-         "text": " - I.e. both middle slots are used for בּ",
+         "text": " - I.e. both “middle slots” are used for בּ",
          "type": "text"
         }
        ]
@@ -370,7 +396,20 @@
       {
        "tokens": [
         {
-         "text": "מְשַׁחְרֵר ",
+         "text": "מְשַׁ",
+         "type": "text"
+        },
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "חְרֵ",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": "ר ",
          "type": "text"
         },
         {
@@ -385,46 +424,33 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "me",
+           "text": "mesha",
            "type": "text"
           },
           {
            "type": "bold",
            "tokens": [
             {
-             "text": "sh",
+             "text": "ch",
              "type": "text"
             }
            ]
           },
           {
-           "text": "a'",
+           "text": "’",
            "type": "text"
           },
           {
            "type": "bold",
            "tokens": [
             {
-             "text": "ch*-",
+             "text": "r",
              "type": "text"
             }
            ]
           },
           {
-           "text": "r",
-           "type": "text"
-          },
-          {
-           "type": "bold",
-           "tokens": [
-            {
-             "text": "ei",
-             "type": "text"
-            }
-           ]
-          },
-          {
-           "text": "r*",
+           "text": "eir",
            "type": "text"
           }
          ]
@@ -454,7 +480,7 @@
          "html": "<br>"
         },
         {
-         "text": "- First middle slot is used for ח (\"ch\") ",
+         "text": "- First middle slot is used for ח (“ch”) ",
          "type": "text"
         },
         {
@@ -462,7 +488,7 @@
          "html": "<br>"
         },
         {
-         "text": "- Second middle slot is used for ר",
+         "text": "- Second middle slot is used for ר (“r”)",
          "type": "text"
         }
        ]
@@ -488,7 +514,20 @@
       {
        "tokens": [
         {
-         "text": "מְטַלְטֵל ",
+         "text": "מְטַ",
+         "type": "text"
+        },
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "לְטֵ",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": "ל ",
          "type": "text"
         },
         {
@@ -503,56 +542,21 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "me",
+           "text": "meta",
            "type": "text"
           },
           {
            "type": "bold",
            "tokens": [
             {
-             "text": "t",
+             "text": "l’t",
              "type": "text"
             }
            ]
           },
           {
-           "text": "a",
+           "text": "el",
            "type": "text"
-          },
-          {
-           "type": "bold",
-           "tokens": [
-            {
-             "text": "l",
-             "type": "text"
-            }
-           ]
-          },
-          {
-           "text": "'",
-           "type": "text"
-          },
-          {
-           "type": "bold",
-           "tokens": [
-            {
-             "text": "t",
-             "type": "text"
-            }
-           ]
-          },
-          {
-           "text": "e",
-           "type": "text"
-          },
-          {
-           "type": "bold",
-           "tokens": [
-            {
-             "text": "l",
-             "type": "text"
-            }
-           ]
           }
          ]
         },
@@ -581,7 +585,7 @@
          "html": "<br>"
         },
         {
-         "text": " - First middle slot is used for ל ",
+         "text": " - First middle slot is used for ל (“l”) ",
          "type": "text"
         },
         {
@@ -589,13 +593,73 @@
          "html": "<br>"
         },
         {
-         "text": " - Second middle slot is used for ט",
+         "text": " - Second middle slot is used for ט (“t”)",
          "type": "text"
         }
        ]
       }
      ]
     ]
+   },
+   {
+    "text": " ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "A verb form without a doubled middle letter, like כּוֹתֵב (",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "kosev",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ", “writing”), wouldn’t have room to accomidate the four consonants of a four-letter shoresh. (For advanced students, כּוֹתֵב is an example of a form called the ",
+        "type": "text"
+       },
+       {
+        "text": "_pa’al_ ongoing participle",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "pa’al",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " ongoing participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pa’al Ongoing Participle",
+        "targetTopic": "Pa’al Ongoing Participle",
+        "enclosingTopic": "Four-letter shorushim",
+        "enclosingSubtopic": "Can only have verb forms in certain binyanim"
+       },
+       {
+        "text": ".)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
    }
   ],
   "Some seem to have intrinsic meanings": [
@@ -610,7 +674,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "פרנס, \"livelihood,\" used in verbs like לְפַרְנֵס ",
+        "text": "פרנס, “livelihood,” used in verbs like לְפַרְנֵס ",
         "type": "text"
        },
        {
@@ -623,7 +687,7 @@
         ]
        },
        {
-        "text": " \"to support financially.\"",
+        "text": " “to support financially.”",
         "type": "text"
        }
       ],
@@ -634,7 +698,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "קטרג, \"accusation,\" used in verbs like לְקַטְרֵג ",
+        "text": "קטרג, “accusation,” used in verbs like לְקַטְרֵג ",
         "type": "text"
        },
        {
@@ -647,7 +711,7 @@
         ]
        },
        {
-        "text": ", \"to accuse\"",
+        "text": ", “to accuse”",
         "type": "text"
        }
       ],

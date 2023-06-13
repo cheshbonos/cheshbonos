@@ -1,0 +1,155 @@
+{
+ "displayTopicName": "_Hif’il_ Infinitive",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Hif’il",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " Infinitive",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Hif’il Infinitive": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "hif’il",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " binyan has an ",
+    "type": "text"
+   },
+   {
+    "text": "infinitive form",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "infinitive form",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Infinitive",
+    "targetTopic": "Infinitive",
+    "enclosingTopic": "Hif’il Infinitive",
+    "enclosingSubtopic": "Hif’il Infinitive"
+   },
+   {
+    "text": ", which is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "forms of the _hif'il_ binyan",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "forms of the ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "hif'il",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " binyan",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Hif’il Forms",
+    "targetTopic": "Hif’il Forms",
+    "enclosingTopic": "Hif’il Infinitive",
+    "enclosingSubtopic": "Hif’il Infinitive"
+   },
+   {
+    "text": ". ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "There is a ",
+        "type": "text"
+       },
+       {
+        "text": "_Hif’il_ infinitive  form for regular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "Hif’il",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " infinitive  form for regular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Hif’il Infinitive for regular shorushim",
+        "targetTopic": "Hif’il Infinitive for regular shorushim",
+        "enclosingTopic": "Hif’il Infinitive",
+        "enclosingSubtopic": "Hif’il Infinitive"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "There are ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hif’il",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " infinitive forms for irregular shorushim which will be added at a later time.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

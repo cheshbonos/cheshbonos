@@ -76,42 +76,44 @@
       {
        "tokens": [
         {
-         "text": "*",
-         "type": "text"
-        },
-        {
-         "type": "italics",
+         "type": "bold",
          "tokens": [
           {
-           "text": "Hisp'ael",
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Hisp’ael",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " verb",
            "type": "text"
           }
          ]
-        },
-        {
-         "text": " verb*",
-         "type": "text"
         }
        ]
       },
       {
        "tokens": [
         {
-         "text": "*",
-         "type": "text"
-        },
-        {
-         "type": "italics",
+         "type": "bold",
          "tokens": [
           {
-           "text": "Hiskattlut",
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Hiskattlut",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " noun",
            "type": "text"
           }
          ]
-        },
-        {
-         "text": " noun*",
-         "type": "text"
         }
        ]
       }
@@ -335,7 +337,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "his'oreir",
+           "text": "his’oreir",
            "type": "text"
           }
          ]
@@ -412,21 +414,21 @@
     "type": "text"
    },
    {
-    "text": "_hispa'el_",
+    "text": "_hispa’el_",
     "type": "global",
     "tokens": [
      {
       "type": "italics",
       "tokens": [
        {
-        "text": "hispa'el",
+        "text": "hispa’el",
         "type": "text"
        }
       ]
      }
     ],
-    "targetSubtopic": "Hispa'el",
-    "targetTopic": "Hispa'el",
+    "targetSubtopic": "Hispa’el",
+    "targetTopic": "Hispa’el",
     "enclosingTopic": "The hiskattlut noun pattern",
     "enclosingSubtopic": "The hiskattlut noun pattern"
    },

@@ -1,0 +1,159 @@
+{
+ "displayTopicName": "_Hispa’el_ Future Tense",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Hispa’el",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " Future Tense",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Hispa’el Future Tense": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "hispa’el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " binyan has a ",
+    "type": "text"
+   },
+   {
+    "text": "future tense",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "future tense",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Future Tense",
+    "targetTopic": "Future Tense",
+    "enclosingTopic": "Hispa’el Future Tense",
+    "enclosingSubtopic": "Hispa’el Future Tense"
+   },
+   {
+    "text": ", which is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "forms of the _hispa'el_ binyan",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "forms of the ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "hispa'el",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " binyan",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Hispa’el Forms",
+    "targetTopic": "Hispa’el Forms",
+    "enclosingTopic": "Hispa’el Future Tense",
+    "enclosingSubtopic": "Hispa’el Future Tense"
+   },
+   {
+    "text": ". ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hispa’el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " future tense has ",
+        "type": "text"
+       },
+       {
+        "text": "conjugations for regular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "conjugations for regular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Hispa’el Future Tense for regular shorushim",
+        "targetTopic": "Hispa’el Future Tense for regular shorushim",
+        "enclosingTopic": "Hispa’el Future Tense",
+        "enclosingSubtopic": "Hispa’el Future Tense"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hispa’el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " future tense has conjugations for irregular shorushim that will be added at a later time.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

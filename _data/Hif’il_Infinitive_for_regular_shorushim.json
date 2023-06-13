@@ -1,0 +1,115 @@
+{
+ "displayTopicName": "_Hif’il_ Infinitive for regular shorushim",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Hif’il",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " Infinitive for regular shorushim",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Hif’il Infinitive for regular shorushim": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "text": "_Hif’il_ infinitive form",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "Hif’il",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " infinitive form",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Hif’il Infinitive",
+    "targetTopic": "Hif’il Infinitive",
+    "enclosingTopic": "Hif’il Infinitive for regular shorushim",
+    "enclosingSubtopic": "Hif’il Infinitive for regular shorushim"
+   },
+   {
+    "text": " has the following conjugation pattern for ",
+    "type": "text"
+   },
+   {
+    "text": "regular shorushim",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "regular shorushim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Regular shorushim",
+    "targetTopic": "Regular shorushim",
+    "enclosingTopic": "Hif’il Infinitive for regular shorushim",
+    "enclosingSubtopic": "Hif’il Infinitive for regular shorushim"
+   },
+   {
+    "text": ": ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "לְהַבְדִּיל ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "lehavdil",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " to separate",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ]
+ }
+}

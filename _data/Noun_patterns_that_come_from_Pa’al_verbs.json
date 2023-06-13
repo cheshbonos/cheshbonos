@@ -1,0 +1,92 @@
+{
+ "displayTopicName": "Noun patterns that come from _Pa’al_ verbs",
+ "topicTokens": [
+  {
+   "text": "Noun patterns that come from ",
+   "type": "text"
+  },
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Pa’al",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " verbs",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Noun patterns that come from Pa’al verbs": [
+   {
+    "text": "The noun patterns that come from ",
+    "type": "text"
+   },
+   {
+    "text": "_pa’al_",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pa’al",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Pa’al",
+    "targetTopic": "Pa’al",
+    "enclosingTopic": "Noun patterns that come from Pa’al verbs",
+    "enclosingSubtopic": "Noun patterns that come from Pa’al verbs"
+   },
+   {
+    "text": " verbs include: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "the _ktila_ noun pattern",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "the ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "ktila",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " noun pattern",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "The ktila noun pattern",
+        "targetTopic": "The ktila noun pattern",
+        "enclosingTopic": "Noun patterns that come from Pa’al verbs",
+        "enclosingSubtopic": "Noun patterns that come from Pa’al verbs"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

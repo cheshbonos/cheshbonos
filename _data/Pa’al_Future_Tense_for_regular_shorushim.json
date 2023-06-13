@@ -1,0 +1,466 @@
+{
+ "displayTopicName": "_Pa’al_ Future Tense for regular shorushim",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Pa’al",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " Future Tense for regular shorushim",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Pa’al Future Tense for regular shorushim": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "text": "_pa’al_ future tense",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pa’al",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " future tense",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Pa’al Future Tense",
+    "targetTopic": "Pa’al Future Tense",
+    "enclosingTopic": "Pa’al Future Tense for regular shorushim",
+    "enclosingSubtopic": "Pa’al Future Tense for regular shorushim"
+   },
+   {
+    "text": " follows the following conjugations for ",
+    "type": "text"
+   },
+   {
+    "text": "regular shorushim",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "regular shorushim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Regular shorushim",
+    "targetTopic": "Regular shorushim",
+    "enclosingTopic": "Pa’al Future Tense for regular shorushim",
+    "enclosingSubtopic": "Pa’al Future Tense for regular shorushim"
+   },
+   {
+    "text": ": ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": []
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Singular",
+           "type": "text"
+          }
+         ]
+        }
+       ],
+       "colspan": 2
+      },
+      {
+       "tokens": [],
+       "merge": true
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Plural",
+           "type": "text"
+          }
+         ]
+        }
+       ],
+       "colspan": 2
+      },
+      {
+       "tokens": [],
+       "merge": true
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "First-Person",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "אֶכְתֹּב",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "echtoiv",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": "I will write",
+         "type": "text"
+        }
+       ],
+       "colspan": 2
+      },
+      {
+       "tokens": [],
+       "merge": true
+      },
+      {
+       "tokens": [
+        {
+         "text": "נִכְתֹּב",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "nichtoiv",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": "We will write",
+         "type": "text"
+        }
+       ],
+       "colspan": 2
+      },
+      {
+       "tokens": [],
+       "merge": true
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Second-Person",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "תִּכְתֹּב ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "tichtov",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " You [male] will write",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "תִּכְתְּבִי ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "tichtevi",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " You [female] will write",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "תִּכְתְּבוּ ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "tichtevu",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " You [males] will write",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "תִּכְתֹּבְנָה ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "tichtoivnau",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " You [females] will write",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Third-Person",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "יִכְתֹּב ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "yichtoiv",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " He will write",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "תִּכְתֹּב ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "tichtov",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " She will write",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "יִכְתְּבוּ ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "yichtevu",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " [Those males] will write",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "תִּכְתֹּבְנָה ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "tichtoivnau",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " [Those females] will write",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "text": " For any regular shoresh, you can replace the letters ‎כ, ‎ת, and ב above with the letters of your shoresh to produce the proper conjugations.",
+    "type": "text"
+   }
+  ]
+ }
+}

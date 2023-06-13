@@ -1,0 +1,466 @@
+{
+ "displayTopicName": "_Nif’al_ Future Tense for regular shorushim",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Nif’al",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " Future Tense for regular shorushim",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Nif’al Future Tense for regular shorushim": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "text": "_nif’al_ future tense",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "nif’al",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " future tense",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Nif’al Future Tense",
+    "targetTopic": "Nif’al Future Tense",
+    "enclosingTopic": "Nif’al Future Tense for regular shorushim",
+    "enclosingSubtopic": "Nif’al Future Tense for regular shorushim"
+   },
+   {
+    "text": " follows the following conjugations for ",
+    "type": "text"
+   },
+   {
+    "text": "regular shorushim",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "regular shorushim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Regular shorushim",
+    "targetTopic": "Regular shorushim",
+    "enclosingTopic": "Nif’al Future Tense for regular shorushim",
+    "enclosingSubtopic": "Nif’al Future Tense for regular shorushim"
+   },
+   {
+    "text": ": ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": []
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Singular",
+           "type": "text"
+          }
+         ]
+        }
+       ],
+       "colspan": 2
+      },
+      {
+       "tokens": [],
+       "merge": true
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Plural",
+           "type": "text"
+          }
+         ]
+        }
+       ],
+       "colspan": 2
+      },
+      {
+       "tokens": [],
+       "merge": true
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "First-Person",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "אֶכָּבֵשׁ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "ekoveish",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": "I will be conquered",
+         "type": "text"
+        }
+       ],
+       "colspan": 2
+      },
+      {
+       "tokens": [],
+       "merge": true
+      },
+      {
+       "tokens": [
+        {
+         "text": "נִכָּבֵשׁ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "nikoveish",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": "We will be conquered",
+         "type": "text"
+        }
+       ],
+       "colspan": 2
+      },
+      {
+       "tokens": [],
+       "merge": true
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Second-Person",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "תִּכָּבֵשׁ ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "tikoveish",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " You [male] will be conquered",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "תִּכָּבְשִׁי ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "tikovshi",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " You [female] will be conquered",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "תִּכָּבְשׁוּ ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "tikovshu",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " You [males] will be conquered",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "תִּכָּבַשְׁנָה ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "tikovashno",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " You [females] will be conquered",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Third-Person",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "יִכָּבֵשׁ ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "yikoveish",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " He will be conquered",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "תִּכָּבֵשׁ ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "tikoveish",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " She will be conquered",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "יִכָּבְשׁוּ ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "yikovshu",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " [Those males] will be conquered",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "תִּכָּבַשְׁנָה ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "tikovashnau",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " [Those females] will be conquered",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "text": " For any regular shoresh, you can replace the letters ‎כ, ‎ב, and ש above with the letters of your shoresh to produce the proper conjugations.",
+    "type": "text"
+   }
+  ]
+ }
+}

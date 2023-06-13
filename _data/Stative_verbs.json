@@ -9,7 +9,7 @@
  "paragraphsBySubtopic": {
   "Stative verbs": [
    {
-    "text": "Stative verbs are a category of verb that have irregular conjugations in Hebrew and Aramaic. ",
+    "text": "Stative verbs are a category of verb that sometimes have special conjugations in Hebrew and Aramaic. ",
     "type": "text"
    },
    {
@@ -35,8 +35,13 @@
       {
        "tokens": [
         {
-         "text": "*Example stative verb*",
-         "type": "text"
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Example stative verb",
+           "type": "text"
+          }
+         ]
         }
        ]
       },
@@ -109,6 +114,90 @@
       }
      ]
     ]
+   },
+   {
+    "text": " ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Stative verbs are found in the ",
+        "type": "text"
+       },
+       {
+        "text": "simple",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "simple",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Simple",
+        "targetTopic": "Simple",
+        "enclosingTopic": "Stative verbs",
+        "enclosingSubtopic": "Stative verbs"
+       },
+       {
+        "text": " binyanim, ",
+        "type": "text"
+       },
+       {
+        "text": "_pa’al_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "pa’al",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Pa’al",
+        "targetTopic": "Pa’al",
+        "enclosingTopic": "Stative verbs",
+        "enclosingSubtopic": "Stative verbs"
+       },
+       {
+        "text": " for Hebrew and ",
+        "type": "text"
+       },
+       {
+        "text": "_pe’al_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "pe’al",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Pe’al",
+        "targetTopic": "Pe’al",
+        "enclosingTopic": "Stative verbs",
+        "enclosingSubtopic": "Stative verbs"
+       },
+       {
+        "text": " for Aramaic.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
    }
   ]
  }

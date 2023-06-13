@@ -76,42 +76,44 @@
       {
        "tokens": [
         {
-         "text": "*",
-         "type": "text"
-        },
-        {
-         "type": "italics",
+         "type": "bold",
          "tokens": [
           {
-           "text": "Pi'el",
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Pi’el",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " verb",
            "type": "text"
           }
          ]
-        },
-        {
-         "text": " verb*",
-         "type": "text"
         }
        ]
       },
       {
        "tokens": [
         {
-         "text": "*",
-         "type": "text"
-        },
-        {
-         "type": "italics",
+         "type": "bold",
          "tokens": [
           {
-           "text": "Kattala",
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Kattala",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " Noun",
            "type": "text"
           }
          ]
-        },
-        {
-         "text": " Noun*",
-         "type": "text"
         }
        ]
       }
@@ -412,7 +414,7 @@
     "type": "text"
    },
    {
-    "text": "noun patterns that come from _pi'el_ verbs",
+    "text": "noun patterns that come from _pi’el_ verbs",
     "type": "global",
     "tokens": [
      {
@@ -423,7 +425,7 @@
       "type": "italics",
       "tokens": [
        {
-        "text": "pi'el",
+        "text": "pi’el",
         "type": "text"
        }
       ]
@@ -433,8 +435,8 @@
       "type": "text"
      }
     ],
-    "targetSubtopic": "Noun patterns that come from Pi'el verbs",
-    "targetTopic": "Noun patterns that come from Pi'el verbs",
+    "targetSubtopic": "Noun patterns that come from Pi’el verbs",
+    "targetTopic": "Noun patterns that come from Pi’el verbs",
     "enclosingTopic": "The kattala noun pattern",
     "enclosingSubtopic": "The kattala noun pattern"
    },

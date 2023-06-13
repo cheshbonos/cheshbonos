@@ -9,7 +9,7 @@
  "paragraphsBySubtopic": {
   "Intensive": [
    {
-    "text": "\"Intensive\" is a category of verb in Hebrew and Aramaic. ",
+    "text": "“Intensive” is a category of verb in Hebrew and Aramaic. ",
     "type": "text"
    },
    {
@@ -166,16 +166,26 @@
       {
        "tokens": [
         {
-         "text": "*Simple Verb*",
-         "type": "text"
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Simple Verb",
+           "type": "text"
+          }
+         ]
         }
        ]
       },
       {
        "tokens": [
         {
-         "text": "*Intensive Verb*",
-         "type": "text"
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Intensive Verb",
+           "type": "text"
+          }
+         ]
         }
        ]
       }
@@ -277,7 +287,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Hebrew's ",
+        "text": "Hebrew’s ",
         "type": "text"
        },
        {
@@ -299,21 +309,21 @@
         "type": "text"
        },
        {
-        "text": "_pi'el_",
+        "text": "_pi’el_",
         "type": "global",
         "tokens": [
          {
           "type": "italics",
           "tokens": [
            {
-            "text": "pi'el",
+            "text": "pi’el",
             "type": "text"
            }
           ]
          }
         ],
-        "targetSubtopic": "Pi'el",
-        "targetTopic": "Pi'el",
+        "targetSubtopic": "Pi’el",
+        "targetTopic": "Pi’el",
         "enclosingTopic": "Intensive",
         "enclosingSubtopic": "Several intensive binyanim in Hebrew and Aramaic"
        }
@@ -325,7 +335,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Hebrew's ",
+        "text": "Hebrew’s ",
         "type": "text"
        },
        {
@@ -347,21 +357,21 @@
         "type": "text"
        },
        {
-        "text": "_nif'al_",
+        "text": "_nif’al_",
         "type": "global",
         "tokens": [
          {
           "type": "italics",
           "tokens": [
            {
-            "text": "nif'al",
+            "text": "nif’al",
             "type": "text"
            }
           ]
          }
         ],
-        "targetSubtopic": "Nif'al",
-        "targetTopic": "Nif'al",
+        "targetSubtopic": "Nif’al",
+        "targetTopic": "Nif’al",
         "enclosingTopic": "Intensive",
         "enclosingSubtopic": "Several intensive binyanim in Hebrew and Aramaic"
        }
@@ -373,25 +383,25 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Aramaic's active intensive binyan is the ",
+        "text": "Aramaic’s active intensive binyan is the ",
         "type": "text"
        },
        {
-        "text": "_pe'al_",
+        "text": "_pe’al_",
         "type": "global",
         "tokens": [
          {
           "type": "italics",
           "tokens": [
            {
-            "text": "pe'al",
+            "text": "pe’al",
             "type": "text"
            }
           ]
          }
         ],
-        "targetSubtopic": "Pe'al",
-        "targetTopic": "Pe'al",
+        "targetSubtopic": "Pe’al",
+        "targetTopic": "Pe’al",
         "enclosingTopic": "Intensive",
         "enclosingSubtopic": "Several intensive binyanim in Hebrew and Aramaic"
        }
@@ -403,25 +413,25 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Aramaic's passive intensive ",
+        "text": "Aramaic’s passive intensive ",
         "type": "text"
        },
        {
-        "text": "_ispe'el_",
+        "text": "_ispe’el_",
         "type": "global",
         "tokens": [
          {
           "type": "italics",
           "tokens": [
            {
-            "text": "ispe'el",
+            "text": "ispe’el",
             "type": "text"
            }
           ]
          }
         ],
-        "targetSubtopic": "Ispe'el",
-        "targetTopic": "Ispe'el",
+        "targetSubtopic": "Ispe’el",
+        "targetTopic": "Ispe’el",
         "enclosingTopic": "Intensive",
         "enclosingSubtopic": "Several intensive binyanim in Hebrew and Aramaic"
        }

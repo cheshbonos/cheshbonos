@@ -102,16 +102,21 @@
       {
        "tokens": [
         {
-         "text": "* Real",
-         "type": "text"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "text": "Conjugation*",
-         "type": "text"
+         "type": "bold",
+         "tokens": [
+          {
+           "text": " Real",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": "Conjugation",
+           "type": "text"
+          }
+         ]
         }
        ]
       },
@@ -245,7 +250,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "map'pil",
+           "text": "map’pil",
            "type": "text"
           }
          ]
@@ -292,7 +297,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "baunah'ti",
+           "text": "baunah’ti",
            "type": "text"
           }
          ]
@@ -327,7 +332,7 @@
       {
        "tokens": [
         {
-         "text": "the consonant ה becomes an יִ vowel, like \"bee\"",
+         "text": "the consonant ה becomes an יִ vowel, like “bee”",
          "type": "text"
         }
        ]
@@ -402,7 +407,7 @@
   ],
   "Shoresh letter numbering convention": [
    {
-    "text": "In Hebrew grammar, the shoresh פעל is used as a \"standard\" shoresh, and so sometimes the letters of פעל are used as names for the three shoresh positions: ",
+    "text": "In Hebrew grammar, the shoresh פעל is used as a “standard” shoresh, and so sometimes the letters of פעל are used as names for the three shoresh positions: ",
     "type": "text"
    },
    {
@@ -463,13 +468,13 @@
     ]
    },
    {
-    "text": "  For example, instead of saying \"the first letter of the shoresh נפל,\" you might say \"the פ of the shoresh נפל.\"",
+    "text": "  For example, instead of saying “the first letter of the shoresh נפל,” you might say “the פ of the shoresh נפל.”",
     "type": "text"
    }
   ],
   "Irregular shoresh naming convention": [
    {
-    "text": "Because we use the letters פעל as names for the positions in a shoresh, if we want to say \"the category of shorushim that have a י in the first position,\" the name would be \"י״פ verbs\" (",
+    "text": "Because we use the letters פעל as names for the positions in a shoresh, if we want to say “the category of shorushim that have a י in the first position,” the name would be “י״פ verbs” (",
     "type": "text"
    },
    {

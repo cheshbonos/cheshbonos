@@ -1,9 +1,18 @@
 {
- "displayTopicName": "Rashi on Kiddushin 41a shibuta",
+ "displayTopicName": "Rashi on Kiddushin 41a _shibuta_",
  "topicTokens": [
   {
-   "text": "Rashi on Kiddushin 41a shibuta",
+   "text": "Rashi on Kiddushin 41a ",
    "type": "text"
+  },
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "shibuta",
+     "type": "text"
+    }
+   ]
   }
  ],
  "paragraphsBySubtopic": {

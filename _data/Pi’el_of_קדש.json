@@ -1,0 +1,202 @@
+{
+ "displayTopicName": "_Pi’el_ of קדש",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Pi’el",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " of קדש",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Pi’el of קדש": [
+   {
+    "text": "The shoresh קדש",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "The shoresh קדש",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "קדש",
+    "targetTopic": "קדש",
+    "enclosingTopic": "Pi’el of קדש",
+    "enclosingSubtopic": "Pi’el of קדש"
+   },
+   {
+    "text": " has a ",
+    "type": "text"
+   },
+   {
+    "text": "_pi’el_",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pi’el",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Pi’el",
+    "targetTopic": "Pi’el",
+    "enclosingTopic": "Pi’el of קדש",
+    "enclosingSubtopic": "Pi’el of קדש"
+   },
+   {
+    "text": " form. A verb formed from קדש in the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pi’el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " can mean: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "to make something holy",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "for a man to create ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "kiddushin",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ", the first stage of marriage, with a woman",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "to say ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "kiddush",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " before a meal on Shabbos or Yuntif",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   },
+   {
+    "text": "קדש is a ",
+    "type": "text"
+   },
+   {
+    "text": "regular shoresh",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "regular shoresh",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Regular shorushim",
+    "targetTopic": "Regular shorushim",
+    "enclosingTopic": "Pi’el of קדש",
+    "enclosingSubtopic": "Pi’el of קדש"
+   },
+   {
+    "text": ", so conjugations for the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pi’el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " of קדש follow the ",
+    "type": "text"
+   },
+   {
+    "text": "_pi’el_ forms for regular shorushim",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pi’el",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " forms for regular shorushim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Pi’el forms for regular shorushim",
+    "targetTopic": "Pi’el forms for regular shorushim",
+    "enclosingTopic": "Pi’el of קדש",
+    "enclosingSubtopic": "Pi’el of קדש"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ]
+ }
+}

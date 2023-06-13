@@ -1,0 +1,160 @@
+{
+ "displayTopicName": "Noun patterns that come from _Hif’il_ verbs",
+ "topicTokens": [
+  {
+   "text": "Noun patterns that come from ",
+   "type": "text"
+  },
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Hif’il",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " verbs",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Noun patterns that come from Hif’il verbs": [
+   {
+    "text": "The noun patterns that come from ",
+    "type": "text"
+   },
+   {
+    "text": "_hif’il_",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "hif’il",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Hif’il",
+    "targetTopic": "Hif’il",
+    "enclosingTopic": "Noun patterns that come from Hif’il verbs",
+    "enclosingSubtopic": "Noun patterns that come from Hif’il verbs"
+   },
+   {
+    "text": " verbs include: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "the _hektel_ noun pattern",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "the ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "hektel",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " noun pattern",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "The hektel noun pattern",
+        "targetTopic": "The hektel noun pattern",
+        "enclosingTopic": "Noun patterns that come from Hif’il verbs",
+        "enclosingSubtopic": "Noun patterns that come from Hif’il verbs"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "the _haktala_ noun pattern",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "the ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "haktala",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " noun pattern",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "The haktala noun pattern",
+        "targetTopic": "The haktala noun pattern",
+        "enclosingTopic": "Noun patterns that come from Hif’il verbs",
+        "enclosingSubtopic": "Noun patterns that come from Hif’il verbs"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "the _taktil_ noun pattern",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "the ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "taktil",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " noun pattern",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "The taktil noun pattern",
+        "targetTopic": "The taktil noun pattern",
+        "enclosingTopic": "Noun patterns that come from Hif’il verbs",
+        "enclosingSubtopic": "Noun patterns that come from Hif’il verbs"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

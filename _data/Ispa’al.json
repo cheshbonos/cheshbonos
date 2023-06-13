@@ -1,0 +1,214 @@
+{
+ "displayTopicName": "Ispa’al",
+ "topicTokens": [
+  {
+   "text": "Ispa’al",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Ispa’al": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "ispa’al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " (אִתְפַּעַל) is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "Aramaic binyanim",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Aramaic binyanim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Aramaic binyanim",
+    "targetTopic": "Aramaic binyanim",
+    "enclosingTopic": "Ispa’al",
+    "enclosingSubtopic": "Ispa’al"
+   },
+   {
+    "text": ". (",
+    "type": "text"
+   },
+   {
+    "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Binyan",
+    "targetTopic": "Binyan",
+    "enclosingTopic": "Ispa’al",
+    "enclosingSubtopic": "Ispa’al"
+   },
+   {
+    "text": ".) ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Verbs in the ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "ispa’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " can be ",
+        "type": "text"
+       },
+       {
+        "text": "reflexive",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "reflexive",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Reflexive",
+        "targetTopic": "Reflexive",
+        "enclosingTopic": "Ispa’al",
+        "enclosingSubtopic": "Ispa’al"
+       },
+       {
+        "text": ", or ",
+        "type": "text"
+       },
+       {
+        "text": "passive",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "passive",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Passive",
+        "targetTopic": "Passive",
+        "enclosingTopic": "Ispa’al",
+        "enclosingSubtopic": "Ispa’al"
+       },
+       {
+        "text": " and ",
+        "type": "text"
+       },
+       {
+        "text": "intensive",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "intensive",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Intensive",
+        "targetTopic": "Intensive",
+        "enclosingTopic": "Ispa’al",
+        "enclosingSubtopic": "Ispa’al"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "ispa’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " can correspond to either the ",
+        "type": "text"
+       },
+       {
+        "text": "pu’al",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "pu’al",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pu’al",
+        "targetTopic": "Pu’al",
+        "enclosingTopic": "Ispa’al",
+        "enclosingSubtopic": "Ispa’al"
+       },
+       {
+        "text": " and to the ",
+        "type": "text"
+       },
+       {
+        "text": "_hispa’el_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "hispa’el",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Hispa’el",
+        "targetTopic": "Hispa’el",
+        "enclosingTopic": "Ispa’al",
+        "enclosingSubtopic": "Ispa’al"
+       },
+       {
+        "text": " in Hebrew.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

@@ -1,0 +1,119 @@
+{
+ "displayTopicName": "_Nif’al_ Infinitive for regular shorushim",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Nif’al",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " Infinitive for regular shorushim",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Nif’al Infinitive for regular shorushim": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "text": "_nif’al_ infinitive form",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "nif’al",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " infinitive form",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Nif’al Infinitive",
+    "targetTopic": "Nif’al Infinitive",
+    "enclosingTopic": "Nif’al Infinitive for regular shorushim",
+    "enclosingSubtopic": "Nif’al Infinitive for regular shorushim"
+   },
+   {
+    "text": " has the following conjugation pattern for ",
+    "type": "text"
+   },
+   {
+    "text": "regular shorushim",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "regular shorushim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Regular shorushim",
+    "targetTopic": "Regular shorushim",
+    "enclosingTopic": "Nif’al Infinitive for regular shorushim",
+    "enclosingSubtopic": "Nif’al Infinitive for regular shorushim"
+   },
+   {
+    "text": ": ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "לְהִכָּבֵשׁ ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "lehikoveish",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " to be conquered",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "text": " For any regular shoresh, you can replace the letters ‎כ, ‎ב, and ש above with the letters of your shoresh to produce the proper conjugation.",
+    "type": "text"
+   }
+  ]
+ }
+}

@@ -1,0 +1,122 @@
+{
+ "displayTopicName": "_Nif’al_ Past Tense",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Nif’al",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " Past Tense",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Nif’al Past Tense": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "nif’al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " has a ",
+    "type": "text"
+   },
+   {
+    "text": "past tense",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "past tense",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Past tense",
+    "targetTopic": "Past tense",
+    "enclosingTopic": "Nif’al Past Tense",
+    "enclosingSubtopic": "Nif’al Past Tense"
+   },
+   {
+    "text": " which is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "forms of the nif’al binyan",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "forms of the nif’al binyan",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Nif’al Forms",
+    "targetTopic": "Nif’al Forms",
+    "enclosingTopic": "Nif’al Past Tense",
+    "enclosingSubtopic": "Nif’al Past Tense"
+   },
+   {
+    "text": ". ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "nif’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " past tense has ",
+        "type": "text"
+       },
+       {
+        "text": "conjugations for regular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "conjugations for regular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Nif’al Past Tense for regular shorushim",
+        "targetTopic": "Nif’al Past Tense for regular shorushim",
+        "enclosingTopic": "Nif’al Past Tense",
+        "enclosingSubtopic": "Nif’al Past Tense"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

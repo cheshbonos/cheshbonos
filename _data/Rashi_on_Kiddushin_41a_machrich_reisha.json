@@ -1,9 +1,18 @@
 {
- "displayTopicName": "Rashi on Kiddushin 41a machrich reisha",
+ "displayTopicName": "Rashi on Kiddushin 41a _machrich reisha_",
  "topicTokens": [
   {
-   "text": "Rashi on Kiddushin 41a machrich reisha",
+   "text": "Rashi on Kiddushin 41a ",
    "type": "text"
+  },
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "machrich reisha",
+     "type": "text"
+    }
+   ]
   }
  ],
  "paragraphsBySubtopic": {

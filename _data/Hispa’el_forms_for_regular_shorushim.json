@@ -1,0 +1,208 @@
+{
+ "displayTopicName": "_Hispa’el_ forms for regular shorushim",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Hispa’el",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " forms for regular shorushim",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Hispa’el forms for regular shorushim": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "Hispa’el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " binyan has conjugations for regular shorushim in five forms: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "Past Tense (for regular shorushim in the _Hispa’el_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Past Tense (for regular shorushim in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Hispa’el",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Hispa’el Past Tense for regular shorushim",
+         "targetTopic": "Hispa’el Past Tense for regular shorushim",
+         "enclosingTopic": "Hispa’el forms for regular shorushim",
+         "enclosingSubtopic": "Hispa’el forms for regular shorushim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Future Tense (for regular shorushimin in the _Hispa’el_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Future Tense (for regular shorushimin in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Hispa’el",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Hispa’el Future Tense for regular shorushim",
+         "targetTopic": "Hispa’el Future Tense for regular shorushim",
+         "enclosingTopic": "Hispa’el forms for regular shorushim",
+         "enclosingSubtopic": "Hispa’el forms for regular shorushim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Ongoing Participle (for regular shorushimin in the _Hispa’el_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Ongoing Participle (for regular shorushimin in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Hispa’el",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Hispa’el Ongoing Participle for Regular Shorushim",
+         "targetTopic": "Hispa’el Ongoing Participle for Regular Shorushim",
+         "enclosingTopic": "Hispa’el forms for regular shorushim",
+         "enclosingSubtopic": "Hispa’el forms for regular shorushim"
+        }
+       ],
+       "rowspan": 2
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Imperative (for regular shorushimin in the _Hispa’el_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Imperative (for regular shorushimin in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Hispa’el",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Hispa’el Imperative for regular shorushim",
+         "targetTopic": "Hispa’el Imperative for regular shorushim",
+         "enclosingTopic": "Hispa’el forms for regular shorushim",
+         "enclosingSubtopic": "Hispa’el forms for regular shorushim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Infinitive (for regular shorushimin in the _Hispa’el_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Infinitive (for regular shorushimin in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Hispa’el",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Hispa’el Infinitive for regular shorushim",
+         "targetTopic": "Hispa’el Infinitive for regular shorushim",
+         "enclosingTopic": "Hispa’el forms for regular shorushim",
+         "enclosingSubtopic": "Hispa’el forms for regular shorushim"
+        }
+       ]
+      },
+      {
+       "tokens": [],
+       "merge": true
+      }
+     ]
+    ]
+   }
+  ]
+ }
+}

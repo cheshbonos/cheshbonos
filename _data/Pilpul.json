@@ -76,21 +76,22 @@
       {
        "tokens": [
         {
-         "text": "*",
-         "type": "text"
-        },
-        {
-         "type": "italics",
+         "type": "bold",
          "tokens": [
           {
-           "text": "Shif'el",
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Shif’el",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " Shoresh",
            "type": "text"
           }
          ]
-        },
-        {
-         "text": " Shoresh*",
-         "type": "text"
         }
        ]
       },
@@ -277,21 +278,21 @@
     "type": "text"
    },
    {
-    "text": "_pi'el_",
+    "text": "_pi’el_",
     "type": "global",
     "tokens": [
      {
       "type": "italics",
       "tokens": [
        {
-        "text": "pi'el",
+        "text": "pi’el",
         "type": "text"
        }
       ]
      }
     ],
-    "targetSubtopic": "Pi'el",
-    "targetTopic": "Pi'el",
+    "targetSubtopic": "Pi’el",
+    "targetTopic": "Pi’el",
     "enclosingTopic": "Pilpul",
     "enclosingSubtopic": "Pilpul"
    },
@@ -300,21 +301,21 @@
     "type": "text"
    },
    {
-    "text": "_pu'al_",
+    "text": "_pu’al_",
     "type": "global",
     "tokens": [
      {
       "type": "italics",
       "tokens": [
        {
-        "text": "pu'al",
+        "text": "pu’al",
         "type": "text"
        }
       ]
      }
     ],
-    "targetSubtopic": "Pu'al",
-    "targetTopic": "Pu'al",
+    "targetSubtopic": "Pu’al",
+    "targetTopic": "Pu’al",
     "enclosingTopic": "Pilpul",
     "enclosingSubtopic": "Pilpul"
    },
@@ -323,21 +324,21 @@
     "type": "text"
    },
    {
-    "text": "_hispa'el_",
+    "text": "_hispa’el_",
     "type": "global",
     "tokens": [
      {
       "type": "italics",
       "tokens": [
        {
-        "text": "hispa'el",
+        "text": "hispa’el",
         "type": "text"
        }
       ]
      }
     ],
-    "targetSubtopic": "Hispa'el",
-    "targetTopic": "Hispa'el",
+    "targetSubtopic": "Hispa’el",
+    "targetTopic": "Hispa’el",
     "enclosingTopic": "Pilpul",
     "enclosingSubtopic": "Pilpul"
    },

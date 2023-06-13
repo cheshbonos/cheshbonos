@@ -12,7 +12,7 @@
     "type": "block_quote",
     "tokens": [
      {
-      "text": "גמ' השתא בשלוחו מקדש בו מיבעיא",
+      "text": "גמ’ השתא בשלוחו מקדש בו מיבעיא",
       "type": "text"
      }
     ],
@@ -101,15 +101,15 @@
     "type": "text"
    },
    {
-    "text": "background information required for the Gemara's next step",
+    "text": "background information required for the Gemara’s next step",
     "type": "local",
     "tokens": [
      {
-      "text": "background information required for the Gemara's next step",
+      "text": "background information required for the Gemara’s next step",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Background information required for the Gemara's next step",
+    "targetSubtopic": "Background information required for the Gemara’s next step",
     "targetTopic": "השתא בשלוחו מקדש בו מיבעיא",
     "enclosingTopic": "השתא בשלוחו מקדש בו מיבעיא",
     "enclosingSubtopic": "Context"
@@ -143,7 +143,7 @@
     "type": "text"
    }
   ],
-  "Background information required for the Gemara's next step": [
+  "Background information required for the Gemara’s next step": [
    {
     "text": "Sometimes the next question or answer of the Gemara is based on assumed prior knowledge.",
     "type": "text"

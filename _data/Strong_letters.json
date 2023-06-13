@@ -1,0 +1,69 @@
+{
+ "displayTopicName": "Strong letters",
+ "topicTokens": [
+  {
+   "text": "Strong letters",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Strong letters": [
+   {
+    "text": "In Hebrew and Aramaic, some letters are considered “strong” in that if they are part of a ",
+    "type": "text"
+   },
+   {
+    "text": "shoresh",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "shoresh",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Shoresh",
+    "targetTopic": "Shoresh",
+    "enclosingTopic": "Strong letters",
+    "enclosingSubtopic": "Strong letters"
+   },
+   {
+    "text": " then they will appear in all verbs formed from that shoresh. ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Strong letters are those that are not ",
+        "type": "text"
+       },
+       {
+        "text": "weak letters",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "weak letters",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Weak letters",
+        "targetTopic": "Weak letters",
+        "enclosingTopic": "Strong letters",
+        "enclosingSubtopic": "Strong letters"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

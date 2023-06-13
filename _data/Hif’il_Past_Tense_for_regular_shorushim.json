@@ -1,0 +1,442 @@
+{
+ "displayTopicName": "_Hif’il_ Past Tense for regular shorushim",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Hif’il",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " Past Tense for regular shorushim",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Hif’il Past Tense for regular shorushim": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "text": "_hif’il_ past tense",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "hif’il",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " past tense",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Hif’il Past Tense",
+    "targetTopic": "Hif’il Past Tense",
+    "enclosingTopic": "Hif’il Past Tense for regular shorushim",
+    "enclosingSubtopic": "Hif’il Past Tense for regular shorushim"
+   },
+   {
+    "text": " follows the following conjugations for ",
+    "type": "text"
+   },
+   {
+    "text": "regular shorushim",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "regular shorushim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Regular shorushim",
+    "targetTopic": "Regular shorushim",
+    "enclosingTopic": "Hif’il Past Tense for regular shorushim",
+    "enclosingSubtopic": "Hif’il Past Tense for regular shorushim"
+   },
+   {
+    "text": ": ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": []
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Singular",
+           "type": "text"
+          }
+         ]
+        }
+       ],
+       "colspan": 2
+      },
+      {
+       "tokens": [],
+       "merge": true
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Plural",
+           "type": "text"
+          }
+         ]
+        }
+       ],
+       "colspan": 2
+      },
+      {
+       "tokens": [],
+       "merge": true
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "First-Person",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "הִבְדַּלְתִּי",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "hivdalti",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": "I separated",
+         "type": "text"
+        }
+       ],
+       "colspan": 2
+      },
+      {
+       "tokens": [],
+       "merge": true
+      },
+      {
+       "tokens": [
+        {
+         "text": "הִבְדַּלְנוּ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "hivdalnu",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": "We seperated",
+         "type": "text"
+        }
+       ],
+       "colspan": 2
+      },
+      {
+       "tokens": [],
+       "merge": true
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Second-Person",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "הִבְדַּלְתָּ ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "hivdaltau",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " You [male] separated",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "הִבְדַּלְתְּ ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "hivdalt",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " You [female] separated",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "הִבְדַּלְתֶּם ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "hivdaltem",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " You [males] separated",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "הִבְדַּלְתֶּן ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "hivdalten",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " You [females] separated",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Third-Person",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "הִבְדִּיל ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "hivdil",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " He separated",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "הִבְדִּילָה ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "hivdilau",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " She separated",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "הִבְדִּילוּ ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "hivdilu",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " They [male or female] separated",
+         "type": "text"
+        }
+       ],
+       "colspan": 2
+      },
+      {
+       "tokens": [],
+       "merge": true
+      }
+     ]
+    ]
+   },
+   {
+    "text": " For any regular shoresh, you can replace the letters ‎ב, ‎ד, and ל above with the letters of your shoresh to produce the proper conjugations.",
+    "type": "text"
+   }
+  ]
+ }
+}

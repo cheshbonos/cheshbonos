@@ -142,21 +142,21 @@
       {
        "tokens": [
         {
-         "text": "_Pa'al_",
+         "text": "_Pa’al_",
          "type": "global",
          "tokens": [
           {
            "type": "italics",
            "tokens": [
             {
-             "text": "Pa'al",
+             "text": "Pa’al",
              "type": "text"
             }
            ]
           }
          ],
-         "targetSubtopic": "Pa'al",
-         "targetTopic": "Pa'al",
+         "targetSubtopic": "Pa’al",
+         "targetTopic": "Pa’al",
          "enclosingTopic": "Hebrew binyanim",
          "enclosingSubtopic": "Hebrew binyanim"
         }
@@ -165,21 +165,21 @@
       {
        "tokens": [
         {
-         "text": "_Pi'el_",
+         "text": "_Pi’el_",
          "type": "global",
          "tokens": [
           {
            "type": "italics",
            "tokens": [
             {
-             "text": "Pi'el",
+             "text": "Pi’el",
              "type": "text"
             }
            ]
           }
          ],
-         "targetSubtopic": "Pi'el",
-         "targetTopic": "Pi'el",
+         "targetSubtopic": "Pi’el",
+         "targetTopic": "Pi’el",
          "enclosingTopic": "Hebrew binyanim",
          "enclosingSubtopic": "Hebrew binyanim"
         }
@@ -188,21 +188,21 @@
       {
        "tokens": [
         {
-         "text": "_Hif'il_",
+         "text": "_Hif’il_",
          "type": "global",
          "tokens": [
           {
            "type": "italics",
            "tokens": [
             {
-             "text": "Hif'il",
+             "text": "Hif’il",
              "type": "text"
             }
            ]
           }
          ],
-         "targetSubtopic": "Hif'il",
-         "targetTopic": "Hif'il",
+         "targetSubtopic": "Hif’il",
+         "targetTopic": "Hif’il",
          "enclosingTopic": "Hebrew binyanim",
          "enclosingSubtopic": "Hebrew binyanim"
         }
@@ -211,21 +211,21 @@
       {
        "tokens": [
         {
-         "text": "_Hispa'el_",
+         "text": "_Hispa’el_",
          "type": "global",
          "tokens": [
           {
            "type": "italics",
            "tokens": [
             {
-             "text": "Hispa'el",
+             "text": "Hispa’el",
              "type": "text"
             }
            ]
           }
          ],
-         "targetSubtopic": "Hispa'el",
-         "targetTopic": "Hispa'el",
+         "targetSubtopic": "Hispa’el",
+         "targetTopic": "Hispa’el",
          "enclosingTopic": "Hebrew binyanim",
          "enclosingSubtopic": "Hebrew binyanim"
         },
@@ -238,21 +238,21 @@
          "html": "<br>"
         },
         {
-         "text": "_Nispa'el_",
+         "text": "_Nispa’el_",
          "type": "global",
          "tokens": [
           {
            "type": "italics",
            "tokens": [
             {
-             "text": "Nispa'el",
+             "text": "Nispa’el",
              "type": "text"
             }
            ]
           }
          ],
-         "targetSubtopic": "Nispa'el",
-         "targetTopic": "Nispa'el",
+         "targetSubtopic": "Nispa’el",
+         "targetTopic": "Nispa’el",
          "enclosingTopic": "Hebrew binyanim",
          "enclosingSubtopic": "Hebrew binyanim"
         }
@@ -282,21 +282,21 @@
       {
        "tokens": [
         {
-         "text": "_Nif'al_",
+         "text": "_Nif’al_",
          "type": "global",
          "tokens": [
           {
            "type": "italics",
            "tokens": [
             {
-             "text": "Nif'al",
+             "text": "Nif’al",
              "type": "text"
             }
            ]
           }
          ],
-         "targetSubtopic": "Nif'al",
-         "targetTopic": "Nif'al",
+         "targetSubtopic": "Nif’al",
+         "targetTopic": "Nif’al",
          "enclosingTopic": "Hebrew binyanim",
          "enclosingSubtopic": "Hebrew binyanim"
         }
@@ -305,21 +305,21 @@
       {
        "tokens": [
         {
-         "text": "_Pu'al_",
+         "text": "_Pu’al_",
          "type": "global",
          "tokens": [
           {
            "type": "italics",
            "tokens": [
             {
-             "text": "Pu'al",
+             "text": "Pu’al",
              "type": "text"
             }
            ]
           }
          ],
-         "targetSubtopic": "Pu'al",
-         "targetTopic": "Pu'al",
+         "targetSubtopic": "Pu’al",
+         "targetTopic": "Pu’al",
          "enclosingTopic": "Hebrew binyanim",
          "enclosingSubtopic": "Hebrew binyanim"
         }
@@ -328,21 +328,21 @@
       {
        "tokens": [
         {
-         "text": "_Huf'al_",
+         "text": "_Huf’al_",
          "type": "global",
          "tokens": [
           {
            "type": "italics",
            "tokens": [
             {
-             "text": "Huf'al",
+             "text": "Huf’al",
              "type": "text"
             }
            ]
           }
          ],
-         "targetSubtopic": "Huf'al",
-         "targetTopic": "Huf'al",
+         "targetSubtopic": "Huf’al",
+         "targetTopic": "Huf’al",
          "enclosingTopic": "Hebrew binyanim",
          "enclosingSubtopic": "Hebrew binyanim"
         }

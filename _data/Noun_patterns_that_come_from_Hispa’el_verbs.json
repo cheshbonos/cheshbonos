@@ -1,0 +1,92 @@
+{
+ "displayTopicName": "Noun patterns that come from _Hispa’el_ verbs",
+ "topicTokens": [
+  {
+   "text": "Noun patterns that come from ",
+   "type": "text"
+  },
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Hispa’el",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " verbs",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Noun patterns that come from Hispa’el verbs": [
+   {
+    "text": "The noun patterns that come from ",
+    "type": "text"
+   },
+   {
+    "text": "_hispa’el_",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "hispa’el",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Hispa’el",
+    "targetTopic": "Hispa’el",
+    "enclosingTopic": "Noun patterns that come from Hispa’el verbs",
+    "enclosingSubtopic": "Noun patterns that come from Hispa’el verbs"
+   },
+   {
+    "text": " verbs include: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The _hiskattlut_ noun pattern",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "The ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "hiskattlut",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " noun pattern",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "The hiskattlut noun pattern",
+        "targetTopic": "The hiskattlut noun pattern",
+        "enclosingTopic": "Noun patterns that come from Hispa’el verbs",
+        "enclosingSubtopic": "Noun patterns that come from Hispa’el verbs"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

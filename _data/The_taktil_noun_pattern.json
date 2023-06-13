@@ -76,42 +76,44 @@
       {
        "tokens": [
         {
-         "text": "*",
-         "type": "text"
-        },
-        {
-         "type": "italics",
+         "type": "bold",
          "tokens": [
           {
-           "text": "Hif'il",
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Hif’il",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " Verb",
            "type": "text"
           }
          ]
-        },
-        {
-         "text": " Verb*",
-         "type": "text"
         }
        ]
       },
       {
        "tokens": [
         {
-         "text": "*",
-         "type": "text"
-        },
-        {
-         "type": "italics",
+         "type": "bold",
          "tokens": [
           {
-           "text": "Pi'el",
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Pi’el",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " Noun",
            "type": "text"
           }
          ]
-        },
-        {
-         "text": " Noun*",
-         "type": "text"
         }
        ]
       }
@@ -143,7 +145,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "bish'sheil",
+           "text": "bish’sheil",
            "type": "text"
           }
          ]
@@ -295,7 +297,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "hirg'gil",
+           "text": "hirg’gil",
            "type": "text"
           }
          ]
@@ -324,7 +326,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "targ'gil",
+           "text": "targ’gil",
            "type": "text"
           }
          ]
@@ -364,21 +366,21 @@
     "type": "text"
    },
    {
-    "text": "_hif'il_",
+    "text": "_hif’il_",
     "type": "global",
     "tokens": [
      {
       "type": "italics",
       "tokens": [
        {
-        "text": "hif'il",
+        "text": "hif’il",
         "type": "text"
        }
       ]
      }
     ],
-    "targetSubtopic": "Hif'il",
-    "targetTopic": "Hif'il",
+    "targetSubtopic": "Hif’il",
+    "targetTopic": "Hif’il",
     "enclosingTopic": "The taktil noun pattern",
     "enclosingSubtopic": "The taktil noun pattern"
    },

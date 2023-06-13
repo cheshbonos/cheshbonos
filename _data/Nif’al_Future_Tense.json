@@ -1,0 +1,146 @@
+{
+ "displayTopicName": "_Nif’al_ Future Tense",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Nif’al",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " Future Tense",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Nif’al Future Tense": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "nif’al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " has an ",
+    "type": "text"
+   },
+   {
+    "text": "future tense",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "future tense",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Future Tense",
+    "targetTopic": "Future Tense",
+    "enclosingTopic": "Nif’al Future Tense",
+    "enclosingSubtopic": "Nif’al Future Tense"
+   },
+   {
+    "text": " which is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "forms of the nif’al binyan",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "forms of the nif’al binyan",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Nif’al Forms",
+    "targetTopic": "Nif’al Forms",
+    "enclosingTopic": "Nif’al Future Tense",
+    "enclosingSubtopic": "Nif’al Future Tense"
+   },
+   {
+    "text": ". ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "nif’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " future tense has ",
+        "type": "text"
+       },
+       {
+        "text": "conjugations for regular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "conjugations for regular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Nif’al Future Tense for regular shorushim",
+        "targetTopic": "Nif’al Future Tense for regular shorushim",
+        "enclosingTopic": "Nif’al Future Tense",
+        "enclosingSubtopic": "Nif’al Future Tense"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "nif’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " future tense has conjugations for irregular shorushim which will be added at a later time.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

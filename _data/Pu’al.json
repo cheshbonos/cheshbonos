@@ -1,0 +1,406 @@
+{
+ "displayTopicName": "Pu’al",
+ "topicTokens": [
+  {
+   "text": "Pu’al",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Pu’al": [
+   {
+    "text": "The “Pu’al” (פֻּעַל) is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "Hebrew binyanim",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Hebrew binyanim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Hebrew binyanim",
+    "targetTopic": "Hebrew binyanim",
+    "enclosingTopic": "Pu’al",
+    "enclosingSubtopic": "Pu’al"
+   },
+   {
+    "text": ". (",
+    "type": "text"
+   },
+   {
+    "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Binyan",
+    "targetTopic": "Binyan",
+    "enclosingTopic": "Pu’al",
+    "enclosingSubtopic": "Pu’al"
+   },
+   {
+    "text": ".) ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "A ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pu’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " verb is usually the reverse of a ",
+        "type": "text"
+       },
+       {
+        "text": "_pi’el_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "pi’el",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Pi’el",
+        "targetTopic": "Pi’el",
+        "enclosingTopic": "Pu’al",
+        "enclosingSubtopic": "Pu’al"
+       },
+       {
+        "text": " verb, e.g. a person engraves (מְכַתֵּב, ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "mechateiv",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ", a ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pi’el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " verb), whereas a thing ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "is engraved",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " (מְכֻתָּב, ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "mechutauv",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ", a ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pu’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " verb.)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Advanced students can read ",
+        "type": "text"
+       },
+       {
+        "text": "more information about the _pu’al_",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "more information about the ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "pu’al",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "More information about the pu’al",
+        "targetTopic": "Pu’al",
+        "enclosingTopic": "Pu’al",
+        "enclosingSubtopic": "Pu’al"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "More information about the pu’al": [
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Verbs in the ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pu’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " have the properties of being ",
+        "type": "text"
+       },
+       {
+        "text": "passive",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "passive",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Passive",
+        "targetTopic": "Passive",
+        "enclosingTopic": "Pu’al",
+        "enclosingSubtopic": "More information about the pu’al"
+       },
+       {
+        "text": " and ",
+        "type": "text"
+       },
+       {
+        "text": "intensive",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "intensive",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Intensive",
+        "targetTopic": "Intensive",
+        "enclosingTopic": "Pu’al",
+        "enclosingSubtopic": "More information about the pu’al"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pu’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " ",
+        "type": "text"
+       },
+       {
+        "text": "has various verb forms",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "has various verb forms",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pu’al Forms",
+        "targetTopic": "Pu’al Forms",
+        "enclosingTopic": "Pu’al",
+        "enclosingSubtopic": "More information about the pu’al"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pu’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " has ",
+        "type": "text"
+       },
+       {
+        "text": "forms for regular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "forms for regular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pu’al forms for regular shorushim",
+        "targetTopic": "Pu’al forms for regular shorushim",
+        "enclosingTopic": "Pu’al",
+        "enclosingSubtopic": "More information about the pu’al"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pu’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " is one of the Hebrew binyanim that may correspond to the ",
+        "type": "text"
+       },
+       {
+        "text": "_ispa’al_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "ispa’al",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Ispa’al",
+        "targetTopic": "Ispa’al",
+        "enclosingTopic": "Pu’al",
+        "enclosingSubtopic": "More information about the pu’al"
+       },
+       {
+        "text": " in Aramaic.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

@@ -1,0 +1,146 @@
+{
+ "displayTopicName": "_Hif’il_ Past Tense",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Hif’il",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " Past Tense",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Hif’il Past Tense": [
+   {
+    "text": "The _hif’il binyan has a ",
+    "type": "text"
+   },
+   {
+    "text": "past tense",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "past tense",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Past tense",
+    "targetTopic": "Past tense",
+    "enclosingTopic": "Hif’il Past Tense",
+    "enclosingSubtopic": "Hif’il Past Tense"
+   },
+   {
+    "text": ", which is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "forms of the _hif'il_ binyan",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "forms of the ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "hif'il",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " binyan",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Hif’il Forms",
+    "targetTopic": "Hif’il Forms",
+    "enclosingTopic": "Hif’il Past Tense",
+    "enclosingSubtopic": "Hif’il Past Tense"
+   },
+   {
+    "text": ". ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hif’il",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " past tense has ",
+        "type": "text"
+       },
+       {
+        "text": "conjugations for regular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "conjugations for regular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Hif’il Past Tense for regular shorushim",
+        "targetTopic": "Hif’il Past Tense for regular shorushim",
+        "enclosingTopic": "Hif’il Past Tense",
+        "enclosingSubtopic": "Hif’il Past Tense"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hif’il",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " past tense has conjugations for irregular shorushim which will be added at a later time.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

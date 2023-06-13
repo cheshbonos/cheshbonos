@@ -1,0 +1,186 @@
+{
+ "displayTopicName": "_Huf’al_ Ongoing Participle",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Huf’al",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " Ongoing Participle",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Huf’al Ongoing Participle": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "text": "_Huf’al_ binyan",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "Huf’al",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " binyan",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Huf’al",
+    "targetTopic": "Huf’al",
+    "enclosingTopic": "Huf’al Ongoing Participle",
+    "enclosingSubtopic": "Huf’al Ongoing Participle"
+   },
+   {
+    "text": " has an ",
+    "type": "text"
+   },
+   {
+    "text": "ongoing participle form",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "ongoing participle form",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Ongoing Participle",
+    "targetTopic": "Ongoing Participle",
+    "enclosingTopic": "Huf’al Ongoing Participle",
+    "enclosingSubtopic": "Huf’al Ongoing Participle"
+   },
+   {
+    "text": ", which is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "forms of the _huf'al_ binyan",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "forms of the ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "huf'al",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " binyan",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Huf’al Forms",
+    "targetTopic": "Huf’al Forms",
+    "enclosingTopic": "Huf’al Ongoing Participle",
+    "enclosingSubtopic": "Huf’al Ongoing Participle"
+   },
+   {
+    "text": ". ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "huf'al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " ongoing participle form has ",
+        "type": "text"
+       },
+       {
+        "text": "conjugations for the _huf’al_ ongoing participle for regular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "conjugations for the ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "huf’al",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " ongoing participle for regular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Huf’al Ongoing Participle for Regular Shorushim",
+        "targetTopic": "Huf’al Ongoing Participle for Regular Shorushim",
+        "enclosingTopic": "Huf’al Ongoing Participle",
+        "enclosingSubtopic": "Huf’al Ongoing Participle"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "huf'al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " ongoing participle has conjugations for irregular shorushim which will be added at a later time.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

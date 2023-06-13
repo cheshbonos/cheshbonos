@@ -1,0 +1,119 @@
+{
+ "displayTopicName": "_Pa’al_ Infinitive for regular shorushim",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Pa’al",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " Infinitive for regular shorushim",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Pa’al Infinitive for regular shorushim": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "text": "_pa’al_ infinitive form",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pa’al",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " infinitive form",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Pa’al Infinitive",
+    "targetTopic": "Pa’al Infinitive",
+    "enclosingTopic": "Pa’al Infinitive for regular shorushim",
+    "enclosingSubtopic": "Pa’al Infinitive for regular shorushim"
+   },
+   {
+    "text": " has the following conjugation pattern for ",
+    "type": "text"
+   },
+   {
+    "text": "regular shorushim",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "regular shorushim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Regular shorushim",
+    "targetTopic": "Regular shorushim",
+    "enclosingTopic": "Pa’al Infinitive for regular shorushim",
+    "enclosingSubtopic": "Pa’al Infinitive for regular shorushim"
+   },
+   {
+    "text": ": ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "לִכְתֹּב ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "lichtov",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " to write",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "text": " For any regular shoresh, you can replace the letters ‎כ, ‎ת, and ב above with the letters of your shoresh to produce the proper conjugations.",
+    "type": "text"
+   }
+  ]
+ }
+}

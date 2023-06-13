@@ -9,7 +9,7 @@
  "paragraphsBySubtopic": {
   "Reflexive": [
    {
-    "text": "\"Reflexive\" is a category of verb in Hebrew and Aramaic. Reflexive verbs often refer to ",
+    "text": "“Reflexive” is a category of verb in Hebrew and Aramaic. Reflexive verbs often refer to ",
     "type": "text"
    },
    {
@@ -110,16 +110,26 @@
       {
        "tokens": [
         {
-         "text": "*Simple verb*",
-         "type": "text"
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Simple verb",
+           "type": "text"
+          }
+         ]
         }
        ]
       },
       {
        "tokens": [
         {
-         "text": "*Reflexive verb*",
-         "type": "text"
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Reflexive verb",
+           "type": "text"
+          }
+         ]
         }
        ]
       }
@@ -231,7 +241,7 @@
     ]
    },
    {
-    "text": "  the shoresh לבש corresponds to the concept of clothing, and the causative verb from that shoresh is לְהִתְלַבֵּשׁ, which means \"to dress oneself.\"",
+    "text": "  the shoresh לבש corresponds to the concept of clothing, and the causative verb from that shoresh is לְהִתְלַבֵּשׁ, which means “to dress oneself.”",
     "type": "text"
    }
   ],
@@ -260,16 +270,26 @@
       {
        "tokens": [
         {
-         "text": "*Simple verb*",
-         "type": "text"
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Simple verb",
+           "type": "text"
+          }
+         ]
         }
        ]
       },
       {
        "tokens": [
         {
-         "text": "*Reflexive verb*",
-         "type": "text"
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Reflexive verb",
+           "type": "text"
+          }
+         ]
         }
        ]
       }
@@ -367,25 +387,25 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Hebrew's reflexive binyan is called the ",
+        "text": "Hebrew’s reflexive binyan is called the ",
         "type": "text"
        },
        {
-        "text": "_hispa'el_",
+        "text": "_hispa’el_",
         "type": "global",
         "tokens": [
          {
           "type": "italics",
           "tokens": [
            {
-            "text": "hispa'el",
+            "text": "hispa’el",
             "type": "text"
            }
           ]
          }
         ],
-        "targetSubtopic": "Hispa'el",
-        "targetTopic": "Hispa'el",
+        "targetSubtopic": "Hispa’el",
+        "targetTopic": "Hispa’el",
         "enclosingTopic": "Reflexive",
         "enclosingSubtopic": "Several reflexive binyanim in Hebrew and Aramaic"
        }
@@ -397,25 +417,25 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Aramaic's reflexive binyan is called the ",
+        "text": "Aramaic’s reflexive binyan is called the ",
         "type": "text"
        },
        {
-        "text": "_ispa'al_",
+        "text": "_ispa’al_",
         "type": "global",
         "tokens": [
          {
           "type": "italics",
           "tokens": [
            {
-            "text": "ispa'al",
+            "text": "ispa’al",
             "type": "text"
            }
           ]
          }
         ],
-        "targetSubtopic": "Ispa'al",
-        "targetTopic": "Ispa'al",
+        "targetSubtopic": "Ispa’al",
+        "targetTopic": "Ispa’al",
         "enclosingTopic": "Reflexive",
         "enclosingSubtopic": "Several reflexive binyanim in Hebrew and Aramaic"
        }
@@ -427,7 +447,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Hebrew and Aramaic's ",
+        "text": "Hebrew and Aramaic’s ",
         "type": "text"
        },
        {

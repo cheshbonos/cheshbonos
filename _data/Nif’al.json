@@ -1,0 +1,336 @@
+{
+ "displayTopicName": "Nif’al",
+ "topicTokens": [
+  {
+   "text": "Nif’al",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Nif’al": [
+   {
+    "text": "The “nif’al” (נִפְעַל) is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "Hebrew binyanim",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Hebrew binyanim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Hebrew binyanim",
+    "targetTopic": "Hebrew binyanim",
+    "enclosingTopic": "Nif’al",
+    "enclosingSubtopic": "Nif’al"
+   },
+   {
+    "text": ". (",
+    "type": "text"
+   },
+   {
+    "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Binyan",
+    "targetTopic": "Binyan",
+    "enclosingTopic": "Nif’al",
+    "enclosingSubtopic": "Nif’al"
+   },
+   {
+    "text": ".) ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "If you take a ",
+        "type": "text"
+       },
+       {
+        "text": "shoresh",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "shoresh",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Shoresh",
+        "targetTopic": "Shoresh",
+        "enclosingTopic": "Nif’al",
+        "enclosingSubtopic": "Nif’al"
+       },
+       {
+        "text": " like כתב which means “writing” and put it in the ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "nif’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " binyan, it produces a verb that is a more “intense” form of writing, i.e. “engraving.”",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Advanced students can read ",
+        "type": "text"
+       },
+       {
+        "text": "more information about the _nif’al_",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "more information about the ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "nif’al",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "More information about the nif’al",
+        "targetTopic": "Nif’al",
+        "enclosingTopic": "Nif’al",
+        "enclosingSubtopic": "Nif’al"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "More information about the nif’al": [
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Verbs in the ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "nif’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " have the properties of being ",
+        "type": "text"
+       },
+       {
+        "text": "passive",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "passive",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Passive",
+        "targetTopic": "Passive",
+        "enclosingTopic": "Nif’al",
+        "enclosingSubtopic": "More information about the nif’al"
+       },
+       {
+        "text": " and ",
+        "type": "text"
+       },
+       {
+        "text": "simple",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "simple",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Simple",
+        "targetTopic": "Simple",
+        "enclosingTopic": "Nif’al",
+        "enclosingSubtopic": "More information about the nif’al"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "nif’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " ",
+        "type": "text"
+       },
+       {
+        "text": "has various verb forms",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "has various verb forms",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Nif’al Forms",
+        "targetTopic": "Nif’al Forms",
+        "enclosingTopic": "Nif’al",
+        "enclosingSubtopic": "More information about the nif’al"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "nif’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " ",
+        "type": "text"
+       },
+       {
+        "text": "has conjugations for regular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "has conjugations for regular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Nif’al forms for regular shorushim",
+        "targetTopic": "Nif’al forms for regular shorushim",
+        "enclosingTopic": "Nif’al",
+        "enclosingSubtopic": "More information about the nif’al"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "nif’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " corresponds to the ",
+        "type": "text"
+       },
+       {
+        "text": "_ispe’el_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "ispe’el",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Ispe’el",
+        "targetTopic": "Ispe’el",
+        "enclosingTopic": "Nif’al",
+        "enclosingSubtopic": "More information about the nif’al"
+       },
+       {
+        "text": " in Aramaic.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

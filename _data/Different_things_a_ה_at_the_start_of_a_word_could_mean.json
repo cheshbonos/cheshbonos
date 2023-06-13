@@ -68,15 +68,15 @@
         "type": "text"
        },
        {
-        "text": "the Hebrew version of the word \"the\"",
+        "text": "the Hebrew version of the word “the”",
         "type": "local",
         "tokens": [
          {
-          "text": "the Hebrew version of the word \"the\"",
+          "text": "the Hebrew version of the word “the”",
           "type": "text"
          }
         ],
-        "targetSubtopic": "The Hebrew version of the word \"the\"",
+        "targetSubtopic": "The Hebrew version of the word “the”",
         "targetTopic": "Different things a ה at the start of a word could mean",
         "enclosingTopic": "Different things a ה at the start of a word could mean",
         "enclosingSubtopic": "Different things a ה at the start of a word could mean"
@@ -251,9 +251,9 @@
     "type": "outline"
    }
   ],
-  "The Hebrew version of the word \"the\"": [
+  "The Hebrew version of the word “the”": [
    {
-    "text": "A ה at the start of a word might be the Hebrew version of the word \"the\". ",
+    "text": "A ה at the start of a word might be the Hebrew version of the word “the”. ",
     "type": "text"
    },
    {
@@ -263,7 +263,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "For example הַאֶבֶן, \"the rock,\" formed from the word אֶבֶן, meaning \"rock.\"",
+        "text": "For example הַאֶבֶן, “the rock,” formed from the word אֶבֶן, meaning “rock.”",
         "type": "text"
        }
       ],
@@ -325,21 +325,21 @@
         "type": "text"
        },
        {
-        "text": "_hif'il_",
+        "text": "_hif’il_",
         "type": "global",
         "tokens": [
          {
           "type": "italics",
           "tokens": [
            {
-            "text": "hif'il",
+            "text": "hif’il",
             "type": "text"
            }
           ]
          }
         ],
-        "targetSubtopic": "Hif'il",
-        "targetTopic": "Hif'il",
+        "targetSubtopic": "Hif’il",
+        "targetTopic": "Hif’il",
         "enclosingTopic": "Different things a ה at the start of a word could mean",
         "enclosingSubtopic": "Past-tense verb that begins with ה"
        },
@@ -359,21 +359,21 @@
         "type": "text"
        },
        {
-        "text": "_his'pael_",
+        "text": "_his’pael_",
         "type": "global",
         "tokens": [
          {
           "type": "italics",
           "tokens": [
            {
-            "text": "his'pael",
+            "text": "his’pael",
             "type": "text"
            }
           ]
          }
         ],
-        "targetSubtopic": "Hispa'el",
-        "targetTopic": "Hispa'el",
+        "targetSubtopic": "Hispa’el",
+        "targetTopic": "Hispa’el",
         "enclosingTopic": "Different things a ה at the start of a word could mean",
         "enclosingSubtopic": "Past-tense verb that begins with ה"
        },
@@ -394,11 +394,11 @@
     "type": "text"
    },
    {
-    "text": "imperative (\"command\")",
+    "text": "imperative (“command”)",
     "type": "global",
     "tokens": [
      {
-      "text": "imperative (\"command\")",
+      "text": "imperative (“command”)",
       "type": "text"
      }
     ],
@@ -422,21 +422,21 @@
         "type": "text"
        },
        {
-        "text": "_hif'il_",
+        "text": "_hif’il_",
         "type": "global",
         "tokens": [
          {
           "type": "italics",
           "tokens": [
            {
-            "text": "hif'il",
+            "text": "hif’il",
             "type": "text"
            }
           ]
          }
         ],
-        "targetSubtopic": "Hif'il",
-        "targetTopic": "Hif'il",
+        "targetSubtopic": "Hif’il",
+        "targetTopic": "Hif’il",
         "enclosingTopic": "Different things a ה at the start of a word could mean",
         "enclosingSubtopic": "Imperative verb that begin with ה"
        },
@@ -456,21 +456,21 @@
         "type": "text"
        },
        {
-        "text": "_his'pael_",
+        "text": "_his’pael_",
         "type": "global",
         "tokens": [
          {
           "type": "italics",
           "tokens": [
            {
-            "text": "his'pael",
+            "text": "his’pael",
             "type": "text"
            }
           ]
          }
         ],
-        "targetSubtopic": "Hispa'el",
-        "targetTopic": "Hispa'el",
+        "targetSubtopic": "Hispa’el",
+        "targetTopic": "Hispa’el",
         "enclosingTopic": "Different things a ה at the start of a word could mean",
         "enclosingSubtopic": "Imperative verb that begin with ה"
        },
@@ -491,11 +491,11 @@
     "type": "text"
    },
    {
-    "text": "\"noun patterns\"",
+    "text": "“noun patterns”",
     "type": "global",
     "tokens": [
      {
-      "text": "\"noun patterns\"",
+      "text": "“noun patterns”",
       "type": "text"
      }
     ],

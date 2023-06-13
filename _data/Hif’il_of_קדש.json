@@ -1,0 +1,131 @@
+{
+ "displayTopicName": "_Hif’il_ of קדש",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Hif’il",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " of קדש",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Hif’il of קדש": [
+   {
+    "text": "The shoresh קדש has a ",
+    "type": "text"
+   },
+   {
+    "text": "_hif’il_",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "hif’il",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Hif’il",
+    "targetTopic": "Hif’il",
+    "enclosingTopic": "Hif’il of קדש",
+    "enclosingSubtopic": "Hif’il of קדש"
+   },
+   {
+    "text": " form, which follows ",
+    "type": "text"
+   },
+   {
+    "text": "regular conjugations",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "regular conjugations",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Hif’il forms for regular shorushim",
+    "targetTopic": "Hif’il forms for regular shorushim",
+    "enclosingTopic": "Hif’il of קדש",
+    "enclosingSubtopic": "Hif’il of קדש"
+   },
+   {
+    "text": " for the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "hif’il",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ". קדש in the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pa’al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " can mean: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "to be or become pure",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "to be or become sacred/holy/connected",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "to be or become separated or designated for a special purpose",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

@@ -1,0 +1,208 @@
+{
+ "displayTopicName": "_Hif’il_ forms for regular shorushim",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Hif’il",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " forms for regular shorushim",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Hif’il forms for regular shorushim": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "Hif’il",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " binyan has conjugations for regular shorushim in five forms: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "Past Tense (for regular shorushim in the _Hif’il_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Past Tense (for regular shorushim in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Hif’il",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Hif’il Past Tense for regular shorushim",
+         "targetTopic": "Hif’il Past Tense for regular shorushim",
+         "enclosingTopic": "Hif’il forms for regular shorushim",
+         "enclosingSubtopic": "Hif’il forms for regular shorushim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Future Tense (for regular shorushimin in the _Hif’il_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Future Tense (for regular shorushimin in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Hif’il",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Hif’il Future Tense for regular shorushim",
+         "targetTopic": "Hif’il Future Tense for regular shorushim",
+         "enclosingTopic": "Hif’il forms for regular shorushim",
+         "enclosingSubtopic": "Hif’il forms for regular shorushim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Ongoing Participle (for regular shorushimin in the _Hif’il_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Ongoing Participle (for regular shorushimin in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Hif’il",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Hif’il Ongoing Participle for Regular Shorushim",
+         "targetTopic": "Hif’il Ongoing Participle for Regular Shorushim",
+         "enclosingTopic": "Hif’il forms for regular shorushim",
+         "enclosingSubtopic": "Hif’il forms for regular shorushim"
+        }
+       ],
+       "rowspan": 2
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Imperative (for regular shorushimin in the _Hif’il_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Imperative (for regular shorushimin in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Hif’il",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Hif’il Imperative for regular shorushim",
+         "targetTopic": "Hif’il Imperative for regular shorushim",
+         "enclosingTopic": "Hif’il forms for regular shorushim",
+         "enclosingSubtopic": "Hif’il forms for regular shorushim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Infinitive (for regular shorushimin in the _pi’el_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Infinitive (for regular shorushimin in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "pi’el",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Hif’il Infinitive for regular shorushim",
+         "targetTopic": "Hif’il Infinitive for regular shorushim",
+         "enclosingTopic": "Hif’il forms for regular shorushim",
+         "enclosingSubtopic": "Hif’il forms for regular shorushim"
+        }
+       ]
+      },
+      {
+       "tokens": [],
+       "merge": true
+      }
+     ]
+    ]
+   }
+  ]
+ }
+}

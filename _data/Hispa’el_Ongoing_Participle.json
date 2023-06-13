@@ -1,0 +1,173 @@
+{
+ "displayTopicName": "_Hispa’el_ Ongoing Participle",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Hispa’el",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " Ongoing Participle",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Hispa’el Ongoing Participle": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "text": "_Hispa’el_ binyan",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "Hispa’el",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " binyan",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Hispa’el",
+    "targetTopic": "Hispa’el",
+    "enclosingTopic": "Hispa’el Ongoing Participle",
+    "enclosingSubtopic": "Hispa’el Ongoing Participle"
+   },
+   {
+    "text": " has an ",
+    "type": "text"
+   },
+   {
+    "text": "ongoing participle form",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "ongoing participle form",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Ongoing Participle",
+    "targetTopic": "Ongoing Participle",
+    "enclosingTopic": "Hispa’el Ongoing Participle",
+    "enclosingSubtopic": "Hispa’el Ongoing Participle"
+   },
+   {
+    "text": ", which is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "forms of the _hispa'el_ binyan",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "forms of the ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "hispa'el",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " binyan",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Hispa’el Forms",
+    "targetTopic": "Hispa’el Forms",
+    "enclosingTopic": "Hispa’el Ongoing Participle",
+    "enclosingSubtopic": "Hispa’el Ongoing Participle"
+   },
+   {
+    "text": ". ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hispa'el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " has ",
+        "type": "text"
+       },
+       {
+        "text": "conjugations for regular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "conjugations for regular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Hispa’el Ongoing Participle for Regular Shorushim",
+        "targetTopic": "Hispa’el Ongoing Participle for Regular Shorushim",
+        "enclosingTopic": "Hispa’el Ongoing Participle",
+        "enclosingSubtopic": "Hispa’el Ongoing Participle"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hispa'el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " has conjugations for irregular shorushim which will be added at a later time.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

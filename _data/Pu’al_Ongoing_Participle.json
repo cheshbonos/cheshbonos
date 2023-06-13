@@ -1,0 +1,142 @@
+{
+ "displayTopicName": "_Pu’al_ Ongoing Participle",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Pu’al",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " Ongoing Participle",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Pu’al Ongoing Participle": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "text": "_pu’al_ binyan",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pu’al",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " binyan",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Pu’al",
+    "targetTopic": "Pu’al",
+    "enclosingTopic": "Pu’al Ongoing Participle",
+    "enclosingSubtopic": "Pu’al Ongoing Participle"
+   },
+   {
+    "text": " has an ",
+    "type": "text"
+   },
+   {
+    "text": "ongoing participle form",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "ongoing participle form",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Ongoing Participle",
+    "targetTopic": "Ongoing Participle",
+    "enclosingTopic": "Pu’al Ongoing Participle",
+    "enclosingSubtopic": "Pu’al Ongoing Participle"
+   },
+   {
+    "text": ". ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pu'al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " has ",
+        "type": "text"
+       },
+       {
+        "text": "conjugations for regular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "conjugations for regular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pu’al Ongoing Participle for Regular Shorushim",
+        "targetTopic": "Pu’al Ongoing Participle for Regular Shorushim",
+        "enclosingTopic": "Pu’al Ongoing Participle",
+        "enclosingSubtopic": "Pu’al Ongoing Participle"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pu'al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " has conjugations for irregular shorushim which will be added at a later time.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

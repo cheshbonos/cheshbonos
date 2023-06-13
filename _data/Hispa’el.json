@@ -1,0 +1,497 @@
+{
+ "displayTopicName": "Hispa’el",
+ "topicTokens": [
+  {
+   "text": "Hispa’el",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Hispa’el": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "hispa’el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " (הִתְפַּעֵל) is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "Hebrew binyanim",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Hebrew binyanim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Hebrew binyanim",
+    "targetTopic": "Hebrew binyanim",
+    "enclosingTopic": "Hispa’el",
+    "enclosingSubtopic": "Hispa’el"
+   },
+   {
+    "text": ". (",
+    "type": "text"
+   },
+   {
+    "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Binyan",
+    "targetTopic": "Binyan",
+    "enclosingTopic": "Hispa’el",
+    "enclosingSubtopic": "Hispa’el"
+   },
+   {
+    "text": ".) ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "If you take a ",
+        "type": "text"
+       },
+       {
+        "text": "shoresh",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "shoresh",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Shoresh",
+        "targetTopic": "Shoresh",
+        "enclosingTopic": "Hispa’el",
+        "enclosingSubtopic": "Hispa’el"
+       },
+       {
+        "text": " like לבש which means “dressing” and put it in the ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hispa’el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " binyan, it produces a verb that describes a circular action, eg “to dress oneself.”",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Advanced students can read ",
+        "type": "text"
+       },
+       {
+        "text": "more information about the _hispa’el_",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "more information about the ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "hispa’el",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "More information about the hispa’el",
+        "targetTopic": "Hispa’el",
+        "enclosingTopic": "Hispa’el",
+        "enclosingSubtopic": "Hispa’el"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "More information about the hispa’el": [
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Verbs in the ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hispa’el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " have the property of being ",
+        "type": "text"
+       },
+       {
+        "text": "reflexive",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "reflexive",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Reflexive",
+        "targetTopic": "Reflexive",
+        "enclosingTopic": "Hispa’el",
+        "enclosingSubtopic": "More information about the hispa’el"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hispa’el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " ",
+        "type": "text"
+       },
+       {
+        "text": "is one of the “heavy” binyanim due to its doubled middle letter",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "is one of the “heavy” binyanim due to its doubled middle letter",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Is one of the “heavy” binyanim due to its doubled middle letter",
+        "targetTopic": "Hispa’el",
+        "enclosingTopic": "Hispa’el",
+        "enclosingSubtopic": "More information about the hispa’el"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "In Mishnaic Hebrew, the ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hispa’el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " sometimes appears as the ",
+        "type": "text"
+       },
+       {
+        "text": "_nispa’el_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "nispa’el",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Nispa’el",
+        "targetTopic": "Nispa’el",
+        "enclosingTopic": "Hispa’el",
+        "enclosingSubtopic": "More information about the hispa’el"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hispa’el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " is one of the Hebrew binyanim that may correspond to the ",
+        "type": "text"
+       },
+       {
+        "text": "_ispa’al_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "ispa’al",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Ispa’al",
+        "targetTopic": "Ispa’al",
+        "enclosingTopic": "Hispa’el",
+        "enclosingSubtopic": "More information about the hispa’el"
+       },
+       {
+        "text": " in Aramaic.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hispa’el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " ",
+        "type": "text"
+       },
+       {
+        "text": "has various forms",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "has various forms",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Hispa’el Forms",
+        "targetTopic": "Hispa’el Forms",
+        "enclosingTopic": "Hispa’el",
+        "enclosingSubtopic": "More information about the hispa’el"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "There are ",
+        "type": "text"
+       },
+       {
+        "text": "_hispa’el_ forms for regular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "hispa’el",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " forms for regular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Hispa’el forms for regular shorushim",
+        "targetTopic": "Hispa’el forms for regular shorushim",
+        "enclosingTopic": "Hispa’el",
+        "enclosingSubtopic": "More information about the hispa’el"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "Is one of the “heavy” binyanim due to its doubled middle letter": [
+   {
+    "text": "Verbs in the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pi’el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " are called “heavy.” ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "This is because they are pronounced with a doubled middle letter.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "For example, the shoresh קדש when put in the ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pi’el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " produces the verb מְקַדֵּשׁ (",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "meka",
+          "type": "text"
+         },
+         {
+          "type": "bold",
+          "tokens": [
+           {
+            "text": "d’d",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": "esh",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ") “he is donating to the temple.”",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

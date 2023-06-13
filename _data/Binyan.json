@@ -9,7 +9,7 @@
  "paragraphsBySubtopic": {
   "Binyan": [
    {
-    "text": "\"Binyan\" is a grammatical concept in Hebrew and Aramaic that has no direct corollary in English. ",
+    "text": "“Binyan” is a grammatical concept in Hebrew and Aramaic that has no direct corollary in English. ",
     "type": "text"
    },
    {
@@ -19,7 +19,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "A verb is a ",
+        "text": "When you take a ",
         "type": "text"
        },
        {
@@ -37,7 +37,20 @@
         "enclosingSubtopic": "Binyan"
        },
        {
-        "text": " that is put into a particular binyan.",
+        "text": ", for example אכל, which represents “eating,” and put it into a certain “binyan,” it produces a verb, for example לְהַאֲכִיל (",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "l’ha’achil",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": "), which means “to feed.”",
         "type": "text"
        }
       ],
@@ -48,7 +61,71 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "A binyan functions ",
+        "text": "Other verbs that rhyme with לְהַאֲכִיל (",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "l’ha’achil",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ") will often also involve someone making someone else do something, because they are from the same “binyan.”",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Advanced students can ",
+        "type": "text"
+       },
+       {
+        "text": "learn more about the concept of binyan",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "learn more about the concept of binyan",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Learn more about the concept of binyan",
+        "targetTopic": "Binyan",
+        "enclosingTopic": "Binyan",
+        "enclosingSubtopic": "Binyan"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "Learn more about the concept of binyan": [
+   {
+    "text": "Here is additional explanation of the concept of “binyan”: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "A binyan is ",
         "type": "text"
        },
        {
@@ -63,7 +140,7 @@
         "targetSubtopic": "Like a flavor of the shoresh",
         "targetTopic": "Binyan",
         "enclosingTopic": "Binyan",
-        "enclosingSubtopic": "Binyan"
+        "enclosingSubtopic": "Learn more about the concept of binyan"
        },
        {
         "text": ".",
@@ -92,7 +169,7 @@
         "targetSubtopic": "Five basic types of action",
         "targetTopic": "Binyan",
         "enclosingTopic": "Binyan",
-        "enclosingSubtopic": "Binyan"
+        "enclosingSubtopic": "Learn more about the concept of binyan"
        },
        {
         "text": ".",
@@ -121,7 +198,7 @@
         "targetSubtopic": "Hebrew binyanim",
         "targetTopic": "Hebrew binyanim",
         "enclosingTopic": "Binyan",
-        "enclosingSubtopic": "Binyan"
+        "enclosingSubtopic": "Learn more about the concept of binyan"
        },
        {
         "text": " and ",
@@ -139,7 +216,7 @@
         "targetSubtopic": "Aramaic binyanim",
         "targetTopic": "Aramaic binyanim",
         "enclosingTopic": "Binyan",
-        "enclosingSubtopic": "Binyan"
+        "enclosingSubtopic": "Learn more about the concept of binyan"
        },
        {
         "text": ".",
@@ -168,7 +245,7 @@
         "targetSubtopic": "Nouns and adjectives that come from particular binyanim",
         "targetTopic": "Binyan",
         "enclosingTopic": "Binyan",
-        "enclosingSubtopic": "Binyan"
+        "enclosingSubtopic": "Learn more about the concept of binyan"
        },
        {
         "text": ".",
@@ -183,7 +260,7 @@
   ],
   "Like a flavor of the shoresh": [
    {
-    "text": "You can think of a binyan as being a \"flavor\" of meaning that gets mixed with the shoresh to produce different verbs. For example: ",
+    "text": "You can think of a binyan as being a “flavor” that gets mixed with the shoresh to produce different verbs. For example: ",
     "type": "text"
    },
    {
@@ -196,7 +273,7 @@
          "type": "bold",
          "tokens": [
           {
-           "text": "Shoresh",
+           "text": "The shoresh",
            "type": "text"
           }
          ]
@@ -209,7 +286,7 @@
          "type": "bold",
          "tokens": [
           {
-           "text": "Binyan",
+           "text": "Can be put in a binyan called",
            "type": "text"
           }
          ]
@@ -219,16 +296,26 @@
       {
        "tokens": [
         {
-         "text": "*Binyan Meaning*",
-         "type": "text"
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Which has a “flavor” of",
+           "type": "text"
+          }
+         ]
         }
        ]
       },
       {
        "tokens": [
         {
-         "text": "*Resulting Verb*",
-         "type": "text"
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "And produces the verb",
+           "type": "text"
+          }
+         ]
         }
        ]
       }
@@ -253,21 +340,21 @@
       {
        "tokens": [
         {
-         "text": "_hif'il_",
+         "text": "_hif’il_",
          "type": "global",
          "tokens": [
           {
            "type": "italics",
            "tokens": [
             {
-             "text": "hif'il",
+             "text": "hif’il",
              "type": "text"
             }
            ]
           }
          ],
-         "targetSubtopic": "Hif'il",
-         "targetTopic": "Hif'il",
+         "targetSubtopic": "Hif’il",
+         "targetTopic": "Hif’il",
          "enclosingTopic": "Binyan",
          "enclosingSubtopic": "Like a flavor of the shoresh"
         }
@@ -276,15 +363,7 @@
       {
        "tokens": [
         {
-         "text": "causing someone else",
-         "type": "text"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "text": " to do something",
+         "text": "causing someone else to do something",
          "type": "text"
         }
        ]
@@ -326,21 +405,21 @@
       {
        "tokens": [
         {
-         "text": "_pi'el_",
+         "text": "_pi’el_",
          "type": "global",
          "tokens": [
           {
            "type": "italics",
            "tokens": [
             {
-             "text": "pi'el",
+             "text": "pi’el",
              "type": "text"
             }
            ]
           }
          ],
-         "targetSubtopic": "Pi'el",
-         "targetTopic": "Pi'el",
+         "targetSubtopic": "Pi’el",
+         "targetTopic": "Pi’el",
          "enclosingTopic": "Binyan",
          "enclosingSubtopic": "Like a flavor of the shoresh"
         }
@@ -349,15 +428,7 @@
       {
        "tokens": [
         {
-         "text": "doing something",
-         "type": "text"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "text": " more intensely",
+         "text": "doing something more intensely",
          "type": "text"
         }
        ]
@@ -399,21 +470,21 @@
       {
        "tokens": [
         {
-         "text": "_nif'al_",
+         "text": "_nif’al_",
          "type": "global",
          "tokens": [
           {
            "type": "italics",
            "tokens": [
             {
-             "text": "nif'al",
+             "text": "nif’al",
              "type": "text"
             }
            ]
           }
          ],
-         "targetSubtopic": "Nif'al",
-         "targetTopic": "Nif'al",
+         "targetSubtopic": "Nif’al",
+         "targetTopic": "Nif’al",
          "enclosingTopic": "Binyan",
          "enclosingSubtopic": "Like a flavor of the shoresh"
         }
@@ -422,15 +493,7 @@
       {
        "tokens": [
         {
-         "text": "having something",
-         "type": "text"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "text": " done to you",
+         "text": "having something done to you",
          "type": "text"
         }
        ]
@@ -463,19 +526,19 @@
     ]
    },
    {
-    "text": " English by comparison ",
+    "text": " In English ",
     "type": "text"
    },
    {
-    "text": "uses alternative means to achieve the same effect",
+    "text": "we use alternative means to achieve the same effect",
     "type": "local",
     "tokens": [
      {
-      "text": "uses alternative means to achieve the same effect",
+      "text": "we use alternative means to achieve the same effect",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Uses alternative means to achieve the same effect",
+    "targetSubtopic": "We use alternative means to achieve the same effect",
     "targetTopic": "Binyan",
     "enclosingTopic": "Binyan",
     "enclosingSubtopic": "Like a flavor of the shoresh"
@@ -487,7 +550,7 @@
   ],
   "Five basic types of action": [
    {
-    "text": "There are five \"types\" of action that get combined to produce different binyanim: ",
+    "text": "There are five “types” of action that get combined to produce different binyanim: ",
     "type": "text"
    },
    {
@@ -661,69 +724,60 @@
     "type": "text"
    },
    {
-    "text": "_hif'il_",
+    "text": "_hif’il_",
     "type": "global",
     "tokens": [
      {
       "type": "italics",
       "tokens": [
        {
-        "text": "hif'il",
+        "text": "hif’il",
         "type": "text"
        }
       ]
      }
     ],
-    "targetSubtopic": "Hif'il",
-    "targetTopic": "Hif'il",
+    "targetSubtopic": "Hif’il",
+    "targetTopic": "Hif’il",
     "enclosingTopic": "Binyan",
     "enclosingSubtopic": "Five basic types of action"
    },
    {
-    "text": " is active, and causative.",
+    "text": " is “active,” and “causative.”",
     "type": "text"
    }
   ],
-  "Uses alternative means to achieve the same effect": [
+  "We use alternative means to achieve the same effect": [
    {
-    "text": "In English, we do not use \"binyan\" to produce families of related verbs. Rather, we ",
+    "text": "In English, we do not use “binyan” to produce families of related verbs. ",
     "type": "text"
    },
    {
-    "text": "make larger verbs out of multiple words",
-    "type": "local",
-    "tokens": [
+    "topLevelNodes": [
      {
-      "text": "make larger verbs out of multiple words",
-      "type": "text"
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Rather, in English you have one simple verb like “eat,” and then you add other words to form larger ideas like “he made someone eat,” or “he was eaten,” etc, whereas in Hebrew and Aramaic those permutations are baked into the verb itself.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Additionally, in English, words like “buy” and “sell” have no visual similarity, whereas in Hebrew and Aramaic, “to buy” (לִקְנוֹת) and “to sell” (לְהִיקָּנוֹת) would be “two binyans” of the same shoresh (קנה), and would share many of the same letters.",
+        "type": "text"
+       }
+      ],
+      "children": []
      }
     ],
-    "targetSubtopic": "Make larger verbs out of multiple words",
-    "targetTopic": "Binyan",
-    "enclosingTopic": "Binyan",
-    "enclosingSubtopic": "Uses alternative means to achieve the same effect"
-   },
-   {
-    "text": ", and ",
-    "type": "text"
-   },
-   {
-    "text": "use entirely separate words for related concepts",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "use entirely separate words for related concepts",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Use entirely separate words for related concepts",
-    "targetTopic": "Binyan",
-    "enclosingTopic": "Binyan",
-    "enclosingSubtopic": "Uses alternative means to achieve the same effect"
-   },
-   {
-    "text": ".",
-    "type": "text"
+    "type": "outline"
    }
   ],
   "Nouns and adjectives that come from particular binyanim": [
@@ -745,7 +799,7 @@
         "type": "italics",
         "tokens": [
          {
-          "text": "pi'el",
+          "text": "pi’el",
           "type": "text"
          }
         ]
@@ -758,7 +812,7 @@
         "type": "italics",
         "tokens": [
          {
-          "text": "pi'el",
+          "text": "pi’el",
           "type": "text"
          }
         ]
@@ -805,55 +859,7 @@
     "type": "outline"
    }
   ],
-  "Make larger verbs out of multiple words": [
-   {
-    "text": "In English, you have one simple verb like \"eat,\" and then you can add other words to form larger ideas like \"he made someone eat,\" or \"he was eaten,\" etc, whereas in Hebrew and Aramaic, all of these permutations will be entirely different one-word verbs with similar spellings because they are formed from the same ",
-    "type": "text"
-   },
-   {
-    "text": "shoresh",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "shoresh",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Shoresh",
-    "targetTopic": "Shoresh",
-    "enclosingTopic": "Binyan",
-    "enclosingSubtopic": "Make larger verbs out of multiple words"
-   },
-   {
-    "text": " root.",
-    "type": "text"
-   }
-  ],
-  "Use entirely separate words for related concepts": [
-   {
-    "text": "In English, words that have related meanings do not necessarily look similar. For example, you might have verbs like \"buy\" and \"sell\" that have related meanings but no visual similarity, whereas in Hebrew and Aramaic, a word like \"to buy\" (לִקְנוֹת) and word like \"to sell\" (לְהִיקָּנוֹת) would be verbs formed from two different binyans of the same ",
-    "type": "text"
-   },
-   {
-    "text": "shoresh",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "shoresh",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Shoresh",
-    "targetTopic": "Shoresh",
-    "enclosingTopic": "Binyan",
-    "enclosingSubtopic": "Use entirely separate words for related concepts"
-   },
-   {
-    "text": " קנה, and so will have a similar spelling.",
-    "type": "text"
-   }
-  ],
-  "A shoresh is put \"into\" a binyan to produce a word": [
+  "A shoresh is put “into” a binyan to produce a word": [
    {
     "text": "Whereas a ",
     "type": "text"
@@ -870,7 +876,7 @@
     "targetSubtopic": "Shoresh",
     "targetTopic": "Shoresh",
     "enclosingTopic": "Binyan",
-    "enclosingSubtopic": "A shoresh is put \"into\" a binyan to produce a word"
+    "enclosingSubtopic": "A shoresh is put “into” a binyan to produce a word"
    },
    {
     "text": " represents a vague and general category of meaning, putting that shoresh into a particular ",
@@ -886,7 +892,7 @@
     ]
    },
    {
-    "text": " would produce a more specific verb or adjective. For example, the shoresh אבל corresponds to the general idea of eating, whereas putting that shoresh into a particular binyan might produce the specific verbs לֶאֱכוֹל \"to eat,\" לְהַאֲכִיל \"to feed,\" or adjective אָכוּל \"eaten.\"",
+    "text": " would produce a more specific verb or adjective. For example, the shoresh אבל corresponds to the general idea of eating, whereas putting that shoresh into a particular binyan might produce the specific verbs לֶאֱכוֹל “to eat,” לְהַאֲכִיל “to feed,” or adjective אָכוּל “eaten.”",
     "type": "text"
    }
   ]

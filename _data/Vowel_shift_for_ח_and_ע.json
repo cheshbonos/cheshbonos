@@ -1,0 +1,251 @@
+{
+ "displayTopicName": "Vowel shift for ח and ע",
+ "topicTokens": [
+  {
+   "text": "Vowel shift for ח and ע",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Vowel shift for ח and ע": [
+   {
+    "text": "When ח or ע are after a vowel sound like “ei,” sometimes a second vowel sound “ah” is added. ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "For example, the ",
+        "type": "text"
+       },
+       {
+        "text": "_pa’al_ ongoing participle for regular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "pa’al",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " ongoing participle for regular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pa’al Ongoing Participle for Regular Shorushim",
+        "targetTopic": "Pa’al Ongoing Participle for Regular Shorushim",
+        "enclosingTopic": "Vowel shift for ח and ע",
+        "enclosingSubtopic": "Vowel shift for ח and ע"
+       },
+       {
+        "text": " has an “ei” vowel sound, eg כּוֹתֵב (",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "koseiv",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ", he is writing.)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "However, the ",
+        "type": "text"
+       },
+       {
+        "text": "pa’al ongoing participle for shorushim ending with ח or ע",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "pa’al ongoing participle for shorushim ending with ח or ע",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pa’al Ongoing Participle for shorushim ending with ח or ע",
+        "targetTopic": "Pa’al Ongoing Participle for shorushim ending with ח or ע",
+        "enclosingTopic": "Vowel shift for ח and ע",
+        "enclosingSubtopic": "Vowel shift for ח and ע"
+       },
+       {
+        "text": " has two vowel sounds, eg פּוֹתֵחַ (",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "posei-ach",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ", he is opening.)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Some linguists bring this as ",
+        "type": "text"
+       },
+       {
+        "text": "evidence for the shift of the pronunciation of these letters",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "evidence for the shift of the pronunciation of these letters",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Evidence for the shift of the pronunciation of these letters",
+        "targetTopic": "Vowel shift for ח and ע",
+        "enclosingTopic": "Vowel shift for ח and ע",
+        "enclosingSubtopic": "Vowel shift for ח and ע"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "Evidence for the shift of the pronunciation of these letters": [
+   {
+    "text": "Some linguists bring vowel changes for shorushim ending in ח or ע as evidence for a shift in their pronunciation: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "We generally pronounce ח like we do כ, and ע like we do א.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "However, some linguists point to the fact that “gutteral” letters like ח or ע receive an “extra” vowel sound (",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "po-say-ach",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " as opposed to, e.g. ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "kos-eiv",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ") as evidence that the original sounds of ח and ע were different from כ and א.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The real sound for a ח or ע might have been so low in the throat, that the jaw would need to open fully to pronounce them, causing the vowel shift from “ei” to “ah.”",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "This is as opposed to the כ or א letters which are similar to ח and ע but which are pronounced at the back of the mouth, without opening the throat, and can therefore accomidate an “ei” vowel, eg הוֹלֵךְ (",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "holeich",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ", [he] is walking), or בּוֹרֵא (",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "borei",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ", [he] is creating.)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

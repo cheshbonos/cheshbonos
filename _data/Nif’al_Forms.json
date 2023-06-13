@@ -1,0 +1,193 @@
+{
+ "displayTopicName": "Nif’al Forms",
+ "topicTokens": [
+  {
+   "text": "Nif’al Forms",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Nif’al Forms": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "text": "_nif’al_ binyan",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "nif’al",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " binyan",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Nif’al",
+    "targetTopic": "Nif’al",
+    "enclosingTopic": "Nif’al Forms",
+    "enclosingSubtopic": "Nif’al Forms"
+   },
+   {
+    "text": " has verb conjugations in various forms: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "_Nif’al_ Past Tense",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Nif’al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " Past Tense",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Nif’al Past Tense",
+         "targetTopic": "Nif’al Past Tense",
+         "enclosingTopic": "Nif’al Forms",
+         "enclosingSubtopic": "Nif’al Forms"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Nif’al_ Future Tense",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Nif’al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " Future Tense",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Nif’al Future Tense",
+         "targetTopic": "Nif’al Future Tense",
+         "enclosingTopic": "Nif’al Forms",
+         "enclosingSubtopic": "Nif’al Forms"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Nif’al_ Ongoing Participle",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Nif’al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " Ongoing Participle",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Nif’al Ongoing Participle",
+         "targetTopic": "Nif’al Ongoing Participle",
+         "enclosingTopic": "Nif’al Forms",
+         "enclosingSubtopic": "Nif’al Forms"
+        }
+       ],
+       "rowspan": 2
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "_Nif’al_ Imperative",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Nif’al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " Imperative",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Nif’al Imperative",
+         "targetTopic": "Nif’al Imperative",
+         "enclosingTopic": "Nif’al Forms",
+         "enclosingSubtopic": "Nif’al Forms"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Nif’al_ Infinitive",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Nif’al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " Infinitive",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Nif’al Infinitive",
+         "targetTopic": "Nif’al Infinitive",
+         "enclosingTopic": "Nif’al Forms",
+         "enclosingSubtopic": "Nif’al Forms"
+        }
+       ]
+      },
+      {
+       "tokens": [],
+       "merge": true
+      }
+     ]
+    ]
+   }
+  ]
+ }
+}

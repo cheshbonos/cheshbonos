@@ -1,0 +1,80 @@
+{
+ "displayTopicName": "Weak letters",
+ "topicTokens": [
+  {
+   "text": "Weak letters",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Weak letters": [
+   {
+    "text": "In Hebrew and Aramaic, some letters are considered “weak” in that it is not clear if they are part of a word’s ",
+    "type": "text"
+   },
+   {
+    "text": "shoresh",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "shoresh",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Shoresh",
+    "targetTopic": "Shoresh",
+    "enclosingTopic": "Weak letters",
+    "enclosingSubtopic": "Weak letters"
+   },
+   {
+    "text": " or whether they are added as vowels or part of a conjugation. Sometimes, weak letters act as consonants, and are pronounced strongly. ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The weak letters are ‎א, ‎ע, ‎ה, ‎ח, ‎י, ‎ו, and ‎נ.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Letters that are not weak are ",
+        "type": "text"
+       },
+       {
+        "text": "strong letters",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "strong letters",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Strong letters",
+        "targetTopic": "Strong letters",
+        "enclosingTopic": "Weak letters",
+        "enclosingSubtopic": "Weak letters"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

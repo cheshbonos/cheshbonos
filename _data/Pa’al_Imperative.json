@@ -1,0 +1,159 @@
+{
+ "displayTopicName": "_Pa’al_ Imperative",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Pa’al",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " Imperative",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Pa’al Imperative": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pa’al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " binyan has an ",
+    "type": "text"
+   },
+   {
+    "text": "imperative form",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "imperative form",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Imperative",
+    "targetTopic": "Imperative",
+    "enclosingTopic": "Pa’al Imperative",
+    "enclosingSubtopic": "Pa’al Imperative"
+   },
+   {
+    "text": ", which is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "forms of the _pa’al_ binyan.",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "forms of the ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pa’al",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " binyan.",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Pa’al Forms",
+    "targetTopic": "Pa’al Forms",
+    "enclosingTopic": "Pa’al Imperative",
+    "enclosingSubtopic": "Pa’al Imperative"
+   },
+   {
+    "text": " ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pa’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " imperative form has ",
+        "type": "text"
+       },
+       {
+        "text": "conjugations for regular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "conjugations for regular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pa’al Imperative for regular shorushim",
+        "targetTopic": "Pa’al Imperative for regular shorushim",
+        "enclosingTopic": "Pa’al Imperative",
+        "enclosingSubtopic": "Pa’al Imperative"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pa’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " imperative form has conjugations for irregular shorushim which will be added at a later time.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

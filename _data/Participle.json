@@ -1,0 +1,109 @@
+{
+ "displayTopicName": "Participle",
+ "topicTokens": [
+  {
+   "text": "Participle",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Participle": [
+   {
+    "text": "The participle is a category of verb form. ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "An example of a word in the participle is “burning” or “running.”",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Hebrew and Aramaic have ",
+        "type": "text"
+       },
+       {
+        "text": "an \"ongoing\" participle form",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "an \"ongoing\" participle form",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Ongoing Participle",
+        "targetTopic": "Ongoing Participle",
+        "enclosingTopic": "Participle",
+        "enclosingSubtopic": "Participle"
+       },
+       {
+        "text": " and ",
+        "type": "text"
+       },
+       {
+        "text": "a \"finished\" participle form",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "a \"finished\" participle form",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Finished Participle",
+        "targetTopic": "Finished Participle",
+        "enclosingTopic": "Participle",
+        "enclosingSubtopic": "Participle"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Unlike words in the past or future tense which can be used alone as full sentences, participle words are only meaningful when combined with other words in ",
+        "type": "text"
+       },
+       {
+        "text": "one of several \"participle constructions\"",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "one of several \"participle constructions\"",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Participle constructions",
+        "targetTopic": "Participle constructions",
+        "enclosingTopic": "Participle",
+        "enclosingSubtopic": "Participle"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

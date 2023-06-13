@@ -1,0 +1,130 @@
+{
+ "displayTopicName": "_Pu’al_ Infinitive",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Pu’al",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " Infinitive",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Pu’al Infinitive": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pu’al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " binyan shares ",
+    "type": "text"
+   },
+   {
+    "text": "an infinitive form with the _hif’il_ binyan",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "an infinitive form with the ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "hif’il",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " binyan",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Hif’il Infinitive",
+    "targetTopic": "Hif’il Infinitive",
+    "enclosingTopic": "Pu’al Infinitive",
+    "enclosingSubtopic": "Pu’al Infinitive"
+   },
+   {
+    "text": ". ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "This is because ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hufal",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " and ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hif’il",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " verbs are usually the same action, just differing as to whether the action is being done to someone else, or to oneself, and so they would be the same in the ",
+        "type": "text"
+       },
+       {
+        "text": "infinitive",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "infinitive",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Infinitive",
+        "targetTopic": "Infinitive",
+        "enclosingTopic": "Pu’al Infinitive",
+        "enclosingSubtopic": "Pu’al Infinitive"
+       },
+       {
+        "text": ", which isn’t conjugated to reflect who is doing the action.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

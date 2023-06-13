@@ -37,19 +37,30 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "The future tense generally describes a future action, but has ",
+        "text": "The future tense generally describes a future action.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "However, the future tense has ",
         "type": "text"
        },
        {
-        "text": "several uses",
+        "text": "several alternative uses",
         "type": "local",
         "tokens": [
          {
-          "text": "several uses",
+          "text": "several alternative uses",
           "type": "text"
          }
         ],
-        "targetSubtopic": "Several uses",
+        "targetSubtopic": "Several alternative uses",
         "targetTopic": "Future Tense",
         "enclosingTopic": "Future Tense",
         "enclosingSubtopic": "Future Tense"
@@ -65,7 +76,7 @@
     "type": "outline"
    }
   ],
-  "Several uses": [
+  "Several alternative uses": [
    {
     "text": "The future tense generally describes a future action, however: ",
     "type": "text"
@@ -92,36 +103,7 @@
         "targetSubtopic": "Can describe a command",
         "targetTopic": "Future Tense",
         "enclosingTopic": "Future Tense",
-        "enclosingSubtopic": "Several uses"
-       },
-       {
-        "text": ".",
-        "type": "text"
-       }
-      ],
-      "children": []
-     },
-     {
-      "ordinal": "-",
-      "ordered": false,
-      "tokensOfLine": [
-       {
-        "text": "The future tense ",
-        "type": "text"
-       },
-       {
-        "text": "can describe a prayer",
-        "type": "local",
-        "tokens": [
-         {
-          "text": "can describe a prayer",
-          "type": "text"
-         }
-        ],
-        "targetSubtopic": "Can describe a prayer",
-        "targetTopic": "Future Tense",
-        "enclosingTopic": "Future Tense",
-        "enclosingSubtopic": "Several uses"
+        "enclosingSubtopic": "Several alternative uses"
        },
        {
         "text": ".",
@@ -150,7 +132,36 @@
         "targetSubtopic": "Can describe a moral suggestion",
         "targetTopic": "Future Tense",
         "enclosingTopic": "Future Tense",
-        "enclosingSubtopic": "Several uses"
+        "enclosingSubtopic": "Several alternative uses"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The future tense ",
+        "type": "text"
+       },
+       {
+        "text": "can describe a prayer",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "can describe a prayer",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Can describe a prayer",
+        "targetTopic": "Future Tense",
+        "enclosingTopic": "Future Tense",
+        "enclosingSubtopic": "Several alternative uses"
        },
        {
         "text": ".",
@@ -175,7 +186,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "For example, תִּכְתֹּב ",
+        "text": "For example, תִּכְתֹּב (",
         "type": "text"
        },
        {
@@ -188,7 +199,7 @@
         ]
        },
        {
-        "text": " (lit. \"you will write\") can mean \"you ",
+        "text": ", literally “you will write,”) can mean “you ",
         "type": "text"
        },
        {
@@ -201,7 +212,7 @@
         ]
        },
        {
-        "text": " write.\"",
+        "text": " write.”",
         "type": "text"
        }
       ],
@@ -219,13 +230,13 @@
         "type": "italics",
         "tokens": [
          {
-          "text": "Chumash",
+          "text": "Torah",
           "type": "text"
          }
         ]
        },
        {
-        "text": " generally expresses positive commandments using the alternative ",
+        "text": " generally expresses positive commandments using the ",
         "type": "text"
        },
        {
@@ -243,7 +254,7 @@
         "enclosingSubtopic": "Can describe a command"
        },
        {
-        "text": ", but negative commandments are often expressed using the future tense, such as לֹא תִּרְצָח, \"thou shalt not kill.\"",
+        "text": ", but negative commandments are often expressed using the future tense, such as לֹא תִּרְצָח, “thou shalt not kill.”",
         "type": "text"
        }
       ],
@@ -278,7 +289,31 @@
         ]
        },
        {
-        "text": " (lit. \"Hashem will be compassionate\") can mean \"I pray Hashem will be compassionate.\"",
+        "text": " (literally “Hashem will be compassionate”) can mean “I pray Hashem will be compassionate.”",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "It may be that this usage is just an example of the former category of “moral suggestion,” i.e. the speaker may literally be saying “Hashem ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "should be",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " compassionate,” by which he means “I hope that Hashem is compassionate.”",
         "type": "text"
        }
       ],
@@ -307,13 +342,13 @@
         "type": "italics",
         "tokens": [
          {
-          "text": "ta'azoir",
+          "text": "ta’azoir",
           "type": "text"
          }
         ]
        },
        {
-        "text": " (lit. \"you will help\") can mean \"you should help.\"",
+        "text": " (lit. “you will help”) can mean “you should help.”",
         "type": "text"
        }
       ],

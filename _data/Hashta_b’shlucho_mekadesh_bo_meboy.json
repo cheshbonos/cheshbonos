@@ -1,0 +1,150 @@
+{
+ "displayTopicName": "Hashta b’shlucho mekadesh bo meboy",
+ "topicTokens": [
+  {
+   "text": "Hashta b’shlucho mekadesh bo meboy",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Hashta b’shlucho mekadesh bo meboy": [
+   {
+    "text": "The sugya of ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "hashta b’shlucho mekadesh bo meboy",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ", ",
+    "type": "text"
+   },
+   {
+    "text": "pictured here",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "pictured here",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Picture",
+    "targetTopic": "Hashta b’shlucho mekadesh bo meboy",
+    "enclosingTopic": "Hashta b’shlucho mekadesh bo meboy",
+    "enclosingSubtopic": "Hashta b’shlucho mekadesh bo meboy"
+   },
+   {
+    "text": ", can be ",
+    "type": "text"
+   },
+   {
+    "text": "learned inside",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "learned inside",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Full text",
+    "targetTopic": "Hashta b’shlucho mekadesh bo meboy",
+    "enclosingTopic": "Hashta b’shlucho mekadesh bo meboy",
+    "enclosingSubtopic": "Hashta b’shlucho mekadesh bo meboy"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Full text": [
+   {
+    "text": "Select a sentences below to learn more: ",
+    "type": "text"
+   },
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "גמ’ ",
+      "type": "text"
+     },
+     {
+      "text": "השתא בשלוחו מקדש בו מיבעיא",
+      "type": "global",
+      "tokens": [
+       {
+        "text": "השתא בשלוחו מקדש בו מיבעיא",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "השתא בשלוחו מקדש בו מיבעיא",
+      "targetTopic": "השתא בשלוחו מקדש בו מיבעיא",
+      "enclosingTopic": "Hashta b’shlucho mekadesh bo meboy",
+      "enclosingSubtopic": "Full text"
+     },
+     {
+      "text": " ",
+      "type": "text"
+     },
+     {
+      "text": "אמר\nרב יוסף מצוה בו יותר מבשלוחו",
+      "type": "global",
+      "tokens": [
+       {
+        "text": "אמר\nרב יוסף מצוה בו יותר מבשלוחו",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "אמר רב יוסף מצוה בו יותר מבשלוחו",
+      "targetTopic": "אמר רב יוסף מצוה בו יותר מבשלוחו",
+      "enclosingTopic": "Hashta b’shlucho mekadesh bo meboy",
+      "enclosingSubtopic": "Full text"
+     },
+     {
+      "text": " כי הא דרב\nספרא מחריך רישא רבא מלח שיבוטא\nאיכא דאמרי בהא איסורא נמי אית בה\nכדרב יהודה אמר רב דאמר רב יהודה\nאמר רב אסור לאדם שיקדש את האשה\nעד שיראנה שמא יראה בה דבר מגונה\nותתגנה עליו ורחמנא אמר ואהבת לרעך\nכמוך וכי איתמר דרב יוסף אסיפא איתמר\nהאשה מתקדשת בה ובשלוחה השתא\nבשלוחה מיקדשא בה מיבעיא אמר רב יוסף\nמצוה בה יותר מבשלוחה כי הא דרב ספרא\nמחריך רישא רבא מלח שיבוטא אבל בהא\nאיסורא לית בה כדר״ל דאמר ר״ל טב\nלמיתב טן דו מלמיתב ארמלו:",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   }
+  ],
+  "Picture": [
+   {
+    "text": "![Kiddushin 41a Vilna Edition](/",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "assets/dafim/Kiddushin",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": "41a",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "hashta",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": "bshlucho.png “Kiddushin 41a” “Kiddushin 41a Vilna Romm Edition 1880-86CE, courtesy of Sefaria.org”)",
+    "type": "text"
+   }
+  ]
+ }
+}

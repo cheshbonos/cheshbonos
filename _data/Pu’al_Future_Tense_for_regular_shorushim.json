@@ -1,0 +1,466 @@
+{
+ "displayTopicName": "_Pu’al_ Future Tense for regular shorushim",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Pu’al",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " Future Tense for regular shorushim",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Pu’al Future Tense for regular shorushim": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "text": "_pu’al_ future tense",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pu’al",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " future tense",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Pu’al Future Tense",
+    "targetTopic": "Pu’al Future Tense",
+    "enclosingTopic": "Pu’al Future Tense for regular shorushim",
+    "enclosingSubtopic": "Pu’al Future Tense for regular shorushim"
+   },
+   {
+    "text": " follows the following conjugations for ",
+    "type": "text"
+   },
+   {
+    "text": "regular shorushim",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "regular shorushim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Regular shorushim",
+    "targetTopic": "Regular shorushim",
+    "enclosingTopic": "Pu’al Future Tense for regular shorushim",
+    "enclosingSubtopic": "Pu’al Future Tense for regular shorushim"
+   },
+   {
+    "text": ": ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": []
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Singular",
+           "type": "text"
+          }
+         ]
+        }
+       ],
+       "colspan": 2
+      },
+      {
+       "tokens": [],
+       "merge": true
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Plural",
+           "type": "text"
+          }
+         ]
+        }
+       ],
+       "colspan": 2
+      },
+      {
+       "tokens": [],
+       "merge": true
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "First-Person",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "אֲזֻמַּן",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "azuman",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": "I will be invited",
+         "type": "text"
+        }
+       ],
+       "colspan": 2
+      },
+      {
+       "tokens": [],
+       "merge": true
+      },
+      {
+       "tokens": [
+        {
+         "text": "נְזֻמַּן",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "nezuman",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": "We will be invited",
+         "type": "text"
+        }
+       ],
+       "colspan": 2
+      },
+      {
+       "tokens": [],
+       "merge": true
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Second-Person",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "תְּזֻמַּן ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "tezuman",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " You [male] will be invited",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "תְּזֻמְּנִי ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "tezumni",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " You [female] will be invited",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "תְּזֻמְּנוּ ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "tezumnu",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " You [males] will be invited",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "תְּזֻמַּנָּה ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "tezumannau",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " You [females] will be invited",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Third-Person",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "יְזֻמַּן ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "yezuman",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " He will be invited",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "תְּזֻמַּן ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "tezuman",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " She will be invited",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "יְזֻמְּנוּ ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "yezumnu",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " [Those males] will be invited",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "תְּזֻמַּנָּה ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "tezumannau",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " [Those females] will be invited",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "text": " For any regular shoresh, you can replace the letters ‎ז, ‎מ, and ן above with the letters of your shoresh to produce the proper conjugations.",
+    "type": "text"
+   }
+  ]
+ }
+}

@@ -1,0 +1,119 @@
+{
+ "displayTopicName": "_Hispa’el_ Infinitive for regular shorushim",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Hispa’el",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " Infinitive for regular shorushim",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Hispa’el Infinitive for regular shorushim": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "text": "_Hispa’el_ infinitive form",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "Hispa’el",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " infinitive form",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Hispa’el Infinitive",
+    "targetTopic": "Hispa’el Infinitive",
+    "enclosingTopic": "Hispa’el Infinitive for regular shorushim",
+    "enclosingSubtopic": "Hispa’el Infinitive for regular shorushim"
+   },
+   {
+    "text": " has the following conjugation pattern for ",
+    "type": "text"
+   },
+   {
+    "text": "regular shorushim",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "regular shorushim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Regular shorushim",
+    "targetTopic": "Regular shorushim",
+    "enclosingTopic": "Hispa’el Infinitive for regular shorushim",
+    "enclosingSubtopic": "Hispa’el Infinitive for regular shorushim"
+   },
+   {
+    "text": ": ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "לְזַמֵּן ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "lezamein",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " to invite",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "text": " For any regular shoresh, you can replace the letters ‎ז, ‎מ, and ן above with the letters of your shoresh to produce the proper conjugation.",
+    "type": "text"
+   }
+  ]
+ }
+}

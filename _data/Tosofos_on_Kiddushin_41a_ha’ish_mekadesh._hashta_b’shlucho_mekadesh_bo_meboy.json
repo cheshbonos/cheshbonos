@@ -1,0 +1,36 @@
+{
+ "displayTopicName": "Tosofos on Kiddushin 41a _ha’ish mekadesh\\. hashta b’shlucho mekadesh bo meboy_",
+ "topicTokens": [
+  {
+   "text": "Tosofos on Kiddushin 41a ",
+   "type": "text"
+  },
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "ha’ish mekadesh. hashta b’shlucho mekadesh bo meboy",
+     "type": "text"
+    }
+   ]
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Tosofos on Kiddushin 41a ha’ish mekadesh. hashta b’shlucho mekadesh bo meboy": [
+   {
+    "text": "The first Tosofos on Kiddushin 41a reads: ",
+    "type": "text"
+   },
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "מתני’ האיש מקדש - השתא בשלוחו מקדש בו מיבעיא. ואין שייך לתרץ הכא לאו דוקא ור\"ל לא זו אף זו דלא שייך לשנויי הכי אלא בשתי בבות אבל בשתי תיבות לא",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   }
+  ]
+ }
+}

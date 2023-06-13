@@ -1,0 +1,442 @@
+{
+ "displayTopicName": "_Nif’al_ Past Tense for regular shorushim",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Nif’al",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " Past Tense for regular shorushim",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Nif’al Past Tense for regular shorushim": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "text": "_nif’al_ past tense",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "nif’al",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " past tense",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Nif’al Past Tense",
+    "targetTopic": "Nif’al Past Tense",
+    "enclosingTopic": "Nif’al Past Tense for regular shorushim",
+    "enclosingSubtopic": "Nif’al Past Tense for regular shorushim"
+   },
+   {
+    "text": " follows the following conjugations for ",
+    "type": "text"
+   },
+   {
+    "text": "regular shorushim",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "regular shorushim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Regular shorushim",
+    "targetTopic": "Regular shorushim",
+    "enclosingTopic": "Nif’al Past Tense for regular shorushim",
+    "enclosingSubtopic": "Nif’al Past Tense for regular shorushim"
+   },
+   {
+    "text": ": ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": []
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Singular",
+           "type": "text"
+          }
+         ]
+        }
+       ],
+       "colspan": 2
+      },
+      {
+       "tokens": [],
+       "merge": true
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Plural",
+           "type": "text"
+          }
+         ]
+        }
+       ],
+       "colspan": 2
+      },
+      {
+       "tokens": [],
+       "merge": true
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "First-Person",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "נִכְבַּשְׁתִּי",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "nichbashti",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": "I was conquered",
+         "type": "text"
+        }
+       ],
+       "colspan": 2
+      },
+      {
+       "tokens": [],
+       "merge": true
+      },
+      {
+       "tokens": [
+        {
+         "text": "נִכְבַּשְׁנוּ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "nichbashnu",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": "We were conquered",
+         "type": "text"
+        }
+       ],
+       "colspan": 2
+      },
+      {
+       "tokens": [],
+       "merge": true
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Second-Person",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "נִכְבַּשְׁתָּ ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "nichbashtau",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " You [male] were conquered",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "נִכְבַּשְׁתְּ ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "nichbasht",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " You [female] were conquered",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "נִכְבַּשְׁתֶּם ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "nichbashtem",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " You [males] were conquered",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "נִכְבַּשְׁתֶּן ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "nichbashten",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " You [females] were conquered",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Third-Person",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "נִכְבַּשׁ ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "nichbash",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " He was conquered",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "נִכְבְּשָׁה ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "nichbeshau",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " She was conquered",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "נִכְבְּשׁוּ ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "nichbeshu",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " They [male or female] were conquered",
+         "type": "text"
+        }
+       ],
+       "colspan": 2
+      },
+      {
+       "tokens": [],
+       "merge": true
+      }
+     ]
+    ]
+   },
+   {
+    "text": " For any regular shoresh, you can replace the letters ‎כ, ‎ב, and ש above with the letters of your shoresh to produce the proper conjugations.",
+    "type": "text"
+   }
+  ]
+ }
+}

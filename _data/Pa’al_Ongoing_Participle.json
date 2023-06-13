@@ -1,0 +1,333 @@
+{
+ "displayTopicName": "_Pa’al_ Ongoing Participle",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Pa’al",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " Ongoing Participle",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Pa’al Ongoing Participle": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pa’al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " has an ",
+    "type": "text"
+   },
+   {
+    "text": "ongoing participle form",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "ongoing participle form",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Ongoing Participle",
+    "targetTopic": "Ongoing Participle",
+    "enclosingTopic": "Pa’al Ongoing Participle",
+    "enclosingSubtopic": "Pa’al Ongoing Participle"
+   },
+   {
+    "text": ", which is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "forms of the _pa’al_ binyan",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "forms of the ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pa’al",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " binyan",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Pa’al Forms",
+    "targetTopic": "Pa’al Forms",
+    "enclosingTopic": "Pa’al Ongoing Participle",
+    "enclosingSubtopic": "Pa’al Ongoing Participle"
+   },
+   {
+    "text": ". ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pa’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " ongoing participle describes an ongoing action, as opposed to the ",
+        "type": "text"
+       },
+       {
+        "text": "_pa’al’s_ finished participle",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "pa’al’s",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " finished participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pa’al Finished Participle",
+        "targetTopic": "Pa’al Finished Participle",
+        "enclosingTopic": "Pa’al Ongoing Participle",
+        "enclosingSubtopic": "Pa’al Ongoing Participle"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "There are different patterns of conjugation for the ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pa’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " participle:",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "Regular shorushim <br> (in the _pa’al_ ongoing participle)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Regular shorushim ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "pa’al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " ongoing participle)",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Pa’al Ongoing Participle for Regular Shorushim",
+         "targetTopic": "Pa’al Ongoing Participle for Regular Shorushim",
+         "enclosingTopic": "Pa’al Ongoing Participle",
+         "enclosingSubtopic": "Pa’al Ongoing Participle"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Shorushim ending with ח or ע <br> (in the _pa’al_ ongoing participle)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Shorushim ending with ח or ע ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "pa’al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " ongoing participle)",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Pa’al Ongoing Participle for shorushim ending with ח or ע",
+         "targetTopic": "Pa’al Ongoing Participle for shorushim ending with ח or ע",
+         "enclosingTopic": "Pa’al Ongoing Participle",
+         "enclosingSubtopic": "Pa’al Ongoing Participle"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Shorushim with a middle ו <br> (in the _pa’al_ ongoing participle)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Shorushim with a middle ו ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "pa’al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " ongoing participle)",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Pa’al Ongoing Participle for shorushim with a middle ו",
+         "targetTopic": "Pa’al Ongoing Participle for shorushim with a middle ו",
+         "enclosingTopic": "Pa’al Ongoing Participle",
+         "enclosingSubtopic": "Pa’al Ongoing Participle"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Stative verbs <br> (in the _pa’al_ ongoing participle)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Stative verbs ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "pa’al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " ongoing participle)",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Pa’al ongoing participle for stative verbs",
+         "targetTopic": "Pa’al ongoing participle for stative verbs",
+         "enclosingTopic": "Pa’al Ongoing Participle",
+         "enclosingSubtopic": "Pa’al Ongoing Participle"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ]
+ }
+}

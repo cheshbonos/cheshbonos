@@ -9,14 +9,14 @@
  "paragraphsBySubtopic": {
   "Finished Participle": [
    {
-    "text": "The finished participle (sometimes called the ",
+    "text": "The finished participle (sometimes called the “passive participle,” or ",
     "type": "text"
    },
    {
     "type": "italics",
     "tokens": [
      {
-      "text": "pa'ul",
+      "text": "lashon pa’ul",
       "type": "text"
      }
     ]
@@ -32,7 +32,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Examples of finished participles include words like \"burnt\" or \"written.\"",
+        "text": "In English, an example of a “finished” participle is the word “written,” or the word “burnt.”",
         "type": "text"
        }
       ],
@@ -43,7 +43,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Finished participles are adjectives that are formed from verbs, like \"burnt\" from \"to burn.\"",
+        "text": "A finished participle represents the result of an action (eg “burnt”) as opposed to an ongoing action (eg “burning.”)",
         "type": "text"
        }
       ],
@@ -54,7 +54,76 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "The Hebrew passive participle looks like כָּתוּב (",
+        "text": "Students interested in grammar can read ",
+        "type": "text"
+       },
+       {
+        "text": "additional information about the finished participle",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "additional information about the finished participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Additional information about the finished participle",
+        "targetTopic": "Finished Participle",
+        "enclosingTopic": "Finished Participle",
+        "enclosingSubtopic": "Finished Participle"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "Additional information about the finished participle": [
+   {
+    "text": "Here is additional information about the finished participle: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Finished participles are adjectives that are formed from ",
+        "type": "text"
+       },
+       {
+        "text": "simple",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "simple",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Simple",
+        "targetTopic": "Simple",
+        "enclosingTopic": "Finished Participle",
+        "enclosingSubtopic": "Additional information about the finished participle"
+       },
+       {
+        "text": " verbs, for example “burnt” comes from the verb “to burn.”",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The finished participle in Hebrew looks like כָּתוּב (",
         "type": "text"
        },
        {
@@ -91,11 +160,11 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "The passive participle only exists in certain binyanim, namely ",
+        "text": "The finished participle only exists in certain binyanim, namely ",
         "type": "text"
        },
        {
-        "text": "the Hebrew _pa'al_",
+        "text": "the Hebrew _pa’al_",
         "type": "global",
         "tokens": [
          {
@@ -106,34 +175,34 @@
           "type": "italics",
           "tokens": [
            {
-            "text": "pa'al",
+            "text": "pa’al",
             "type": "text"
            }
           ]
          }
         ],
-        "targetSubtopic": "Pa'al",
-        "targetTopic": "Pa'al",
+        "targetSubtopic": "Pa’al",
+        "targetTopic": "Pa’al",
         "enclosingTopic": "Finished Participle",
-        "enclosingSubtopic": "Finished Participle"
+        "enclosingSubtopic": "Additional information about the finished participle"
        },
        {
         "text": " and ",
         "type": "text"
        },
        {
-        "text": "the Aramaic pe'al",
+        "text": "the Aramaic pe’al",
         "type": "global",
         "tokens": [
          {
-          "text": "the Aramaic pe'al",
+          "text": "the Aramaic pe’al",
           "type": "text"
          }
         ],
-        "targetSubtopic": "Pe'al",
-        "targetTopic": "Pe'al",
+        "targetSubtopic": "Pe’al",
+        "targetTopic": "Pe’al",
         "enclosingTopic": "Finished Participle",
-        "enclosingSubtopic": "Finished Participle"
+        "enclosingSubtopic": "Additional information about the finished participle"
        },
        {
         "text": ".",
@@ -151,27 +220,27 @@
         "type": "text"
        },
        {
-        "text": "differences in meaning between the passive participle and the passive binyanim like _nif'al_",
+        "text": "differences in meaning between the finished participle and the passive binyanim like _nif’al_",
         "type": "local",
         "tokens": [
          {
-          "text": "differences in meaning between the passive participle and the passive binyanim like ",
+          "text": "differences in meaning between the finished participle and the passive binyanim like ",
           "type": "text"
          },
          {
           "type": "italics",
           "tokens": [
            {
-            "text": "nif'al",
+            "text": "nif’al",
             "type": "text"
            }
           ]
          }
         ],
-        "targetSubtopic": "Differences in meaning between the passive participle and the passive binyanim like nif'al",
+        "targetSubtopic": "Differences in meaning between the finished participle and the passive binyanim like nif’al",
         "targetTopic": "Finished Participle",
         "enclosingTopic": "Finished Participle",
-        "enclosingSubtopic": "Finished Participle"
+        "enclosingSubtopic": "Additional information about the finished participle"
        },
        {
         "text": ".",
@@ -200,25 +269,25 @@
         "targetSubtopic": "Ongoing Participle",
         "targetTopic": "Ongoing Participle",
         "enclosingTopic": "Finished Participle",
-        "enclosingSubtopic": "Finished Participle"
+        "enclosingSubtopic": "Additional information about the finished participle"
        },
        {
-        "text": ", the passive participle only has meaning in one of several ",
+        "text": ", the finished participle only has meaning in ",
         "type": "text"
        },
        {
-        "text": "constructions",
+        "text": "one of several \"participle constructions\"",
         "type": "global",
         "tokens": [
          {
-          "text": "constructions",
+          "text": "one of several \"participle constructions\"",
           "type": "text"
          }
         ],
         "targetSubtopic": "Participle constructions",
         "targetTopic": "Participle constructions",
         "enclosingTopic": "Finished Participle",
-        "enclosingSubtopic": "Finished Participle"
+        "enclosingSubtopic": "Additional information about the finished participle"
        },
        {
         "text": ".",
@@ -231,9 +300,27 @@
     "type": "outline"
    }
   ],
-  "Differences in meaning between the passive participle and the passive binyanim like nif'al": [
+  "Differences in meaning between the finished participle and the passive binyanim like nif’al": [
    {
-    "text": "There are differences in meaning between the passive participle and the passive binyanim: ",
+    "text": "Many students confuse the finished participle and ",
+    "type": "text"
+   },
+   {
+    "text": "the passive binyanim of Hebrew and Aramaic",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "the passive binyanim of Hebrew and Aramaic",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Passive binyanim",
+    "targetTopic": "Passive binyanim",
+    "enclosingTopic": "Finished Participle",
+    "enclosingSubtopic": "Differences in meaning between the finished participle and the passive binyanim like nif’al"
+   },
+   {
+    "text": ": ",
     "type": "text"
    },
    {
@@ -258,7 +345,7 @@
         "targetSubtopic": "Simple",
         "targetTopic": "Simple",
         "enclosingTopic": "Finished Participle",
-        "enclosingSubtopic": "Differences in meaning between the passive participle and the passive binyanim like nif'al"
+        "enclosingSubtopic": "Differences in meaning between the finished participle and the passive binyanim like nif’al"
        },
        {
         "text": " ",
@@ -276,14 +363,14 @@
         "targetSubtopic": "Passive",
         "targetTopic": "Passive",
         "enclosingTopic": "Finished Participle",
-        "enclosingSubtopic": "Differences in meaning between the passive participle and the passive binyanim like nif'al"
+        "enclosingSubtopic": "Differences in meaning between the finished participle and the passive binyanim like nif’al"
        },
        {
         "text": " binyanim i.e. ",
         "type": "text"
        },
        {
-        "text": "the Hebrew _nif'al_",
+        "text": "the Hebrew _nif’al_",
         "type": "global",
         "tokens": [
          {
@@ -294,23 +381,23 @@
           "type": "italics",
           "tokens": [
            {
-            "text": "nif'al",
+            "text": "nif’al",
             "type": "text"
            }
           ]
          }
         ],
-        "targetSubtopic": "Nif'al",
-        "targetTopic": "Nif'al",
+        "targetSubtopic": "Nif’al",
+        "targetTopic": "Nif’al",
         "enclosingTopic": "Finished Participle",
-        "enclosingSubtopic": "Differences in meaning between the passive participle and the passive binyanim like nif'al"
+        "enclosingSubtopic": "Differences in meaning between the finished participle and the passive binyanim like nif’al"
        },
        {
         "text": " and ",
         "type": "text"
        },
        {
-        "text": "the Aramaic _ispe'el_",
+        "text": "the Aramaic _ispe’el_",
         "type": "global",
         "tokens": [
          {
@@ -321,19 +408,19 @@
           "type": "italics",
           "tokens": [
            {
-            "text": "ispe'el",
+            "text": "ispe’el",
             "type": "text"
            }
           ]
          }
         ],
-        "targetSubtopic": "Ispe'el",
-        "targetTopic": "Ispe'el",
+        "targetSubtopic": "Ispe’el",
+        "targetTopic": "Ispe’el",
         "enclosingTopic": "Finished Participle",
-        "enclosingSubtopic": "Differences in meaning between the passive participle and the passive binyanim like nif'al"
+        "enclosingSubtopic": "Differences in meaning between the finished participle and the passive binyanim like nif’al"
        },
        {
-        "text": " represent an ongoing action e.g. \"it is ",
+        "text": " represent an ongoing action being done to the subject e.g. “it is ",
         "type": "text"
        },
        {
@@ -346,7 +433,7 @@
         ]
        },
        {
-        "text": " written\" or \"it is ",
+        "text": " written” or “it is ",
         "type": "text"
        },
        {
@@ -359,7 +446,7 @@
         ]
        },
        {
-        "text": " written.\"",
+        "text": " written upon.”",
         "type": "text"
        }
       ],
@@ -370,7 +457,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "The passive participle by contrast would mean \"it is written,\" without a connection to an ongoing action.",
+        "text": "The finished participle by contrast would mean “it is written,” without a connection to an ongoing action.",
         "type": "text"
        }
       ],

@@ -1,0 +1,142 @@
+{
+ "displayTopicName": "_Pi’el_ Ongoing Participle",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Pi’el",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " Ongoing Participle",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Pi’el Ongoing Participle": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "text": "_pi’el_ binyan",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pi’el",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " binyan",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Pi’el",
+    "targetTopic": "Pi’el",
+    "enclosingTopic": "Pi’el Ongoing Participle",
+    "enclosingSubtopic": "Pi’el Ongoing Participle"
+   },
+   {
+    "text": " has an ",
+    "type": "text"
+   },
+   {
+    "text": "ongoing participle form",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "ongoing participle form",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Ongoing Participle",
+    "targetTopic": "Ongoing Participle",
+    "enclosingTopic": "Pi’el Ongoing Participle",
+    "enclosingSubtopic": "Pi’el Ongoing Participle"
+   },
+   {
+    "text": ". ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pi'el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " ongoing participle has ",
+        "type": "text"
+       },
+       {
+        "text": "conjugations for regular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "conjugations for regular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pi’el Ongoing Participle for Regular Shorushim",
+        "targetTopic": "Pi’el Ongoing Participle for Regular Shorushim",
+        "enclosingTopic": "Pi’el Ongoing Participle",
+        "enclosingSubtopic": "Pi’el Ongoing Participle"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pi'el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " ongoing participle has conjugations for irregular shorushim that will be added at a later time.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

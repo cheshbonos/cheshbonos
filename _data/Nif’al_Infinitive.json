@@ -1,0 +1,146 @@
+{
+ "displayTopicName": "_Nif’al_ Infinitive",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Nif’al",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " Infinitive",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Nif’al Infinitive": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "nif’al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " has an ",
+    "type": "text"
+   },
+   {
+    "text": "infinitive form",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "infinitive form",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Infinitive",
+    "targetTopic": "Infinitive",
+    "enclosingTopic": "Nif’al Infinitive",
+    "enclosingSubtopic": "Nif’al Infinitive"
+   },
+   {
+    "text": " which is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "forms of the nif’al binyan",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "forms of the nif’al binyan",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Nif’al Forms",
+    "targetTopic": "Nif’al Forms",
+    "enclosingTopic": "Nif’al Infinitive",
+    "enclosingSubtopic": "Nif’al Infinitive"
+   },
+   {
+    "text": ". ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "nif'al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " has ",
+        "type": "text"
+       },
+       {
+        "text": "conjugations for regular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "conjugations for regular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Nif’al Infinitive for regular shorushim",
+        "targetTopic": "Nif’al Infinitive for regular shorushim",
+        "enclosingTopic": "Nif’al Infinitive",
+        "enclosingSubtopic": "Nif’al Infinitive"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "nif'al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " has conjugations for irregular shorushim which will be added at a later time.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

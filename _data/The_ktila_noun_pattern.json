@@ -76,42 +76,44 @@
       {
        "tokens": [
         {
-         "text": "*",
-         "type": "text"
-        },
-        {
-         "type": "italics",
+         "type": "bold",
          "tokens": [
           {
-           "text": "Pa'al",
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Pa’al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " verb",
            "type": "text"
           }
          ]
-        },
-        {
-         "text": " verb*",
-         "type": "text"
         }
        ]
       },
       {
        "tokens": [
         {
-         "text": "*",
-         "type": "text"
-        },
-        {
-         "type": "italics",
+         "type": "bold",
          "tokens": [
           {
-           "text": "Haktala",
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Haktala",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " Noun",
            "type": "text"
           }
          ]
-        },
-        {
-         "text": " Noun*",
-         "type": "text"
         }
        ]
       }
@@ -412,7 +414,7 @@
     "type": "text"
    },
    {
-    "text": "noun patterns that come from _pa'al_ verbs",
+    "text": "noun patterns that come from _pa’al_ verbs",
     "type": "global",
     "tokens": [
      {
@@ -423,7 +425,7 @@
       "type": "italics",
       "tokens": [
        {
-        "text": "pa'al",
+        "text": "pa’al",
         "type": "text"
        }
       ]
@@ -433,8 +435,8 @@
       "type": "text"
      }
     ],
-    "targetSubtopic": "Noun patterns that come from Pa'al verbs",
-    "targetTopic": "Noun patterns that come from Pa'al verbs",
+    "targetSubtopic": "Noun patterns that come from Pa’al verbs",
+    "targetTopic": "Noun patterns that come from Pa’al verbs",
     "enclosingTopic": "The ktila noun pattern",
     "enclosingSubtopic": "The ktila noun pattern"
    },

@@ -1,0 +1,155 @@
+{
+ "displayTopicName": "_Pa’al_ Infinitive",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Pa’al",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " Infinitive",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Pa’al Infinitive": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pa’al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " binyan has an ",
+    "type": "text"
+   },
+   {
+    "text": "infinitive form",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "infinitive form",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Infinitive",
+    "targetTopic": "Infinitive",
+    "enclosingTopic": "Pa’al Infinitive",
+    "enclosingSubtopic": "Pa’al Infinitive"
+   },
+   {
+    "text": ", which is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "forms of the _pa’al_ binyan.",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "forms of the ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pa’al",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " binyan.",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Pa’al Forms",
+    "targetTopic": "Pa’al Forms",
+    "enclosingTopic": "Pa’al Infinitive",
+    "enclosingSubtopic": "Pa’al Infinitive"
+   },
+   {
+    "text": " ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "There is a ",
+        "type": "text"
+       },
+       {
+        "text": "_pa’al_ infinitive  form for regular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "pa’al",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " infinitive  form for regular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pa’al Infinitive for regular shorushim",
+        "targetTopic": "Pa’al Infinitive for regular shorushim",
+        "enclosingTopic": "Pa’al Infinitive",
+        "enclosingSubtopic": "Pa’al Infinitive"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "There are ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pa’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " infinitive forms for irregular shorushim which will be added at a later time.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

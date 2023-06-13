@@ -73,15 +73,15 @@
     "type": "text"
    },
    {
-    "text": "\"inside\"",
+    "text": "“inside”",
     "type": "local",
     "tokens": [
      {
-      "text": "\"inside\"",
+      "text": "“inside”",
       "type": "text"
      }
     ],
-    "targetSubtopic": "\"inside\"",
+    "targetSubtopic": "“inside”",
     "targetTopic": "The prefix ב",
     "enclosingTopic": "The prefix ב",
     "enclosingSubtopic": "Meanings"
@@ -91,15 +91,15 @@
     "type": "text"
    },
    {
-    "text": "\"with\"",
+    "text": "“with”",
     "type": "local",
     "tokens": [
      {
-      "text": "\"with\"",
+      "text": "“with”",
       "type": "text"
      }
     ],
-    "targetSubtopic": "\"with\"",
+    "targetSubtopic": "“with”",
     "targetTopic": "The prefix ב",
     "enclosingTopic": "The prefix ב",
     "enclosingSubtopic": "Meanings"
@@ -109,15 +109,15 @@
     "type": "text"
    },
    {
-    "text": "\"by\" or \"via\"",
+    "text": "“by” or “via”",
     "type": "local",
     "tokens": [
      {
-      "text": "\"by\" or \"via\"",
+      "text": "“by” or “via”",
       "type": "text"
      }
     ],
-    "targetSubtopic": "\"by\" or \"via\"",
+    "targetSubtopic": "“by” or “via”",
     "targetTopic": "The prefix ב",
     "enclosingTopic": "The prefix ב",
     "enclosingSubtopic": "Meanings"
@@ -127,15 +127,15 @@
     "type": "text"
    },
    {
-    "text": "\"on\"",
+    "text": "“on”",
     "type": "local",
     "tokens": [
      {
-      "text": "\"on\"",
+      "text": "“on”",
       "type": "text"
      }
     ],
-    "targetSubtopic": "\"on\"",
+    "targetSubtopic": "“on”",
     "targetTopic": "The prefix ב",
     "enclosingTopic": "The prefix ב",
     "enclosingSubtopic": "Meanings"
@@ -145,15 +145,15 @@
     "type": "text"
    },
    {
-    "text": "\"because of\"",
+    "text": "“because of”",
     "type": "local",
     "tokens": [
      {
-      "text": "\"because of\"",
+      "text": "“because of”",
       "type": "text"
      }
     ],
-    "targetSubtopic": "\"because of\"",
+    "targetSubtopic": "“because of”",
     "targetTopic": "The prefix ב",
     "enclosingTopic": "The prefix ב",
     "enclosingSubtopic": "Meanings"
@@ -163,15 +163,15 @@
     "type": "text"
    },
    {
-    "text": "\"using\"",
+    "text": "“using”",
     "type": "local",
     "tokens": [
      {
-      "text": "\"using\"",
+      "text": "“using”",
       "type": "text"
      }
     ],
-    "targetSubtopic": "\"using\"",
+    "targetSubtopic": "“using”",
     "targetTopic": "The prefix ב",
     "enclosingTopic": "The prefix ב",
     "enclosingSubtopic": "Meanings"
@@ -181,15 +181,15 @@
     "type": "text"
    },
    {
-    "text": "\"at the time of\"",
+    "text": "“at the time of”",
     "type": "local",
     "tokens": [
      {
-      "text": "\"at the time of\"",
+      "text": "“at the time of”",
       "type": "text"
      }
     ],
-    "targetSubtopic": "\"at the time of\"",
+    "targetSubtopic": "“at the time of”",
     "targetTopic": "The prefix ב",
     "enclosingTopic": "The prefix ב",
     "enclosingSubtopic": "Meanings"
@@ -199,28 +199,41 @@
     "type": "text"
    }
   ],
-  "\"inside\"": [
+  "“inside”": [
    {
-    "text": "The prefix ב can be short for the word בתוך meaning \"inside,\" for example *ב*בית, \"",
+    "text": "The prefix ב can be short for the word בתוך meaning “inside,” for example ",
     "type": "text"
    },
    {
     "type": "bold",
     "tokens": [
      {
-      "text": "in",
+      "text": "ב",
       "type": "text"
      }
     ]
    },
    {
-    "text": " the house.\"",
+    "text": "בית, “*in* the house.”",
     "type": "text"
    }
   ],
-  "\"with\"": [
+  "“with”": [
    {
-    "text": "The prefix ב can mean something that is \"with\" something else, eg הוא בא *ב*חברו, \"he came ",
+    "text": "The prefix ב can mean something that is “with” something else, eg הוא בא ",
+    "type": "text"
+   },
+   {
+    "type": "bold",
+    "tokens": [
+     {
+      "text": "ב",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": "חברו, “he came ",
     "type": "text"
    },
    {
@@ -233,13 +246,13 @@
     ]
    },
    {
-    "text": " his friends\"",
+    "text": " his friends”",
     "type": "text"
    }
   ],
-  "\"by\" or \"via\"": [
+  "“by” or “via”": [
    {
-    "text": "The prefix ב can mean doing something \"by\" or \"via\" a certain method, eg: ",
+    "text": "The prefix ב can mean doing something “by” or “via” a certain method, eg: ",
     "type": "text"
    },
    {
@@ -249,7 +262,20 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "הוא עושה כן *ב*שליח - \"he did it ",
+        "text": "הוא עושה כן ",
+        "type": "text"
+       },
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "ב",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": "שליח - “he did it ",
         "type": "text"
        },
        {
@@ -262,7 +288,7 @@
         ]
        },
        {
-        "text": " his messenger\"",
+        "text": " his messenger”",
         "type": "text"
        }
       ],
@@ -273,7 +299,20 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "הוא בא *ב*חמור - \"he came ",
+        "text": "הוא בא ",
+        "type": "text"
+       },
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "ב",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": "חמור - “he came ",
         "type": "text"
        },
        {
@@ -286,7 +325,7 @@
         ]
        },
        {
-        "text": " donkey.\"",
+        "text": " donkey.”",
         "type": "text"
        }
       ],
@@ -296,27 +335,79 @@
     "type": "outline"
    }
   ],
-  "\"on\"": [
+  "“on”": [
    {
-    "text": "The prefix ב can mean something that is on top of something else, eg *ב*שלחן, \"on the table\"",
+    "text": "The prefix ב can mean something that is on top of something else, eg ",
+    "type": "text"
+   },
+   {
+    "type": "bold",
+    "tokens": [
+     {
+      "text": "ב",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": "שלחן, “on the table”",
     "type": "text"
    }
   ],
-  "\"because of\"": [
+  "“because of”": [
    {
-    "text": "The prefix ב can be short for the word בשביל meaning \"because of\", eg הוא בא *ב*ך, \"he came for you.\"",
+    "text": "The prefix ב can be short for the word בשביל meaning “because of”, eg הוא בא ",
+    "type": "text"
+   },
+   {
+    "type": "bold",
+    "tokens": [
+     {
+      "text": "ב",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": "ך, “he came for you.”",
     "type": "text"
    }
   ],
-  "\"using\"": [
+  "“using”": [
    {
-    "text": "The prefix ב can mean \"using\" eg הוא חותך *ב*סכין \"he cuts using a knife.\"",
+    "text": "The prefix ב can mean “using” eg הוא חותך ",
+    "type": "text"
+   },
+   {
+    "type": "bold",
+    "tokens": [
+     {
+      "text": "ב",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": "סכין “he cuts using a knife.”",
     "type": "text"
    }
   ],
-  "\"at the time of\"": [
+  "“at the time of”": [
    {
-    "text": "The prefix ב can mean \"at\" a certain time eg הוא הגיע *ב*צהריים \"he came ",
+    "text": "The prefix ב can mean “at” a certain time eg הוא הגיע ",
+    "type": "text"
+   },
+   {
+    "type": "bold",
+    "tokens": [
+     {
+      "text": "ב",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": "צהריים “he came ",
     "type": "text"
    },
    {
@@ -329,13 +420,26 @@
     ]
    },
    {
-    "text": " noon.\"",
+    "text": " noon.”",
     "type": "text"
    }
   ],
   "Followed by a noun": [
    {
-    "text": "The prefix ב can be followed by a noun, for example, \"*ב*בית\", which is the prefix ב followed by the noun בית ie \"house,\" which together means \"in a house\" or \"in the house.\"",
+    "text": "The prefix ב can be followed by a noun, for example, “",
+    "type": "text"
+   },
+   {
+    "type": "bold",
+    "tokens": [
+     {
+      "text": "ב",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": "בית”, which is the prefix ב followed by the noun בית ie “house,” which together means “in a house” or “in the house.”",
     "type": "text"
    }
   ],
@@ -351,8 +455,17 @@
       {
        "tokens": [
         {
-         "text": "‎ *ב with suffix*",
+         "text": "‎ ",
          "type": "text"
+        },
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "ב with suffix",
+           "type": "text"
+          }
+         ]
         }
        ]
       },
@@ -385,8 +498,13 @@
       {
        "tokens": [
         {
-         "text": "*Example meaning*",
-         "type": "text"
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Example meaning",
+           "type": "text"
+          }
+         ]
         }
        ]
       }
@@ -828,7 +946,7 @@
       "superscript": "1",
       "tokens": [
        {
-        "text": " This table translates ב as \"with,\" but each of these words can also mean \"on,\" \"in,\" \"with\", \"via,\" etc.",
+        "text": " This table translates ב as “with,” but each of these words can also mean “on,” “in,” “with”, “via,” etc.",
         "type": "text"
        }
       ]

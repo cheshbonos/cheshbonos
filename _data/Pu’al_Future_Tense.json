@@ -1,0 +1,110 @@
+{
+ "displayTopicName": "_Pu’al_ Future Tense",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Pu’al",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " Future Tense",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Pu’al Future Tense": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pu’al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " binyan has a future tense. ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pu’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " future tense has ",
+        "type": "text"
+       },
+       {
+        "text": "conjugations for regular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "conjugations for regular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pu’al Future Tense for regular shorushim",
+        "targetTopic": "Pu’al Future Tense for regular shorushim",
+        "enclosingTopic": "Pu’al Future Tense",
+        "enclosingSubtopic": "Pu’al Future Tense"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pu’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " future tense has conjugations for irregular shorushim which will be added at a later time.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

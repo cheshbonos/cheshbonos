@@ -9,7 +9,7 @@
  "paragraphsBySubtopic": {
   "Imperative": [
    {
-    "text": "The imperative, also known as \"the command form,\" is one of the ",
+    "text": "The imperative, also known as “the command form,” is one of the ",
     "type": "text"
    },
    {
@@ -27,8 +27,35 @@
     "enclosingSubtopic": "Imperative"
    },
    {
-    "text": ".",
+    "text": ". ",
     "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "An example of an imperative in English is “run!”",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The imperative describes an action that the speaker is telling the listener to do.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
    }
   ]
  }

@@ -1,0 +1,179 @@
+{
+ "displayTopicName": "Pi’el Forms",
+ "topicTokens": [
+  {
+   "text": "Pi’el Forms",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Pi’el Forms": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pi’el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " binyan has verb conjugations in various forms: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "_Pi’el_ Past Tense",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Pi’el",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " Past Tense",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Pi’el Past Tense",
+         "targetTopic": "Pi’el Past Tense",
+         "enclosingTopic": "Pi’el Forms",
+         "enclosingSubtopic": "Pi’el Forms"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Pi’el_ Future Tense",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Pi’el",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " Future Tense",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Pi’el Future Tense",
+         "targetTopic": "Pi’el Future Tense",
+         "enclosingTopic": "Pi’el Forms",
+         "enclosingSubtopic": "Pi’el Forms"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Pi’el_ Ongoing Participle",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Pi’el",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " Ongoing Participle",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Pi’el Ongoing Participle",
+         "targetTopic": "Pi’el Ongoing Participle",
+         "enclosingTopic": "Pi’el Forms",
+         "enclosingSubtopic": "Pi’el Forms"
+        }
+       ],
+       "rowspan": 2
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "_Pi’el_ Imperative",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Pi’el",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " Imperative",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Pi’el Imperative",
+         "targetTopic": "Pi’el Imperative",
+         "enclosingTopic": "Pi’el Forms",
+         "enclosingSubtopic": "Pi’el Forms"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Pi’el_ Infinitive",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Pi’el",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " Infinitive",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Pi’el Infinitive",
+         "targetTopic": "Pi’el Infinitive",
+         "enclosingTopic": "Pi’el Forms",
+         "enclosingSubtopic": "Pi’el Forms"
+        }
+       ]
+      },
+      {
+       "tokens": [],
+       "merge": true
+      }
+     ]
+    ]
+   }
+  ]
+ }
+}

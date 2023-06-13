@@ -1,0 +1,157 @@
+{
+ "displayTopicName": "Huf’al Forms",
+ "topicTokens": [
+  {
+   "text": "Huf’al Forms",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Huf’al Forms": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "Huf’al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " binyan has verb conjugations in various forms: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "_Huf’al_ Past Tense",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Huf’al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " Past Tense",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Huf’al Past Tense",
+         "targetTopic": "Huf’al Past Tense",
+         "enclosingTopic": "Huf’al Forms",
+         "enclosingSubtopic": "Huf’al Forms"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Huf’al_ Future Tense",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Huf’al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " Future Tense",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Huf’al Future Tense",
+         "targetTopic": "Huf’al Future Tense",
+         "enclosingTopic": "Huf’al Forms",
+         "enclosingSubtopic": "Huf’al Forms"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Huf’al_ Ongoing Participle",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Huf’al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " Ongoing Participle",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Huf’al Ongoing Participle",
+         "targetTopic": "Huf’al Ongoing Participle",
+         "enclosingTopic": "Huf’al Forms",
+         "enclosingSubtopic": "Huf’al Forms"
+        }
+       ],
+       "rowspan": 2
+      }
+     ],
+     [
+      {
+       "tokens": [],
+       "merge": true
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Huf’al_ Infinitive",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Huf’al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " Infinitive",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Huf’al Infinitive",
+         "targetTopic": "Huf’al Infinitive",
+         "enclosingTopic": "Huf’al Forms",
+         "enclosingSubtopic": "Huf’al Forms"
+        }
+       ],
+       "colspan": 2
+      },
+      {
+       "tokens": [],
+       "merge": true
+      }
+     ]
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,163 @@
+{
+ "displayTopicName": "_Huf’al_ forms for regular shorushim",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Huf’al",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " forms for regular shorushim",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Huf’al forms for regular shorushim": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "huf’al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " binyan has conjugations for regular shorushim in five forms: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "Past Tense <br>(for regular shorushim in the _huf’al_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Past Tense ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": "(for regular shorushim in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "huf’al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Huf’al Past Tense for regular shorushim",
+         "targetTopic": "Huf’al Past Tense for regular shorushim",
+         "enclosingTopic": "Huf’al forms for regular shorushim",
+         "enclosingSubtopic": "Huf’al forms for regular shorushim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Future Tense <br> (for regular shorushimin in the _huf’al_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Future Tense ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (for regular shorushimin in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "huf’al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Huf’al Future Tense for regular shorushim",
+         "targetTopic": "Huf’al Future Tense for regular shorushim",
+         "enclosingTopic": "Huf’al forms for regular shorushim",
+         "enclosingSubtopic": "Huf’al forms for regular shorushim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Ongoing Participle <br> (for regular shorushimin in the _huf’al_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Ongoing Participle ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (for regular shorushimin in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "huf’al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Huf’al Ongoing Participle for Regular Shorushim",
+         "targetTopic": "Huf’al Ongoing Participle for Regular Shorushim",
+         "enclosingTopic": "Huf’al forms for regular shorushim",
+         "enclosingSubtopic": "Huf’al forms for regular shorushim"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ]
+ }
+}

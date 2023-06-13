@@ -19,7 +19,80 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "A shoresh is a series of letters that represents a range of meaning, ",
+        "text": "An example of a shoresh is “א-כ-ל,” which represents the idea of “eating.”",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "A shoresh is used to produce many related words, like אוֹכֶל, which means “food,” or אֲכִילָה, which means “the act of eating.”",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The shoresh is just a series of letters and is not itself a word, and has no vowels or pronunciation.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Advanced students can ",
+        "type": "text"
+       },
+       {
+        "text": "learn more about the concept of shoresh",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "learn more about the concept of shoresh",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Learn more about the concept of shoresh",
+        "targetTopic": "Shoresh",
+        "enclosingTopic": "Shoresh",
+        "enclosingSubtopic": "Shoresh"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "Learn more about the concept of shoresh": [
+   {
+    "text": "This is additional information on the concept of shoresh: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "A shoresh is a series of letters that represents a wide range of meaning, ",
         "type": "text"
        },
        {
@@ -38,7 +111,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "\"Shoresh\" ",
+        "text": "The word “shoresh” ",
         "type": "text"
        },
        {
@@ -53,7 +126,7 @@
         "targetSubtopic": "Means root",
         "targetTopic": "Shoresh",
         "enclosingTopic": "Shoresh",
-        "enclosingSubtopic": "Shoresh"
+        "enclosingSubtopic": "Learn more about the concept of shoresh"
        },
        {
         "text": " because shorushim are ",
@@ -71,7 +144,7 @@
         "targetSubtopic": "Used to produce words",
         "targetTopic": "Shoresh",
         "enclosingTopic": "Shoresh",
-        "enclosingSubtopic": "Shoresh"
+        "enclosingSubtopic": "Learn more about the concept of shoresh"
        },
        {
         "text": ".",
@@ -89,18 +162,18 @@
         "type": "text"
        },
        {
-        "text": "appear to have 2-4 letters",
+        "text": "generally have three letters, but may sometimes have two or four letters",
         "type": "local",
         "tokens": [
          {
-          "text": "appear to have 2-4 letters",
+          "text": "generally have three letters, but may sometimes have two or four letters",
           "type": "text"
          }
         ],
-        "targetSubtopic": "Appear to have 2-4 letters",
+        "targetSubtopic": "Generally have three letters, but may sometimes have two or four letters",
         "targetTopic": "Shoresh",
         "enclosingTopic": "Shoresh",
-        "enclosingSubtopic": "Shoresh"
+        "enclosingSubtopic": "Learn more about the concept of shoresh"
        },
        {
         "text": ".",
@@ -118,18 +191,36 @@
         "type": "text"
        },
        {
-        "text": "regular and irregular shorushim",
-        "type": "local",
+        "text": "regular shorushim",
+        "type": "global",
         "tokens": [
          {
-          "text": "regular and irregular shorushim",
+          "text": "regular shorushim",
           "type": "text"
          }
         ],
-        "targetSubtopic": "Regular and irregular shorushim",
-        "targetTopic": "Shoresh",
+        "targetSubtopic": "Regular shorushim",
+        "targetTopic": "Regular shorushim",
         "enclosingTopic": "Shoresh",
-        "enclosingSubtopic": "Shoresh"
+        "enclosingSubtopic": "Learn more about the concept of shoresh"
+       },
+       {
+        "text": " and ",
+        "type": "text"
+       },
+       {
+        "text": "irregular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "irregular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Irregular shorushim",
+        "targetTopic": "Irregular shorushim",
+        "enclosingTopic": "Shoresh",
+        "enclosingSubtopic": "Learn more about the concept of shoresh"
        },
        {
         "text": ".",
@@ -144,7 +235,7 @@
   ],
   "Means root": [
    {
-    "text": "The word shoresh can mean \"root\" or \"source.\" ",
+    "text": "The word shoresh can mean “root” or “source.” ",
     "type": "text"
    },
    {
@@ -154,7 +245,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "In this context, it means \"root\" in the sense that a words like \"memory\" and \"memorize\" come from the same linguistic root \"mem.\"",
+        "text": "In this context, it means “root” in the sense that a words like “memory” and “memorize” come from the same linguistic root “mem.”",
         "type": "text"
        }
       ],
@@ -164,9 +255,9 @@
     "type": "outline"
    }
   ],
-  "Appear to have 2-4 letters": [
+  "Generally have three letters, but may sometimes have two or four letters": [
    {
-    "text": "Shorushim generally have three letters. ",
+    "text": "Shorushim generally have three letters. However: ",
     "type": "text"
    },
    {
@@ -176,7 +267,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Some shorushim, however, ",
+        "text": "Some shorushim, ",
         "type": "text"
        },
        {
@@ -191,7 +282,11 @@
         "targetSubtopic": "Appear to have two letters",
         "targetTopic": "Shoresh",
         "enclosingTopic": "Shoresh",
-        "enclosingSubtopic": "Appear to have 2-4 letters"
+        "enclosingSubtopic": "Generally have three letters, but may sometimes have two or four letters"
+       },
+       {
+        "text": ".",
+        "type": "text"
        }
       ],
       "children": []
@@ -205,18 +300,18 @@
         "type": "text"
        },
        {
-        "text": "some have four letters",
+        "text": "have four letters",
         "type": "global",
         "tokens": [
          {
-          "text": "some have four letters",
+          "text": "have four letters",
           "type": "text"
          }
         ],
         "targetSubtopic": "Four-letter shorushim",
         "targetTopic": "Four-letter shorushim",
         "enclosingTopic": "Shoresh",
-        "enclosingSubtopic": "Appear to have 2-4 letters"
+        "enclosingSubtopic": "Generally have three letters, but may sometimes have two or four letters"
        },
        {
         "text": ".",
@@ -231,20 +326,20 @@
   ],
   "Appear to have two letters": [
    {
-    "text": "Sometimes, we find words that only appear to have two shoresh letters, like מֵת, ",
+    "text": "Sometimes, we find words that only appear to have two recognizable letters, like מֵת, (",
     "type": "text"
    },
    {
     "type": "italics",
     "tokens": [
      {
-      "text": "mais",
+      "text": "meis",
       "type": "text"
      }
     ]
    },
    {
-    "text": ", \"he is dying.\" ",
+    "text": ", “he is dying.”) ",
     "type": "text"
    },
    {
@@ -254,7 +349,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Some grammarians consider מֵת to come from a shoresh \"מת\"",
+        "text": "Some consider the word מֵת to come from a two-letter shoresh “מת”",
         "type": "text"
        }
       ],
@@ -265,7 +360,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Other grammarians consider מֵת to come from a shoresh \"מות,\" whose \"weak middle letter\" gets hidden in certain conjugations.",
+        "text": "Some consider מֵת to come from a shoresh “מות,” whose “weak middle letter” gets hidden in certain conjugations. (Examples of “weak” letters are י,‎ ו and ה.)",
         "type": "text"
        }
       ],
@@ -287,7 +382,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Cheshbonos generally uses three letter shorushim like \"מות\" to keep things simple, but either system is fine to use.",
+        "text": "This site generally uses three letter shorushim like “מות” to keep things consistent, but either system is correct.",
         "type": "text"
        }
       ],
@@ -299,13 +394,13 @@
   ],
   "Corollaries in English": [
    {
-    "text": "In English, you often have a linguistic root like \"mem\" which is used to produce a series of related words like \"memory,\" \"memorize,\" or \"memorable.\" Shorushim are a similar concept, except they are a bit more formal than in English, because there are fixed rules for how many letters they can be, and how they get turned into words.",
+    "text": "In English, you often have a linguistic root like “mem” which is used to produce a series of related words like “memory,” “memorize,” or “memorable.” Shorushim are a similar concept, except they are a bit more formal than in English, because there are fixed rules for how many letters they can be, and how they get turned into words.",
     "type": "text"
    }
   ],
   "Used to produce words": [
    {
-    "text": "A shoresh is called a \"root\" because many words derive from one shoresh. ",
+    "text": "A shoresh is called a “root” because many words derive from one shoresh. ",
     "type": "text"
    },
    {
@@ -326,20 +421,20 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "For example, the shoresh אכל \"eating\" can be plugged into a particular verb pattern to generate the verb לְהַאֲכִיל, ",
+        "text": "For example, the shoresh אכל “eating” can be plugged into a particular verb pattern to generate the verb לְהַאֲכִיל, ",
         "type": "text"
        },
        {
         "type": "italics",
         "tokens": [
          {
-          "text": "leha'achil",
+          "text": "leha’achil",
           "type": "text"
          }
         ]
        },
        {
-        "text": ", \"to feed.\"",
+        "text": ", “to feed.”",
         "type": "text"
        }
       ],
@@ -350,20 +445,38 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "(For advanced readers, this form is called the ",
+        "text": "(For advanced readers, these patterns are called ",
         "type": "text"
        },
        {
-        "text": "hif'il",
+        "text": "binyanim",
         "type": "global",
         "tokens": [
          {
-          "text": "hif'il",
+          "text": "binyanim",
           "type": "text"
          }
         ],
-        "targetSubtopic": "Hif'il",
-        "targetTopic": "Hif'il",
+        "targetSubtopic": "Binyan",
+        "targetTopic": "Binyan",
+        "enclosingTopic": "Shoresh",
+        "enclosingSubtopic": "Used to produce words"
+       },
+       {
+        "text": ", and לְהַאֲכִיל comes from the ",
+        "type": "text"
+       },
+       {
+        "text": "\"hif’il\" binyan",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "\"hif’il\" binyan",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Hif’il",
+        "targetTopic": "Hif’il",
         "enclosingTopic": "Shoresh",
         "enclosingSubtopic": "Used to produce words"
        },
@@ -380,49 +493,7 @@
   ],
   "Debate over the exact definition of a shoresh": [
    {
-    "text": "Often we see words that only seem to have two root letters, like מת, and there is a debate over whether to think of these as being a special type of \"two letter\" shoresh, or whether to think of them as being a three-letter shoresh like מות that loses the middle letter in certain conjugations, but this dispute has no practical ramifications because everyone agrees on the spelling of the words that come from two-letter shorushim.",
-    "type": "text"
-   }
-  ],
-  "Regular and irregular shorushim": [
-   {
-    "text": "Shorushim can be ",
-    "type": "text"
-   },
-   {
-    "text": "regular",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "regular",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Regular shorushim",
-    "targetTopic": "Regular shorushim",
-    "enclosingTopic": "Shoresh",
-    "enclosingSubtopic": "Regular and irregular shorushim"
-   },
-   {
-    "text": " or ",
-    "type": "text"
-   },
-   {
-    "text": "irregular",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "irregular",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Irregular shorushim",
-    "targetTopic": "Irregular shorushim",
-    "enclosingTopic": "Shoresh",
-    "enclosingSubtopic": "Regular and irregular shorushim"
-   },
-   {
-    "text": ".",
+    "text": "Often we see words that only seem to have two root letters, like מת, and there is a debate over whether to think of these as being a special type of “two letter” shoresh, or whether to think of them as being a three-letter shoresh like מות that loses the middle letter in certain conjugations, but this dispute has no practical ramifications because everyone agrees on the spelling of the words that come from two-letter shorushim.",
     "type": "text"
    }
   ]

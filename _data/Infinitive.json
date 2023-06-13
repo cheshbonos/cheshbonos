@@ -27,8 +27,35 @@
     "enclosingSubtopic": "Infinitive"
    },
    {
-    "text": ".",
+    "text": ". ",
     "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "An example of an infinitive in English is “to run.”",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "An infinitive describes an action without specifying who is doing it.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
    }
   ]
  }

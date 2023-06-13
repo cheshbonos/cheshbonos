@@ -9,7 +9,7 @@
  "paragraphsBySubtopic": {
   "Simple": [
    {
-    "text": "\"Simple\" (also known as ",
+    "text": "“Simple” (also known as ",
     "type": "text"
    },
    {
@@ -62,11 +62,11 @@
     "type": "text"
    },
    {
-    "text": "several \"simple\" binyanim in Hebrew and Aramaic",
+    "text": "several “simple” binyanim in Hebrew and Aramaic",
     "type": "local",
     "tokens": [
      {
-      "text": "several \"simple\" binyanim in Hebrew and Aramaic",
+      "text": "several “simple” binyanim in Hebrew and Aramaic",
       "type": "text"
      }
     ],
@@ -136,8 +136,13 @@
       {
        "tokens": [
         {
-         "text": "*Simple verb*",
-         "type": "text"
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Simple verb",
+           "type": "text"
+          }
+         ]
         }
        ]
       }
@@ -251,7 +256,7 @@
   ],
   "Several simple binyanim in Hebrew and Aramaic": [
    {
-    "text": "There are several \"simple\" binyanim in Hebrew and Aramaic. (",
+    "text": "There are several “simple” binyanim in Hebrew and Aramaic. (",
     "type": "text"
    },
    {
@@ -279,15 +284,15 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Hebrew's ",
+        "text": "Hebrew’s ",
         "type": "text"
        },
        {
-        "text": "\"active\"",
+        "text": "“active”",
         "type": "global",
         "tokens": [
          {
-          "text": "\"active\"",
+          "text": "“active”",
           "type": "text"
          }
         ],
@@ -301,21 +306,21 @@
         "type": "text"
        },
        {
-        "text": "_pa'al_",
+        "text": "_pa’al_",
         "type": "global",
         "tokens": [
          {
           "type": "italics",
           "tokens": [
            {
-            "text": "pa'al",
+            "text": "pa’al",
             "type": "text"
            }
           ]
          }
         ],
-        "targetSubtopic": "Pa'al",
-        "targetTopic": "Pa'al",
+        "targetSubtopic": "Pa’al",
+        "targetTopic": "Pa’al",
         "enclosingTopic": "Simple",
         "enclosingSubtopic": "Several simple binyanim in Hebrew and Aramaic"
        }
@@ -327,15 +332,15 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Hebrew's ",
+        "text": "Hebrew’s ",
         "type": "text"
        },
        {
-        "text": "\"passive\"",
+        "text": "“passive”",
         "type": "global",
         "tokens": [
          {
-          "text": "\"passive\"",
+          "text": "“passive”",
           "type": "text"
          }
         ],
@@ -349,21 +354,21 @@
         "type": "text"
        },
        {
-        "text": "_nif'al_",
+        "text": "_nif’al_",
         "type": "global",
         "tokens": [
          {
           "type": "italics",
           "tokens": [
            {
-            "text": "nif'al",
+            "text": "nif’al",
             "type": "text"
            }
           ]
          }
         ],
-        "targetSubtopic": "Nif'al",
-        "targetTopic": "Nif'al",
+        "targetSubtopic": "Nif’al",
+        "targetTopic": "Nif’al",
         "enclosingTopic": "Simple",
         "enclosingSubtopic": "Several simple binyanim in Hebrew and Aramaic"
        }
@@ -375,25 +380,25 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Aramaic's \"active\" simple binyan is called the ",
+        "text": "Aramaic’s “active” simple binyan is called the ",
         "type": "text"
        },
        {
-        "text": "_pe'al_",
+        "text": "_pe’al_",
         "type": "global",
         "tokens": [
          {
           "type": "italics",
           "tokens": [
            {
-            "text": "pe'al",
+            "text": "pe’al",
             "type": "text"
            }
           ]
          }
         ],
-        "targetSubtopic": "Pe'al",
-        "targetTopic": "Pe'al",
+        "targetSubtopic": "Pe’al",
+        "targetTopic": "Pe’al",
         "enclosingTopic": "Simple",
         "enclosingSubtopic": "Several simple binyanim in Hebrew and Aramaic"
        }
@@ -405,25 +410,25 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Aramaic's \"passive\" simple binyan is called the ",
+        "text": "Aramaic’s “passive” simple binyan is called the ",
         "type": "text"
        },
        {
-        "text": "_ispe'el_",
+        "text": "_ispe’el_",
         "type": "global",
         "tokens": [
          {
           "type": "italics",
           "tokens": [
            {
-            "text": "ispe'el",
+            "text": "ispe’el",
             "type": "text"
            }
           ]
          }
         ],
-        "targetSubtopic": "Ispe'el",
-        "targetTopic": "Ispe'el",
+        "targetSubtopic": "Ispe’el",
+        "targetTopic": "Ispe’el",
         "enclosingTopic": "Simple",
         "enclosingSubtopic": "Several simple binyanim in Hebrew and Aramaic"
        }

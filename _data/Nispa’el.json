@@ -1,0 +1,119 @@
+{
+ "displayTopicName": "Nispa’el",
+ "topicTokens": [
+  {
+   "text": "Nispa’el",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Nispa’el": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "nispa’el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " (נִתְפַּעֵל) is an alternative spelling of the ",
+    "type": "text"
+   },
+   {
+    "text": "_hispa’el_",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "hispa’el",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Hispa’el",
+    "targetTopic": "Hispa’el",
+    "enclosingTopic": "Nispa’el",
+    "enclosingSubtopic": "Nispa’el"
+   },
+   {
+    "text": ". ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "nispa’el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " is generally found in Mishnah-era sources.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "nispa’el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " has the same meaning as the ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hispa’el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " and is interchangable with it.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

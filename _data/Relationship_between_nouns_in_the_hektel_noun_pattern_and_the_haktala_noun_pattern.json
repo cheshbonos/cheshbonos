@@ -125,63 +125,66 @@
       {
        "tokens": [
         {
-         "text": "*",
-         "type": "text"
-        },
-        {
-         "type": "italics",
+         "type": "bold",
          "tokens": [
           {
-           "text": "Hif'il",
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Hif’il",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " verb",
            "type": "text"
           }
          ]
-        },
-        {
-         "text": " verb*",
-         "type": "text"
         }
        ]
       },
       {
        "tokens": [
         {
-         "text": "*",
-         "type": "text"
-        },
-        {
-         "type": "italics",
+         "type": "bold",
          "tokens": [
           {
-           "text": "Hektel",
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Hektel",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " noun",
            "type": "text"
           }
          ]
-        },
-        {
-         "text": " noun*",
-         "type": "text"
         }
        ]
       },
       {
        "tokens": [
         {
-         "text": "*",
-         "type": "text"
-        },
-        {
-         "type": "italics",
+         "type": "bold",
          "tokens": [
           {
-           "text": "Haktala",
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Haktala",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " noun",
            "type": "text"
           }
          ]
-        },
-        {
-         "text": " noun*",
-         "type": "text"
         }
        ]
       }
@@ -591,7 +594,7 @@
     "type": "italics",
     "tokens": [
      {
-      "text": "hif'il",
+      "text": "hif’il",
       "type": "text"
      }
     ]
@@ -643,7 +646,7 @@
     "type": "italics",
     "tokens": [
      {
-      "text": "hif'il",
+      "text": "hif’il",
       "type": "text"
      }
     ]

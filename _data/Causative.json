@@ -9,7 +9,7 @@
  "paragraphsBySubtopic": {
   "Causative": [
    {
-    "text": "\"Causative\" is a category of verb in Hebrew and Aramaic. Causative verbs often describe ",
+    "text": "“Causative” is a category of verb in Hebrew and Aramaic. Causative verbs often describe ",
     "type": "text"
    },
    {
@@ -92,16 +92,26 @@
       {
        "tokens": [
         {
-         "text": "*Simple verb*",
-         "type": "text"
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Simple verb",
+           "type": "text"
+          }
+         ]
         }
        ]
       },
       {
        "tokens": [
         {
-         "text": "*Causative verb*",
-         "type": "text"
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Causative verb",
+           "type": "text"
+          }
+         ]
         }
        ]
       }
@@ -225,15 +235,15 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Hebrew's ",
+        "text": "Hebrew’s ",
         "type": "text"
        },
        {
-        "text": "\"active\"",
+        "text": "“active”",
         "type": "global",
         "tokens": [
          {
-          "text": "\"active\"",
+          "text": "“active”",
           "type": "text"
          }
         ],
@@ -247,21 +257,21 @@
         "type": "text"
        },
        {
-        "text": "_hif'il_",
+        "text": "_hif’il_",
         "type": "global",
         "tokens": [
          {
           "type": "italics",
           "tokens": [
            {
-            "text": "hif'il",
+            "text": "hif’il",
             "type": "text"
            }
           ]
          }
         ],
-        "targetSubtopic": "Hif'il",
-        "targetTopic": "Hif'il",
+        "targetSubtopic": "Hif’il",
+        "targetTopic": "Hif’il",
         "enclosingTopic": "Causative",
         "enclosingSubtopic": "Several causative binyanim in Hebrew and Aramaic"
        }
@@ -273,15 +283,15 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Hebrew's ",
+        "text": "Hebrew’s ",
         "type": "text"
        },
        {
-        "text": "\"passive\"",
+        "text": "“passive”",
         "type": "global",
         "tokens": [
          {
-          "text": "\"passive\"",
+          "text": "“passive”",
           "type": "text"
          }
         ],
@@ -295,21 +305,21 @@
         "type": "text"
        },
        {
-        "text": "_huf'al_",
+        "text": "_huf’al_",
         "type": "global",
         "tokens": [
          {
           "type": "italics",
           "tokens": [
            {
-            "text": "huf'al",
+            "text": "huf’al",
             "type": "text"
            }
           ]
          }
         ],
-        "targetSubtopic": "Huf'al",
-        "targetTopic": "Huf'al",
+        "targetSubtopic": "Huf’al",
+        "targetTopic": "Huf’al",
         "enclosingTopic": "Causative",
         "enclosingSubtopic": "Several causative binyanim in Hebrew and Aramaic"
        }
@@ -321,25 +331,25 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Aramaic's \"active\" causative binyan is called the ",
+        "text": "Aramaic’s “active” causative binyan is called the ",
         "type": "text"
        },
        {
-        "text": "_af'el_",
+        "text": "_af’el_",
         "type": "global",
         "tokens": [
          {
           "type": "italics",
           "tokens": [
            {
-            "text": "af'el",
+            "text": "af’el",
             "type": "text"
            }
           ]
          }
         ],
-        "targetSubtopic": "Af'el",
-        "targetTopic": "Af'el",
+        "targetSubtopic": "Af’el",
+        "targetTopic": "Af’el",
         "enclosingTopic": "Causative",
         "enclosingSubtopic": "Several causative binyanim in Hebrew and Aramaic"
        }
@@ -351,25 +361,25 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Aramaic's \"passive\" causative binyan is called the ",
+        "text": "Aramaic’s “passive” causative binyan is called the ",
         "type": "text"
        },
        {
-        "text": "_itaf'al_",
+        "text": "_itaf’al_",
         "type": "global",
         "tokens": [
          {
           "type": "italics",
           "tokens": [
            {
-            "text": "itaf'al",
+            "text": "itaf’al",
             "type": "text"
            }
           ]
          }
         ],
-        "targetSubtopic": "Itaf'al",
-        "targetTopic": "Itaf'al",
+        "targetSubtopic": "Itaf’al",
+        "targetTopic": "Itaf’al",
         "enclosingTopic": "Causative",
         "enclosingSubtopic": "Several causative binyanim in Hebrew and Aramaic"
        }

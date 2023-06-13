@@ -1,0 +1,159 @@
+{
+ "displayTopicName": "_Hif’il_ Imperative",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Hif’il",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " Imperative",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Hif’il Imperative": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "hif’il",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " binyan has an ",
+    "type": "text"
+   },
+   {
+    "text": "imperative form",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "imperative form",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Imperative",
+    "targetTopic": "Imperative",
+    "enclosingTopic": "Hif’il Imperative",
+    "enclosingSubtopic": "Hif’il Imperative"
+   },
+   {
+    "text": ", which is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "forms of the _hif'il_ binyan",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "forms of the ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "hif'il",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " binyan",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Hif’il Forms",
+    "targetTopic": "Hif’il Forms",
+    "enclosingTopic": "Hif’il Imperative",
+    "enclosingSubtopic": "Hif’il Imperative"
+   },
+   {
+    "text": ". ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "Hif’il",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " imperative form has ",
+        "type": "text"
+       },
+       {
+        "text": "conjugations for regular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "conjugations for regular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Hif’il Imperative for regular shorushim",
+        "targetTopic": "Hif’il Imperative for regular shorushim",
+        "enclosingTopic": "Hif’il Imperative",
+        "enclosingSubtopic": "Hif’il Imperative"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "Hif’il",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " imperative form has conjugations for irregular shorushim which will be added at a later time.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

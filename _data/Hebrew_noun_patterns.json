@@ -37,7 +37,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Noun patterns that come from _Pa'al_ verbs",
+        "text": "Noun patterns that come from _Pa’al_ verbs",
         "type": "global",
         "tokens": [
          {
@@ -48,7 +48,7 @@
           "type": "italics",
           "tokens": [
            {
-            "text": "Pa'al",
+            "text": "Pa’al",
             "type": "text"
            }
           ]
@@ -58,8 +58,8 @@
           "type": "text"
          }
         ],
-        "targetSubtopic": "Noun patterns that come from Pa'al verbs",
-        "targetTopic": "Noun patterns that come from Pa'al verbs",
+        "targetSubtopic": "Noun patterns that come from Pa’al verbs",
+        "targetTopic": "Noun patterns that come from Pa’al verbs",
         "enclosingTopic": "Hebrew noun patterns",
         "enclosingSubtopic": "Hebrew noun patterns"
        }
@@ -71,7 +71,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Noun patterns that come from _Pi'el_ verbs",
+        "text": "Noun patterns that come from _Pi’el_ verbs",
         "type": "global",
         "tokens": [
          {
@@ -82,7 +82,7 @@
           "type": "italics",
           "tokens": [
            {
-            "text": "Pi'el",
+            "text": "Pi’el",
             "type": "text"
            }
           ]
@@ -92,8 +92,8 @@
           "type": "text"
          }
         ],
-        "targetSubtopic": "Noun patterns that come from Pi'el verbs",
-        "targetTopic": "Noun patterns that come from Pi'el verbs",
+        "targetSubtopic": "Noun patterns that come from Pi’el verbs",
+        "targetTopic": "Noun patterns that come from Pi’el verbs",
         "enclosingTopic": "Hebrew noun patterns",
         "enclosingSubtopic": "Hebrew noun patterns"
        }
@@ -105,7 +105,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Noun patterns that come from _Hif'il_ verbs",
+        "text": "Noun patterns that come from _Hif’il_ verbs",
         "type": "global",
         "tokens": [
          {
@@ -116,7 +116,7 @@
           "type": "italics",
           "tokens": [
            {
-            "text": "Hif'il",
+            "text": "Hif’il",
             "type": "text"
            }
           ]
@@ -126,8 +126,8 @@
           "type": "text"
          }
         ],
-        "targetSubtopic": "Noun patterns that come from Hif'il verbs",
-        "targetTopic": "Noun patterns that come from Hif'il verbs",
+        "targetSubtopic": "Noun patterns that come from Hif’il verbs",
+        "targetTopic": "Noun patterns that come from Hif’il verbs",
         "enclosingTopic": "Hebrew noun patterns",
         "enclosingSubtopic": "Hebrew noun patterns"
        }
@@ -139,7 +139,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Noun patterns that come from _Hispa'el_ verbs",
+        "text": "Noun patterns that come from _Hispa’el_ verbs",
         "type": "global",
         "tokens": [
          {
@@ -150,7 +150,7 @@
           "type": "italics",
           "tokens": [
            {
-            "text": "Hispa'el",
+            "text": "Hispa’el",
             "type": "text"
            }
           ]
@@ -160,8 +160,8 @@
           "type": "text"
          }
         ],
-        "targetSubtopic": "Noun patterns that come from Hispa'el verbs",
-        "targetTopic": "Noun patterns that come from Hispa'el verbs",
+        "targetSubtopic": "Noun patterns that come from Hispa’el verbs",
+        "targetTopic": "Noun patterns that come from Hispa’el verbs",
         "enclosingTopic": "Hebrew noun patterns",
         "enclosingSubtopic": "Hebrew noun patterns"
        }

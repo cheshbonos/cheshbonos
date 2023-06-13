@@ -1,0 +1,106 @@
+{
+ "displayTopicName": "_Pi’el_ Infinitive",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Pi’el",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " Infinitive",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Pi’el Infinitive": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pi’el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " binyan has an infinitive form. ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "There is a ",
+        "type": "text"
+       },
+       {
+        "text": "_pi’el_ infinitive  form for regular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "pi’el",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " infinitive  form for regular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pi’el Infinitive for regular shorushim",
+        "targetTopic": "Pi’el Infinitive for regular shorushim",
+        "enclosingTopic": "Pi’el Infinitive",
+        "enclosingSubtopic": "Pi’el Infinitive"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "There are ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pi’el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " infinitive forms for irregular shorushim which will be added at a later time.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

@@ -1,0 +1,149 @@
+{
+ "displayTopicName": "Perek Ha’ish Mekadesh",
+ "topicTokens": [
+  {
+   "text": "Perek Ha’ish Mekadesh",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Perek Ha’ish Mekadesh": [
+   {
+    "text": "You can browse Perek Ha’ish Mekadesh by ",
+    "type": "text"
+   },
+   {
+    "text": "daf",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "daf",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Daf",
+    "targetTopic": "Perek Ha’ish Mekadesh",
+    "enclosingTopic": "Perek Ha’ish Mekadesh",
+    "enclosingSubtopic": "Perek Ha’ish Mekadesh"
+   },
+   {
+    "text": ", by ",
+    "type": "text"
+   },
+   {
+    "text": "mishnah",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "mishnah",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Mishnah",
+    "targetTopic": "Perek Ha’ish Mekadesh",
+    "enclosingTopic": "Perek Ha’ish Mekadesh",
+    "enclosingSubtopic": "Perek Ha’ish Mekadesh"
+   },
+   {
+    "text": ", by ",
+    "type": "text"
+   },
+   {
+    "text": "halacha",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "halacha",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Halacha",
+    "targetTopic": "Perek Ha’ish Mekadesh",
+    "enclosingTopic": "Perek Ha’ish Mekadesh",
+    "enclosingSubtopic": "Perek Ha’ish Mekadesh"
+   },
+   {
+    "text": ", or with an outside ",
+    "type": "text"
+   },
+   {
+    "text": "summary",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "summary",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Summary",
+    "targetTopic": "Perek Ha’ish Mekadesh",
+    "enclosingTopic": "Perek Ha’ish Mekadesh",
+    "enclosingSubtopic": "Perek Ha’ish Mekadesh"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Daf": [
+   {
+    "text": "Perek Ha’ish Mekadesh begins on ",
+    "type": "text"
+   },
+   {
+    "text": "Kiddushin 41a",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Kiddushin 41a",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Kiddushin 41a",
+    "targetTopic": "Kiddushin 41a",
+    "enclosingTopic": "Perek Ha’ish Mekadesh",
+    "enclosingSubtopic": "Daf"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Mishnah": [
+   {
+    "text": "Perek Ha’ish Mekadesh begins with ",
+    "type": "text"
+   },
+   {
+    "text": "the Mishnah on Kiddushin 41a",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "the Mishnah on Kiddushin 41a",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "The Mishnah on Kiddushin 41a",
+    "targetTopic": "The Mishnah on Kiddushin 41a",
+    "enclosingTopic": "Perek Ha’ish Mekadesh",
+    "enclosingSubtopic": "Mishnah"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Halacha": [
+   {
+    "text": "This will be a list of halachos that come out of the perek, allowing users to jump to those parts of the sugya from which they originate.",
+    "type": "text"
+   }
+  ],
+  "Summary": [
+   {
+    "text": "This will be a summary of the entire perek that will allow users to jump to particular parts of the sugya for review.",
+    "type": "text"
+   }
+  ]
+ }
+}
