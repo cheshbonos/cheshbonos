@@ -31,7 +31,25 @@
     ]
    },
    {
-    "text": " binyan has conjugations for regular shorushim in five forms: ",
+    "text": " binyan has conjugations for regular shorushim, along with ",
+    "type": "text"
+   },
+   {
+    "text": "forms for other shoresh types",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "forms for other shoresh types",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Huf’al forms for different shoresh types",
+    "targetTopic": "Huf’al forms for different shoresh types",
+    "enclosingTopic": "Huf’al forms for regular shorushim",
+    "enclosingSubtopic": "Huf’al forms for regular shorushim"
+   },
+   {
+    "text": ", in three forms: ",
     "type": "text"
    },
    {
@@ -80,7 +98,7 @@
       {
        "tokens": [
         {
-         "text": "Future Tense <br> (for regular shorushimin in the _huf’al_)",
+         "text": "Future Tense <br> (for regular shorushim in the _huf’al_)",
          "type": "global",
          "tokens": [
           {
@@ -92,7 +110,7 @@
            "html": "<br>"
           },
           {
-           "text": " (for regular shorushimin in the ",
+           "text": " (for regular shorushim in the ",
            "type": "text"
           },
           {
@@ -119,7 +137,7 @@
       {
        "tokens": [
         {
-         "text": "Ongoing Participle <br> (for regular shorushimin in the _huf’al_)",
+         "text": "Ongoing Participle <br> (for regular shorushim in the _huf’al_)",
          "type": "global",
          "tokens": [
           {
@@ -131,7 +149,7 @@
            "html": "<br>"
           },
           {
-           "text": " (for regular shorushimin in the ",
+           "text": " (for regular shorushim in the ",
            "type": "text"
           },
           {

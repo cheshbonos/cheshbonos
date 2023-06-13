@@ -149,6 +149,23 @@
   ],
   "More information about the hispa’el": [
    {
+    "text": "Here is more information about the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "hispa’el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " binyan: ",
+    "type": "text"
+   },
+   {
     "topLevelNodes": [
      {
       "ordinal": "-",
@@ -375,31 +392,39 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "There are ",
+        "text": "The ",
         "type": "text"
        },
        {
-        "text": "_hispa’el_ forms for regular shorushim",
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hispa’el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " has ",
+        "type": "text"
+       },
+       {
+        "text": "forms for different shoresh types",
         "type": "global",
         "tokens": [
          {
-          "type": "italics",
-          "tokens": [
-           {
-            "text": "hispa’el",
-            "type": "text"
-           }
-          ]
-         },
-         {
-          "text": " forms for regular shorushim",
+          "text": "forms for different shoresh types",
           "type": "text"
          }
         ],
-        "targetSubtopic": "Hispa’el forms for regular shorushim",
-        "targetTopic": "Hispa’el forms for regular shorushim",
+        "targetSubtopic": "Hispa’el forms for different shoresh types",
+        "targetTopic": "Hispa’el forms for different shoresh types",
         "enclosingTopic": "Hispa’el",
         "enclosingSubtopic": "More information about the hispa’el"
+       },
+       {
+        "text": ".",
+        "type": "text"
        }
       ],
       "children": []

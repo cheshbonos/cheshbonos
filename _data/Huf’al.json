@@ -331,16 +331,16 @@
         "type": "text"
        },
        {
-        "text": "forms for regular shorushim",
+        "text": "forms for different shoresh types",
         "type": "global",
         "tokens": [
          {
-          "text": "forms for regular shorushim",
+          "text": "forms for different shoresh types",
           "type": "text"
          }
         ],
-        "targetSubtopic": "Huf’al forms for regular shorushim",
-        "targetTopic": "Huf’al forms for regular shorushim",
+        "targetSubtopic": "Huf’al forms for different shoresh types",
+        "targetTopic": "Huf’al forms for different shoresh types",
         "enclosingTopic": "Huf’al",
         "enclosingSubtopic": "More information about the Huf’al"
        },

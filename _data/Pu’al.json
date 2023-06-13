@@ -331,16 +331,16 @@
         "type": "text"
        },
        {
-        "text": "forms for regular shorushim",
+        "text": "forms for different shoresh types",
         "type": "global",
         "tokens": [
          {
-          "text": "forms for regular shorushim",
+          "text": "forms for different shoresh types",
           "type": "text"
          }
         ],
-        "targetSubtopic": "Pu’al forms for regular shorushim",
-        "targetTopic": "Pu’al forms for regular shorushim",
+        "targetSubtopic": "Pu’al forms for different shoresh types",
+        "targetTopic": "Pu’al forms for different shoresh types",
         "enclosingTopic": "Pu’al",
         "enclosingSubtopic": "More information about the pu’al"
        },

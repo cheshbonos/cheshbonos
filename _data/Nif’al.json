@@ -257,26 +257,22 @@
         ]
        },
        {
-        "text": " ",
+        "text": " has ",
         "type": "text"
        },
        {
-        "text": "has conjugations for regular shorushim",
+        "text": "forms for different shoresh types",
         "type": "global",
         "tokens": [
          {
-          "text": "has conjugations for regular shorushim",
+          "text": "forms for different shoresh types",
           "type": "text"
          }
         ],
-        "targetSubtopic": "Nif’al forms for regular shorushim",
-        "targetTopic": "Nif’al forms for regular shorushim",
+        "targetSubtopic": "Nif’al forms for different shoresh types",
+        "targetTopic": "Nif’al forms for different shoresh types",
         "enclosingTopic": "Nif’al",
         "enclosingSubtopic": "More information about the nif’al"
-       },
-       {
-        "text": ".",
-        "type": "text"
        }
       ],
       "children": []

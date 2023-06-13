@@ -31,7 +31,34 @@
     ]
    },
    {
-    "text": " binyan has conjugations for regular shorushim in five forms: ",
+    "text": " binyan has conjugations for regular shorushim, along with ",
+    "type": "text"
+   },
+   {
+    "text": "_pu’al_ forms for other shoresh types",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pu’al",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " forms for other shoresh types",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Pu’al forms for different shoresh types",
+    "targetTopic": "Pu’al forms for different shoresh types",
+    "enclosingTopic": "Pu’al forms for regular shorushim",
+    "enclosingSubtopic": "Pu’al forms for regular shorushim"
+   },
+   {
+    "text": ", in three forms: ",
     "type": "text"
    },
    {
@@ -80,7 +107,7 @@
       {
        "tokens": [
         {
-         "text": "Future Tense <br> (for regular shorushimin in the _pu’al_)",
+         "text": "Future Tense <br> (for regular shorushim in the _pu’al_)",
          "type": "global",
          "tokens": [
           {
@@ -92,7 +119,7 @@
            "html": "<br>"
           },
           {
-           "text": " (for regular shorushimin in the ",
+           "text": " (for regular shorushim in the ",
            "type": "text"
           },
           {
@@ -119,7 +146,7 @@
       {
        "tokens": [
         {
-         "text": "Ongoing Participle <br> (for regular shorushimin in the _pu’al_)",
+         "text": "Ongoing Participle <br> (for regular shorushim in the _pu’al_)",
          "type": "global",
          "tokens": [
           {
@@ -131,7 +158,7 @@
            "html": "<br>"
           },
           {
-           "text": " (for regular shorushimin in the ",
+           "text": " (for regular shorushim in the ",
            "type": "text"
           },
           {

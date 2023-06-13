@@ -257,20 +257,20 @@
         ]
        },
        {
-        "text": " ",
+        "text": " has ",
         "type": "text"
        },
        {
-        "text": "has conjugations for regular shorushim",
+        "text": "forms for different shoresh types",
         "type": "global",
         "tokens": [
          {
-          "text": "has conjugations for regular shorushim",
+          "text": "forms for different shoresh types",
           "type": "text"
          }
         ],
-        "targetSubtopic": "Pi’el forms for regular shorushim",
-        "targetTopic": "Pi’el forms for regular shorushim",
+        "targetSubtopic": "Pi’el forms for different shoresh types",
+        "targetTopic": "Pi’el forms for different shoresh types",
         "enclosingTopic": "Pi’el",
         "enclosingSubtopic": "More information about the pi’el"
        },

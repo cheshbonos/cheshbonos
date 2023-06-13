@@ -1,0 +1,106 @@
+{
+ "displayTopicName": "_Nif’al_ forms for different shoresh types",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Nif’al",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " forms for different shoresh types",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Nif’al forms for different shoresh types": [
+   {
+    "text": "There are ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "nif’al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " forms for different shoresh types: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "There are ",
+        "type": "text"
+       },
+       {
+        "text": "_nif’al_ forms for regular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "nif’al",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " forms for regular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Nif’al forms for regular shorushim",
+        "targetTopic": "Nif’al forms for regular shorushim",
+        "enclosingTopic": "Nif’al forms for different shoresh types",
+        "enclosingSubtopic": "Nif’al forms for different shoresh types"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "There are ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "nif’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " forms for irregular shorushim which will be added at a later time.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

@@ -31,7 +31,34 @@
     ]
    },
    {
-    "text": " binyan has conjugations for regular shorushim in five forms: ",
+    "text": " binyan has conjugations for regular shorushim, along with ",
+    "type": "text"
+   },
+   {
+    "text": "_nif’al_ forms for other shoresh types",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "nif’al",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " forms for other shoresh types",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Nif’al forms for different shoresh types",
+    "targetTopic": "Nif’al forms for different shoresh types",
+    "enclosingTopic": "Nif’al forms for regular shorushim",
+    "enclosingSubtopic": "Nif’al forms for regular shorushim"
+   },
+   {
+    "text": ", in five forms: ",
     "type": "text"
    },
    {
@@ -41,11 +68,19 @@
       {
        "tokens": [
         {
-         "text": "Past Tense (for regular shorushim in the _nif’al_)",
+         "text": "Past Tense <br> (for regular shorushim in the _nif’al_)",
          "type": "global",
          "tokens": [
           {
-           "text": "Past Tense (for regular shorushim in the ",
+           "text": "Past Tense ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (for regular shorushim in the ",
            "type": "text"
           },
           {
@@ -72,11 +107,19 @@
       {
        "tokens": [
         {
-         "text": "Future Tense (for regular shorushimin in the _nif’al_)",
+         "text": "Future Tense <br> (for regular shorushim in the _nif’al_)",
          "type": "global",
          "tokens": [
           {
-           "text": "Future Tense (for regular shorushimin in the ",
+           "text": "Future Tense ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (for regular shorushim in the ",
            "type": "text"
           },
           {
@@ -103,11 +146,19 @@
       {
        "tokens": [
         {
-         "text": "Ongoing Participle (for regular shorushimin in the _nif’al_)",
+         "text": "Ongoing Participle <br> (for regular shorushim in the _nif’al_)",
          "type": "global",
          "tokens": [
           {
-           "text": "Ongoing Participle (for regular shorushimin in the ",
+           "text": "Ongoing Participle ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (for regular shorushim in the ",
            "type": "text"
           },
           {
@@ -137,11 +188,19 @@
       {
        "tokens": [
         {
-         "text": "Imperative (for regular shorushimin in the _nif’al_)",
+         "text": "Imperative <br> (for regular shorushim in the _nif’al_)",
          "type": "global",
          "tokens": [
           {
-           "text": "Imperative (for regular shorushimin in the ",
+           "text": "Imperative ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (for regular shorushim in the ",
            "type": "text"
           },
           {
@@ -168,11 +227,19 @@
       {
        "tokens": [
         {
-         "text": "Infinitive (for regular shorushimin in the _nif’al_)",
+         "text": "Infinitive <br> (for regular shorushim in the _nif’al_)",
          "type": "global",
          "tokens": [
           {
-           "text": "Infinitive (for regular shorushimin in the ",
+           "text": "Infinitive ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (for regular shorushim in the ",
            "type": "text"
           },
           {
