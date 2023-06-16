@@ -1984,7 +1984,7 @@
         "type": "text"
        },
        {
-        "text": "the _pi’el_ form  of  the shoresh \"קדש\"",
+        "text": "the _pi’el_ form  of  the shoresh “קדש”",
         "type": "global",
         "tokens": [
          {
@@ -2001,7 +2001,7 @@
           ]
          },
          {
-          "text": " form  of  the shoresh \"קדש\"",
+          "text": " form  of  the shoresh “קדש”",
           "type": "text"
          }
         ],
@@ -2026,7 +2026,7 @@
         "type": "text"
        },
        {
-        "text": "_pi’el__’s_  “ongoing participle”  form, as conjugated for regular shorushim, in the masculine singular",
+        "text": "_pi’el__’s_  “active participle”  form, as conjugated for regular shorushim, in the masculine singular",
         "type": "global",
         "tokens": [
          {
@@ -2048,12 +2048,12 @@
           ]
          },
          {
-          "text": "  “ongoing participle”  form, as conjugated for regular shorushim, in the masculine singular",
+          "text": "  “active participle”  form, as conjugated for regular shorushim, in the masculine singular",
           "type": "text"
          }
         ],
-        "targetSubtopic": "Pi’el Ongoing Participle for Regular Shorushim",
-        "targetTopic": "Pi’el Ongoing Participle for Regular Shorushim",
+        "targetSubtopic": "Pi’el Active Participle for Regular Shorushim",
+        "targetTopic": "Pi’el Active Participle for Regular Shorushim",
         "enclosingTopic": "The Mishnah on Kiddushin 41a",
         "enclosingSubtopic": "A grammatical explanation of מקדש"
        },
@@ -2164,7 +2164,7 @@
         "type": "text"
        },
        {
-        "text": "_pi’el_ ongoing participle",
+        "text": "_pi’el_ active participle",
         "type": "global",
         "tokens": [
          {
@@ -2177,12 +2177,12 @@
           ]
          },
          {
-          "text": " ongoing participle",
+          "text": " active participle",
           "type": "text"
          }
         ],
-        "targetSubtopic": "Pi’el Ongoing Participle",
-        "targetTopic": "Pi’el Ongoing Participle",
+        "targetSubtopic": "Pi’el Active Participle",
+        "targetTopic": "Pi’el Active Participle",
         "enclosingTopic": "The Mishnah on Kiddushin 41a",
         "enclosingSubtopic": "Instructions to figure out the meaning of מקדש"
        },
@@ -2191,7 +2191,7 @@
         "type": "text"
        },
        {
-        "text": "_pu’al_ ongoing participle",
+        "text": "_pu’al_ active participle",
         "type": "global",
         "tokens": [
          {
@@ -2204,12 +2204,12 @@
           ]
          },
          {
-          "text": " ongoing participle",
+          "text": " active participle",
           "type": "text"
          }
         ],
-        "targetSubtopic": "Pu’al Ongoing Participle",
-        "targetTopic": "Pu’al Ongoing Participle",
+        "targetSubtopic": "Pu’al Active Participle",
+        "targetTopic": "Pu’al Active Participle",
         "enclosingTopic": "The Mishnah on Kiddushin 41a",
         "enclosingSubtopic": "Instructions to figure out the meaning of מקדש"
        },
@@ -2218,16 +2218,16 @@
         "type": "text"
        },
        {
-        "text": "hif’il ongoing participle",
+        "text": "hif’il active participle",
         "type": "global",
         "tokens": [
          {
-          "text": "hif’il ongoing participle",
+          "text": "hif’il active participle",
           "type": "text"
          }
         ],
-        "targetSubtopic": "Hif’il Ongoing Participle",
-        "targetTopic": "Hif’il Ongoing Participle",
+        "targetSubtopic": "Hif’il Active Participle",
+        "targetTopic": "Hif’il Active Participle",
         "enclosingTopic": "The Mishnah on Kiddushin 41a",
         "enclosingSubtopic": "Instructions to figure out the meaning of מקדש"
        },
@@ -2236,16 +2236,16 @@
         "type": "text"
        },
        {
-        "text": "huf’al ongoing participle",
+        "text": "huf’al active participle",
         "type": "global",
         "tokens": [
          {
-          "text": "huf’al ongoing participle",
+          "text": "huf’al active participle",
           "type": "text"
          }
         ],
-        "targetSubtopic": "Huf’al Ongoing Participle",
-        "targetTopic": "Huf’al Ongoing Participle",
+        "targetSubtopic": "Huf’al Active Participle",
+        "targetTopic": "Huf’al Active Participle",
         "enclosingTopic": "The Mishnah on Kiddushin 41a",
         "enclosingSubtopic": "Instructions to figure out the meaning of מקדש"
        },
@@ -2265,7 +2265,7 @@
         "type": "text"
        },
        {
-        "text": "_pi’el_ ongoing participle",
+        "text": "_pi’el_ active participle",
         "type": "global",
         "tokens": [
          {
@@ -2278,12 +2278,12 @@
           ]
          },
          {
-          "text": " ongoing participle",
+          "text": " active participle",
           "type": "text"
          }
         ],
-        "targetSubtopic": "Pi’el Ongoing Participle",
-        "targetTopic": "Pi’el Ongoing Participle",
+        "targetSubtopic": "Pi’el Active Participle",
+        "targetTopic": "Pi’el Active Participle",
         "enclosingTopic": "The Mishnah on Kiddushin 41a",
         "enclosingSubtopic": "Instructions to figure out the meaning of מקדש"
        },
@@ -2303,7 +2303,7 @@
         "type": "text"
        },
        {
-        "text": "_pi’el_ ongoing participle for a regular shoresh in the masculine singular",
+        "text": "_pi’el_ active participle for a regular shoresh in the masculine singular",
         "type": "global",
         "tokens": [
          {
@@ -2316,12 +2316,12 @@
           ]
          },
          {
-          "text": " ongoing participle for a regular shoresh in the masculine singular",
+          "text": " active participle for a regular shoresh in the masculine singular",
           "type": "text"
          }
         ],
-        "targetSubtopic": "Pi’el Ongoing Participle for Regular Shorushim",
-        "targetTopic": "Pi’el Ongoing Participle for Regular Shorushim",
+        "targetSubtopic": "Pi’el Active Participle for Regular Shorushim",
+        "targetTopic": "Pi’el Active Participle for Regular Shorushim",
         "enclosingTopic": "The Mishnah on Kiddushin 41a",
         "enclosingSubtopic": "Instructions to figure out the meaning of מקדש"
        },
@@ -2414,14 +2414,10 @@
         "type": "italics",
         "tokens": [
          {
-          "text": "what?",
+          "text": "what?)",
           "type": "text"
          }
         ]
-       },
-       {
-        "text": ")",
-        "type": "text"
        }
       ],
       "children": []
@@ -2674,7 +2670,7 @@
     ]
    },
    {
-    "text": " finished participle tense of the shoresh שלח].",
+    "text": " passive participle tense of the shoresh שלח].",
     "type": "text"
    }
   ],
@@ -3050,7 +3046,33 @@
   ],
   "Why does it say the man?": [
    {
-    "text": "If the Mishnah wanted to say “any man can be mekadesh an isha using these methods,” why did it say “_the_ man can be mekadesh”, as if only some specific man can do it, instead of saying “_a_ man can be mekadesh,” ie any man? (Then it would read: איש מקדש, instead of האיש מקדש, because ",
+    "text": "If the Mishnah wanted to say “any man can be mekadesh an isha using these methods,” why did it say “",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "the",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " man can be mekadesh”, as if only some specific man can do it, instead of saying “",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "a",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " man can be mekadesh,” ie any man? (Then it would read: איש מקדש, instead of האיש מקדש, because ",
     "type": "text"
    },
    {

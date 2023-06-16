@@ -1,0 +1,214 @@
+{
+ "displayTopicName": "_Pe’al_ Imperative",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Pe’al",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " Imperative",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Pe’al Imperative": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "text": "_pe’al_",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pe’al",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Pe’al",
+    "targetTopic": "Pe’al",
+    "enclosingTopic": "Pe’al Imperative",
+    "enclosingSubtopic": "Pe’al Imperative"
+   },
+   {
+    "text": " has an ",
+    "type": "text"
+   },
+   {
+    "text": "imperative form",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "imperative form",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Imperative",
+    "targetTopic": "Imperative",
+    "enclosingTopic": "Pe’al Imperative",
+    "enclosingSubtopic": "Pe’al Imperative"
+   },
+   {
+    "text": ", which is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "“tenses” of the _pe’al_ binyan",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "“tenses” of the ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pe’al",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " binyan",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Pe’al Tenses",
+    "targetTopic": "Pe’al Tenses",
+    "enclosingTopic": "Pe’al Imperative",
+    "enclosingSubtopic": "Pe’al Imperative"
+   },
+   {
+    "text": ". ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pe’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " imperative form has ",
+        "type": "text"
+       },
+       {
+        "text": "conjugations for regular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "conjugations for regular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pe’al Imperative for regular shorushim",
+        "targetTopic": "Pe’al Imperative for regular shorushim",
+        "enclosingTopic": "Pe’al Imperative",
+        "enclosingSubtopic": "Pe’al Imperative"
+       },
+       {
+        "text": " (Conjugations for ",
+        "type": "text"
+       },
+       {
+        "text": "irregular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "irregular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Irregular shorushim",
+        "targetTopic": "Irregular shorushim",
+        "enclosingTopic": "Pe’al Imperative",
+        "enclosingSubtopic": "Pe’al Imperative"
+       },
+       {
+        "text": " are not yet available.)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pe’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " imperative form corresponds to the ",
+        "type": "text"
+       },
+       {
+        "text": "_pa’al_ imperative",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "pa’al",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " imperative",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pa’al Imperative",
+        "targetTopic": "Pa’al Imperative",
+        "enclosingTopic": "Pe’al Imperative",
+        "enclosingSubtopic": "Pe’al Imperative"
+       },
+       {
+        "text": " of Hebrew.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

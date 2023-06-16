@@ -1,0 +1,624 @@
+{
+ "displayTopicName": "Passive Participle",
+ "topicTokens": [
+  {
+   "text": "Passive Participle",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Passive Participle": [
+   {
+    "text": "The passive participle (sometimes called the “passive participle,” or ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "lashon pa’ul",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " or ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pa’il)",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " is a special type of word in Hebrew and Aramaic. ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "In English, an example of a “passive” participle is the word “written,” or the word “burnt.”",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "A passive participle represents the result of an action (eg “burnt”) as opposed to an ongoing action (eg “burning.”)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Students interested in grammar can read ",
+        "type": "text"
+       },
+       {
+        "text": "additional information about the passive participle",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "additional information about the passive participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Additional information about the passive participle",
+        "targetTopic": "Passive Participle",
+        "enclosingTopic": "Passive Participle",
+        "enclosingSubtopic": "Passive Participle"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "Additional information about the passive participle": [
+   {
+    "text": "Here is additional information about the passive participle: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Finished participles are adjectives that are formed from ",
+        "type": "text"
+       },
+       {
+        "text": "simple",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "simple",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Simple",
+        "targetTopic": "Simple",
+        "enclosingTopic": "Passive Participle",
+        "enclosingSubtopic": "Additional information about the passive participle"
+       },
+       {
+        "text": " verbs, for example “burnt” comes from the verb “to burn.”",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The passive participle in Hebrew looks like כָּתוּב (",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "kasuv)",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ", and in Aramaic like כְּתִיב (",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "kasiv)",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The passive participle only exists in certain binyanim, namely ",
+        "type": "text"
+       },
+       {
+        "text": "the Hebrew _pa’al_",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "the Hebrew ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "pa’al",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Pa’al",
+        "targetTopic": "Pa’al",
+        "enclosingTopic": "Passive Participle",
+        "enclosingSubtopic": "Additional information about the passive participle"
+       },
+       {
+        "text": " and ",
+        "type": "text"
+       },
+       {
+        "text": "the Aramaic pe’al",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "the Aramaic pe’al",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pe’al",
+        "targetTopic": "Pe’al",
+        "enclosingTopic": "Passive Participle",
+        "enclosingSubtopic": "Additional information about the passive participle"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "There are ",
+        "type": "text"
+       },
+       {
+        "text": "differences in meaning between the passive participle of active binyanim and the active participle of passive binyanim",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "differences in meaning between the passive participle of active binyanim and the active participle of passive binyanim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Differences in meaning between the passive participle of active binyanim and the active participle of passive binyanim",
+        "targetTopic": "Passive Participle",
+        "enclosingTopic": "Passive Participle",
+        "enclosingSubtopic": "Additional information about the passive participle"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Like ",
+        "type": "text"
+       },
+       {
+        "text": "the active participle",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "the active participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Active Participle",
+        "targetTopic": "Active Participle",
+        "enclosingTopic": "Passive Participle",
+        "enclosingSubtopic": "Additional information about the passive participle"
+       },
+       {
+        "text": ", the passive participle only has meaning in ",
+        "type": "text"
+       },
+       {
+        "text": "one of several “participle constructions”",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "one of several “participle constructions”",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Participle constructions",
+        "targetTopic": "Participle constructions",
+        "enclosingTopic": "Passive Participle",
+        "enclosingSubtopic": "Additional information about the passive participle"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "Differences in meaning between the passive participle of active binyanim and the active participle of passive binyanim": [
+   {
+    "text": "Many students confuse the passive participle of active binyanim like ",
+    "type": "text"
+   },
+   {
+    "text": "_pa’al_",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pa’al",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Pa’al",
+    "targetTopic": "Pa’al",
+    "enclosingTopic": "Passive Participle",
+    "enclosingSubtopic": "Differences in meaning between the passive participle of active binyanim and the active participle of passive binyanim"
+   },
+   {
+    "text": " and ",
+    "type": "text"
+   },
+   {
+    "text": "the active participle",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "the active participle",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Active Participle",
+    "targetTopic": "Active Participle",
+    "enclosingTopic": "Passive Participle",
+    "enclosingSubtopic": "Differences in meaning between the passive participle of active binyanim and the active participle of passive binyanim"
+   },
+   {
+    "text": " of ",
+    "type": "text"
+   },
+   {
+    "text": "passive binyanim",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "passive binyanim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Passive binyanim",
+    "targetTopic": "Passive binyanim",
+    "enclosingTopic": "Passive Participle",
+    "enclosingSubtopic": "Differences in meaning between the passive participle of active binyanim and the active participle of passive binyanim"
+   },
+   {
+    "text": ": ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "For example, what is the difference between the ",
+        "type": "text"
+       },
+       {
+        "text": "active _pa’al_ binyan’s passive participle",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "active ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "pa’al",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " binyan’s passive participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pa’al Passive Participle",
+        "targetTopic": "Pa’al Passive Participle",
+        "enclosingTopic": "Passive Participle",
+        "enclosingSubtopic": "Differences in meaning between the passive participle of active binyanim and the active participle of passive binyanim"
+       },
+       {
+        "text": ", כָּתוּב (",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "kasuv)",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ", and the ",
+        "type": "text"
+       },
+       {
+        "text": "passive _nif’al_ binyan’s active participle",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "passive ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "nif’al",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " binyan’s active participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Nif’al Active Participle",
+        "targetTopic": "Nif’al Active Participle",
+        "enclosingTopic": "Passive Participle",
+        "enclosingSubtopic": "Differences in meaning between the passive participle of active binyanim and the active participle of passive binyanim"
+       },
+       {
+        "text": ", נִכְתָּב ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "nichtav?",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "text": "simple",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "simple",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Simple",
+        "targetTopic": "Simple",
+        "enclosingTopic": "Passive Participle",
+        "enclosingSubtopic": "Differences in meaning between the passive participle of active binyanim and the active participle of passive binyanim"
+       },
+       {
+        "text": " ",
+        "type": "text"
+       },
+       {
+        "text": "passive",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "passive",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Passive",
+        "targetTopic": "Passive",
+        "enclosingTopic": "Passive Participle",
+        "enclosingSubtopic": "Differences in meaning between the passive participle of active binyanim and the active participle of passive binyanim"
+       },
+       {
+        "text": " binyanim i.e. ",
+        "type": "text"
+       },
+       {
+        "text": "the Hebrew _nif’al_",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "the Hebrew ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "nif’al",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Nif’al",
+        "targetTopic": "Nif’al",
+        "enclosingTopic": "Passive Participle",
+        "enclosingSubtopic": "Differences in meaning between the passive participle of active binyanim and the active participle of passive binyanim"
+       },
+       {
+        "text": " and ",
+        "type": "text"
+       },
+       {
+        "text": "the Aramaic _ispe’el_",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "the Aramaic ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "ispe’el",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Ispe’el",
+        "targetTopic": "Ispe’el",
+        "enclosingTopic": "Passive Participle",
+        "enclosingSubtopic": "Differences in meaning between the passive participle of active binyanim and the active participle of passive binyanim"
+       },
+       {
+        "text": " represent an ongoing action being done to the subject e.g. “it is ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "being",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " written” or “it is ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "regularly",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " written upon.”",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The passive participle כָּתוּב (",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "kasuv)",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ", by contrast, would mean “it is written,” without a connection to an ongoing action.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

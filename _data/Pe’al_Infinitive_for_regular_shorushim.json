@@ -1,0 +1,211 @@
+{
+ "displayTopicName": "_Pe’al_ Infinitive for regular shorushim",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Pe’al",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " Infinitive for regular shorushim",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Pe’al Infinitive for regular shorushim": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "text": "_pe’al_ infinitive form",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pe’al",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " infinitive form",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Pe’al Infinitive",
+    "targetTopic": "Pe’al Infinitive",
+    "enclosingTopic": "Pe’al Infinitive for regular shorushim",
+    "enclosingSubtopic": "Pe’al Infinitive for regular shorushim"
+   },
+   {
+    "text": " has the following conjugation pattern for ",
+    "type": "text"
+   },
+   {
+    "text": "regular shorushim",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "regular shorushim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Regular shorushim",
+    "targetTopic": "Regular shorushim",
+    "enclosingTopic": "Pe’al Infinitive for regular shorushim",
+    "enclosingSubtopic": "Pe’al Infinitive for regular shorushim"
+   },
+   {
+    "text": ": ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "‎לְמִכְתְּבָא‎, לְמִכְתַּב ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "l'michtav, l'micht'vau",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " to write",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "text": " ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "Grammar for Gemara",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pe’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " infinitive form corresponds to the ",
+        "type": "text"
+       },
+       {
+        "text": "_pa’al_ infinitive",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "pa’al",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " infinitive",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pa’al Infinitive",
+        "targetTopic": "Pa’al Infinitive",
+        "enclosingTopic": "Pe’al Infinitive for regular shorushim",
+        "enclosingSubtopic": "Pe’al Infinitive for regular shorushim"
+       },
+       {
+        "text": " of Hebrew.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

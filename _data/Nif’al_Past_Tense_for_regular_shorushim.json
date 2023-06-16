@@ -45,7 +45,7 @@
     "enclosingSubtopic": "Nif’al Past Tense for regular shorushim"
    },
    {
-    "text": " follows the following conjugations for ",
+    "text": " follows these conjugations for ",
     "type": "text"
    },
    {
@@ -127,12 +127,20 @@
       {
        "tokens": [
         {
-         "text": "נִכְבַּשְׁתִּי",
+         "text": "נִכְבַּשְׁתִּי ",
          "type": "text"
         },
         {
          "type": "html_element",
          "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
         },
         {
          "type": "italics",
@@ -144,11 +152,23 @@
          ]
         },
         {
+         "text": " ",
+         "type": "text"
+        },
+        {
          "type": "html_element",
          "html": "<br>"
         },
         {
-         "text": "I was conquered",
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " I was conquered",
          "type": "text"
         }
        ],
@@ -161,12 +181,20 @@
       {
        "tokens": [
         {
-         "text": "נִכְבַּשְׁנוּ",
+         "text": "נִכְבַּשְׁנוּ ",
          "type": "text"
         },
         {
          "type": "html_element",
          "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
         },
         {
          "type": "italics",
@@ -178,11 +206,23 @@
          ]
         },
         {
+         "text": " ",
+         "type": "text"
+        },
+        {
          "type": "html_element",
          "html": "<br>"
         },
         {
-         "text": "We were conquered",
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " We were conquered",
          "type": "text"
         }
        ],
@@ -218,6 +258,14 @@
          "html": "<br>"
         },
         {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
          "type": "italics",
          "tokens": [
           {
@@ -225,6 +273,18 @@
            "type": "text"
           }
          ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",
@@ -247,6 +307,14 @@
          "html": "<br>"
         },
         {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
          "type": "italics",
          "tokens": [
           {
@@ -254,6 +322,18 @@
            "type": "text"
           }
          ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",
@@ -276,6 +356,14 @@
          "html": "<br>"
         },
         {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
          "type": "italics",
          "tokens": [
           {
@@ -283,6 +371,18 @@
            "type": "text"
           }
          ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",
@@ -305,6 +405,14 @@
          "html": "<br>"
         },
         {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
          "type": "italics",
          "tokens": [
           {
@@ -312,6 +420,18 @@
            "type": "text"
           }
          ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",
@@ -349,6 +469,14 @@
          "html": "<br>"
         },
         {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
          "type": "italics",
          "tokens": [
           {
@@ -356,6 +484,18 @@
            "type": "text"
           }
          ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",
@@ -378,6 +518,14 @@
          "html": "<br>"
         },
         {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
          "type": "italics",
          "tokens": [
           {
@@ -385,6 +533,18 @@
            "type": "text"
           }
          ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",
@@ -407,6 +567,14 @@
          "html": "<br>"
         },
         {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
          "type": "italics",
          "tokens": [
           {
@@ -414,6 +582,18 @@
            "type": "text"
           }
          ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",

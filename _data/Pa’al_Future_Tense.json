@@ -22,16 +22,30 @@
     "type": "text"
    },
    {
-    "type": "italics",
+    "text": "_pa’al_ binyan",
+    "type": "global",
     "tokens": [
      {
-      "text": "pa’al",
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pa’al",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " binyan",
       "type": "text"
      }
-    ]
+    ],
+    "targetSubtopic": "Pa’al",
+    "targetTopic": "Pa’al",
+    "enclosingTopic": "Pa’al Future Tense",
+    "enclosingSubtopic": "Pa’al Future Tense"
    },
    {
-    "text": " binyan has a ",
+    "text": " has a ",
     "type": "text"
    },
    {
@@ -74,8 +88,8 @@
       "type": "text"
      }
     ],
-    "targetSubtopic": "Pa’al Forms",
-    "targetTopic": "Pa’al Forms",
+    "targetSubtopic": "Pa’al Tenses",
+    "targetTopic": "Pa’al Tenses",
     "enclosingTopic": "Pa’al Future Tense",
     "enclosingSubtopic": "Pa’al Future Tense"
    },
@@ -121,7 +135,25 @@
         "enclosingSubtopic": "Pa’al Future Tense"
        },
        {
-        "text": ".",
+        "text": ". (Conjugations for ",
+        "type": "text"
+       },
+       {
+        "text": "irregular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "irregular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Irregular shorushim",
+        "targetTopic": "Irregular shorushim",
+        "enclosingTopic": "Pa’al Future Tense",
+        "enclosingSubtopic": "Pa’al Future Tense"
+       },
+       {
+        "text": " are not yet available.)",
         "type": "text"
        }
       ],
@@ -145,7 +177,34 @@
         ]
        },
        {
-        "text": " future tense has conjugations for irregular shorushim which will be added at a later time.",
+        "text": " future tense corresponds to the ",
+        "type": "text"
+       },
+       {
+        "text": "_pe’al_ future tense",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "pe’al",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " future tense",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pe’al Future Tense",
+        "targetTopic": "Pe’al Future Tense",
+        "enclosingTopic": "Pa’al Future Tense",
+        "enclosingSubtopic": "Pa’al Future Tense"
+       },
+       {
+        "text": " of Aramaic.",
         "type": "text"
        }
       ],

@@ -214,7 +214,20 @@
     ]
    },
    {
-    "text": "בית, “*in* the house.”",
+    "text": "בית, “",
+    "type": "text"
+   },
+   {
+    "type": "bold",
+    "tokens": [
+     {
+      "text": "in",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " the house.”",
     "type": "text"
    }
   ],

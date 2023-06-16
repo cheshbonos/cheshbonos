@@ -1,0 +1,169 @@
+{
+ "displayTopicName": "_Huf’al_ tenses for regular shorushim",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Huf’al",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " tenses for regular shorushim",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Huf’al tenses for regular shorushim": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "huf’al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " binyan has conjugations for regular shorushim, along with ",
+    "type": "text"
+   },
+   {
+    "text": "forms for other shoresh types",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "forms for other shoresh types",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Huf’al tenses for different shoresh types",
+    "targetTopic": "Huf’al tenses for different shoresh types",
+    "enclosingTopic": "Huf’al tenses for regular shorushim",
+    "enclosingSubtopic": "Huf’al tenses for regular shorushim"
+   },
+   {
+    "text": ", in three forms: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "Past Tense <br> (for regular shorushim in the _huf’al)_",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Past Tense ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (for regular shorushim in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "huf’al)",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Huf’al Past Tense for regular shorushim",
+         "targetTopic": "Huf’al Past Tense for regular shorushim",
+         "enclosingTopic": "Huf’al tenses for regular shorushim",
+         "enclosingSubtopic": "Huf’al tenses for regular shorushim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Future Tense <br> (for regular shorushim in the _huf’al)_",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Future Tense ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (for regular shorushim in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "huf’al)",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Huf’al Future Tense for regular shorushim",
+         "targetTopic": "Huf’al Future Tense for regular shorushim",
+         "enclosingTopic": "Huf’al tenses for regular shorushim",
+         "enclosingSubtopic": "Huf’al tenses for regular shorushim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Active Participle <br> (for regular shorushim in the _huf’al)_",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Active Participle ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (for regular shorushim in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "huf’al)",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Huf’al Active Participle for Regular Shorushim",
+         "targetTopic": "Huf’al Active Participle for Regular Shorushim",
+         "enclosingTopic": "Huf’al tenses for regular shorushim",
+         "enclosingSubtopic": "Huf’al tenses for regular shorushim"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ]
+ }
+}

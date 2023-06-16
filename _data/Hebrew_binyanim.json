@@ -230,12 +230,16 @@
          "enclosingSubtopic": "Hebrew binyanim"
         },
         {
-         "text": ",",
+         "text": ", ",
          "type": "text"
         },
         {
          "type": "html_element",
          "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
         },
         {
          "text": "_Nispa’el_",

@@ -1,0 +1,215 @@
+{
+ "displayTopicName": "Pu’al Tenses",
+ "topicTokens": [
+  {
+   "text": "Pu’al Tenses",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Pu’al Tenses": [
+   {
+    "text": "Verbs in the ",
+    "type": "text"
+   },
+   {
+    "text": "_pu’al_",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pu’al",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Pu’al",
+    "targetTopic": "Pu’al",
+    "enclosingTopic": "Pu’al Tenses",
+    "enclosingSubtopic": "Pu’al Tenses"
+   },
+   {
+    "text": " have conjugations in various “tenses”: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "Past Tense <br> (of the _pu’al_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Past Tense ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "pu’al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Pu’al Past Tense",
+         "targetTopic": "Pu’al Past Tense",
+         "enclosingTopic": "Pu’al Tenses",
+         "enclosingSubtopic": "Pu’al Tenses"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Future Tense <br> (of the _pu’al_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Future Tense ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "pu’al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Pu’al Future Tense",
+         "targetTopic": "Pu’al Future Tense",
+         "enclosingTopic": "Pu’al Tenses",
+         "enclosingSubtopic": "Pu’al Tenses"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Active Participle <br> (of the _pu’al_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Active Participle ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "pu’al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Pu’al Active Participle",
+         "targetTopic": "Pu’al Active Participle",
+         "enclosingTopic": "Pu’al Tenses",
+         "enclosingSubtopic": "Pu’al Tenses"
+        }
+       ],
+       "rowspan": 2
+      }
+     ],
+     [
+      {
+       "tokens": [],
+       "merge": true
+      },
+      {
+       "tokens": [
+        {
+         "text": "Infinitive <br> (of the _pu’al_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Infinitive ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "pu’al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Pu’al Infinitive",
+         "targetTopic": "Pu’al Infinitive",
+         "enclosingTopic": "Pu’al Tenses",
+         "enclosingSubtopic": "Pu’al Tenses"
+        }
+       ],
+       "colspan": 2
+      },
+      {
+       "tokens": [],
+       "merge": true
+      }
+     ]
+    ]
+   }
+  ]
+ }
+}

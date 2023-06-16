@@ -72,7 +72,25 @@
         "enclosingSubtopic": "Pi’el Future Tense"
        },
        {
-        "text": ".",
+        "text": ". (Conjugations for ",
+        "type": "text"
+       },
+       {
+        "text": "irregular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "irregular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Irregular shorushim",
+        "targetTopic": "Irregular shorushim",
+        "enclosingTopic": "Pi’el Future Tense",
+        "enclosingSubtopic": "Pi’el Future Tense"
+       },
+       {
+        "text": " are not yet available.)",
         "type": "text"
        }
       ],
@@ -96,7 +114,34 @@
         ]
        },
        {
-        "text": " future tense has conjugations for irregular shorushim which will be added at a later time.",
+        "text": " future tense corresponds to the ",
+        "type": "text"
+       },
+       {
+        "text": "_pa’el_ future tense",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "pa’el",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " future tense",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pa’el Future Tense",
+        "targetTopic": "Pa’el Future Tense",
+        "enclosingTopic": "Pi’el Future Tense",
+        "enclosingSubtopic": "Pi’el Future Tense"
+       },
+       {
+        "text": " of Aramaic.",
         "type": "text"
        }
       ],

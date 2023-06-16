@@ -22,16 +22,30 @@
     "type": "text"
    },
    {
-    "type": "italics",
+    "text": "_hif’il_ binyan",
+    "type": "global",
     "tokens": [
      {
-      "text": "hif’il",
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "hif’il",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " binyan",
       "type": "text"
      }
-    ]
+    ],
+    "targetSubtopic": "Hif’il",
+    "targetTopic": "Hif’il",
+    "enclosingTopic": "Hif’il Future Tense",
+    "enclosingSubtopic": "Hif’il Future Tense"
    },
    {
-    "text": " binyan has a ",
+    "text": " has a ",
     "type": "text"
    },
    {
@@ -53,11 +67,11 @@
     "type": "text"
    },
    {
-    "text": "forms of the _hif’il_ binyan",
+    "text": "“tenses” of the _hif’il_ binyan",
     "type": "global",
     "tokens": [
      {
-      "text": "forms of the ",
+      "text": "“tenses” of the ",
       "type": "text"
      },
      {
@@ -74,8 +88,8 @@
       "type": "text"
      }
     ],
-    "targetSubtopic": "Hif’il Forms",
-    "targetTopic": "Hif’il Forms",
+    "targetSubtopic": "Hif’il Tenses",
+    "targetTopic": "Hif’il Tenses",
     "enclosingTopic": "Hif’il Future Tense",
     "enclosingSubtopic": "Hif’il Future Tense"
    },
@@ -121,31 +135,25 @@
         "enclosingSubtopic": "Hif’il Future Tense"
        },
        {
-        "text": ".",
-        "type": "text"
-       }
-      ],
-      "children": []
-     },
-     {
-      "ordinal": "-",
-      "ordered": false,
-      "tokensOfLine": [
-       {
-        "text": "The ",
+        "text": ". (Conjugations for ",
         "type": "text"
        },
        {
-        "type": "italics",
+        "text": "irregular shorushim",
+        "type": "global",
         "tokens": [
          {
-          "text": "hif’il",
+          "text": "irregular shorushim",
           "type": "text"
          }
-        ]
+        ],
+        "targetSubtopic": "Irregular shorushim",
+        "targetTopic": "Irregular shorushim",
+        "enclosingTopic": "Hif’il Future Tense",
+        "enclosingSubtopic": "Hif’il Future Tense"
        },
        {
-        "text": " future tense has forms for irregular shorushim which will be added at a later time.",
+        "text": " are not yet available.)",
         "type": "text"
        }
       ],

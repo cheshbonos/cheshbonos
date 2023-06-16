@@ -59,7 +59,25 @@
         "enclosingSubtopic": "Pi’el Past Tense"
        },
        {
-        "text": ".",
+        "text": ". (Conjugations for ",
+        "type": "text"
+       },
+       {
+        "text": "irregular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "irregular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Irregular shorushim",
+        "targetTopic": "Irregular shorushim",
+        "enclosingTopic": "Pi’el Past Tense",
+        "enclosingSubtopic": "Pi’el Past Tense"
+       },
+       {
+        "text": " are not yet available.)",
         "type": "text"
        }
       ],
@@ -83,7 +101,34 @@
         ]
        },
        {
-        "text": " past tense has conjugations for irregular shorushim which will be added at a later time.",
+        "text": " past tense corresponds to the ",
+        "type": "text"
+       },
+       {
+        "text": "_pa’el_ past tense",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "pa’el",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " past tense",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pa’el Past Tense",
+        "targetTopic": "Pa’el Past Tense",
+        "enclosingTopic": "Pi’el Past Tense",
+        "enclosingSubtopic": "Pi’el Past Tense"
+       },
+       {
+        "text": " of Aramaic.",
         "type": "text"
        }
       ],

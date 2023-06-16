@@ -84,7 +84,7 @@
          "type": "bold",
          "tokens": [
           {
-           "text": "Expected",
+           "text": "Expected ",
            "type": "text"
           },
           {
@@ -92,7 +92,7 @@
            "html": "<br>"
           },
           {
-           "text": "Conjugation",
+           "text": " Conjugation",
            "type": "text"
           }
          ]
@@ -105,7 +105,7 @@
          "type": "bold",
          "tokens": [
           {
-           "text": " Real",
+           "text": " Real ",
            "type": "text"
           },
           {
@@ -113,7 +113,7 @@
            "html": "<br>"
           },
           {
-           "text": "Conjugation",
+           "text": " Conjugation",
            "type": "text"
           }
          ]
@@ -161,14 +161,10 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "mayshiv",
+           "text": "mayshiv)",
            "type": "text"
           }
          ]
-        },
-        {
-         "text": ")",
-         "type": "text"
         }
        ]
       },
@@ -182,14 +178,10 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "moshiv",
+           "text": "moshiv)",
            "type": "text"
           }
          ]
-        },
-        {
-         "text": ")",
-         "type": "text"
         }
        ]
       },
@@ -229,14 +221,10 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "manpil",
+           "text": "manpil)",
            "type": "text"
           }
          ]
-        },
-        {
-         "text": ")",
-         "type": "text"
         }
        ]
       },
@@ -250,14 +238,10 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "map’pil",
+           "text": "map’pil)",
            "type": "text"
           }
          ]
-        },
-        {
-         "text": ")",
-         "type": "text"
         }
        ]
       },
@@ -297,14 +281,10 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "baunah’ti",
+           "text": "baunah’ti)",
            "type": "text"
           }
          ]
-        },
-        {
-         "text": ")",
-         "type": "text"
         }
        ]
       },
@@ -318,14 +298,10 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "bauniti",
+           "text": "bauniti)",
            "type": "text"
           }
          ]
-        },
-        {
-         "text": ")",
-         "type": "text"
         }
        ]
       },

@@ -13,11 +13,11 @@
     "type": "text"
    },
    {
-    "text": "Hebrew binyanim",
+    "text": "hebrew binyanim",
     "type": "global",
     "tokens": [
      {
-      "text": "Hebrew binyanim",
+      "text": "hebrew binyanim",
       "type": "text"
      }
     ],
@@ -297,8 +297,8 @@
           "type": "text"
          }
         ],
-        "targetSubtopic": "Huf’al Forms",
-        "targetTopic": "Huf’al Forms",
+        "targetSubtopic": "Huf’al Tenses",
+        "targetTopic": "Huf’al Tenses",
         "enclosingTopic": "Huf’al",
         "enclosingSubtopic": "More information about the Huf’al"
        },
@@ -331,16 +331,16 @@
         "type": "text"
        },
        {
-        "text": "forms for different shoresh types",
+        "text": "tenses for different shoresh types",
         "type": "global",
         "tokens": [
          {
-          "text": "forms for different shoresh types",
+          "text": "tenses for different shoresh types",
           "type": "text"
          }
         ],
-        "targetSubtopic": "Huf’al forms for different shoresh types",
-        "targetTopic": "Huf’al forms for different shoresh types",
+        "targetSubtopic": "Huf’al tenses for different shoresh types",
+        "targetTopic": "Huf’al tenses for different shoresh types",
         "enclosingTopic": "Huf’al",
         "enclosingSubtopic": "More information about the Huf’al"
        },

@@ -1,0 +1,255 @@
+{
+ "displayTopicName": "_Pa’el_ Passive Participle",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Pa’el",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " Passive Participle",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Pa’el Passive Participle": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pa’el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " has a ",
+    "type": "text"
+   },
+   {
+    "text": "passive participle form",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "passive participle form",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Passive Participle",
+    "targetTopic": "Passive Participle",
+    "enclosingTopic": "Pa’el Passive Participle",
+    "enclosingSubtopic": "Pa’el Passive Participle"
+   },
+   {
+    "text": ", which is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "“tenses” of the _pa’el_ binyan",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "“tenses” of the ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pa’el",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " binyan",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Pa’el Tenses",
+    "targetTopic": "Pa’el Tenses",
+    "enclosingTopic": "Pa’el Passive Participle",
+    "enclosingSubtopic": "Pa’el Passive Participle"
+   },
+   {
+    "text": ". ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pa’el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " passive participle has ",
+        "type": "text"
+       },
+       {
+        "text": "conjugations for regular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "conjugations for regular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pa’el Passive Participle for Regular Shorushim",
+        "targetTopic": "Pa’el Passive Participle for Regular Shorushim",
+        "enclosingTopic": "Pa’el Passive Participle",
+        "enclosingSubtopic": "Pa’el Passive Participle"
+       },
+       {
+        "text": ". (Conjugations for ",
+        "type": "text"
+       },
+       {
+        "text": "irregular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "irregular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Irregular shorushim",
+        "targetTopic": "Irregular shorushim",
+        "enclosingTopic": "Pa’el Passive Participle",
+        "enclosingSubtopic": "Pa’el Passive Participle"
+       },
+       {
+        "text": " are not yet available.)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pa’el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " passive participle describes the result of a finished action, as opposed to the ",
+        "type": "text"
+       },
+       {
+        "text": "_pa’el’s_ active participle",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "pa’el’s",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " active participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pa’el Active Participle",
+        "targetTopic": "Pa’el Active Participle",
+        "enclosingTopic": "Pa’el Passive Participle",
+        "enclosingSubtopic": "Pa’el Passive Participle"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pa’el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " passive participle corresponds most closely to the ",
+        "type": "text"
+       },
+       {
+        "text": "_pu’al_ active participle",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "pu’al",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " active participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pu’al Active Participle",
+        "targetTopic": "Pu’al Active Participle",
+        "enclosingTopic": "Pa’el Passive Participle",
+        "enclosingSubtopic": "Pa’el Passive Participle"
+       },
+       {
+        "text": " of Hebrew.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

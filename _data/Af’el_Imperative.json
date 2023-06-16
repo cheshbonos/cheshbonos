@@ -1,0 +1,204 @@
+{
+ "displayTopicName": "_Af’el_ Imperative",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Af’el",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " Imperative",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Af’el Imperative": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "af’el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " binyan has an ",
+    "type": "text"
+   },
+   {
+    "text": "imperative form",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "imperative form",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Imperative",
+    "targetTopic": "Imperative",
+    "enclosingTopic": "Af’el Imperative",
+    "enclosingSubtopic": "Af’el Imperative"
+   },
+   {
+    "text": ", which is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "“tenses” of the _af’el_ binyan",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "“tenses” of the ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "af’el",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " binyan",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Af’el Tenses",
+    "targetTopic": "Af’el Tenses",
+    "enclosingTopic": "Af’el Imperative",
+    "enclosingSubtopic": "Af’el Imperative"
+   },
+   {
+    "text": ". ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "af’el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " imperative form has ",
+        "type": "text"
+       },
+       {
+        "text": "conjugations for regular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "conjugations for regular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Af’el Imperative for regular shorushim",
+        "targetTopic": "Af’el Imperative for regular shorushim",
+        "enclosingTopic": "Af’el Imperative",
+        "enclosingSubtopic": "Af’el Imperative"
+       },
+       {
+        "text": " (Conjugations for ",
+        "type": "text"
+       },
+       {
+        "text": "irregular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "irregular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Irregular shorushim",
+        "targetTopic": "Irregular shorushim",
+        "enclosingTopic": "Af’el Imperative",
+        "enclosingSubtopic": "Af’el Imperative"
+       },
+       {
+        "text": " are not yet available.)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "af’el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " imperative form corresponds to the ",
+        "type": "text"
+       },
+       {
+        "text": "_hif’il_ imperative",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "hif’il",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " imperative",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Hif’il Imperative",
+        "targetTopic": "Hif’il Imperative",
+        "enclosingTopic": "Af’el Imperative",
+        "enclosingSubtopic": "Af’el Imperative"
+       },
+       {
+        "text": " of Hebrew.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

@@ -1,0 +1,478 @@
+{
+ "displayTopicName": "_Af’el_ Active Participle for Regular Shorushim without pronoun suffixes",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Af’el",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " Active Participle for Regular Shorushim without pronoun suffixes",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Af’el Active Participle for Regular Shorushim without pronoun suffixes": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "text": "_af’el_ active participle form",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "af’el",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " active participle form",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Af’el Active Participle",
+    "targetTopic": "Af’el Active Participle",
+    "enclosingTopic": "Af’el Active Participle for Regular Shorushim without pronoun suffixes",
+    "enclosingSubtopic": "Af’el Active Participle for Regular Shorushim without pronoun suffixes"
+   },
+   {
+    "text": " has the following conjugation pattern for ",
+    "type": "text"
+   },
+   {
+    "text": "regular shorushim",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "regular shorushim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Regular shorushim",
+    "targetTopic": "Regular shorushim",
+    "enclosingTopic": "Af’el Active Participle for Regular Shorushim without pronoun suffixes",
+    "enclosingSubtopic": "Af’el Active Participle for Regular Shorushim without pronoun suffixes"
+   },
+   {
+    "text": " when not using ",
+    "type": "text"
+   },
+   {
+    "text": "pronoun suffixes",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "pronoun suffixes",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Pronoun suffixes",
+    "targetTopic": "Pronoun suffixes",
+    "enclosingTopic": "Af’el Active Participle for Regular Shorushim without pronoun suffixes",
+    "enclosingSubtopic": "Af’el Active Participle for Regular Shorushim without pronoun suffixes"
+   },
+   {
+    "text": ": ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": []
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Masculine",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Feminine",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Singular",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "מַפְקֵיד ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "mafkeid",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " [he is] depositing",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "מַפְקֵידָ(א/ה) ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "mafkeidau",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " [she is] despositing",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Plural",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "‎מַפְקְדִי/ן ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "maf’k’di/n",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " [those men are] ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " despositing",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "מַפְקְדָן ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "maf’k’dan",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " [those women are] ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " despositing",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "text": " ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "There is also a form of the ",
+        "type": "text"
+       },
+       {
+        "text": "_af’el_ active participle for regular shorushim with pronoun suffixes",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "af’el",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " active participle for regular shorushim with pronoun suffixes",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Af’el Active Participle for Regular Shorushim with pronoun suffixes",
+        "targetTopic": "Af’el Active Participle for Regular Shorushim with pronoun suffixes",
+        "enclosingTopic": "Af’el Active Participle for Regular Shorushim without pronoun suffixes",
+        "enclosingSubtopic": "Af’el Active Participle for Regular Shorushim without pronoun suffixes"
+       },
+       {
+        "text": ", (Aramaic has what are called ",
+        "type": "text"
+       },
+       {
+        "text": "“pronoun suffixes.”",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "“pronoun suffixes.”",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pronoun suffixes",
+        "targetTopic": "Pronoun suffixes",
+        "enclosingTopic": "Af’el Active Participle for Regular Shorushim without pronoun suffixes",
+        "enclosingSubtopic": "Af’el Active Participle for Regular Shorushim without pronoun suffixes"
+       },
+       {
+        "text": ")",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Aramaic being a less-formal spoken language often has several versions of the same word.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "For any regular shoresh, you can replace the letters ‎פ, ‎ק, and ד above with the letters of your shoresh to produce the proper conjugations.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "Grammar for Gemara",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

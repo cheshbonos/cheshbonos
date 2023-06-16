@@ -417,21 +417,21 @@
         "type": "text"
        },
        {
-        "text": "_ispe’el_",
+        "text": "_ispa’al_",
         "type": "global",
         "tokens": [
          {
           "type": "italics",
           "tokens": [
            {
-            "text": "ispe’el",
+            "text": "ispa’al",
             "type": "text"
            }
           ]
          }
         ],
-        "targetSubtopic": "Ispe’el",
-        "targetTopic": "Ispe’el",
+        "targetSubtopic": "Ispa’al",
+        "targetTopic": "Ispa’al",
         "enclosingTopic": "Intensive",
         "enclosingSubtopic": "Several intensive binyanim in Hebrew and Aramaic"
        }

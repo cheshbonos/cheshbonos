@@ -68,7 +68,25 @@
         "enclosingSubtopic": "Pi’el Infinitive"
        },
        {
-        "text": ".",
+        "text": ". (Conjugations for ",
+        "type": "text"
+       },
+       {
+        "text": "irregular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "irregular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Irregular shorushim",
+        "targetTopic": "Irregular shorushim",
+        "enclosingTopic": "Pi’el Infinitive",
+        "enclosingSubtopic": "Pi’el Infinitive"
+       },
+       {
+        "text": " are not yet available.)",
         "type": "text"
        }
       ],
@@ -79,7 +97,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "There are ",
+        "text": "The ",
         "type": "text"
        },
        {
@@ -92,7 +110,34 @@
         ]
        },
        {
-        "text": " infinitive forms for irregular shorushim which will be added at a later time.",
+        "text": " infinitive corresponds to the ",
+        "type": "text"
+       },
+       {
+        "text": "_pa’el_ infinitive",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "pa’el",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " infinitive",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pa’el Infinitive",
+        "targetTopic": "Pa’el Infinitive",
+        "enclosingTopic": "Pi’el Infinitive",
+        "enclosingSubtopic": "Pi’el Infinitive"
+       },
+       {
+        "text": " of Aramaic.",
         "type": "text"
        }
       ],

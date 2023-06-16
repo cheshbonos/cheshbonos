@@ -1,0 +1,249 @@
+{
+ "displayTopicName": "Nif’al Tenses",
+ "topicTokens": [
+  {
+   "text": "Nif’al Tenses",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Nif’al Tenses": [
+   {
+    "text": "Verbs in the ",
+    "type": "text"
+   },
+   {
+    "text": "_nif’al_",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "nif’al",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Nif’al",
+    "targetTopic": "Nif’al",
+    "enclosingTopic": "Nif’al Tenses",
+    "enclosingSubtopic": "Nif’al Tenses"
+   },
+   {
+    "text": " have various “tenses”: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "Past Tense <br> (of the _Nif’al_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Past Tense ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Nif’al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Nif’al Past Tense",
+         "targetTopic": "Nif’al Past Tense",
+         "enclosingTopic": "Nif’al Tenses",
+         "enclosingSubtopic": "Nif’al Tenses"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Future Tense <br> (of the _Nif’al_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Future Tense ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Nif’al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Nif’al Future Tense",
+         "targetTopic": "Nif’al Future Tense",
+         "enclosingTopic": "Nif’al Tenses",
+         "enclosingSubtopic": "Nif’al Tenses"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Active Participle <br> (of the _Nif’al_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Active Participle ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Nif’al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Nif’al Active Participle",
+         "targetTopic": "Nif’al Active Participle",
+         "enclosingTopic": "Nif’al Tenses",
+         "enclosingSubtopic": "Nif’al Tenses"
+        }
+       ],
+       "rowspan": 2
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Imperative <br> (of the _Nif’al_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Imperative ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Nif’al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Nif’al Imperative",
+         "targetTopic": "Nif’al Imperative",
+         "enclosingTopic": "Nif’al Tenses",
+         "enclosingSubtopic": "Nif’al Tenses"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Infinitive <br> (of the _Nif’al_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Infinitive ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Nif’al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Nif’al Infinitive",
+         "targetTopic": "Nif’al Infinitive",
+         "enclosingTopic": "Nif’al Tenses",
+         "enclosingSubtopic": "Nif’al Tenses"
+        }
+       ]
+      },
+      {
+       "tokens": [],
+       "merge": true
+      }
+     ]
+    ]
+   }
+  ]
+ }
+}

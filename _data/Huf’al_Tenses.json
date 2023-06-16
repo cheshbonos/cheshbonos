@@ -1,0 +1,215 @@
+{
+ "displayTopicName": "Huf’al Tenses",
+ "topicTokens": [
+  {
+   "text": "Huf’al Tenses",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Huf’al Tenses": [
+   {
+    "text": "Verbs in the ",
+    "type": "text"
+   },
+   {
+    "text": "_huf’al_",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "huf’al",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Huf’al",
+    "targetTopic": "Huf’al",
+    "enclosingTopic": "Huf’al Tenses",
+    "enclosingSubtopic": "Huf’al Tenses"
+   },
+   {
+    "text": " have conjugations in various “tenses”: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "Past Tense <br> (of the _huf’al_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Past Tense ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "huf’al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Huf’al Past Tense",
+         "targetTopic": "Huf’al Past Tense",
+         "enclosingTopic": "Huf’al Tenses",
+         "enclosingSubtopic": "Huf’al Tenses"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Future Tense <br> (of the _huf’al_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Future Tense ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "huf’al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Huf’al Future Tense",
+         "targetTopic": "Huf’al Future Tense",
+         "enclosingTopic": "Huf’al Tenses",
+         "enclosingSubtopic": "Huf’al Tenses"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Active Participle <br> (of the _huf’al_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Active Participle ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "huf’al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Huf’al Active Participle",
+         "targetTopic": "Huf’al Active Participle",
+         "enclosingTopic": "Huf’al Tenses",
+         "enclosingSubtopic": "Huf’al Tenses"
+        }
+       ],
+       "rowspan": 2
+      }
+     ],
+     [
+      {
+       "tokens": [],
+       "merge": true
+      },
+      {
+       "tokens": [
+        {
+         "text": "Infinitive <br> (of the _huf’al_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Infinitive ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "huf’al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Huf’al Infinitive",
+         "targetTopic": "Huf’al Infinitive",
+         "enclosingTopic": "Huf’al Tenses",
+         "enclosingSubtopic": "Huf’al Tenses"
+        }
+       ],
+       "colspan": 2
+      },
+      {
+       "tokens": [],
+       "merge": true
+      }
+     ]
+    ]
+   }
+  ]
+ }
+}

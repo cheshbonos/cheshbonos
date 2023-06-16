@@ -1,0 +1,368 @@
+{
+ "displayTopicName": "Pronoun suffixes",
+ "topicTokens": [
+  {
+   "text": "Pronoun suffixes",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Pronoun suffixes": [
+   {
+    "text": "In Aramaic, words in the ",
+    "type": "text"
+   },
+   {
+    "text": "participle",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "participle",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Participle",
+    "targetTopic": "Participle",
+    "enclosingTopic": "Pronoun suffixes",
+    "enclosingSubtopic": "Pronoun suffixes"
+   },
+   {
+    "text": " can have what are called “pronoun suffixes”: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Words like “running” which are called “participles” require a pronoun like “I” to clarify who is doing the action, eg “I am running.”",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "In Aramaic, we can attach the pronoun to the end of the verb, for example, כְּתֵיב (",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "kseiv",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ") means “writing,” אֲנָא (",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "anau",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ") means “I,” and the two together, כָּתֵיבְנָא (",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "kauseivna",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ") means “I am writing.”",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "(As in a regular sentence, combining a pronoun like “I” with an ",
+        "type": "text"
+       },
+       {
+        "text": "active participle",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "active participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Active Participle",
+        "targetTopic": "Active Participle",
+        "enclosingTopic": "Pronoun suffixes",
+        "enclosingSubtopic": "Pronoun suffixes"
+       },
+       {
+        "text": " forms the ",
+        "type": "text"
+       },
+       {
+        "text": "present tense",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "present tense",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Present tense",
+        "targetTopic": "Present tense",
+        "enclosingTopic": "Pronoun suffixes",
+        "enclosingSubtopic": "Pronoun suffixes"
+       },
+       {
+        "text": ".)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "These are the Aramaic words that get added as suffixes:",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "‎אֲנָא ‎ ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "anau",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "‎אַתְּ‎ ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "at",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " You [man or woman]",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "‎אֲנַן‎ ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "anan",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " We",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "‎אַתּוּ‎ ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "atu",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " You [men or women]",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ]
+ }
+}

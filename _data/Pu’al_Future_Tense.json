@@ -72,7 +72,25 @@
         "enclosingSubtopic": "Pu’al Future Tense"
        },
        {
-        "text": ".",
+        "text": ". (Conjugations for ",
+        "type": "text"
+       },
+       {
+        "text": "irregular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "irregular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Irregular shorushim",
+        "targetTopic": "Irregular shorushim",
+        "enclosingTopic": "Pu’al Future Tense",
+        "enclosingSubtopic": "Pu’al Future Tense"
+       },
+       {
+        "text": " are not yet available.)",
         "type": "text"
        }
       ],
@@ -96,7 +114,20 @@
         ]
        },
        {
-        "text": " future tense has conjugations for irregular shorushim which will be added at a later time.",
+        "text": " future tense corresponds to the [",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "ispa’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " future tense] of Aramaic.",
         "type": "text"
        }
       ],

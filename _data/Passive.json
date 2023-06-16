@@ -37,8 +37,22 @@
         "enclosingSubtopic": "Passive"
        },
        {
-        "text": ".",
+        "text": ", as opposed to ",
         "type": "text"
+       },
+       {
+        "text": "active verbs",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "active verbs",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Active",
+        "targetTopic": "Active",
+        "enclosingTopic": "Passive",
+        "enclosingSubtopic": "Passive"
        }
       ],
       "children": []

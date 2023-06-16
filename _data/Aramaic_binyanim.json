@@ -100,24 +100,6 @@
          "enclosingSubtopic": "Aramaic binyanim"
         }
        ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Reflexive",
-         "type": "global",
-         "tokens": [
-          {
-           "text": "Reflexive",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Reflexive",
-         "targetTopic": "Reflexive",
-         "enclosingTopic": "Aramaic binyanim",
-         "enclosingSubtopic": "Aramaic binyanim"
-        }
-       ]
       }
      ],
      [
@@ -207,30 +189,6 @@
          "enclosingSubtopic": "Aramaic binyanim"
         }
        ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "_Ispa’al_",
-         "type": "global",
-         "tokens": [
-          {
-           "type": "italics",
-           "tokens": [
-            {
-             "text": "Ispa’al",
-             "type": "text"
-            }
-           ]
-          }
-         ],
-         "targetSubtopic": "Ispa’al",
-         "targetTopic": "Ispa’al",
-         "enclosingTopic": "Aramaic binyanim",
-         "enclosingSubtopic": "Aramaic binyanim"
-        }
-       ],
-       "rowspan": 2
       }
      ],
      [
@@ -247,6 +205,24 @@
          ],
          "targetSubtopic": "Passive",
          "targetTopic": "Passive",
+         "enclosingTopic": "Aramaic binyanim",
+         "enclosingSubtopic": "Aramaic binyanim"
+        },
+        {
+         "text": " / ",
+         "type": "text"
+        },
+        {
+         "text": "Reflexive",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Reflexive",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Reflexive",
+         "targetTopic": "Reflexive",
          "enclosingTopic": "Aramaic binyanim",
          "enclosingSubtopic": "Aramaic binyanim"
         }
@@ -320,10 +296,6 @@
          "enclosingSubtopic": "Aramaic binyanim"
         }
        ]
-      },
-      {
-       "tokens": [],
-       "merge": true
       }
      ]
     ]

@@ -1,0 +1,255 @@
+{
+ "displayTopicName": "_Hispa’el_ tenses for regular shorushim",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Hispa’el",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " tenses for regular shorushim",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Hispa’el tenses for regular shorushim": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "hispa’el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " binyan has conjugations for regular shorushim, along with ",
+    "type": "text"
+   },
+   {
+    "text": "_hispa’el_ tenses for other shoresh types",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "hispa’el",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " tenses for other shoresh types",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Hispa’el tenses for different shoresh types",
+    "targetTopic": "Hispa’el tenses for different shoresh types",
+    "enclosingTopic": "Hispa’el tenses for regular shorushim",
+    "enclosingSubtopic": "Hispa’el tenses for regular shorushim"
+   },
+   {
+    "text": ", in five forms: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "Past Tense <br> (for regular shorushim in the _hispa’el)_",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Past Tense ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (for regular shorushim in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "hispa’el)",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Hispa’el Past Tense for regular shorushim",
+         "targetTopic": "Hispa’el Past Tense for regular shorushim",
+         "enclosingTopic": "Hispa’el tenses for regular shorushim",
+         "enclosingSubtopic": "Hispa’el tenses for regular shorushim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Future Tense <br> (for regular shorushim in the _hispa’el)_",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Future Tense ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (for regular shorushim in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "hispa’el)",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Hispa’el Future Tense for regular shorushim",
+         "targetTopic": "Hispa’el Future Tense for regular shorushim",
+         "enclosingTopic": "Hispa’el tenses for regular shorushim",
+         "enclosingSubtopic": "Hispa’el tenses for regular shorushim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Active Participle <br> (for regular shorushim in the _hispa’el)_",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Active Participle ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (for regular shorushim in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "hispa’el)",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Hispa’el Active Participle for Regular Shorushim",
+         "targetTopic": "Hispa’el Active Participle for Regular Shorushim",
+         "enclosingTopic": "Hispa’el tenses for regular shorushim",
+         "enclosingSubtopic": "Hispa’el tenses for regular shorushim"
+        }
+       ],
+       "rowspan": 2
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Imperative <br> (for regular shorushim in the _hispa’el)_",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Imperative ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (for regular shorushim in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "hispa’el)",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Hispa’el Imperative for regular shorushim",
+         "targetTopic": "Hispa’el Imperative for regular shorushim",
+         "enclosingTopic": "Hispa’el tenses for regular shorushim",
+         "enclosingSubtopic": "Hispa’el tenses for regular shorushim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Infinitive <br> (for regular shorushim in the _hispa’el)_",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Infinitive ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (for regular shorushim in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "hispa’el)",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Hispa’el Infinitive for regular shorushim",
+         "targetTopic": "Hispa’el Infinitive for regular shorushim",
+         "enclosingTopic": "Hispa’el tenses for regular shorushim",
+         "enclosingSubtopic": "Hispa’el tenses for regular shorushim"
+        }
+       ]
+      },
+      {
+       "tokens": [],
+       "merge": true
+      }
+     ]
+    ]
+   }
+  ]
+ }
+}

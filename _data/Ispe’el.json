@@ -9,20 +9,7 @@
  "paragraphsBySubtopic": {
   "Ispe’el": [
    {
-    "text": "The ",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "ispe’el",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " (אִתְפְּעֵל) is one of the ",
+    "text": "The “Ispe’el” (אִתְפְּעֵל) is one of the ",
     "type": "text"
    },
    {
@@ -68,6 +55,147 @@
       "ordered": false,
       "tokensOfLine": [
        {
+        "text": "A verb in the ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "ispe’el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " often has a meaning of something having the action of the ",
+        "type": "text"
+       },
+       {
+        "text": "shoresh",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "shoresh",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Shoresh",
+        "targetTopic": "Shoresh",
+        "enclosingTopic": "Ispe’el",
+        "enclosingSubtopic": "Ispe’el"
+       },
+       {
+        "text": " done to it.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "For example, the shoresh כתב means “writing,” and the ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "ispe’el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " verb אִתְכְּתִיב (",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "is’k’siv",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ") means “to be written or recorded.”",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Advanced students can read ",
+        "type": "text"
+       },
+       {
+        "text": "more information about the _ispe’el_",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "more information about the ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "ispe’el",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "More information about the ispe’el",
+        "targetTopic": "Ispe’el",
+        "enclosingTopic": "Ispe’el",
+        "enclosingSubtopic": "Ispe’el"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "More information about the ispe’el": [
+   {
+    "text": "Here is more information about the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "ispe’el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " binyan: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
         "text": "Verbs in the ",
         "type": "text"
        },
@@ -85,36 +213,120 @@
         "type": "text"
        },
        {
-        "text": "active",
+        "text": "passive",
         "type": "global",
         "tokens": [
          {
-          "text": "active",
+          "text": "passive",
           "type": "text"
          }
         ],
-        "targetSubtopic": "Active",
-        "targetTopic": "Active",
+        "targetSubtopic": "Passive",
+        "targetTopic": "Passive",
         "enclosingTopic": "Ispe’el",
-        "enclosingSubtopic": "Ispe’el"
+        "enclosingSubtopic": "More information about the ispe’el"
        },
        {
         "text": " and ",
         "type": "text"
        },
        {
-        "text": "causative",
+        "text": "simple",
         "type": "global",
         "tokens": [
          {
-          "text": "causative",
+          "text": "simple",
           "type": "text"
          }
         ],
-        "targetSubtopic": "Causative",
-        "targetTopic": "Causative",
+        "targetSubtopic": "Simple",
+        "targetTopic": "Simple",
         "enclosingTopic": "Ispe’el",
-        "enclosingSubtopic": "Ispe’el"
+        "enclosingSubtopic": "More information about the ispe’el"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "ispe’el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " ",
+        "type": "text"
+       },
+       {
+        "text": "has various verb forms",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "has various verb forms",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Ispe’el Tenses",
+        "targetTopic": "Ispe’el Tenses",
+        "enclosingTopic": "Ispe’el",
+        "enclosingSubtopic": "More information about the ispe’el"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "ispe’el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " has ",
+        "type": "text"
+       },
+       {
+        "text": "tenses for different shoresh types",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "tenses for different shoresh types",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Ispe’el tenses for different shoresh types",
+        "targetTopic": "Ispe’el tenses for different shoresh types",
+        "enclosingTopic": "Ispe’el",
+        "enclosingSubtopic": "More information about the ispe’el"
        },
        {
         "text": ".",
@@ -161,7 +373,7 @@
         "targetSubtopic": "Nif’al",
         "targetTopic": "Nif’al",
         "enclosingTopic": "Ispe’el",
-        "enclosingSubtopic": "Ispe’el"
+        "enclosingSubtopic": "More information about the ispe’el"
        },
        {
         "text": " in Hebrew.",

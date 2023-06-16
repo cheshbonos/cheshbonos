@@ -56,16 +56,16 @@
         "type": "text"
        },
        {
-        "text": "ongoing participle",
+        "text": "active participle",
         "type": "global",
         "tokens": [
          {
-          "text": "ongoing participle",
+          "text": "active participle",
           "type": "text"
          }
         ],
-        "targetSubtopic": "Ongoing Participle",
-        "targetTopic": "Ongoing Participle",
+        "targetSubtopic": "Active Participle",
+        "targetTopic": "Active Participle",
         "enclosingTopic": "Different things a מ at the start of a word could mean",
         "enclosingSubtopic": "Different things a מ at the start of a word could mean"
        },

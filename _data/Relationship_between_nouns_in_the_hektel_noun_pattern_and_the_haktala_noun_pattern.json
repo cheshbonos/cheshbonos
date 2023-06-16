@@ -193,7 +193,7 @@
       {
        "tokens": [
         {
-         "text": "בדל",
+         "text": "בדל ",
          "type": "text"
         },
         {
@@ -209,8 +209,12 @@
       {
        "tokens": [
         {
-         "text": "הִבְדִיל",
+         "text": "הִבְדִיל ",
          "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",
@@ -238,6 +242,14 @@
          "html": "<br>"
         },
         {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
          "text": " he seperated",
          "type": "text"
         }
@@ -246,8 +258,12 @@
       {
        "tokens": [
         {
-         "text": "הֶבְדֵּל",
+         "text": "הֶבְדֵּל ",
          "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",
@@ -275,6 +291,14 @@
          "html": "<br>"
         },
         {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
          "text": " a difference / seperation",
          "type": "text"
         }
@@ -283,8 +307,12 @@
       {
        "tokens": [
         {
-         "text": "הַבְדָּלָה",
+         "text": "הַבְדָּלָה ",
          "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",
@@ -312,7 +340,15 @@
          "html": "<br>"
         },
         {
-         "text": "an act of seperation",
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " an act of seperation",
          "type": "text"
         }
        ]
@@ -322,7 +358,7 @@
       {
        "tokens": [
         {
-         "text": "קדש",
+         "text": "קדש ",
          "type": "text"
         },
         {
@@ -338,8 +374,12 @@
       {
        "tokens": [
         {
-         "text": "הִקְדִּישׁ",
+         "text": "הִקְדִּישׁ ",
          "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",
@@ -367,6 +407,14 @@
          "html": "<br>"
         },
         {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
          "text": " he donated to the temple",
          "type": "text"
         }
@@ -377,6 +425,10 @@
         {
          "text": "הֶקְדֵּשׁ ",
          "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",
@@ -404,6 +456,14 @@
          "html": "<br>"
         },
         {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
          "text": " property of the temple",
          "type": "text"
         }
@@ -412,8 +472,12 @@
       {
        "tokens": [
         {
-         "text": "הַקְדָּשָׁה",
+         "text": "הַקְדָּשָׁה ",
          "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",
@@ -441,7 +505,15 @@
          "html": "<br>"
         },
         {
-         "text": " an act of donation",
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " an act of donation ",
          "type": "text"
         },
         {
@@ -459,7 +531,7 @@
       {
        "tokens": [
         {
-         "text": "קשר",
+         "text": "קשר ",
          "type": "text"
         },
         {
@@ -475,8 +547,12 @@
       {
        "tokens": [
         {
-         "text": "הִקְשִׁיר",
+         "text": "הִקְשִׁיר ",
          "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",
@@ -504,6 +580,14 @@
          "html": "<br>"
         },
         {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
          "text": " he connected",
          "type": "text"
         }
@@ -512,8 +596,12 @@
       {
        "tokens": [
         {
-         "text": "הֶקְשֵׁר",
+         "text": "הֶקְשֵׁר ",
          "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",
@@ -541,6 +629,14 @@
          "html": "<br>"
         },
         {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
          "text": " a connection",
          "type": "text"
         }
@@ -549,8 +645,12 @@
       {
        "tokens": [
         {
-         "text": "הַקְשָׁרָה",
+         "text": "הַקְשָׁרָה ",
          "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",
@@ -572,6 +672,14 @@
         {
          "text": " ",
          "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",

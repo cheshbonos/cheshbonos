@@ -39,11 +39,11 @@
     "type": "text"
    },
    {
-    "text": "Hebrew noun patterns",
+    "text": "hebrew noun patterns",
     "type": "global",
     "tokens": [
      {
-      "text": "Hebrew noun patterns",
+      "text": "hebrew noun patterns",
       "type": "text"
      }
     ],
@@ -146,6 +146,10 @@
          "html": "<br>"
         },
         {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
          "text": " ",
          "type": "text"
         },
@@ -161,6 +165,14 @@
         {
          "text": " ",
          "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",
@@ -183,6 +195,10 @@
          "html": "<br>"
         },
         {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
          "text": " ",
          "type": "text"
         },
@@ -198,6 +214,14 @@
         {
          "text": " ",
          "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",
@@ -238,6 +262,10 @@
          "html": "<br>"
         },
         {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
          "text": " ",
          "type": "text"
         },
@@ -253,6 +281,14 @@
         {
          "text": " ",
          "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",
@@ -275,6 +311,10 @@
          "html": "<br>"
         },
         {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
          "text": " ",
          "type": "text"
         },
@@ -290,6 +330,14 @@
         {
          "text": " ",
          "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",
@@ -330,6 +378,10 @@
          "html": "<br>"
         },
         {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
          "text": " ",
          "type": "text"
         },
@@ -345,6 +397,14 @@
         {
          "text": " ",
          "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",
@@ -367,6 +427,10 @@
          "html": "<br>"
         },
         {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
          "text": " ",
          "type": "text"
         },
@@ -382,6 +446,14 @@
         {
          "text": " ",
          "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",

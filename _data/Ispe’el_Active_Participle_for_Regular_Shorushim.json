@@ -1,0 +1,141 @@
+{
+ "displayTopicName": "_Ispe’el_ Active Participle for Regular Shorushim",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Ispe’el",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " Active Participle for Regular Shorushim",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Ispe’el Active Participle for Regular Shorushim": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "ispe’el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " active participle has two conjugations for regular shorushim: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "text": "_ispe’el_ active participle for regular shorushim without pronoun suffixes",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "ispe’el",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " active participle for regular shorushim without pronoun suffixes",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Ispe’el Active Participle for Regular Shorushim without pronoun suffixes",
+        "targetTopic": "Ispe’el Active Participle for Regular Shorushim without pronoun suffixes",
+        "enclosingTopic": "Ispe’el Active Participle for Regular Shorushim",
+        "enclosingSubtopic": "Ispe’el Active Participle for Regular Shorushim"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "text": "_ispe’el_ active participle for regular shorushim with pronoun suffixes",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "ispe’el",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " active participle for regular shorushim with pronoun suffixes",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Ispe’el Active Participle for Regular Shorushim with pronoun suffixes",
+        "targetTopic": "Ispe’el Active Participle for Regular Shorushim with pronoun suffixes",
+        "enclosingTopic": "Ispe’el Active Participle for Regular Shorushim",
+        "enclosingSubtopic": "Ispe’el Active Participle for Regular Shorushim"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "(Aramaic has what are called ",
+        "type": "text"
+       },
+       {
+        "text": "“pronoun suffixes.”",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "“pronoun suffixes.”",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pronoun suffixes",
+        "targetTopic": "Pronoun suffixes",
+        "enclosingTopic": "Ispe’el Active Participle for Regular Shorushim",
+        "enclosingSubtopic": "Ispe’el Active Participle for Regular Shorushim"
+       },
+       {
+        "text": ")",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

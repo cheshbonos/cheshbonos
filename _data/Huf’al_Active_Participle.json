@@ -1,0 +1,308 @@
+{
+ "displayTopicName": "_Huf’al_ Active Participle",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Huf’al",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " Active Participle",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Huf’al Active Participle": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "text": "_huf’al_ binyan",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "huf’al",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " binyan",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Huf’al",
+    "targetTopic": "Huf’al",
+    "enclosingTopic": "Huf’al Active Participle",
+    "enclosingSubtopic": "Huf’al Active Participle"
+   },
+   {
+    "text": " has an ",
+    "type": "text"
+   },
+   {
+    "text": "active participle form",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "active participle form",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Active Participle",
+    "targetTopic": "Active Participle",
+    "enclosingTopic": "Huf’al Active Participle",
+    "enclosingSubtopic": "Huf’al Active Participle"
+   },
+   {
+    "text": ", which is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "“tenses” of the _huf’al_ binyan",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "“tenses” of the ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "huf’al",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " binyan",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Huf’al Tenses",
+    "targetTopic": "Huf’al Tenses",
+    "enclosingTopic": "Huf’al Active Participle",
+    "enclosingSubtopic": "Huf’al Active Participle"
+   },
+   {
+    "text": ". ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "huf’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " active participle form has ",
+        "type": "text"
+       },
+       {
+        "text": "conjugations for the _huf’al_ active participle for regular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "conjugations for the ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "huf’al",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " active participle for regular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Huf’al Active Participle for Regular Shorushim",
+        "targetTopic": "Huf’al Active Participle for Regular Shorushim",
+        "enclosingTopic": "Huf’al Active Participle",
+        "enclosingSubtopic": "Huf’al Active Participle"
+       },
+       {
+        "text": ". (Conjugations for ",
+        "type": "text"
+       },
+       {
+        "text": "irregular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "irregular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Irregular shorushim",
+        "targetTopic": "Irregular shorushim",
+        "enclosingTopic": "Huf’al Active Participle",
+        "enclosingSubtopic": "Huf’al Active Participle"
+       },
+       {
+        "text": " will be added at a later time.)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Even though the ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "nif’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " has an ",
+        "type": "text"
+       },
+       {
+        "text": "active participle",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "active participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Active Participle",
+        "targetTopic": "Active Participle",
+        "enclosingTopic": "Huf’al Active Participle",
+        "enclosingSubtopic": "Huf’al Active Participle"
+       },
+       {
+        "text": ", because the ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "nif’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " is a ",
+        "type": "text"
+       },
+       {
+        "text": "passive binyan",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "passive binyan",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Passive binyanim",
+        "targetTopic": "Passive binyanim",
+        "enclosingTopic": "Huf’al Active Participle",
+        "enclosingSubtopic": "Huf’al Active Participle"
+       },
+       {
+        "text": ", the active participle still describes a ",
+        "type": "text"
+       },
+       {
+        "text": "passive action",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "passive action",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Passive",
+        "targetTopic": "Passive",
+        "enclosingTopic": "Huf’al Active Participle",
+        "enclosingSubtopic": "Huf’al Active Participle"
+       },
+       {
+        "text": " i.e. an action that is done to the subject.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "huf’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " active participle corresponds to the [",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "itaf’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " active participle] of Aramaic.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

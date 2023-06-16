@@ -61,8 +61,8 @@
       "type": "text"
      }
     ],
-    "targetSubtopic": "Nif’al Forms",
-    "targetTopic": "Nif’al Forms",
+    "targetSubtopic": "Nif’al Tenses",
+    "targetTopic": "Nif’al Tenses",
     "enclosingTopic": "Nif’al Infinitive",
     "enclosingSubtopic": "Nif’al Infinitive"
    },
@@ -108,31 +108,25 @@
         "enclosingSubtopic": "Nif’al Infinitive"
        },
        {
-        "text": ".",
-        "type": "text"
-       }
-      ],
-      "children": []
-     },
-     {
-      "ordinal": "-",
-      "ordered": false,
-      "tokensOfLine": [
-       {
-        "text": "The ",
+        "text": ". (Conjugations for ",
         "type": "text"
        },
        {
-        "type": "italics",
+        "text": "irregular shorushim",
+        "type": "global",
         "tokens": [
          {
-          "text": "nif’al",
+          "text": "irregular shorushim",
           "type": "text"
          }
-        ]
+        ],
+        "targetSubtopic": "Irregular shorushim",
+        "targetTopic": "Irregular shorushim",
+        "enclosingTopic": "Nif’al Infinitive",
+        "enclosingSubtopic": "Nif’al Infinitive"
        },
        {
-        "text": " has conjugations for irregular shorushim which will be added at a later time.",
+        "text": " are not yet available.)",
         "type": "text"
        }
       ],

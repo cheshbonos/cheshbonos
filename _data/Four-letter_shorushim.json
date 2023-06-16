@@ -299,6 +299,10 @@
          "html": "<br>"
         },
         {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
          "text": " ",
          "type": "text"
         },
@@ -346,6 +350,14 @@
          "html": "<br>"
         },
         {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
          "text": " he is saying",
          "type": "text"
         }
@@ -362,7 +374,7 @@
          "html": "<br>"
         },
         {
-         "text": "- The middle בּ (“b”) is said twice",
+         "text": " - The middle בּ (“b”) is said twice ",
          "type": "text"
         },
         {
@@ -417,6 +429,10 @@
          "html": "<br>"
         },
         {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
          "text": " ",
          "type": "text"
         },
@@ -464,6 +480,14 @@
          "html": "<br>"
         },
         {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
          "text": " he is liberating",
          "type": "text"
         }
@@ -472,7 +496,7 @@
       {
        "tokens": [
         {
-         "text": "- This is a four-letter shoresh",
+         "text": "- This is a four-letter shoresh ",
          "type": "text"
         },
         {
@@ -480,7 +504,7 @@
          "html": "<br>"
         },
         {
-         "text": "- First middle slot is used for ח (“ch”) ",
+         "text": " - First middle slot is used for ח (“ch”) ",
          "type": "text"
         },
         {
@@ -488,7 +512,7 @@
          "html": "<br>"
         },
         {
-         "text": "- Second middle slot is used for ר (“r”)",
+         "text": " - Second middle slot is used for ר (“r”)",
          "type": "text"
         }
        ]
@@ -535,6 +559,10 @@
          "html": "<br>"
         },
         {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
          "text": " ",
          "type": "text"
         },
@@ -569,6 +597,14 @@
          "html": "<br>"
         },
         {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
          "text": " he is moving",
          "type": "text"
         }
@@ -577,7 +613,7 @@
       {
        "tokens": [
         {
-         "text": "- This is a four-letter shoresh",
+         "text": "- This is a four-letter shoresh ",
          "type": "text"
         },
         {
@@ -629,7 +665,7 @@
         "type": "text"
        },
        {
-        "text": "_pa’al_ ongoing participle",
+        "text": "_pa’al_ active participle",
         "type": "global",
         "tokens": [
          {
@@ -642,12 +678,12 @@
           ]
          },
          {
-          "text": " ongoing participle",
+          "text": " active participle",
           "type": "text"
          }
         ],
-        "targetSubtopic": "Pa’al Ongoing Participle",
-        "targetTopic": "Pa’al Ongoing Participle",
+        "targetSubtopic": "Pa’al Active Participle",
+        "targetTopic": "Pa’al Active Participle",
         "enclosingTopic": "Four-letter shorushim",
         "enclosingSubtopic": "Can only have verb forms in certain binyanim"
        },

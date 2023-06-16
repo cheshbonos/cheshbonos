@@ -1,0 +1,100 @@
+{
+ "displayTopicName": "_Pa’al_ tenses for different shoresh types",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Pa’al",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " tenses for different shoresh types",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Pa’al tenses for different shoresh types": [
+   {
+    "text": "There are ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pa’al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " forms for different shoresh types: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "There are ",
+        "type": "text"
+       },
+       {
+        "text": "_pa’al_ tenses for regular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "pa’al",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " tenses for regular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pa’al tenses for regular shorushim",
+        "targetTopic": "Pa’al tenses for regular shorushim",
+        "enclosingTopic": "Pa’al tenses for different shoresh types",
+        "enclosingSubtopic": "Pa’al tenses for different shoresh types"
+       },
+       {
+        "text": ". (Conjugations for ",
+        "type": "text"
+       },
+       {
+        "text": "irregular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "irregular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Irregular shorushim",
+        "targetTopic": "Irregular shorushim",
+        "enclosingTopic": "Pa’al tenses for different shoresh types",
+        "enclosingSubtopic": "Pa’al tenses for different shoresh types"
+       },
+       {
+        "text": " are not yet available.)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

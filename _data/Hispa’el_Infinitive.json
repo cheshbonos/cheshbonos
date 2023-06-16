@@ -25,7 +25,7 @@
     "type": "italics",
     "tokens": [
      {
-      "text": "Hispa’el",
+      "text": "hispa’el",
       "type": "text"
      }
     ]
@@ -53,11 +53,11 @@
     "type": "text"
    },
    {
-    "text": "forms of the _hispa’el_ binyan",
+    "text": "“tenses” of the _hispa’el_ binyan",
     "type": "global",
     "tokens": [
      {
-      "text": "forms of the ",
+      "text": "“tenses” of the ",
       "type": "text"
      },
      {
@@ -74,8 +74,8 @@
       "type": "text"
      }
     ],
-    "targetSubtopic": "Hispa’el Forms",
-    "targetTopic": "Hispa’el Forms",
+    "targetSubtopic": "Hispa’el Tenses",
+    "targetTopic": "Hispa’el Tenses",
     "enclosingTopic": "Hispa’el Infinitive",
     "enclosingSubtopic": "Hispa’el Infinitive"
    },
@@ -117,31 +117,25 @@
         "enclosingSubtopic": "Hispa’el Infinitive"
        },
        {
-        "text": ".",
-        "type": "text"
-       }
-      ],
-      "children": []
-     },
-     {
-      "ordinal": "-",
-      "ordered": false,
-      "tokensOfLine": [
-       {
-        "text": "There are ",
+        "text": ". (Conjugations for ",
         "type": "text"
        },
        {
-        "type": "italics",
+        "text": "irregular shorushim",
+        "type": "global",
         "tokens": [
          {
-          "text": "hispa’el",
+          "text": "irregular shorushim",
           "type": "text"
          }
-        ]
+        ],
+        "targetSubtopic": "Irregular shorushim",
+        "targetTopic": "Irregular shorushim",
+        "enclosingTopic": "Hispa’el Infinitive",
+        "enclosingSubtopic": "Hispa’el Infinitive"
        },
        {
-        "text": " infinitive forms for irregular shorushim which will be added at a later time.",
+        "text": " are not yet available.)",
         "type": "text"
        }
       ],

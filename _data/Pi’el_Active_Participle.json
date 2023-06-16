@@ -1,0 +1,193 @@
+{
+ "displayTopicName": "_Pi’el_ Active Participle",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Pi’el",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " Active Participle",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Pi’el Active Participle": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "text": "_pi’el_ binyan",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pi’el",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " binyan",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Pi’el",
+    "targetTopic": "Pi’el",
+    "enclosingTopic": "Pi’el Active Participle",
+    "enclosingSubtopic": "Pi’el Active Participle"
+   },
+   {
+    "text": " has an ",
+    "type": "text"
+   },
+   {
+    "text": "active participle form",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "active participle form",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Active Participle",
+    "targetTopic": "Active Participle",
+    "enclosingTopic": "Pi’el Active Participle",
+    "enclosingSubtopic": "Pi’el Active Participle"
+   },
+   {
+    "text": ". ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pi’el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " active participle has ",
+        "type": "text"
+       },
+       {
+        "text": "conjugations for regular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "conjugations for regular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pi’el Active Participle for Regular Shorushim",
+        "targetTopic": "Pi’el Active Participle for Regular Shorushim",
+        "enclosingTopic": "Pi’el Active Participle",
+        "enclosingSubtopic": "Pi’el Active Participle"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pi’el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " active participle has conjugations for irregular shorushim that will be added at a later time.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pi’el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " active participle corresponds to the ",
+        "type": "text"
+       },
+       {
+        "text": "_pa’el_ active participle",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "pa’el",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " active participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pa’el Active Participle",
+        "targetTopic": "Pa’el Active Participle",
+        "enclosingTopic": "Pi’el Active Participle",
+        "enclosingSubtopic": "Pi’el Active Participle"
+       },
+       {
+        "text": " of Aramaic.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

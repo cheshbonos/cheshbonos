@@ -9,80 +9,118 @@
  "paragraphsBySubtopic": {
   "Reflexive": [
    {
-    "text": "“Reflexive” is a category of verb in Hebrew and Aramaic. Reflexive verbs often refer to ",
+    "text": "“Reflexive” is a category of verb in Hebrew and Aramaic. ",
     "type": "text"
    },
    {
-    "text": "circular",
-    "type": "local",
-    "tokens": [
+    "topLevelNodes": [
      {
-      "text": "circular",
-      "type": "text"
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Reflexive verbs often refer to ",
+        "type": "text"
+       },
+       {
+        "text": "circular",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "circular",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Circular",
+        "targetTopic": "Reflexive",
+        "enclosingTopic": "Reflexive",
+        "enclosingSubtopic": "Reflexive"
+       },
+       {
+        "text": " or ",
+        "type": "text"
+       },
+       {
+        "text": "transformative actions",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "transformative actions",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Transformative actions",
+        "targetTopic": "Reflexive",
+        "enclosingTopic": "Reflexive",
+        "enclosingSubtopic": "Reflexive"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "A binyan that is reflexive has verbs that are reflexive and vice versa. (",
+        "type": "text"
+       },
+       {
+        "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Binyan",
+        "targetTopic": "Binyan",
+        "enclosingTopic": "Reflexive",
+        "enclosingSubtopic": "Reflexive"
+       },
+       {
+        "text": ".)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "There are ",
+        "type": "text"
+       },
+       {
+        "text": "several reflexive binyanim in Hebrew and Aramaic",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "several reflexive binyanim in Hebrew and Aramaic",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Several reflexive binyanim in Hebrew and Aramaic",
+        "targetTopic": "Reflexive",
+        "enclosingTopic": "Reflexive",
+        "enclosingSubtopic": "Reflexive"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
      }
     ],
-    "targetSubtopic": "Circular",
-    "targetTopic": "Reflexive",
-    "enclosingTopic": "Reflexive",
-    "enclosingSubtopic": "Reflexive"
-   },
-   {
-    "text": " or ",
-    "type": "text"
-   },
-   {
-    "text": "transformative actions",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "transformative actions",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Transformative actions",
-    "targetTopic": "Reflexive",
-    "enclosingTopic": "Reflexive",
-    "enclosingSubtopic": "Reflexive"
-   },
-   {
-    "text": ". A binyan that is reflexive has verbs that are reflexive and vice versa. (",
-    "type": "text"
-   },
-   {
-    "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Binyan",
-    "targetTopic": "Binyan",
-    "enclosingTopic": "Reflexive",
-    "enclosingSubtopic": "Reflexive"
-   },
-   {
-    "text": ".) There are ",
-    "type": "text"
-   },
-   {
-    "text": "several reflexive binyanim in Hebrew and Aramaic",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "several reflexive binyanim in Hebrew and Aramaic",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Several reflexive binyanim in Hebrew and Aramaic",
-    "targetTopic": "Reflexive",
-    "enclosingTopic": "Reflexive",
-    "enclosingSubtopic": "Reflexive"
-   },
-   {
-    "text": ".",
-    "type": "text"
+    "type": "outline"
    }
   ],
   "Circular": [
@@ -417,37 +455,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Aramaic’s reflexive binyan is called the ",
-        "type": "text"
-       },
-       {
-        "text": "_ispa’al_",
-        "type": "global",
-        "tokens": [
-         {
-          "type": "italics",
-          "tokens": [
-           {
-            "text": "ispa’al",
-            "type": "text"
-           }
-          ]
-         }
-        ],
-        "targetSubtopic": "Ispa’al",
-        "targetTopic": "Ispa’al",
-        "enclosingTopic": "Reflexive",
-        "enclosingSubtopic": "Several reflexive binyanim in Hebrew and Aramaic"
-       }
-      ],
-      "children": []
-     },
-     {
-      "ordinal": "-",
-      "ordered": false,
-      "tokensOfLine": [
-       {
-        "text": "Hebrew and Aramaic’s ",
+        "text": "Aramaic’s ",
         "type": "text"
        },
        {
@@ -465,7 +473,95 @@
         "enclosingSubtopic": "Several reflexive binyanim in Hebrew and Aramaic"
        },
        {
-        "text": " verbs also sometimes have reflexive meanings.",
+        "text": " binyanim, ",
+        "type": "text"
+       },
+       {
+        "text": "_ispe’el_",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "ispe’el",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Ispe’el",
+        "targetTopic": "Ispe’el",
+        "enclosingTopic": "Reflexive",
+        "enclosingSubtopic": "Several reflexive binyanim in Hebrew and Aramaic"
+       },
+       {
+        "text": ", ",
+        "type": "text"
+       },
+       {
+        "text": "ispa’al",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "ispa’al",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Ispa’al",
+        "targetTopic": "Ispa’al",
+        "enclosingTopic": "Reflexive",
+        "enclosingSubtopic": "Several reflexive binyanim in Hebrew and Aramaic"
+       },
+       {
+        "text": ", and ",
+        "type": "text"
+       },
+       {
+        "text": "itaf’al",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "itaf’al",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Itaf’al",
+        "targetTopic": "Itaf’al",
+        "enclosingTopic": "Reflexive",
+        "enclosingSubtopic": "Several reflexive binyanim in Hebrew and Aramaic"
+       },
+       {
+        "text": ", can also be reflexive.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "In general ",
+        "type": "text"
+       },
+       {
+        "text": "passive verbs",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "passive verbs",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Passive",
+        "targetTopic": "Passive",
+        "enclosingTopic": "Reflexive",
+        "enclosingSubtopic": "Several reflexive binyanim in Hebrew and Aramaic"
+       },
+       {
+        "text": " can also sometimes have reflexive meanings.",
         "type": "text"
        }
       ],

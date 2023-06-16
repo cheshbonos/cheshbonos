@@ -1,0 +1,255 @@
+{
+ "displayTopicName": "_Pa’el_ tenses for regular shorushim",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Pa’el",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " tenses for regular shorushim",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Pa’el tenses for regular shorushim": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pa’el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " binyan has conjugations for regular shorushim, along with ",
+    "type": "text"
+   },
+   {
+    "text": "_Pa’el_ tenses for other shoresh types",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "Pa’el",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " tenses for other shoresh types",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Pa’el tenses for different shoresh types",
+    "targetTopic": "Pa’el tenses for different shoresh types",
+    "enclosingTopic": "Pa’el tenses for regular shorushim",
+    "enclosingSubtopic": "Pa’el tenses for regular shorushim"
+   },
+   {
+    "text": ", in five forms: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "Past Tense <br> (for regular shorushim in the _pa’el)_",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Past Tense ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (for regular shorushim in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "pa’el)",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Pa’el Past Tense for regular shorushim",
+         "targetTopic": "Pa’el Past Tense for regular shorushim",
+         "enclosingTopic": "Pa’el tenses for regular shorushim",
+         "enclosingSubtopic": "Pa’el tenses for regular shorushim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Future Tense <br> (for regular shorushim in the _pa’el)_",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Future Tense ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (for regular shorushim in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "pa’el)",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Pa’el Future Tense for regular shorushim",
+         "targetTopic": "Pa’el Future Tense for regular shorushim",
+         "enclosingTopic": "Pa’el tenses for regular shorushim",
+         "enclosingSubtopic": "Pa’el tenses for regular shorushim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Active Participle <br> (for regular shorushim in the _pa’el)_",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Active Participle ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (for regular shorushim in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "pa’el)",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Pa’el Active Participle for Regular Shorushim",
+         "targetTopic": "Pa’el Active Participle for Regular Shorushim",
+         "enclosingTopic": "Pa’el tenses for regular shorushim",
+         "enclosingSubtopic": "Pa’el tenses for regular shorushim"
+        }
+       ],
+       "rowspan": 2
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Imperative <br> (for regular shorushim in the _pa’el)_",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Imperative ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (for regular shorushim in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "pa’el)",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Pa’el Imperative for regular shorushim",
+         "targetTopic": "Pa’el Imperative for regular shorushim",
+         "enclosingTopic": "Pa’el tenses for regular shorushim",
+         "enclosingSubtopic": "Pa’el tenses for regular shorushim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Infinitive <br> (for regular shorushim in the _pa’el)_",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Infinitive ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (for regular shorushim in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "pa’el)",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Pa’el Infinitive for regular shorushim",
+         "targetTopic": "Pa’el Infinitive for regular shorushim",
+         "enclosingTopic": "Pa’el tenses for regular shorushim",
+         "enclosingSubtopic": "Pa’el tenses for regular shorushim"
+        }
+       ]
+      },
+      {
+       "tokens": [],
+       "merge": true
+      }
+     ]
+    ]
+   }
+  ]
+ }
+}

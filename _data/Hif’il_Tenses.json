@@ -1,0 +1,249 @@
+{
+ "displayTopicName": "Hif’il Tenses",
+ "topicTokens": [
+  {
+   "text": "Hif’il Tenses",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Hif’il Tenses": [
+   {
+    "text": "Verbs in the ",
+    "type": "text"
+   },
+   {
+    "text": "_hif’il_",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "hif’il",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Hif’il",
+    "targetTopic": "Hif’il",
+    "enclosingTopic": "Hif’il Tenses",
+    "enclosingSubtopic": "Hif’il Tenses"
+   },
+   {
+    "text": " have conjugations in various “tenses”: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "Past Tense <br> (of the _hif’il_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Past Tense ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "hif’il",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Hif’il Past Tense",
+         "targetTopic": "Hif’il Past Tense",
+         "enclosingTopic": "Hif’il Tenses",
+         "enclosingSubtopic": "Hif’il Tenses"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Future Tense <br> (of the _hif’il_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Future Tense ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "hif’il",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Hif’il Future Tense",
+         "targetTopic": "Hif’il Future Tense",
+         "enclosingTopic": "Hif’il Tenses",
+         "enclosingSubtopic": "Hif’il Tenses"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Active Participle <br> (of the _hif’il_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Active Participle ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "hif’il",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Hif’il Active Participle",
+         "targetTopic": "Hif’il Active Participle",
+         "enclosingTopic": "Hif’il Tenses",
+         "enclosingSubtopic": "Hif’il Tenses"
+        }
+       ],
+       "rowspan": 2
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Imperative <br> (of the _hif’il_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Imperative ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "hif’il",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Hif’il Imperative",
+         "targetTopic": "Hif’il Imperative",
+         "enclosingTopic": "Hif’il Tenses",
+         "enclosingSubtopic": "Hif’il Tenses"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Infinitive <br> (of the _hif’il_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Infinitive ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "hif’il",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Hif’il Infinitive",
+         "targetTopic": "Hif’il Infinitive",
+         "enclosingTopic": "Hif’il Tenses",
+         "enclosingSubtopic": "Hif’il Tenses"
+        }
+       ]
+      },
+      {
+       "tokens": [],
+       "merge": true
+      }
+     ]
+    ]
+   }
+  ]
+ }
+}

@@ -142,7 +142,7 @@
       {
        "tokens": [
         {
-         "text": "_Pa’al_ <br> (of קדש)",
+         "text": "_Pa’al_ <br><br><br> (of קדש)",
          "type": "global",
          "tokens": [
           {
@@ -163,6 +163,14 @@
            "html": "<br>"
           },
           {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
            "text": " (of קדש)",
            "type": "text"
           }
@@ -177,7 +185,7 @@
       {
        "tokens": [
         {
-         "text": "_Pi’el_ <br> (of קדש)",
+         "text": "_Pi’el_ <br><br><br> (of קדש)",
          "type": "global",
          "tokens": [
           {
@@ -198,6 +206,14 @@
            "html": "<br>"
           },
           {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
            "text": " (of קדש)",
            "type": "text"
           }
@@ -212,7 +228,7 @@
       {
        "tokens": [
         {
-         "text": "_Hif’il_ <br> (of קדש)",
+         "text": "_Hif’il_ <br><br><br> (of קדש)",
          "type": "global",
          "tokens": [
           {
@@ -233,6 +249,14 @@
            "html": "<br>"
           },
           {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
            "text": " (of קדש)",
            "type": "text"
           }
@@ -247,7 +271,7 @@
       {
        "tokens": [
         {
-         "text": "_Hispa’el_ <br> (of קדש)",
+         "text": "_Hispa’el_ <br><br><br> (of קדש)",
          "type": "global",
          "tokens": [
           {
@@ -262,6 +286,14 @@
           {
            "text": " ",
            "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
           },
           {
            "type": "html_element",
@@ -321,7 +353,7 @@
       {
        "tokens": [
         {
-         "text": "_Pu’al_ <br> (of קדש)",
+         "text": "_Pu’al_ <br><br><br> (of קדש)",
          "type": "global",
          "tokens": [
           {
@@ -342,6 +374,14 @@
            "html": "<br>"
           },
           {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
            "text": " (of קדש)",
            "type": "text"
           }
@@ -356,7 +396,7 @@
       {
        "tokens": [
         {
-         "text": "_Huf’al_ <br> (of קדש)",
+         "text": "_Huf’al_ <br><br><br> (of קדש)",
          "type": "global",
          "tokens": [
           {
@@ -371,6 +411,14 @@
           {
            "text": " ",
            "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
           },
           {
            "type": "html_element",

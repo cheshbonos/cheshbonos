@@ -1,0 +1,249 @@
+{
+ "displayTopicName": "Hispa’el Tenses",
+ "topicTokens": [
+  {
+   "text": "Hispa’el Tenses",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Hispa’el Tenses": [
+   {
+    "text": "Verbs in the ",
+    "type": "text"
+   },
+   {
+    "text": "_hispa’el_",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "hispa’el",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Hispa’el",
+    "targetTopic": "Hispa’el",
+    "enclosingTopic": "Hispa’el Tenses",
+    "enclosingSubtopic": "Hispa’el Tenses"
+   },
+   {
+    "text": " have conjugations in various “tenses”: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "Past Tense <br> (of the _hispa’el_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Past Tense ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "hispa’el",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Hispa’el Past Tense",
+         "targetTopic": "Hispa’el Past Tense",
+         "enclosingTopic": "Hispa’el Tenses",
+         "enclosingSubtopic": "Hispa’el Tenses"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Future Tense <br> (of the _hispa’el_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Future Tense ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "hispa’el",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Hispa’el Future Tense",
+         "targetTopic": "Hispa’el Future Tense",
+         "enclosingTopic": "Hispa’el Tenses",
+         "enclosingSubtopic": "Hispa’el Tenses"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Active Participle <br> (of the _hispa’el_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Active Participle ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "hispa’el",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Hispa’el Active Participle",
+         "targetTopic": "Hispa’el Active Participle",
+         "enclosingTopic": "Hispa’el Tenses",
+         "enclosingSubtopic": "Hispa’el Tenses"
+        }
+       ],
+       "rowspan": 2
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Imperative <br> (of the _hispa’el_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Imperative ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "hispa’el",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Hispa’el Imperative",
+         "targetTopic": "Hispa’el Imperative",
+         "enclosingTopic": "Hispa’el Tenses",
+         "enclosingSubtopic": "Hispa’el Tenses"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Infinitive <br> (of the _hispa’el_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Infinitive ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "hispa’el",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Hispa’el Infinitive",
+         "targetTopic": "Hispa’el Infinitive",
+         "enclosingTopic": "Hispa’el Tenses",
+         "enclosingSubtopic": "Hispa’el Tenses"
+        }
+       ]
+      },
+      {
+       "tokens": [],
+       "merge": true
+      }
+     ]
+    ]
+   }
+  ]
+ }
+}

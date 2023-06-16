@@ -74,8 +74,8 @@
       "type": "text"
      }
     ],
-    "targetSubtopic": "Pa’al Forms",
-    "targetTopic": "Pa’al Forms",
+    "targetSubtopic": "Pa’al Tenses",
+    "targetTopic": "Pa’al Tenses",
     "enclosingTopic": "Pa’al Infinitive",
     "enclosingSubtopic": "Pa’al Infinitive"
    },
@@ -117,7 +117,25 @@
         "enclosingSubtopic": "Pa’al Infinitive"
        },
        {
-        "text": ".",
+        "text": ". (Conjugations for ",
+        "type": "text"
+       },
+       {
+        "text": "irregular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "irregular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Irregular shorushim",
+        "targetTopic": "Irregular shorushim",
+        "enclosingTopic": "Pa’al Infinitive",
+        "enclosingSubtopic": "Pa’al Infinitive"
+       },
+       {
+        "text": " are not yet available.)",
         "type": "text"
        }
       ],
@@ -128,7 +146,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "There are ",
+        "text": "The ",
         "type": "text"
        },
        {
@@ -141,7 +159,34 @@
         ]
        },
        {
-        "text": " infinitive forms for irregular shorushim which will be added at a later time.",
+        "text": " imperative corresponds to the ",
+        "type": "text"
+       },
+       {
+        "text": "_pe’al_ imperative",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "pe’al",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " imperative",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pe’al Imperative",
+        "targetTopic": "Pe’al Imperative",
+        "enclosingTopic": "Pa’al Infinitive",
+        "enclosingSubtopic": "Pa’al Infinitive"
+       },
+       {
+        "text": " of Aramaic.",
         "type": "text"
        }
       ],

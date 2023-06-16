@@ -19,7 +19,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "When you take a ",
+        "text": "If you take a ",
         "type": "text"
        },
        {
@@ -37,20 +37,20 @@
         "enclosingSubtopic": "Binyan"
        },
        {
-        "text": ", for example אכל, which represents “eating,” and put it into a certain “binyan,” it produces a verb, for example לְהַאֲכִיל (",
+        "text": ", for example אכל, which represents “eating,” and put it into a certain “binyan,” you produce a verb, for example לְהַאֲכִיל (",
         "type": "text"
        },
        {
         "type": "italics",
         "tokens": [
          {
-          "text": "l’ha’achil",
+          "text": "l’ha’achil)",
           "type": "text"
          }
         ]
        },
        {
-        "text": "), which means “to feed.”",
+        "text": ", which means “to feed.”",
         "type": "text"
        }
       ],
@@ -61,20 +61,31 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Other verbs that rhyme with לְהַאֲכִיל (",
+        "text": "You can identify the binyan of a verb by its vowel sounds. Other verbs that rhyme with לְהַאֲכִיל (",
         "type": "text"
        },
        {
         "type": "italics",
         "tokens": [
          {
-          "text": "l’ha’achil",
+          "text": "l’ha’achil)",
           "type": "text"
          }
         ]
        },
        {
-        "text": ") will often also involve someone making someone else do something, because they are from the same “binyan.”",
+        "text": " will have similar meanings, because they are from the same “binyan.”",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Every conjugated verb has one shoresh and one binyan.",
         "type": "text"
        }
       ],
@@ -125,19 +136,19 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "A binyan is ",
+        "text": "Binyanim of a shoresh are ",
         "type": "text"
        },
        {
-        "text": "like a flavor of the shoresh",
+        "text": "like different flavors of the shoresh meaning",
         "type": "local",
         "tokens": [
          {
-          "text": "like a flavor of the shoresh",
+          "text": "like different flavors of the shoresh meaning",
           "type": "text"
          }
         ],
-        "targetSubtopic": "Like a flavor of the shoresh",
+        "targetSubtopic": "Like different flavors of the shoresh meaning",
         "targetTopic": "Binyan",
         "enclosingTopic": "Binyan",
         "enclosingSubtopic": "Learn more about the concept of binyan"
@@ -258,7 +269,7 @@
     "type": "outline"
    }
   ],
-  "Like a flavor of the shoresh": [
+  "Like different flavors of the shoresh meaning": [
    {
     "text": "You can think of a binyan as being a “flavor” that gets mixed with the shoresh to produce different verbs. For example: ",
     "type": "text"
@@ -286,7 +297,7 @@
          "type": "bold",
          "tokens": [
           {
-           "text": "Can be put in a binyan called",
+           "text": "Can be put into a binyan called",
            "type": "text"
           }
          ]
@@ -356,7 +367,7 @@
          "targetSubtopic": "Hif’il",
          "targetTopic": "Hif’il",
          "enclosingTopic": "Binyan",
-         "enclosingSubtopic": "Like a flavor of the shoresh"
+         "enclosingSubtopic": "Like different flavors of the shoresh meaning"
         }
        ]
       },
@@ -371,7 +382,7 @@
       {
        "tokens": [
         {
-         "text": "causing + eating = ",
+         "text": "eating + causing = ",
          "type": "text"
         },
         {
@@ -379,7 +390,7 @@
          "html": "<br>"
         },
         {
-         "text": " to feed",
+         "text": " “to feed”",
          "type": "text"
         }
        ]
@@ -421,7 +432,7 @@
          "targetSubtopic": "Pi’el",
          "targetTopic": "Pi’el",
          "enclosingTopic": "Binyan",
-         "enclosingSubtopic": "Like a flavor of the shoresh"
+         "enclosingSubtopic": "Like different flavors of the shoresh meaning"
         }
        ]
       },
@@ -444,7 +455,7 @@
          "html": "<br>"
         },
         {
-         "text": " to engrave",
+         "text": " “to engrave”",
          "type": "text"
         }
        ]
@@ -486,7 +497,7 @@
          "targetSubtopic": "Nif’al",
          "targetTopic": "Nif’al",
          "enclosingTopic": "Binyan",
-         "enclosingSubtopic": "Like a flavor of the shoresh"
+         "enclosingSubtopic": "Like different flavors of the shoresh meaning"
         }
        ]
       },
@@ -509,7 +520,7 @@
          "html": "<br>"
         },
         {
-         "text": "something done to you = ",
+         "text": " something done to you = ",
          "type": "text"
         },
         {
@@ -517,7 +528,7 @@
          "html": "<br>"
         },
         {
-         "text": " to be purchased",
+         "text": " “to be purchased”",
          "type": "text"
         }
        ]
@@ -541,7 +552,7 @@
     "targetSubtopic": "We use alternative means to achieve the same effect",
     "targetTopic": "Binyan",
     "enclosingTopic": "Binyan",
-    "enclosingSubtopic": "Like a flavor of the shoresh"
+    "enclosingSubtopic": "Like different flavors of the shoresh meaning"
    },
    {
     "text": ".",

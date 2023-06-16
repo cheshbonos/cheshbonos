@@ -18,7 +18,34 @@
  "paragraphsBySubtopic": {
   "Huf’al Past Tense": [
    {
-    "text": "The _Huf’al binyan has a ",
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "text": "_huf’al_ binyan",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "huf’al",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " binyan",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Huf’al",
+    "targetTopic": "Huf’al",
+    "enclosingTopic": "Huf’al Past Tense",
+    "enclosingSubtopic": "Huf’al Past Tense"
+   },
+   {
+    "text": " has a ",
     "type": "text"
    },
    {
@@ -40,11 +67,11 @@
     "type": "text"
    },
    {
-    "text": "forms of the _huf’al_ binyan",
+    "text": "“tenses” of the _huf’al_ binyan",
     "type": "global",
     "tokens": [
      {
-      "text": "forms of the ",
+      "text": "“tenses” of the ",
       "type": "text"
      },
      {
@@ -61,8 +88,8 @@
       "type": "text"
      }
     ],
-    "targetSubtopic": "Huf’al Forms",
-    "targetTopic": "Huf’al Forms",
+    "targetSubtopic": "Huf’al Tenses",
+    "targetTopic": "Huf’al Tenses",
     "enclosingTopic": "Huf’al Past Tense",
     "enclosingSubtopic": "Huf’al Past Tense"
    },
@@ -84,7 +111,7 @@
         "type": "italics",
         "tokens": [
          {
-          "text": "Huf’al",
+          "text": "huf’al",
           "type": "text"
          }
         ]
@@ -108,7 +135,25 @@
         "enclosingSubtopic": "Huf’al Past Tense"
        },
        {
-        "text": ".",
+        "text": ". (Conjugations for ",
+        "type": "text"
+       },
+       {
+        "text": "irregular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "irregular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Irregular shorushim",
+        "targetTopic": "Irregular shorushim",
+        "enclosingTopic": "Huf’al Past Tense",
+        "enclosingSubtopic": "Huf’al Past Tense"
+       },
+       {
+        "text": " are not yet available.)",
         "type": "text"
        }
       ],
@@ -126,13 +171,26 @@
         "type": "italics",
         "tokens": [
          {
-          "text": "Huf’al",
+          "text": "huf’al",
           "type": "text"
          }
         ]
        },
        {
-        "text": " past tense has conjugations for irregular shorushim which will be added at a later time.",
+        "text": " past tense corresponds to the [",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "itaf’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " past tense] of Aramaic.",
         "type": "text"
        }
       ],

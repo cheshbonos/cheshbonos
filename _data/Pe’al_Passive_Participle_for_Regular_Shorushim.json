@@ -1,0 +1,155 @@
+{
+ "displayTopicName": "_Pe’al_ Passive Participle for Regular Shorushim",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Pe’al",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " Passive Participle for Regular Shorushim",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Pe’al Passive Participle for Regular Shorushim": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "text": "_pe’al_ passive participle",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pe’al",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " passive participle",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Pe’al Passive Participle",
+    "targetTopic": "Pe’al Passive Participle",
+    "enclosingTopic": "Pe’al Passive Participle for Regular Shorushim",
+    "enclosingSubtopic": "Pe’al Passive Participle for Regular Shorushim"
+   },
+   {
+    "text": " has conjugations for regular shorushim: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The _pe’al_ passive participle for regular shorushim without pronoun suffixes",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "The ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "pe’al",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " passive participle for regular shorushim without pronoun suffixes",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pe’al Passive Participle for Regular Shorushim without pronoun suffixes",
+        "targetTopic": "Pe’al Passive Participle for Regular Shorushim without pronoun suffixes",
+        "enclosingTopic": "Pe’al Passive Participle for Regular Shorushim",
+        "enclosingSubtopic": "Pe’al Passive Participle for Regular Shorushim"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The _pe’al_ passive participle for regular shorushim with pronoun suffixes",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "The ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "pe’al",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " passive participle for regular shorushim with pronoun suffixes",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pe’al Passive Participle for Regular Shorushim with pronoun suffixes",
+        "targetTopic": "Pe’al Passive Participle for Regular Shorushim with pronoun suffixes",
+        "enclosingTopic": "Pe’al Passive Participle for Regular Shorushim",
+        "enclosingSubtopic": "Pe’al Passive Participle for Regular Shorushim"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "(Aramaic has what are called ",
+        "type": "text"
+       },
+       {
+        "text": "“pronoun suffixes.”",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "“pronoun suffixes.”",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pronoun suffixes",
+        "targetTopic": "Pronoun suffixes",
+        "enclosingTopic": "Pe’al Passive Participle for Regular Shorushim",
+        "enclosingSubtopic": "Pe’al Passive Participle for Regular Shorushim"
+       },
+       {
+        "text": ")",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

@@ -53,11 +53,11 @@
     "type": "text"
    },
    {
-    "text": "forms of the _hif’il_ binyan",
+    "text": "“tenses” of the _hif’il_ binyan",
     "type": "global",
     "tokens": [
      {
-      "text": "forms of the ",
+      "text": "“tenses” of the ",
       "type": "text"
      },
      {
@@ -74,8 +74,8 @@
       "type": "text"
      }
     ],
-    "targetSubtopic": "Hif’il Forms",
-    "targetTopic": "Hif’il Forms",
+    "targetSubtopic": "Hif’il Tenses",
+    "targetTopic": "Hif’il Tenses",
     "enclosingTopic": "Hif’il Imperative",
     "enclosingSubtopic": "Hif’il Imperative"
    },
@@ -97,7 +97,7 @@
         "type": "italics",
         "tokens": [
          {
-          "text": "Hif’il",
+          "text": "hif’il",
           "type": "text"
          }
         ]
@@ -121,31 +121,25 @@
         "enclosingSubtopic": "Hif’il Imperative"
        },
        {
-        "text": ".",
-        "type": "text"
-       }
-      ],
-      "children": []
-     },
-     {
-      "ordinal": "-",
-      "ordered": false,
-      "tokensOfLine": [
-       {
-        "text": "The ",
+        "text": " (Conjugations for ",
         "type": "text"
        },
        {
-        "type": "italics",
+        "text": "irregular shorushim",
+        "type": "global",
         "tokens": [
          {
-          "text": "Hif’il",
+          "text": "irregular shorushim",
           "type": "text"
          }
-        ]
+        ],
+        "targetSubtopic": "Irregular shorushim",
+        "targetTopic": "Irregular shorushim",
+        "enclosingTopic": "Hif’il Imperative",
+        "enclosingSubtopic": "Hif’il Imperative"
        },
        {
-        "text": " imperative form has conjugations for irregular shorushim which will be added at a later time.",
+        "text": " are not yet available.)",
         "type": "text"
        }
       ],

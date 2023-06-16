@@ -1,0 +1,249 @@
+{
+ "displayTopicName": "Ispe’el Tenses",
+ "topicTokens": [
+  {
+   "text": "Ispe’el Tenses",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Ispe’el Tenses": [
+   {
+    "text": "Verbs in the ",
+    "type": "text"
+   },
+   {
+    "text": "_ispe’el_",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "ispe’el",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Ispe’el",
+    "targetTopic": "Ispe’el",
+    "enclosingTopic": "Ispe’el Tenses",
+    "enclosingSubtopic": "Ispe’el Tenses"
+   },
+   {
+    "text": " have conjugations conjugations in various “tenses”: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "Past Tense <br> (of the _ispe’el_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Past Tense ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "ispe’el",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Ispe’el Past Tense",
+         "targetTopic": "Ispe’el Past Tense",
+         "enclosingTopic": "Ispe’el Tenses",
+         "enclosingSubtopic": "Ispe’el Tenses"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Future Tense <br> (of the _ispe’el_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Future Tense ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "ispe’el",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Ispe’el Future Tense",
+         "targetTopic": "Ispe’el Future Tense",
+         "enclosingTopic": "Ispe’el Tenses",
+         "enclosingSubtopic": "Ispe’el Tenses"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Active Participle <br> (of the _ispe’el_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Active Participle ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "ispe’el",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Ispe’el Active Participle",
+         "targetTopic": "Ispe’el Active Participle",
+         "enclosingTopic": "Ispe’el Tenses",
+         "enclosingSubtopic": "Ispe’el Tenses"
+        }
+       ],
+       "rowspan": 2
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Imperative <br> (of the _ispe’el_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Imperative ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "ispe’el",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Ispe’el Imperative",
+         "targetTopic": "Ispe’el Imperative",
+         "enclosingTopic": "Ispe’el Tenses",
+         "enclosingSubtopic": "Ispe’el Tenses"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Infinitive <br> (of the _ispe’el_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Infinitive ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "ispe’el",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Ispe’el Infinitive",
+         "targetTopic": "Ispe’el Infinitive",
+         "enclosingTopic": "Ispe’el Tenses",
+         "enclosingSubtopic": "Ispe’el Tenses"
+        }
+       ]
+      },
+      {
+       "tokens": [],
+       "merge": true
+      }
+     ]
+    ]
+   }
+  ]
+ }
+}

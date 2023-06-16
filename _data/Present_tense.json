@@ -1,0 +1,267 @@
+{
+ "displayTopicName": "Present tense",
+ "topicTokens": [
+  {
+   "text": "Present tense",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Present tense": [
+   {
+    "text": "The present tense in Hebrew and Aramaic is formed by combining a ",
+    "type": "text"
+   },
+   {
+    "text": "participle",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "participle",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Participle",
+    "targetTopic": "Participle",
+    "enclosingTopic": "Present tense",
+    "enclosingSubtopic": "Present tense"
+   },
+   {
+    "text": " with a pronoun in a special ",
+    "type": "text"
+   },
+   {
+    "text": "“participle construction”",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "“participle construction”",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Participle constructions",
+    "targetTopic": "Participle constructions",
+    "enclosingTopic": "Present tense",
+    "enclosingSubtopic": "Present tense"
+   },
+   {
+    "text": ": ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The present tense is produced by taking a pronoun like הוּא (",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hu",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ", “he”) followed by a participle like כּוֹתֵב (",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "koseiv",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ", “writing”) producing a sentence, “he is writing.”",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "There is no word equivalent to “is” in Hebrew and Aramaic, so we just say “he writing” and the “is” is implied by context.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Even though the ",
+        "type": "text"
+       },
+       {
+        "text": "active participle",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "active participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Active Participle",
+        "targetTopic": "Active Participle",
+        "enclosingTopic": "Present tense",
+        "enclosingSubtopic": "Present tense"
+       },
+       {
+        "text": " is sometimes called the “present tense” (or לְשׁוֹן הוֹוֶה ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "lashon hoveh)",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ", an active participle by itself like כּוֹתֵב (",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "koseiv",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ", “writing”) is not necessarily in the present tense, and can be used in the past or future, as in “he was writing.”",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The Hebrew and Aramaic “present tense” correspond to both the English present tense and participle",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "The Hebrew and Aramaic “present tense” correspond to both the English present tense and participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "The Hebrew and Aramaic “present tense” correspond to both the English present tense and participle",
+        "targetTopic": "Present tense",
+        "enclosingTopic": "Present tense",
+        "enclosingSubtopic": "Present tense"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "The Hebrew and Aramaic “present tense” correspond to both the English present tense and participle": [
+   {
+    "text": "The Hebrew and Aramaic “present tense” construction corresponds to multiple English verb forms: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "In English, you can say “he is writing” (English participle) or “he writes” (English present tense.)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "In Hebrew and Aramaic, both of these forms would be expressed with the same participle construction i.e. הוּא כּוֹתֵב (",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hu koseiv",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ".)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Therefore, when we see a sentence like הוּא כּוֹתֵב (",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hu koseiv)",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ", we can’t be sure whether it means “he is writing” or “he writes.”",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "As English has many more words than Hebrew and Aramaic, it is quite common for multiple words in English to be the same word in Hebrew or Aramaic, producing ambiguities when translating from Hebrew or Aramaic back to English.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

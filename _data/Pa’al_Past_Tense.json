@@ -74,8 +74,8 @@
       "type": "text"
      }
     ],
-    "targetSubtopic": "Pa’al Forms",
-    "targetTopic": "Pa’al Forms",
+    "targetSubtopic": "Pa’al Tenses",
+    "targetTopic": "Pa’al Tenses",
     "enclosingTopic": "Pa’al Past Tense",
     "enclosingSubtopic": "Pa’al Past Tense"
    },
@@ -121,7 +121,25 @@
         "enclosingSubtopic": "Pa’al Past Tense"
        },
        {
-        "text": ".",
+        "text": ". (Conjugations for ",
+        "type": "text"
+       },
+       {
+        "text": "irregular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "irregular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Irregular shorushim",
+        "targetTopic": "Irregular shorushim",
+        "enclosingTopic": "Pa’al Past Tense",
+        "enclosingSubtopic": "Pa’al Past Tense"
+       },
+       {
+        "text": " are not yet available.)",
         "type": "text"
        }
       ],
@@ -145,7 +163,34 @@
         ]
        },
        {
-        "text": " past tense has conjugations for irregular shorushim which will be added at a later time.",
+        "text": " past tense corresponds to the ",
+        "type": "text"
+       },
+       {
+        "text": "_pe’al_ past tense",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "pe’al",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " past tense",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pe’al Past Tense",
+        "targetTopic": "Pe’al Past Tense",
+        "enclosingTopic": "Pa’al Past Tense",
+        "enclosingSubtopic": "Pa’al Past Tense"
+       },
+       {
+        "text": " of Aramaic.",
         "type": "text"
        }
       ],

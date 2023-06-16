@@ -72,7 +72,25 @@
         "enclosingSubtopic": "Pi’el Imperative"
        },
        {
-        "text": ".",
+        "text": " (Conjugations for ",
+        "type": "text"
+       },
+       {
+        "text": "irregular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "irregular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Irregular shorushim",
+        "targetTopic": "Irregular shorushim",
+        "enclosingTopic": "Pi’el Imperative",
+        "enclosingSubtopic": "Pi’el Imperative"
+       },
+       {
+        "text": " are not yet available.)",
         "type": "text"
        }
       ],
@@ -96,7 +114,34 @@
         ]
        },
        {
-        "text": " imperative form has conjugations for irregular shorushim which will be added at a later time.",
+        "text": " imperative corresponds to the ",
+        "type": "text"
+       },
+       {
+        "text": "_pa’el_ imperative",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "pa’el",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " imperative",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pa’el Imperative",
+        "targetTopic": "Pa’el Imperative",
+        "enclosingTopic": "Pi’el Imperative",
+        "enclosingSubtopic": "Pi’el Imperative"
+       },
+       {
+        "text": " of Aramaic.",
         "type": "text"
        }
       ],

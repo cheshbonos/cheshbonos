@@ -59,7 +59,25 @@
         "enclosingSubtopic": "Pu’al Past Tense"
        },
        {
-        "text": ".",
+        "text": ". (Conjugations for ",
+        "type": "text"
+       },
+       {
+        "text": "irregular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "irregular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Irregular shorushim",
+        "targetTopic": "Irregular shorushim",
+        "enclosingTopic": "Pu’al Past Tense",
+        "enclosingSubtopic": "Pu’al Past Tense"
+       },
+       {
+        "text": " are not yet available.)",
         "type": "text"
        }
       ],
@@ -83,7 +101,20 @@
         ]
        },
        {
-        "text": " past tense has conjugations for irregular shorushim which will be added at a later time.",
+        "text": " past tense corresponds to the [",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "ispa’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " past tense] of Aramaic.",
         "type": "text"
        }
       ],

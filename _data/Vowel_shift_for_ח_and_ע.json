@@ -23,7 +23,7 @@
         "type": "text"
        },
        {
-        "text": "_pa’al_ ongoing participle for regular shorushim",
+        "text": "_pa’al_ active participle for regular shorushim",
         "type": "global",
         "tokens": [
          {
@@ -36,12 +36,12 @@
           ]
          },
          {
-          "text": " ongoing participle for regular shorushim",
+          "text": " active participle for regular shorushim",
           "type": "text"
          }
         ],
-        "targetSubtopic": "Pa’al Ongoing Participle for Regular Shorushim",
-        "targetTopic": "Pa’al Ongoing Participle for Regular Shorushim",
+        "targetSubtopic": "Pa’al Active Participle for Regular Shorushim",
+        "targetTopic": "Pa’al Active Participle for Regular Shorushim",
         "enclosingTopic": "Vowel shift for ח and ע",
         "enclosingSubtopic": "Vowel shift for ח and ע"
        },
@@ -74,16 +74,16 @@
         "type": "text"
        },
        {
-        "text": "pa’al ongoing participle for shorushim ending with ח or ע",
+        "text": "pa’al active participle for shorushim ending with ח or ע",
         "type": "global",
         "tokens": [
          {
-          "text": "pa’al ongoing participle for shorushim ending with ח or ע",
+          "text": "pa’al active participle for shorushim ending with ח or ע",
           "type": "text"
          }
         ],
-        "targetSubtopic": "Pa’al Ongoing Participle for shorushim ending with ח or ע",
-        "targetTopic": "Pa’al Ongoing Participle for shorushim ending with ח or ע",
+        "targetSubtopic": "Pa’al Active Participle for shorushim ending with ח or ע",
+        "targetTopic": "Pa’al Active Participle for shorushim ending with ח or ע",
         "enclosingTopic": "Vowel shift for ח and ע",
         "enclosingSubtopic": "Vowel shift for ח and ע"
        },
@@ -183,13 +183,13 @@
         "type": "italics",
         "tokens": [
          {
-          "text": "kos-eiv",
+          "text": "kos-eiv)",
           "type": "text"
          }
         ]
        },
        {
-        "text": ") as evidence that the original sounds of ח and ע were different from כ and א.",
+        "text": " as evidence that the original sounds of ח and ע were different from כ and א.",
         "type": "text"
        }
       ],

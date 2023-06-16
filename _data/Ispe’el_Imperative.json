@@ -1,0 +1,204 @@
+{
+ "displayTopicName": "_Ispe’el_ Imperative",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Ispe’el",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " Imperative",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Ispe’el Imperative": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "ispe’el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " binyan has an ",
+    "type": "text"
+   },
+   {
+    "text": "imperative form",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "imperative form",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Imperative",
+    "targetTopic": "Imperative",
+    "enclosingTopic": "Ispe’el Imperative",
+    "enclosingSubtopic": "Ispe’el Imperative"
+   },
+   {
+    "text": ", which is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "“tenses” of the _ispe’el_ binyan",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "“tenses” of the ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "ispe’el",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " binyan",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Ispe’el Tenses",
+    "targetTopic": "Ispe’el Tenses",
+    "enclosingTopic": "Ispe’el Imperative",
+    "enclosingSubtopic": "Ispe’el Imperative"
+   },
+   {
+    "text": ". ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "ispe’el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " imperative form has ",
+        "type": "text"
+       },
+       {
+        "text": "conjugations for regular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "conjugations for regular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Ispe’el Imperative for regular shorushim",
+        "targetTopic": "Ispe’el Imperative for regular shorushim",
+        "enclosingTopic": "Ispe’el Imperative",
+        "enclosingSubtopic": "Ispe’el Imperative"
+       },
+       {
+        "text": " (Conjugations for ",
+        "type": "text"
+       },
+       {
+        "text": "irregular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "irregular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Irregular shorushim",
+        "targetTopic": "Irregular shorushim",
+        "enclosingTopic": "Ispe’el Imperative",
+        "enclosingSubtopic": "Ispe’el Imperative"
+       },
+       {
+        "text": " are not yet available.)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "ispe’el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " imperative form corresponds to the ",
+        "type": "text"
+       },
+       {
+        "text": "_hif’il_ imperative",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "hif’il",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " imperative",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Hif’il Imperative",
+        "targetTopic": "Hif’il Imperative",
+        "enclosingTopic": "Ispe’el Imperative",
+        "enclosingSubtopic": "Ispe’el Imperative"
+       },
+       {
+        "text": " of Hebrew.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

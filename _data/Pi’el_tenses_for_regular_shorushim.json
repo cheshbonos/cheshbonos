@@ -1,0 +1,255 @@
+{
+ "displayTopicName": "_Pi’el_ tenses for regular shorushim",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Pi’el",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " tenses for regular shorushim",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Pi’el tenses for regular shorushim": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pi’el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " binyan has conjugations for regular shorushim, along with ",
+    "type": "text"
+   },
+   {
+    "text": "_pi’el_ tenses for other shoresh types",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pi’el",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " tenses for other shoresh types",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Pi’el tenses for different shoresh types",
+    "targetTopic": "Pi’el tenses for different shoresh types",
+    "enclosingTopic": "Pi’el tenses for regular shorushim",
+    "enclosingSubtopic": "Pi’el tenses for regular shorushim"
+   },
+   {
+    "text": ", in five forms: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "Past Tense <br> (for regular shorushim in the _pi’el)_",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Past Tense ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (for regular shorushim in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "pi’el)",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Pi’el Past Tense for regular shorushim",
+         "targetTopic": "Pi’el Past Tense for regular shorushim",
+         "enclosingTopic": "Pi’el tenses for regular shorushim",
+         "enclosingSubtopic": "Pi’el tenses for regular shorushim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Future Tense <br> (for regular shorushim in the _pi’el)_",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Future Tense ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (for regular shorushim in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "pi’el)",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Pi’el Future Tense for regular shorushim",
+         "targetTopic": "Pi’el Future Tense for regular shorushim",
+         "enclosingTopic": "Pi’el tenses for regular shorushim",
+         "enclosingSubtopic": "Pi’el tenses for regular shorushim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Active Participle <br> (for regular shorushim in the _pi’el)_",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Active Participle ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (for regular shorushim in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "pi’el)",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Pi’el Active Participle for Regular Shorushim",
+         "targetTopic": "Pi’el Active Participle for Regular Shorushim",
+         "enclosingTopic": "Pi’el tenses for regular shorushim",
+         "enclosingSubtopic": "Pi’el tenses for regular shorushim"
+        }
+       ],
+       "rowspan": 2
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Imperative <br> (for regular shorushim in the _pi’el)_",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Imperative ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (for regular shorushim in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "pi’el)",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Pi’el Imperative for regular shorushim",
+         "targetTopic": "Pi’el Imperative for regular shorushim",
+         "enclosingTopic": "Pi’el tenses for regular shorushim",
+         "enclosingSubtopic": "Pi’el tenses for regular shorushim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Infinitive <br> (for regular shorushim in the _pi’el)_",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Infinitive ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (for regular shorushim in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "pi’el)",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Pi’el Infinitive for regular shorushim",
+         "targetTopic": "Pi’el Infinitive for regular shorushim",
+         "enclosingTopic": "Pi’el tenses for regular shorushim",
+         "enclosingSubtopic": "Pi’el tenses for regular shorushim"
+        }
+       ]
+      },
+      {
+       "tokens": [],
+       "merge": true
+      }
+     ]
+    ]
+   }
+  ]
+ }
+}

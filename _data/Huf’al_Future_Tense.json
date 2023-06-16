@@ -22,16 +22,30 @@
     "type": "text"
    },
    {
-    "type": "italics",
+    "text": "_huf’al_ binyan",
+    "type": "global",
     "tokens": [
      {
-      "text": "huf’al",
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "huf’al",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " binyan",
       "type": "text"
      }
-    ]
+    ],
+    "targetSubtopic": "Huf’al",
+    "targetTopic": "Huf’al",
+    "enclosingTopic": "Huf’al Future Tense",
+    "enclosingSubtopic": "Huf’al Future Tense"
    },
    {
-    "text": " binyan has a ",
+    "text": " has a ",
     "type": "text"
    },
    {
@@ -53,11 +67,11 @@
     "type": "text"
    },
    {
-    "text": "forms of the _huf’al_ binyan",
+    "text": "“tenses” of the _huf’al_ binyan",
     "type": "global",
     "tokens": [
      {
-      "text": "forms of the ",
+      "text": "“tenses” of the ",
       "type": "text"
      },
      {
@@ -74,8 +88,8 @@
       "type": "text"
      }
     ],
-    "targetSubtopic": "Huf’al Forms",
-    "targetTopic": "Huf’al Forms",
+    "targetSubtopic": "Huf’al Tenses",
+    "targetTopic": "Huf’al Tenses",
     "enclosingTopic": "Huf’al Future Tense",
     "enclosingSubtopic": "Huf’al Future Tense"
    },
@@ -121,7 +135,25 @@
         "enclosingSubtopic": "Huf’al Future Tense"
        },
        {
-        "text": ".",
+        "text": ". (Conjugations for ",
+        "type": "text"
+       },
+       {
+        "text": "irregular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "irregular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Irregular shorushim",
+        "targetTopic": "Irregular shorushim",
+        "enclosingTopic": "Huf’al Future Tense",
+        "enclosingSubtopic": "Huf’al Future Tense"
+       },
+       {
+        "text": " are not yet available.)",
         "type": "text"
        }
       ],
@@ -139,13 +171,26 @@
         "type": "italics",
         "tokens": [
          {
-          "text": "Huf’al",
+          "text": "huf’al",
           "type": "text"
          }
         ]
        },
        {
-        "text": " future tense has conjugations for irregular shorushim which will be added at a later time.",
+        "text": " future tense corresponds to the [",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "itaf’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " future tense] of Aramaic.",
         "type": "text"
        }
       ],

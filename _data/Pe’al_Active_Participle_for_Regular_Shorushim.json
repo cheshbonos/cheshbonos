@@ -1,0 +1,155 @@
+{
+ "displayTopicName": "_Pe’al_ Active Participle for Regular Shorushim",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Pe’al",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " Active Participle for Regular Shorushim",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Pe’al Active Participle for Regular Shorushim": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "text": "_pe’al_ active participle",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pe’al",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " active participle",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Pe’al Active Participle",
+    "targetTopic": "Pe’al Active Participle",
+    "enclosingTopic": "Pe’al Active Participle for Regular Shorushim",
+    "enclosingSubtopic": "Pe’al Active Participle for Regular Shorushim"
+   },
+   {
+    "text": " has two conjugations for regular shorushim: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "text": "_pe’al_ active participle for regular shorushim without pronoun suffixes",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "pe’al",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " active participle for regular shorushim without pronoun suffixes",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pe’al Active Participle for Regular Shorushim without pronoun suffixes",
+        "targetTopic": "Pe’al Active Participle for Regular Shorushim without pronoun suffixes",
+        "enclosingTopic": "Pe’al Active Participle for Regular Shorushim",
+        "enclosingSubtopic": "Pe’al Active Participle for Regular Shorushim"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "text": "_pe’al_ active participle for regular shorushim with pronoun suffixes",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "pe’al",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " active participle for regular shorushim with pronoun suffixes",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pe’al Active Participle for Regular Shorushim with pronoun suffixes",
+        "targetTopic": "Pe’al Active Participle for Regular Shorushim with pronoun suffixes",
+        "enclosingTopic": "Pe’al Active Participle for Regular Shorushim",
+        "enclosingSubtopic": "Pe’al Active Participle for Regular Shorushim"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "(Aramaic has what are called ",
+        "type": "text"
+       },
+       {
+        "text": "“pronoun suffixes.”",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "“pronoun suffixes.”",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pronoun suffixes",
+        "targetTopic": "Pronoun suffixes",
+        "enclosingTopic": "Pe’al Active Participle for Regular Shorushim",
+        "enclosingSubtopic": "Pe’al Active Participle for Regular Shorushim"
+       },
+       {
+        "text": ")",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

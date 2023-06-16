@@ -53,11 +53,11 @@
     "type": "text"
    },
    {
-    "text": "forms of the _hif’il_ binyan",
+    "text": "“tenses” of the _hif’il_ binyan",
     "type": "global",
     "tokens": [
      {
-      "text": "forms of the ",
+      "text": "“tenses” of the ",
       "type": "text"
      },
      {
@@ -74,8 +74,8 @@
       "type": "text"
      }
     ],
-    "targetSubtopic": "Hif’il Forms",
-    "targetTopic": "Hif’il Forms",
+    "targetSubtopic": "Hif’il Tenses",
+    "targetTopic": "Hif’il Tenses",
     "enclosingTopic": "Hif’il Infinitive",
     "enclosingSubtopic": "Hif’il Infinitive"
    },
@@ -117,31 +117,25 @@
         "enclosingSubtopic": "Hif’il Infinitive"
        },
        {
-        "text": ".",
-        "type": "text"
-       }
-      ],
-      "children": []
-     },
-     {
-      "ordinal": "-",
-      "ordered": false,
-      "tokensOfLine": [
-       {
-        "text": "There are ",
+        "text": ". (Conjugations for ",
         "type": "text"
        },
        {
-        "type": "italics",
+        "text": "irregular shorushim",
+        "type": "global",
         "tokens": [
          {
-          "text": "hif’il",
+          "text": "irregular shorushim",
           "type": "text"
          }
-        ]
+        ],
+        "targetSubtopic": "Irregular shorushim",
+        "targetTopic": "Irregular shorushim",
+        "enclosingTopic": "Hif’il Infinitive",
+        "enclosingSubtopic": "Hif’il Infinitive"
        },
        {
-        "text": " infinitive forms for irregular shorushim which will be added at a later time.",
+        "text": " are not yet available.)",
         "type": "text"
        }
       ],

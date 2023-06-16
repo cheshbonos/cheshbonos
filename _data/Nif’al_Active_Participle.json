@@ -1,0 +1,231 @@
+{
+ "displayTopicName": "_Nif’al_ Active Participle",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Nif’al",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " Active Participle",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Nif’al Active Participle": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "nif’al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " has an ",
+    "type": "text"
+   },
+   {
+    "text": "active participle",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "active participle",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Active Participle",
+    "targetTopic": "Active Participle",
+    "enclosingTopic": "Nif’al Active Participle",
+    "enclosingSubtopic": "Nif’al Active Participle"
+   },
+   {
+    "text": " which is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "forms of the nif’al binyan",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "forms of the nif’al binyan",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Nif’al Tenses",
+    "targetTopic": "Nif’al Tenses",
+    "enclosingTopic": "Nif’al Active Participle",
+    "enclosingSubtopic": "Nif’al Active Participle"
+   },
+   {
+    "text": ". ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "nif’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " has ",
+        "type": "text"
+       },
+       {
+        "text": "conjugations for regular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "conjugations for regular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Nif’al Active Participle for Regular Shorushim",
+        "targetTopic": "Nif’al Active Participle for Regular Shorushim",
+        "enclosingTopic": "Nif’al Active Participle",
+        "enclosingSubtopic": "Nif’al Active Participle"
+       },
+       {
+        "text": ". (Conjugations for ",
+        "type": "text"
+       },
+       {
+        "text": "irregular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "irregular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Irregular shorushim",
+        "targetTopic": "Irregular shorushim",
+        "enclosingTopic": "Nif’al Active Participle",
+        "enclosingSubtopic": "Nif’al Active Participle"
+       },
+       {
+        "text": " are not yet available.)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Even though the ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "nif’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " has an ",
+        "type": "text"
+       },
+       {
+        "text": "active participle",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "active participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Active Participle",
+        "targetTopic": "Active Participle",
+        "enclosingTopic": "Nif’al Active Participle",
+        "enclosingSubtopic": "Nif’al Active Participle"
+       },
+       {
+        "text": ", because the ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "nif’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " is a ",
+        "type": "text"
+       },
+       {
+        "text": "passive binyan",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "passive binyan",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Passive binyanim",
+        "targetTopic": "Passive binyanim",
+        "enclosingTopic": "Nif’al Active Participle",
+        "enclosingSubtopic": "Nif’al Active Participle"
+       },
+       {
+        "text": ", the active participle still describes a ",
+        "type": "text"
+       },
+       {
+        "text": "passive action",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "passive action",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Passive",
+        "targetTopic": "Passive",
+        "enclosingTopic": "Nif’al Active Participle",
+        "enclosingSubtopic": "Nif’al Active Participle"
+       },
+       {
+        "text": " i.e. an action that is done to the subject.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

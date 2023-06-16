@@ -1,0 +1,283 @@
+{
+ "displayTopicName": "Pa’el Tenses",
+ "topicTokens": [
+  {
+   "text": "Pa’el Tenses",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Pa’el Tenses": [
+   {
+    "text": "Verbs in the ",
+    "type": "text"
+   },
+   {
+    "text": "_pa’el_",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pa’el",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Pa’el",
+    "targetTopic": "Pa’el",
+    "enclosingTopic": "Pa’el Tenses",
+    "enclosingSubtopic": "Pa’el Tenses"
+   },
+   {
+    "text": " have conjugations conjugations in various “tenses”: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "Past Tense <br> (of the _pa’el_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Past Tense ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "pa’el",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Pa’el Past Tense",
+         "targetTopic": "Pa’el Past Tense",
+         "enclosingTopic": "Pa’el Tenses",
+         "enclosingSubtopic": "Pa’el Tenses"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Future Tense <br> (of the _pa’el_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Future Tense ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "pa’el",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Pa’el Future Tense",
+         "targetTopic": "Pa’el Future Tense",
+         "enclosingTopic": "Pa’el Tenses",
+         "enclosingSubtopic": "Pa’el Tenses"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Active Participle <br> (of the _pa’el_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Active Participle ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "pa’el",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Pa’el Active Participle",
+         "targetTopic": "Pa’el Active Participle",
+         "enclosingTopic": "Pa’el Tenses",
+         "enclosingSubtopic": "Pa’el Tenses"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Imperative <br> (of the _pa’el_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Imperative ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "pa’el",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Pa’el Imperative",
+         "targetTopic": "Pa’el Imperative",
+         "enclosingTopic": "Pa’el Tenses",
+         "enclosingSubtopic": "Pa’el Tenses"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Infinitive <br> (of the _pa’el_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Infinitive ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "pa’el",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Pa’el Infinitive",
+         "targetTopic": "Pa’el Infinitive",
+         "enclosingTopic": "Pa’el Tenses",
+         "enclosingSubtopic": "Pa’el Tenses"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Passive Participle <br> (of the _pa’el_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Passive Participle ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "pa’el",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Pa’el Passive Participle",
+         "targetTopic": "Pa’el Passive Participle",
+         "enclosingTopic": "Pa’el Tenses",
+         "enclosingSubtopic": "Pa’el Tenses"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ]
+ }
+}

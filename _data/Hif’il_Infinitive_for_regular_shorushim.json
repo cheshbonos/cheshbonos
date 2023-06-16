@@ -22,14 +22,14 @@
     "type": "text"
    },
    {
-    "text": "_Hif’il_ infinitive form",
+    "text": "_hif’il_ infinitive form",
     "type": "global",
     "tokens": [
      {
       "type": "italics",
       "tokens": [
        {
-        "text": "Hif’il",
+        "text": "hif’il",
         "type": "text"
        }
       ]
@@ -81,6 +81,10 @@
          "html": "<br>"
         },
         {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
          "text": " ",
          "type": "text"
         },
@@ -96,6 +100,14 @@
         {
          "text": " ",
          "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",

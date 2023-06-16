@@ -1,0 +1,283 @@
+{
+ "displayTopicName": "Af’el Tenses",
+ "topicTokens": [
+  {
+   "text": "Af’el Tenses",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Af’el Tenses": [
+   {
+    "text": "Verbs in the ",
+    "type": "text"
+   },
+   {
+    "text": "_af’el_",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "af’el",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Af’el",
+    "targetTopic": "Af’el",
+    "enclosingTopic": "Af’el Tenses",
+    "enclosingSubtopic": "Af’el Tenses"
+   },
+   {
+    "text": " have conjugations conjugations in various “tenses”: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "Past Tense <br> (of the _af’el_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Past Tense ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "af’el",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Af’el Past Tense",
+         "targetTopic": "Af’el Past Tense",
+         "enclosingTopic": "Af’el Tenses",
+         "enclosingSubtopic": "Af’el Tenses"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Future Tense <br> (of the _af’el_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Future Tense ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "af’el",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Af’el Future Tense",
+         "targetTopic": "Af’el Future Tense",
+         "enclosingTopic": "Af’el Tenses",
+         "enclosingSubtopic": "Af’el Tenses"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Active Participle <br> (of the _af’el_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Active Participle ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "af’el",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Af’el Active Participle",
+         "targetTopic": "Af’el Active Participle",
+         "enclosingTopic": "Af’el Tenses",
+         "enclosingSubtopic": "Af’el Tenses"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Imperative <br> (of the _af’el_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Imperative ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "af’el",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Af’el Imperative",
+         "targetTopic": "Af’el Imperative",
+         "enclosingTopic": "Af’el Tenses",
+         "enclosingSubtopic": "Af’el Tenses"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Infinitive <br> (of the _af’el_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Infinitive ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "af’el",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Af’el Infinitive",
+         "targetTopic": "Af’el Infinitive",
+         "enclosingTopic": "Af’el Tenses",
+         "enclosingSubtopic": "Af’el Tenses"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Passive Participle <br> (of the _af’el_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Passive Participle ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "af’el",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Af’el Passive Participle",
+         "targetTopic": "Af’el Passive Participle",
+         "enclosingTopic": "Af’el Tenses",
+         "enclosingSubtopic": "Af’el Tenses"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ]
+ }
+}

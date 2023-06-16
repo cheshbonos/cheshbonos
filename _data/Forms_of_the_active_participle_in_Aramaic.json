@@ -1,0 +1,1383 @@
+{
+ "displayTopicName": "Forms of the active participle in Aramaic",
+ "topicTokens": [
+  {
+   "text": "Forms of the active participle in Aramaic",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Forms of the active participle in Aramaic": [
+   {
+    "text": "These are the examples of the participle in the masculine singular for each of the ",
+    "type": "text"
+   },
+   {
+    "text": "Aramaic binyanim",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Aramaic binyanim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Aramaic binyanim",
+    "targetTopic": "Aramaic binyanim",
+    "enclosingTopic": "Forms of the active participle in Aramaic",
+    "enclosingSubtopic": "Forms of the active participle in Aramaic"
+   },
+   {
+    "text": ". (",
+    "type": "text"
+   },
+   {
+    "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Binyan",
+    "targetTopic": "Binyan",
+    "enclosingTopic": "Forms of the active participle in Aramaic",
+    "enclosingSubtopic": "Forms of the active participle in Aramaic"
+   },
+   {
+    "text": ".) ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "Binyan",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Type",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Example",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Transliteration",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "_Pe’al_",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Pe’al",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Pe’al",
+         "targetTopic": "Pe’al",
+         "enclosingTopic": "Forms of the active participle in Aramaic",
+         "enclosingSubtopic": "Forms of the active participle in Aramaic"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "simple",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "simple",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Simple",
+         "targetTopic": "Simple",
+         "enclosingTopic": "Forms of the active participle in Aramaic",
+         "enclosingSubtopic": "Forms of the active participle in Aramaic"
+        },
+        {
+         "text": ", ",
+         "type": "text"
+        },
+        {
+         "text": "active",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "active",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Active",
+         "targetTopic": "Active",
+         "enclosingTopic": "Forms of the active participle in Aramaic",
+         "enclosingSubtopic": "Forms of the active participle in Aramaic"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "כָּתֵיב",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "kauseiv",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "_Ispe’el_",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Ispe’el",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Ispe’el",
+         "targetTopic": "Ispe’el",
+         "enclosingTopic": "Forms of the active participle in Aramaic",
+         "enclosingSubtopic": "Forms of the active participle in Aramaic"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "simple",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "simple",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Simple",
+         "targetTopic": "Simple",
+         "enclosingTopic": "Forms of the active participle in Aramaic",
+         "enclosingSubtopic": "Forms of the active participle in Aramaic"
+        },
+        {
+         "text": ", ",
+         "type": "text"
+        },
+        {
+         "text": "passive",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "passive",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Passive",
+         "targetTopic": "Passive",
+         "enclosingTopic": "Forms of the active participle in Aramaic",
+         "enclosingSubtopic": "Forms of the active participle in Aramaic"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "מִתְכְּתִב",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "miskesiv",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "_Pa’el_",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Pa’el",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Pa’el",
+         "targetTopic": "Pa’el",
+         "enclosingTopic": "Forms of the active participle in Aramaic",
+         "enclosingSubtopic": "Forms of the active participle in Aramaic"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "intensive",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "intensive",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Intensive",
+         "targetTopic": "Intensive",
+         "enclosingTopic": "Forms of the active participle in Aramaic",
+         "enclosingSubtopic": "Forms of the active participle in Aramaic"
+        },
+        {
+         "text": ", ",
+         "type": "text"
+        },
+        {
+         "text": "active",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "active",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Active",
+         "targetTopic": "Active",
+         "enclosingTopic": "Forms of the active participle in Aramaic",
+         "enclosingSubtopic": "Forms of the active participle in Aramaic"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "מְקַדֵּיש",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "mekad’deish",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "_Ispa’al_",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Ispa’al",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Ispa’al",
+         "targetTopic": "Ispa’al",
+         "enclosingTopic": "Forms of the active participle in Aramaic",
+         "enclosingSubtopic": "Forms of the active participle in Aramaic"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "intensive",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "intensive",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Intensive",
+         "targetTopic": "Intensive",
+         "enclosingTopic": "Forms of the active participle in Aramaic",
+         "enclosingSubtopic": "Forms of the active participle in Aramaic"
+        },
+        {
+         "text": ", ",
+         "type": "text"
+        },
+        {
+         "text": "passive",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "passive",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Passive",
+         "targetTopic": "Passive",
+         "enclosingTopic": "Forms of the active participle in Aramaic",
+         "enclosingSubtopic": "Forms of the active participle in Aramaic"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "מְתְקַדַש",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "miskadash",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "_Af’el_",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Af’el",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Af’el",
+         "targetTopic": "Af’el",
+         "enclosingTopic": "Forms of the active participle in Aramaic",
+         "enclosingSubtopic": "Forms of the active participle in Aramaic"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "causative",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "causative",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Causative",
+         "targetTopic": "Causative",
+         "enclosingTopic": "Forms of the active participle in Aramaic",
+         "enclosingSubtopic": "Forms of the active participle in Aramaic"
+        },
+        {
+         "text": ", ",
+         "type": "text"
+        },
+        {
+         "text": "active",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "active",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Active",
+         "targetTopic": "Active",
+         "enclosingTopic": "Forms of the active participle in Aramaic",
+         "enclosingSubtopic": "Forms of the active participle in Aramaic"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "מַכְתִּיב",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "machtiv",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "_Itaf’al_",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Itaf’al",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Itaf’al",
+         "targetTopic": "Itaf’al",
+         "enclosingTopic": "Forms of the active participle in Aramaic",
+         "enclosingSubtopic": "Forms of the active participle in Aramaic"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "causative",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "causative",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Causative",
+         "targetTopic": "Causative",
+         "enclosingTopic": "Forms of the active participle in Aramaic",
+         "enclosingSubtopic": "Forms of the active participle in Aramaic"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "text": "passive",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "passive",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Passive",
+         "targetTopic": "Passive",
+         "enclosingTopic": "Forms of the active participle in Aramaic",
+         "enclosingSubtopic": "Forms of the active participle in Aramaic"
+        },
+        {
+         "text": ", or ",
+         "type": "text"
+        },
+        {
+         "text": "reflexive",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "reflexive",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Reflexive",
+         "targetTopic": "Reflexive",
+         "enclosingTopic": "Forms of the active participle in Aramaic",
+         "enclosingSubtopic": "Forms of the active participle in Aramaic"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "מִתַּפְקַד",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "mitafkad",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "For gender and number": [
+   {
+    "text": "The participle is conjugated for gender and number: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "Person",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Hebrew",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Transliteration",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Meaning",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Masculine singular",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "כּוֹתֵב",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "koseiv",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "one man writing",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Feminine singular",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "כּוֹתֶבֶת",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "koseves",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "one woman writing",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Masculine plural",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "כּוֹתְבִים",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "kosvim",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "multiple men writing",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Feminine plural",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "כּוֹתְבוֹת",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "kosvos",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "multiple women writing",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "text": " This is unlike the ",
+    "type": "text"
+   },
+   {
+    "text": "past tense",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "past tense",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Past tense",
+    "targetTopic": "Past tense",
+    "enclosingTopic": "Forms of the active participle in Aramaic",
+    "enclosingSubtopic": "For gender and number"
+   },
+   {
+    "text": " or ",
+    "type": "text"
+   },
+   {
+    "text": "future tense",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "future tense",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Future Tense",
+    "targetTopic": "Future Tense",
+    "enclosingTopic": "Forms of the active participle in Aramaic",
+    "enclosingSubtopic": "For gender and number"
+   },
+   {
+    "text": " that have ",
+    "type": "text"
+   },
+   {
+    "text": "separate forms for person",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "separate forms for person",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Separate forms for person",
+    "targetTopic": "Forms of the active participle in Aramaic",
+    "enclosingTopic": "Forms of the active participle in Aramaic",
+    "enclosingSubtopic": "For gender and number"
+   },
+   {
+    "text": ". This is because the participle in Hebrew and Aramaic is ",
+    "type": "text"
+   },
+   {
+    "text": "like an adjective",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "like an adjective",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Like an adjective",
+    "targetTopic": "Forms of the active participle in Aramaic",
+    "enclosingTopic": "Forms of the active participle in Aramaic",
+    "enclosingSubtopic": "For gender and number"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Separate forms for person": [
+   {
+    "text": "Tenses other than the participle have conjugations for every person, eg the ",
+    "type": "text"
+   },
+   {
+    "text": "_pa’al_",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pa’al",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Pa’al",
+    "targetTopic": "Pa’al",
+    "enclosingTopic": "Forms of the active participle in Aramaic",
+    "enclosingSubtopic": "Separate forms for person"
+   },
+   {
+    "text": " ",
+    "type": "text"
+   },
+   {
+    "text": "past tense",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "past tense",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Past tense",
+    "targetTopic": "Past tense",
+    "enclosingTopic": "Forms of the active participle in Aramaic",
+    "enclosingSubtopic": "Separate forms for person"
+   },
+   {
+    "text": ": ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Person",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Hebrew",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Transliteration",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Meaning",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "First singular",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "כָּתַבְתִּי",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "kosavti",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "I wrote",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "First-person plural",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "כּוֹתְבוֹת",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "kosavnu",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "We wrote",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Second singular masculine",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "כָּתַבְתָּ",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "kosavto",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "You (man) wrote",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Second singular feminine",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "כָּתַבְתְּ",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "kosavt",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "You (woman) wrote",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Second plural masculine",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "כְּתַבְתֶּם",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "ksavtem",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "You (men) wrote",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Second plural feminine",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "כְּתַבְתֶּן",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "ksavten",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "You (women) wrote",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Third plural masculine",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "כָּתַב",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "kosav",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "He wrote",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Third plural feminine",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "כָּתְבָה",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "kosvo",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "She wrote",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "They/those",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "כָּתְבוּ",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "kosvu",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "They wrote",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Like an adjective": [
+   {
+    "text": "The participle in Hebrew and Aramaic is more like an adjective than a verb, with “he is running” having the same grammatical form as “he is tall.” (This example uses the participle of the ",
+    "type": "text"
+   },
+   {
+    "text": "_pa’al binyan_",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pa’al binyan",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Pa’al",
+    "targetTopic": "Pa’al",
+    "enclosingTopic": "Forms of the active participle in Aramaic",
+    "enclosingSubtopic": "Like an adjective"
+   },
+   {
+    "text": ". ",
+    "type": "text"
+   },
+   {
+    "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Binyan",
+    "targetTopic": "Binyan",
+    "enclosingTopic": "Forms of the active participle in Aramaic",
+    "enclosingSubtopic": "Like an adjective"
+   },
+   {
+    "text": ".)",
+    "type": "text"
+   }
+  ]
+ }
+}

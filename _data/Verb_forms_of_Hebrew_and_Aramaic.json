@@ -55,16 +55,16 @@
       {
        "tokens": [
         {
-         "text": "Ongoing Participle",
+         "text": "Active Participle",
          "type": "global",
          "tokens": [
           {
-           "text": "Ongoing Participle",
+           "text": "Active Participle",
            "type": "text"
           }
          ],
-         "targetSubtopic": "Ongoing Participle",
-         "targetTopic": "Ongoing Participle",
+         "targetSubtopic": "Active Participle",
+         "targetTopic": "Active Participle",
          "enclosingTopic": "Verb forms of Hebrew and Aramaic",
          "enclosingSubtopic": "Verb forms of Hebrew and Aramaic"
         }
@@ -111,16 +111,16 @@
       {
        "tokens": [
         {
-         "text": "Finished Participle",
+         "text": "Passive Participle",
          "type": "global",
          "tokens": [
           {
-           "text": "Finished Participle",
+           "text": "Passive Participle",
            "type": "text"
           }
          ],
-         "targetSubtopic": "Finished Participle",
-         "targetTopic": "Finished Participle",
+         "targetSubtopic": "Passive Participle",
+         "targetTopic": "Passive Participle",
          "enclosingTopic": "Verb forms of Hebrew and Aramaic",
          "enclosingSubtopic": "Verb forms of Hebrew and Aramaic"
         }

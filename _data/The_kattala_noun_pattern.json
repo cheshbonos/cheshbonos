@@ -39,11 +39,11 @@
     "type": "text"
    },
    {
-    "text": "Hebrew noun patterns",
+    "text": "hebrew noun patterns",
     "type": "global",
     "tokens": [
      {
-      "text": "Hebrew noun patterns",
+      "text": "hebrew noun patterns",
       "type": "text"
      }
     ],
@@ -138,8 +138,12 @@
       {
        "tokens": [
         {
-         "text": "בִּקֵּשׁ",
+         "text": "בִּקֵּשׁ ",
          "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",
@@ -167,6 +171,14 @@
          "html": "<br>"
         },
         {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
          "text": " he requested",
          "type": "text"
         }
@@ -177,6 +189,10 @@
         {
          "text": "בַּקָּשָׁה ",
          "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",
@@ -204,6 +220,14 @@
          "html": "<br>"
         },
         {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
          "text": " an instance of eating",
          "type": "text"
         }
@@ -214,7 +238,7 @@
       {
        "tokens": [
         {
-         "text": "תקן",
+         "text": "תקן ",
          "type": "text"
         },
         {
@@ -230,8 +254,12 @@
       {
        "tokens": [
         {
-         "text": "תִּקֵּן",
+         "text": "תִּקֵּן ",
          "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",
@@ -259,6 +287,14 @@
          "html": "<br>"
         },
         {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
          "text": " he fixed",
          "type": "text"
         }
@@ -267,8 +303,12 @@
       {
        "tokens": [
         {
-         "text": "תַּקָּנָה",
+         "text": "תַּקָּנָה ",
          "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",
@@ -290,6 +330,14 @@
         {
          "text": " ",
          "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",
@@ -322,8 +370,12 @@
       {
        "tokens": [
         {
-         "text": "כִּפֵּר",
+         "text": "כִּפֵּר ",
          "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",
@@ -351,6 +403,14 @@
          "html": "<br>"
         },
         {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
          "text": " he granted atonement",
          "type": "text"
         }
@@ -361,6 +421,10 @@
         {
          "text": "כַּפָּרָה ",
          "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",
@@ -382,6 +446,14 @@
         {
          "text": " ",
          "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",

@@ -39,11 +39,11 @@
     "type": "text"
    },
    {
-    "text": "Hebrew noun patterns",
+    "text": "hebrew noun patterns",
     "type": "global",
     "tokens": [
      {
-      "text": "Hebrew noun patterns",
+      "text": "hebrew noun patterns",
       "type": "text"
      }
     ],
@@ -145,14 +145,22 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "bish’sheil",
+           "text": "bish’sheil)",
            "type": "text"
           }
          ]
         },
         {
-         "text": ") ",
+         "text": " ",
          "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",
@@ -174,14 +182,22 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "tavshil",
+           "text": "tavshil)",
            "type": "text"
           }
          ]
         },
         {
-         "text": ") ",
+         "text": " ",
          "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",
@@ -221,14 +237,22 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "hifkid",
+           "text": "hifkid)",
            "type": "text"
           }
          ]
         },
         {
-         "text": ") ",
+         "text": " ",
          "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",
@@ -250,14 +274,22 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "tafkid",
+           "text": "tafkid)",
            "type": "text"
           }
          ]
         },
         {
-         "text": ") ",
+         "text": " ",
          "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",
@@ -297,14 +329,22 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "hirg’gil",
+           "text": "hirg’gil)",
            "type": "text"
           }
          ]
         },
         {
-         "text": ") ",
+         "text": " ",
          "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",
@@ -326,14 +366,22 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "targ’gil",
+           "text": "targ’gil)",
            "type": "text"
           }
          ]
         },
         {
-         "text": ") ",
+         "text": " ",
          "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",

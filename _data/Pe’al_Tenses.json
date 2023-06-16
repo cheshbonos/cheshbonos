@@ -1,0 +1,283 @@
+{
+ "displayTopicName": "Pe’al Tenses",
+ "topicTokens": [
+  {
+   "text": "Pe’al Tenses",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Pe’al Tenses": [
+   {
+    "text": "Verbs in the ",
+    "type": "text"
+   },
+   {
+    "text": "_pe’al_",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pe’al",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "targetSubtopic": "Pe’al",
+    "targetTopic": "Pe’al",
+    "enclosingTopic": "Pe’al Tenses",
+    "enclosingSubtopic": "Pe’al Tenses"
+   },
+   {
+    "text": " have conjugations conjugations in various “tenses”: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "Past Tense <br> (of the _pe’al_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Past Tense ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "pe’al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Pe’al Past Tense",
+         "targetTopic": "Pe’al Past Tense",
+         "enclosingTopic": "Pe’al Tenses",
+         "enclosingSubtopic": "Pe’al Tenses"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Future Tense <br> (of the _pe’al_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Future Tense ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "pe’al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Pe’al Future Tense",
+         "targetTopic": "Pe’al Future Tense",
+         "enclosingTopic": "Pe’al Tenses",
+         "enclosingSubtopic": "Pe’al Tenses"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Active Participle <br> (of the _pe’al_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Active Participle ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "pe’al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Pe’al Active Participle",
+         "targetTopic": "Pe’al Active Participle",
+         "enclosingTopic": "Pe’al Tenses",
+         "enclosingSubtopic": "Pe’al Tenses"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Imperative <br> (of the _pe’al_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Imperative ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "pe’al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Pe’al Imperative",
+         "targetTopic": "Pe’al Imperative",
+         "enclosingTopic": "Pe’al Tenses",
+         "enclosingSubtopic": "Pe’al Tenses"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Infinitive <br> (of the _pe’al_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Infinitive ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "pe’al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Pe’al Infinitive",
+         "targetTopic": "Pe’al Infinitive",
+         "enclosingTopic": "Pe’al Tenses",
+         "enclosingSubtopic": "Pe’al Tenses"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Passive Participle <br> (of the _pe’al_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Passive Participle ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "pe’al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Pe’al Passive Participle",
+         "targetTopic": "Pe’al Passive Participle",
+         "enclosingTopic": "Pe’al Tenses",
+         "enclosingSubtopic": "Pe’al Tenses"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ]
+ }
+}

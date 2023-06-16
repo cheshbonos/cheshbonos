@@ -1,0 +1,384 @@
+{
+ "displayTopicName": "_Pa’al_ Active Participle",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Pa’al",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " Active Participle",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Pa’al Active Participle": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pa’al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " has an ",
+    "type": "text"
+   },
+   {
+    "text": "active participle form",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "active participle form",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Active Participle",
+    "targetTopic": "Active Participle",
+    "enclosingTopic": "Pa’al Active Participle",
+    "enclosingSubtopic": "Pa’al Active Participle"
+   },
+   {
+    "text": ", which is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "“tenses” of the _pa’al_ binyan",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "“tenses” of the ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pa’al",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " binyan",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Pa’al Tenses",
+    "targetTopic": "Pa’al Tenses",
+    "enclosingTopic": "Pa’al Active Participle",
+    "enclosingSubtopic": "Pa’al Active Participle"
+   },
+   {
+    "text": ". ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pa’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " active participle describes an ongoing action, as opposed to the ",
+        "type": "text"
+       },
+       {
+        "text": "_pa’al’s_ passive participle",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "pa’al’s",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " passive participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pa’al Passive Participle",
+        "targetTopic": "Pa’al Passive Participle",
+        "enclosingTopic": "Pa’al Active Participle",
+        "enclosingSubtopic": "Pa’al Active Participle"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "ispe’el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " active participle corresponds to the ",
+        "type": "text"
+       },
+       {
+        "text": "_pe’al_ active participle",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "pe’al",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " active participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pe’al Active Participle",
+        "targetTopic": "Pe’al Active Participle",
+        "enclosingTopic": "Pa’al Active Participle",
+        "enclosingSubtopic": "Pa’al Active Participle"
+       },
+       {
+        "text": " of Aramaic.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "There are different patterns of conjugation for the ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pa’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " participle:",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "Regular shorushim <br> (in the _pa’al_ active participle)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Regular shorushim ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "pa’al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " active participle)",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Pa’al Active Participle for Regular Shorushim",
+         "targetTopic": "Pa’al Active Participle for Regular Shorushim",
+         "enclosingTopic": "Pa’al Active Participle",
+         "enclosingSubtopic": "Pa’al Active Participle"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Shorushim ending with ח or ע <br> (in the _pa’al_ active participle)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Shorushim ending with ח or ע ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "pa’al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " active participle)",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Pa’al Active Participle for shorushim ending with ח or ע",
+         "targetTopic": "Pa’al Active Participle for shorushim ending with ח or ע",
+         "enclosingTopic": "Pa’al Active Participle",
+         "enclosingSubtopic": "Pa’al Active Participle"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Shorushim with a middle ו <br> (in the _pa’al_ active participle)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Shorushim with a middle ו ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "pa’al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " active participle)",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Pa’al Active Participle for shorushim with a middle ו",
+         "targetTopic": "Pa’al Active Participle for shorushim with a middle ו",
+         "enclosingTopic": "Pa’al Active Participle",
+         "enclosingSubtopic": "Pa’al Active Participle"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Stative verbs <br> (in the _pa’al_ active participle)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Stative verbs ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "pa’al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " active participle)",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Pa’al active participle for stative verbs",
+         "targetTopic": "Pa’al active participle for stative verbs",
+         "enclosingTopic": "Pa’al Active Participle",
+         "enclosingSubtopic": "Pa’al Active Participle"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ]
+ }
+}

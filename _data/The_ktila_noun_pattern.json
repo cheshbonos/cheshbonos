@@ -39,11 +39,11 @@
     "type": "text"
    },
    {
-    "text": "Hebrew noun patterns",
+    "text": "hebrew noun patterns",
     "type": "global",
     "tokens": [
      {
-      "text": "Hebrew noun patterns",
+      "text": "hebrew noun patterns",
       "type": "text"
      }
     ],
@@ -138,8 +138,12 @@
       {
        "tokens": [
         {
-         "text": "אָכַל",
+         "text": "אָכַל ",
          "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",
@@ -167,6 +171,14 @@
          "html": "<br>"
         },
         {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
          "text": " he ate",
          "type": "text"
         }
@@ -177,6 +189,10 @@
         {
          "text": "אֲכִילָה ",
          "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",
@@ -204,6 +220,14 @@
          "html": "<br>"
         },
         {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
          "text": " an instance of eating",
          "type": "text"
         }
@@ -214,7 +238,7 @@
       {
        "tokens": [
         {
-         "text": "הלך",
+         "text": "הלך ",
          "type": "text"
         },
         {
@@ -230,8 +254,12 @@
       {
        "tokens": [
         {
-         "text": "הָלַךְ",
+         "text": "הָלַךְ ",
          "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",
@@ -259,6 +287,14 @@
          "html": "<br>"
         },
         {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
          "text": " he walked",
          "type": "text"
         }
@@ -267,8 +303,12 @@
       {
        "tokens": [
         {
-         "text": "הֲלִיכָה",
+         "text": "הֲלִיכָה ",
          "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",
@@ -290,6 +330,14 @@
         {
          "text": " ",
          "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",
@@ -322,8 +370,12 @@
       {
        "tokens": [
         {
-         "text": "נָפַל",
+         "text": "נָפַל ",
          "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",
@@ -351,6 +403,14 @@
          "html": "<br>"
         },
         {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
          "text": " he fell",
          "type": "text"
         }
@@ -361,6 +421,10 @@
         {
          "text": "נְפִילָה ",
          "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",
@@ -382,6 +446,14 @@
         {
          "text": " ",
          "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",

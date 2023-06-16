@@ -26,11 +26,11 @@
     "type": "text"
    },
    {
-    "text": "Hebrew binyanim",
+    "text": "hebrew binyanim",
     "type": "global",
     "tokens": [
      {
-      "text": "Hebrew binyanim",
+      "text": "hebrew binyanim",
       "type": "text"
      }
     ],
@@ -316,25 +316,61 @@
         ]
        },
        {
-        "text": " is one of the Hebrew binyanim that may correspond to the ",
+        "text": " may correspond to the ",
         "type": "text"
        },
        {
-        "text": "_ispa’al_",
+        "text": "ispe’el",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "ispe’el",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Ispe’el",
+        "targetTopic": "Ispe’el",
+        "enclosingTopic": "Hispa’el",
+        "enclosingSubtopic": "More information about the hispa’el"
+       },
+       {
+        "text": ", ",
+        "type": "text"
+       },
+       {
+        "text": "ispa’al",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "ispa’al",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Ispa’al",
+        "targetTopic": "Ispa’al",
+        "enclosingTopic": "Hispa’el",
+        "enclosingSubtopic": "More information about the hispa’el"
+       },
+       {
+        "text": ", or ",
+        "type": "text"
+       },
+       {
+        "text": "_itaf’al_",
         "type": "global",
         "tokens": [
          {
           "type": "italics",
           "tokens": [
            {
-            "text": "ispa’al",
+            "text": "itaf’al",
             "type": "text"
            }
           ]
          }
         ],
-        "targetSubtopic": "Ispa’al",
-        "targetTopic": "Ispa’al",
+        "targetSubtopic": "Itaf’al",
+        "targetTopic": "Itaf’al",
         "enclosingTopic": "Hispa’el",
         "enclosingSubtopic": "More information about the hispa’el"
        },
@@ -375,8 +411,8 @@
           "type": "text"
          }
         ],
-        "targetSubtopic": "Hispa’el Forms",
-        "targetTopic": "Hispa’el Forms",
+        "targetSubtopic": "Hispa’el Tenses",
+        "targetTopic": "Hispa’el Tenses",
         "enclosingTopic": "Hispa’el",
         "enclosingSubtopic": "More information about the hispa’el"
        },
@@ -409,16 +445,16 @@
         "type": "text"
        },
        {
-        "text": "forms for different shoresh types",
+        "text": "tenses for different shoresh types",
         "type": "global",
         "tokens": [
          {
-          "text": "forms for different shoresh types",
+          "text": "tenses for different shoresh types",
           "type": "text"
          }
         ],
-        "targetSubtopic": "Hispa’el forms for different shoresh types",
-        "targetTopic": "Hispa’el forms for different shoresh types",
+        "targetSubtopic": "Hispa’el tenses for different shoresh types",
+        "targetTopic": "Hispa’el tenses for different shoresh types",
         "enclosingTopic": "Hispa’el",
         "enclosingSubtopic": "More information about the hispa’el"
        },
@@ -502,13 +538,13 @@
           ]
          },
          {
-          "text": "esh",
+          "text": "esh)",
           "type": "text"
          }
         ]
        },
        {
-        "text": ") “he is donating to the temple.”",
+        "text": " “he is donating to the temple.”",
         "type": "text"
        }
       ],

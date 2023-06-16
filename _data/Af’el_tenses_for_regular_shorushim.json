@@ -1,0 +1,255 @@
+{
+ "displayTopicName": "_Af’el_ tenses for regular shorushim",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Af’el",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " tenses for regular shorushim",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Af’el tenses for regular shorushim": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "af’el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " binyan has conjugations for regular shorushim, along with ",
+    "type": "text"
+   },
+   {
+    "text": "_Af’el_ tenses for other shoresh types",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "Af’el",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " tenses for other shoresh types",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Af’el tenses for different shoresh types",
+    "targetTopic": "Af’el tenses for different shoresh types",
+    "enclosingTopic": "Af’el tenses for regular shorushim",
+    "enclosingSubtopic": "Af’el tenses for regular shorushim"
+   },
+   {
+    "text": ", in five forms: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "Past Tense <br> (for regular shorushim in the _af’el)_",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Past Tense ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (for regular shorushim in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "af’el)",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Af’el Past Tense for regular shorushim",
+         "targetTopic": "Af’el Past Tense for regular shorushim",
+         "enclosingTopic": "Af’el tenses for regular shorushim",
+         "enclosingSubtopic": "Af’el tenses for regular shorushim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Future Tense <br> (for regular shorushim in the _af’el)_",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Future Tense ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (for regular shorushim in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "af’el)",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Af’el Future Tense for regular shorushim",
+         "targetTopic": "Af’el Future Tense for regular shorushim",
+         "enclosingTopic": "Af’el tenses for regular shorushim",
+         "enclosingSubtopic": "Af’el tenses for regular shorushim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Active Participle <br> (for regular shorushim in the _af’el)_",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Active Participle ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (for regular shorushim in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "af’el)",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Af’el Active Participle for Regular Shorushim",
+         "targetTopic": "Af’el Active Participle for Regular Shorushim",
+         "enclosingTopic": "Af’el tenses for regular shorushim",
+         "enclosingSubtopic": "Af’el tenses for regular shorushim"
+        }
+       ],
+       "rowspan": 2
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Imperative <br> (for regular shorushim in the _af’el)_",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Imperative ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (for regular shorushim in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "af’el)",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Af’el Imperative for regular shorushim",
+         "targetTopic": "Af’el Imperative for regular shorushim",
+         "enclosingTopic": "Af’el tenses for regular shorushim",
+         "enclosingSubtopic": "Af’el tenses for regular shorushim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Infinitive <br> (for regular shorushim in the _af’el)_",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Infinitive ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (for regular shorushim in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "af’el)",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Af’el Infinitive for regular shorushim",
+         "targetTopic": "Af’el Infinitive for regular shorushim",
+         "enclosingTopic": "Af’el tenses for regular shorushim",
+         "enclosingSubtopic": "Af’el tenses for regular shorushim"
+        }
+       ]
+      },
+      {
+       "tokens": [],
+       "merge": true
+      }
+     ]
+    ]
+   }
+  ]
+ }
+}

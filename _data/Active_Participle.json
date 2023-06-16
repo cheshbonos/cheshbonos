@@ -1,0 +1,220 @@
+{
+ "displayTopicName": "Active Participle",
+ "topicTokens": [
+  {
+   "text": "Active Participle",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Active Participle": [
+   {
+    "text": "The active participle, usually just called “the participle” (and sometimes called ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "lashon po’el)",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "verb forms of Hebrew and Aramaic",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "verb forms of Hebrew and Aramaic",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Verb forms of Hebrew and Aramaic",
+    "targetTopic": "Verb forms of Hebrew and Aramaic",
+    "enclosingTopic": "Active Participle",
+    "enclosingSubtopic": "Active Participle"
+   },
+   {
+    "text": ". ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "In English, an example of the active participle is the word “running.”",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The active participle can be used to make sentences like “I am running,” or “I was running.”",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Students interested in grammar can read ",
+        "type": "text"
+       },
+       {
+        "text": "additional information about the active participle",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "additional information about the active participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Additional information about the active participle",
+        "targetTopic": "Active Participle",
+        "enclosingTopic": "Active Participle",
+        "enclosingSubtopic": "Active Participle"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "Additional information about the active participle": [
+   {
+    "text": "This is additional information about the active participle: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The active participle describes an ongoing action, as opposed to ",
+        "type": "text"
+       },
+       {
+        "text": "the passive participle",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "the passive participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Passive Participle",
+        "targetTopic": "Passive Participle",
+        "enclosingTopic": "Active Participle",
+        "enclosingSubtopic": "Additional information about the active participle"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Participles can only be used when combined with other words in special combinations called ",
+        "type": "text"
+       },
+       {
+        "text": "constructions",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "constructions",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Participle constructions",
+        "targetTopic": "Participle constructions",
+        "enclosingTopic": "Active Participle",
+        "enclosingSubtopic": "Additional information about the active participle"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The active participle has ",
+        "type": "text"
+       },
+       {
+        "text": "forms in Hebrew",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "forms in Hebrew",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Forms of the active participle in Hebrew",
+        "targetTopic": "Forms of the active participle in Hebrew",
+        "enclosingTopic": "Active Participle",
+        "enclosingSubtopic": "Additional information about the active participle"
+       },
+       {
+        "text": " and ",
+        "type": "text"
+       },
+       {
+        "text": "forms in Aramaic",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "forms in Aramaic",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Forms of the active participle in Aramaic",
+        "targetTopic": "Forms of the active participle in Aramaic",
+        "enclosingTopic": "Active Participle",
+        "enclosingSubtopic": "Additional information about the active participle"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

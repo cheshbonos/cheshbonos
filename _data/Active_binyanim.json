@@ -1,0 +1,305 @@
+{
+ "displayTopicName": "Active binyanim",
+ "topicTokens": [
+  {
+   "text": "Active binyanim",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Active binyanim": [
+   {
+    "text": "There are several ",
+    "type": "text"
+   },
+   {
+    "text": "active",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "active",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Active",
+    "targetTopic": "Active",
+    "enclosingTopic": "Active binyanim",
+    "enclosingSubtopic": "Active binyanim"
+   },
+   {
+    "text": " binyanim in Hebrew and Aramaic. (",
+    "type": "text"
+   },
+   {
+    "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Binyan",
+    "targetTopic": "Binyan",
+    "enclosingTopic": "Active binyanim",
+    "enclosingSubtopic": "Active binyanim"
+   },
+   {
+    "text": ".) ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Actives",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Simple",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Simple",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Simple",
+         "targetTopic": "Simple",
+         "enclosingTopic": "Active binyanim",
+         "enclosingSubtopic": "Active binyanim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Intensive",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Intensive",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Intensive",
+         "targetTopic": "Intensive",
+         "enclosingTopic": "Active binyanim",
+         "enclosingSubtopic": "Active binyanim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Causative",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Causative",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Causative",
+         "targetTopic": "Causative",
+         "enclosingTopic": "Active binyanim",
+         "enclosingSubtopic": "Active binyanim"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Hebrew",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Hebrew",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Hebrew binyanim",
+         "targetTopic": "Hebrew binyanim",
+         "enclosingTopic": "Active binyanim",
+         "enclosingSubtopic": "Active binyanim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Pa’al_",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Pa’al",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Pa’al",
+         "targetTopic": "Pa’al",
+         "enclosingTopic": "Active binyanim",
+         "enclosingSubtopic": "Active binyanim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Pi’el_",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Pi’el",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Pi’el",
+         "targetTopic": "Pi’el",
+         "enclosingTopic": "Active binyanim",
+         "enclosingSubtopic": "Active binyanim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Hif’il_",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Hif’il",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Hif’il",
+         "targetTopic": "Hif’il",
+         "enclosingTopic": "Active binyanim",
+         "enclosingSubtopic": "Active binyanim"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Aramaic",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Aramaic",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Aramaic binyanim",
+         "targetTopic": "Aramaic binyanim",
+         "enclosingTopic": "Active binyanim",
+         "enclosingSubtopic": "Active binyanim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Pe’al_",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Pe’al",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Pe’al",
+         "targetTopic": "Pe’al",
+         "enclosingTopic": "Active binyanim",
+         "enclosingSubtopic": "Active binyanim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Pa’el_",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Pa’el",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Pa’el",
+         "targetTopic": "Pa’el",
+         "enclosingTopic": "Active binyanim",
+         "enclosingSubtopic": "Active binyanim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Af’el_",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Af’el",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Af’el",
+         "targetTopic": "Af’el",
+         "enclosingTopic": "Active binyanim",
+         "enclosingSubtopic": "Active binyanim"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ]
+ }
+}

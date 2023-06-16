@@ -39,11 +39,11 @@
     "type": "text"
    },
    {
-    "text": "Hebrew noun patterns",
+    "text": "hebrew noun patterns",
     "type": "global",
     "tokens": [
      {
-      "text": "Hebrew noun patterns",
+      "text": "hebrew noun patterns",
       "type": "text"
      }
     ],
@@ -138,8 +138,12 @@
       {
        "tokens": [
         {
-         "text": "הִדְבִּיל",
+         "text": "הִדְבִּיל ",
          "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",
@@ -167,6 +171,14 @@
          "html": "<br>"
         },
         {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
          "text": " he seperated",
          "type": "text"
         }
@@ -177,6 +189,10 @@
         {
          "text": "הַבְדָּלָה ",
          "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",
@@ -204,6 +220,14 @@
          "html": "<br>"
         },
         {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
          "text": " an act of seperation",
          "type": "text"
         }
@@ -214,7 +238,7 @@
       {
        "tokens": [
         {
-         "text": "קדש",
+         "text": "קדש ",
          "type": "text"
         },
         {
@@ -230,8 +254,12 @@
       {
        "tokens": [
         {
-         "text": "הִקְדִּישׁ",
+         "text": "הִקְדִּישׁ ",
          "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",
@@ -259,6 +287,14 @@
          "html": "<br>"
         },
         {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
          "text": " he donated to temple",
          "type": "text"
         }
@@ -267,8 +303,12 @@
       {
        "tokens": [
         {
-         "text": "הַקְדָּשָׁה",
+         "text": "הַקְדָּשָׁה ",
          "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",
@@ -290,6 +330,14 @@
         {
          "text": " ",
          "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",
@@ -322,8 +370,12 @@
       {
        "tokens": [
         {
-         "text": "הִזְמִין",
+         "text": "הִזְמִין ",
          "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",
@@ -351,6 +403,14 @@
          "html": "<br>"
         },
         {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
          "text": " he invited",
          "type": "text"
         }
@@ -361,6 +421,10 @@
         {
          "text": "הַזְמָנָה ",
          "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",
@@ -382,6 +446,14 @@
         {
          "text": " ",
          "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
         },
         {
          "type": "html_element",

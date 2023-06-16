@@ -1,0 +1,366 @@
+{
+ "displayTopicName": "Forms of the active participle in Hebrew",
+ "topicTokens": [
+  {
+   "text": "Forms of the active participle in Hebrew",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Forms of the active participle in Hebrew": [
+   {
+    "text": "These are the examples of the participle in the masculine singular for each of the ",
+    "type": "text"
+   },
+   {
+    "text": "Hebrew binyanim",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Hebrew binyanim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Hebrew binyanim",
+    "targetTopic": "Hebrew binyanim",
+    "enclosingTopic": "Forms of the active participle in Hebrew",
+    "enclosingSubtopic": "Forms of the active participle in Hebrew"
+   },
+   {
+    "text": ". (",
+    "type": "text"
+   },
+   {
+    "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "Binyan is a special concept in Hebrew and Aramaic grammar",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Binyan",
+    "targetTopic": "Binyan",
+    "enclosingTopic": "Forms of the active participle in Hebrew",
+    "enclosingSubtopic": "Forms of the active participle in Hebrew"
+   },
+   {
+    "text": ".) ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Hebrew",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Simple",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Simple",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Simple",
+         "targetTopic": "Simple",
+         "enclosingTopic": "Forms of the active participle in Hebrew",
+         "enclosingSubtopic": "Forms of the active participle in Hebrew"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Intensive",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Intensive",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Intensive",
+         "targetTopic": "Intensive",
+         "enclosingTopic": "Forms of the active participle in Hebrew",
+         "enclosingSubtopic": "Forms of the active participle in Hebrew"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Causative",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Causative",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Causative",
+         "targetTopic": "Causative",
+         "enclosingTopic": "Forms of the active participle in Hebrew",
+         "enclosingSubtopic": "Forms of the active participle in Hebrew"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Reflexive",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Reflexive",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Reflexive",
+         "targetTopic": "Reflexive",
+         "enclosingTopic": "Forms of the active participle in Hebrew",
+         "enclosingSubtopic": "Forms of the active participle in Hebrew"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Active",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Active",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Active",
+         "targetTopic": "Active",
+         "enclosingTopic": "Forms of the active participle in Hebrew",
+         "enclosingSubtopic": "Forms of the active participle in Hebrew"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Active Participle <br> (of the _pa’al_)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Active Participle ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (of the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "pa’al",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": ")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Pa’al Active Participle",
+         "targetTopic": "Pa’al Active Participle",
+         "enclosingTopic": "Forms of the active participle in Hebrew",
+         "enclosingSubtopic": "Forms of the active participle in Hebrew"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "_Pi’el_ (Active Participle)",
+         "type": "global",
+         "tokens": [
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Pi’el",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " (Active Participle)",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Pi’el Active Participle",
+         "targetTopic": "Pi’el Active Participle",
+         "enclosingTopic": "Forms of the active participle in Hebrew",
+         "enclosingSubtopic": "Forms of the active participle in Hebrew"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "Hif’il",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " (Active Participle)",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "Hispa’el",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " (Active Participle), ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "Nispa’el",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " (Active Participle)",
+         "type": "text"
+        }
+       ],
+       "rowspan": 2
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Passive",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Passive",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Passive",
+         "targetTopic": "Passive",
+         "enclosingTopic": "Forms of the active participle in Hebrew",
+         "enclosingSubtopic": "Forms of the active participle in Hebrew"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "Nif’al",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " (Active Participle)",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "Pu’al",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " (Active Participle)",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "Huf’al",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " (Active Participle)",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [],
+       "merge": true
+      }
+     ]
+    ]
+   }
+  ]
+ }
+}
