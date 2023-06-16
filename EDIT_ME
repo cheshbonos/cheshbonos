@@ -59,10 +59,323 @@ Some linguists bring vowel changes for shorushim ending in ח or ע as evidence 
 [Dikduk/Aramaic]
 
 * Pronoun suffixes: In Aramaic, words in the [[participle]] can have what are called “pronoun suffixes”:
-- Ordinarily, a participle is a word like “running” and doesn’t reflect who is doing the action, thus requiring a pronoun like אֲנִי (_ani_, “I”), like in the sentence “I am running.”
-- In Aramaic however, we can append the pronoun to the end of the verb and produce a composite word that specifies who is doing the action.
-- For example, כְּתֵיב (_kseiv_) means “writing,” אֲנָא (_anau_) means “I,” and the two together, כָּתֵיבְנָא (_kauseivna_) means “I am writing.”
-- As in a regular sentence, combining a pronoun like “I” or “he” with an [[active participle]] forms the [[present tense]].
+- Words like “running” which are called “participles” require a pronoun like “I” to clarify who is doing the action, eg “I am running.”
+- In Aramaic, we can attach the pronoun to the end of the verb, for example, כְּתֵיב (_kseiv_) means “writing,” אֲנָא (_anau_) means “I,” and the two together, כָּתֵיבְנָא (_kauseivna_) means “I am writing.”
+- (As in a regular sentence, combining a pronoun like “I” with an [[active participle]] forms the [[present tense]].)
+- These are the Aramaic words that get added as suffixes:
+| ‎אֲנָא ‎ <br><br> _anau_ <br><br><br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ‎אַתְּ‎ <br><br> _at_ <br><br><br> You [man or woman] |
+| ‎אֲנַן‎ <br><br> _anan_ <br><br><br> We | ‎אַתּוּ‎ <br><br> _atu_ <br><br><br> You [men or women] |
+
+
+[Dikduk/Aramaic/Binyanim/Af’el]
+
+* Af’el: The “Af’el” (אַפְעֵל) is one of the [[Aramaic binyanim]]. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
+- A verb in the _af’el_ often has a meaning of making someone else take on properties of the [[shoresh]].
+- For example, the shoresh שמע means “hearing or understanding,” and the _af’el_ verb אַשְׁמַע means “to make someone else hear or understand,” ie to teach.
+- Advanced students can read [[more information about the _af’el_]].
+
+More information about the _af’el_:
+Here is more information about the _af’el_ binyan:
+- Verbs in the _af’el_ have the properties of being [[active]] and [[causative]].
+- The _af’el_ [[Af’el tenses|has various verb forms]].
+- The _af’el_ has [[_af’el_ {tenses for different shoresh types}]].
+- The _af’el_ corresponds to the [[_hif’il_]] in Hebrew.
+
+
+[Dikduk/Aramaic/Binyanim/Af’el/Shoresh Types]
+
+* _Af’el_ tenses for different shoresh types:
+There are _af’el_ forms for different shoresh types:
+- There are [[_af’el_ tenses for regular shorushim]]. (Conjugations for [[irregular shorushim]] are not yet available.)
+
+
+* _Af’el_ tenses for regular shorushim:
+The _af’el_ binyan has conjugations for regular shorushim, along with [[_Af’el_ tenses for {different|other} shoresh types]], in five forms:
+| [[_Af’el_ Past Tense for regular shorushim|Past Tense <br> (for regular shorushim in the _af’el)_]] | [[_Af’el_ Future Tense for regular shorushim|Future Tense <br> (for regular shorushim in the _af’el)_]] | [[_Af’el_ Active Participle for regular shorushim|Active Participle <br> (for regular shorushim in the _af’el)_]] |
+| [[_Af’el_ Imperative for regular shorushim|Imperative <br> (for regular shorushim in the _af’el)_]] | [[_Af’el_ Infinitive for regular shorushim|Infinitive <br> (for regular shorushim in the _af’el)_]] | \^ |
+
+
+[Dikduk/Aramaic/Binyanim/Af’el/Tenses]
+
+* Af’el Tenses:
+Verbs in the [[_af’el_]] have conjugations conjugations in various “tenses”:
+| [[_Af’el_ Past Tense|Past Tense <br> (of the _af’el_)]] | [[_Af’el_ Future Tense|Future Tense <br> (of the _af’el_)]] | [[_Af’el_ Active Participle|Active Participle <br> (of the _af’el_)]] |
+| [[_Af’el_ Imperative|Imperative <br> (of the _af’el_)]] | [[_Af’el_ Infinitive|Infinitive <br> (of the _af’el_)]] | [[_Af’el_ Passive Participle|Passive Participle <br> (of the _af’el_)]] |
+
+
+[Dikduk/Aramaic/Binyanim/Af’el/Tenses/Active Participle]
+
+* _Af’el_ Active Participle:
+The [[{{_af’el_}} binyan]] has an [[{{active participle}} form]], which is one of the [[Af’el tenses|“tenses” of the _af’el_ binyan]].
+- The _af’el_ active participle has [[{_Af’el_ Active Participle|conjugations} for regular shorushim]]. (Conjugations for [[irregular shorushim]] are not yet available.)
+- The _af’el_ active participle corresponds to the [[_hif’il_ active participle]] of Hebrew.
+
+
+* _Af’el_ Active Participle for Regular Shorushim:
+The _af’el_ active participle has two conjugations for regular shorushim:
+- The [[_af’el_ active participle for regular shorushim without pronoun suffixes]]
+- The [[_af’el_ active participle for regular shorushim with pronoun suffixes]]
+- (Aramaic has what are called [[“{{pronoun suffixes}}.”]])
+
+
+* _Af’el_ Active Participle for Regular Shorushim with pronoun suffixes:
+The [[{{_af’el_ active participle}} form]] has the following conjugation pattern for [[regular shorushim]] when [[pronoun suffixes]] are added:
+|                 | *First-person* | *Second-person* |
+|  *Singular* |  מַפְקֵידְנָא <br> (מַפְקֵיד + אֲנָא) <br><br> _mafkeidnau <br> (mafkeid + anau)_ <br><br><br><br><br> I am making holy | מַפְקְדַתְּ <br> (מַפְקֵיד + אַתְּ) <br><br> _maf’k’dat <br> (mafkeid + at)_ <br><br><br><br><br> You [man or woman] <br> are making holy |
+| *Plural* | מַפְקְדִינַן <br> (מַפְקְדִי + אֲנַן) <br><br> _maf’k’dinan_ <br><br><br> (maf’k’di + anan) <br><br><br><br><br> We are making holy | ‎מְקַדְּשִׁיתוּ/ן <br> (מַפְקְדִי + אַתּוּ/ן) <br><br> _maf’k’disu/n <br> (maf’k’di + atu/n)_ <br><br><br><br><br> You [men or women] <br> are making holy |
+- There is also a form of the [[_af’el_ active participle for regular shorushim without pronoun suffixes]].
+- For any regular shoresh, you can replace the letters ‎פ, ‎ק, and ד above with the letters of your shoresh to produce the proper conjugations.
+- Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+
+
+* _Af’el_ Active Participle for Regular Shorushim without pronoun suffixes:
+The [[{{_af’el_ active participle}} form]] has the following conjugation pattern for [[regular shorushim]] when not using [[pronoun suffixes]]:
+|            | *Masculine* | *Feminine* |
+| *Singular* | מַפְקֵיד <br><br> _mafkeid_ <br><br><br> [he is] depositing | מַפְקֵידָ(א/ה) <br><br> _mafkeidau_ <br><br><br> [she is] despositing |
+| *Plural*   | ‎מַפְקְדִי/ן <br><br> _maf’k’di/n_ <br><br><br> [those men are] <br> despositing | מַפְקְדָן <br><br> _maf’k’dan_ <br><br><br> [those women are] <br> despositing |
+- There is also a form of the [[_af’el_ active participle for regular shorushim with pronoun suffixes]], (Aramaic has what are called [[“{{pronoun suffixes}}.”]])
+- Aramaic being a less-formal spoken language often has several versions of the same word.
+- For any regular shoresh, you can replace the letters ‎פ, ‎ק, and ד above with the letters of your shoresh to produce the proper conjugations.
+- Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+
+
+[Dikduk/Aramaic/Binyanim/Af’el/Tenses/Future]
+
+* _Af’el_ Future Tense: The [[{{_af’el_}} binyan]] has a [[future tense]], which is one of the [[Af’el tenses|“tenses” of the _af’el_ binyan]].
+- The _af’el_ future tense has [[_Af’el_ Future Tense for regular shorushim|conjugations for regular shorushim]]. (Conjugations for [[irregular shorushim]] are not yet available.)
+- The _af’el_ future tense corresponds to the [[_hif’il_ future tense]] of Hebrew.
+
+
+* _Af’el_ Future Tense for regular shorushim:
+The [[_af’el_ future tense]] follows these conjugations for [[regular shorushim]]:
+|                 | *Singular*                        | \< | *Plural*                              | \< |
+| *First- <br> Person* | אַפְקֵיד <br><br> _afkeid_ <br><br><br> I will desposit | \< | לַפְקֵיד‎, נַפְקֵיד <br><br> _nafkeid, lafkeid_ <br><br><br> We will make holy | \< |
+| *Second-Person* | תַּפְקֵיד <br><br> _tafkeid_ <br><br><br> You [male] <br> will desposit | ‎תַּפְקְדִי <br><br> _tafkidi_ <br><br><br> You [female] <br> will desposit  | תַּפְקְדוּ <br><br> _taf’k’du_ <br><br><br> You [males or females] <br> will desposit | \< |
+| *Third- <br> Person* | ‎נַפְקֵיד, ‎לִפְקֵיד, ‎לַפְקֵיד <br><br> _lafkeid, lifkeid, nafkeid_ <br><br><br> He will desposit | תַּפְקֵיד <br><br> _tafkeid_ <br><br><br> She will desposit  | נַפְקְדוּ, ‎לִפְקְדוּ, ‎לַפְקְדוּ <br><br> _laf’k’du, lif’k’du, naf’k’du_ <br><br><br> They will desposit | \< |
+- Aramaic being a less-formal spoken language often has several versions of the same word.
+- For any regular shoresh, you can replace the letters ‎פ, ‎ק, and ד above with the letters of your shoresh to produce the proper conjugations.
+- Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+
+
+[Dikduk/Aramaic/Binyanim/Af’el/Tenses/Imperative]
+
+* _Af’el_ Imperative: The _af’el_ binyan has an [[{{imperative}} form]], which is one of the [[Af’el tenses|“tenses” of the _af’el_ binyan]].
+- The _af’el_ imperative form has [[{_Af’el_ Imperative|conjugations} for regular shorushim]] (Conjugations for [[irregular shorushim]] are not yet available.)
+- The _af’el_ imperative form corresponds to the [[_hif’il_ imperative]] of Hebrew.
+
+
+* _Af’el_ Imperative for regular shorushim:
+The [[{{_af’el_ imperative}} form]] follows these conjugations for [[regular shorushim]]:
+|            | *Masculine* | *Feminine* |
+| *Singular* | אַפְקֵיד <br><br> _afkeid!_ <br><br><br> [to a man] desposit! | אַפְקִידִי <br><br> _afkidi!_ <br><br><br> [to a woman] deposit! |
+| *Plural*   | אַפְקִידוּ <br><br> _afkidu!_ <br><br><br> [to men] deposit! | אַפְקִידִן <br><br> _afkidin!_ <br><br><br> [to women] deposit! |
+For any regular shoresh, you can replace the letters ‎פ, ‎ק, and ד above with the letters of your shoresh to produce the proper conjugation.
+
+
+[Dikduk/Aramaic/Binyanim/Af’el/Tenses/Infinitive]
+
+* _Af’el_ Infinitive: The _af’el_ binyan has an [[{{infinitive}} form]], which is one of the [[Af’el tenses|“tenses” of the _af’el_ binyan]].
+- There is a [[{{_af’el_ infinitive }} form {{for regular shorushim}}]]. (Conjugations for [[irregular shorushim]] are not yet available.)
+
+
+* _Af’el_ Infinitive for regular shorushim:
+The [[{{_af’el_ infinitive}} form]] has the following conjugation pattern for [[regular shorushim]]:
+| לְאַפְקוֹדֵי <br><br> _l'afkodei_ <br><br><br> to desposit |
+- Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+- The _af’el_ infinitive form corresponds to the [[_hif’il_ infinitive]] of Hebrew.
+
+
+[Dikduk/Aramaic/Binyanim/Af’el/Tenses/Passive Participle]
+
+* _Af’el_ Passive Participle: The _af’el_ has a [[{{passive participle}} form]], which is one of the [[_af’el_ tenses|“tenses” of the _af’el_ binyan]].
+- The _af’el_ passive participle has [[{_af’el_ passive participle|conjugations} for regular shorushim]]. (Conjugations for [[irregular shorushim]] are not yet available.)
+- The _af’el_ passive participle describes the result of a finished action, as opposed to the [[_af’el{|’s}_ active participle]].
+- The _af’el_ passive participle corresponds most closely to the [[_huf’al_ active participle]] of Hebrew.
+
+
+* _Af’el_ Passive Participle for Regular Shorushim:
+The _af’el_ passive participle has conjugations for regular shorushim:
+- [[The {{_af’el_ passive participle for regular shorushim without pronoun suffixes}}]]
+- [[The {{_af’el_ passive participle for regular shorushim with pronoun suffixes}}]]
+- (Aramaic has what are called [[“{{pronoun suffixes}}.”]])
+
+
+* _Af’el_ Passive Participle for Regular Shorushim with pronoun suffixes:
+The [[{{_af’el_ passive participle}} form]] has the following conjugation pattern for [[regular shorushim]] when [[pronoun suffixes]] are added:
+|              | *First-person* | *Second-person* |
+|  *Singular* |  מַלְבַּשְׁנָא <br> (מַלְבַּשׁ + אֲנָא) <br><br> _malbashnau <br> (malbash + anau)_ <br><br><br><br> I am dressed | מַלְבְּשַׁתְּ <br> (מַלְבַּשׁ + אַתְּ) <br><br> _mal’b’shat <br> (malbash + at)_ <br><br><br><br> You [man or woman] <br> are dressed |
+| *Plural* | מַלְבְּשִׁינַן <br> (מַלְבְּשִׁי + אֲנַן) <br><br> _mal’b’shinan_ <br><br><br> (mal’b’shi + anan) <br><br><br><br> We are dressed | ‎מַלְבְּשִׁיתוּ <br> מַלְבְּשִׁיתוּן <br> (מַלְבְּשִׁי + אַתּוּ) <br><br> _mal’b’shisu <br> (mal’b’shi + atu)_ <br><br><br><br> You [men or women] <br> are dressed |
+- There is also a form of the [[_af’el_ passive participle for regular shorushim without pronoun suffixes]].
+- For any regular shoresh, you can replace the letters ‎ל, ‎בּ, and שׁ above with the letters of your shoresh to produce the proper conjugations.
+- Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+
+
+* _Af’el_ Passive Participle for Regular Shorushim without pronoun suffixes:
+The [[_af’el_ passive participle]] has the following conjugation pattern for [[regular shorushim]] when not using [[pronoun suffixes]]:
+|            | *Masculine* | *Feminine* |
+| *Singular* | מַלְבַּשׁ <br><br> _malbash_ <br><br><br> [he/it is] dressed | מַלְבְּשָׁא <br><br> _mal'b'shau_ <br><br><br> [she/it is] dressed |
+| *Plural*   | מַלְבְּשׁוּ, ‎מַלְבְּשִׁי/ן <br><br> _mal’b’shi/n, mal’b’shu_ <br><br><br> [those men / things are] dressed | מַלְבְּשָׁן <br><br> _mal’b’shaun_ <br><br><br> [those women / things are] dressed |
+- There is also a form of the [[_af’el_ passive participle for regular shorushim with pronoun suffixes]], (Aramaic has what are called [[“{{pronoun suffixes}}.”]])
+- For any regular shoresh, you can replace the letters ‎ל, ‎בּ, and שׁ above with the letters of your shoresh to produce the proper conjugations.
+- Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+
+
+[Dikduk/Aramaic/Binyanim/Af’el/Tenses/Past]
+
+* _Af’el_ Past Tense: The [[{{_af’el_}} binyan]] has a [[past tense]], which is one of the [[Af’el tenses|“tenses” of the _af’el_ binyan]].
+- The _af’el_ past tense has [[_Af’el_ Past Tense for regular shorushim|conjugations for regular shorushim]]. (Conjugations for [[irregular shorushim]] are not yet available.)
+- The _af’el_ past tense corresponds to the [[_hif’il_ past tense]] of Hebrew.
+
+
+* _Af’el_ Past Tense for regular shorushim:
+The [[_af’el_ past tense]] follows these conjugations for [[regular shorushim]]:
+|                | *Singular* |\<                          | *Plural* |\< |
+| *First- <br> Person* | ‎אַפְקֵידִי/ת‎ <br><br> _afkeidi/s_ <br><br><br> I desposited | \< | אַפְקְדִנַן‎, אַפְקֵידְנַן‎ <br> אַפְקְדַן ‎ <br><br> _afkeidnan, af’k’dinan, af’k’dan_ <br><br><br> We desposited | \< |
+| *Second-Person*    | ‎אַפְקֵידְתְּ‎ <br><br> _afkeid’t_ <br><br><br> You [male or female] desposited | \< | אַפְקֵידְתְּוּן,‎ אַפְקְדִיתוּ <br><br> _af’k’disu, afkeid’tun_ <br><br><br> You [males or females] <br> desposited  | \< |
+| *Third-Person*     | אַפְקֵיד <br><br> _afkeid_ <br><br><br> He desposited | אַפְקִידָה <br> אַפְקְידָ(ה/א) <br> אַפְקְדַת ‎ <br><br> _af’kidau, af’k’dau, af’k’das_ <br><br><br> She desposited | אַפְקִידוּ‎<br> אַפְקַדוּ‎<br> אַפְקוּד <br><br> _afkidu, afkadu, afkud_ <br><br><br> They [males] desposited | אַפְקְדָן <br><br> _afk’d’aun_ <br><br><br> They [females] desposited |
+- Aramaic being a less-formal spoken language often has several versions of the same word.
+- For any regular shoresh, you can replace the letters ‎פ, ‎ק, and ד above with the letters of your shoresh to produce the proper conjugations.
+- Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank’s _Grammar for Gemara_.
+
+
+[Dikduk/Aramaic/Binyanim/Ispe’el]
+
+* Ispe’el: The “Ispe’el” (אִתְפְּעֵל) is one of the [[Aramaic binyanim]]. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
+- A verb in the _ispe’el_ often has a meaning of something having the action of the [[shoresh]] done to it.
+- For example, the shoresh כתב means “writing,” and the _ispe’el_ verb אִתְכְּתִיב (_is’k’siv_) means “to be written or recorded.”
+- Advanced students can read [[more information about the _ispe’el_]].
+
+More information about the _ispe’el_:
+Here is more information about the _ispe’el_ binyan:
+- Verbs in the _ispe’el_ have the properties of being [[passive]] and [[simple]].
+- The _ispe’el_ [[Ispe’el tenses|has various verb forms]].
+- The _ispe’el_ has [[_ispe’el_ {tenses for different shoresh types}]].
+- The _ispe’el_ corresponds to the [[_nif’al_]] in Hebrew.
+
+
+[Dikduk/Aramaic/Binyanim/Ispe’el/Shoresh Types]
+
+* _Ispe’el_ tenses for different shoresh types:
+There are _ispe’el_ forms for different shoresh types:
+- There are [[_ispe’el_ tenses for regular shorushim]]. (Conjugations for [[irregular shorushim]] are not yet available.)
+
+
+* _Ispe’el_ tenses for regular shorushim:
+The _ispe’el_ binyan has conjugations for regular shorushim, along with [[_Ispe’el_ tenses for {different|other} shoresh types]], in five forms:
+| [[_Ispe’el_ Past Tense for regular shorushim|Past Tense <br> (for regular shorushim in the _ispe’el)_]] | [[_Ispe’el_ Future Tense for regular shorushim|Future Tense <br> (for regular shorushim in the _ispe’el)_]] | [[_Ispe’el_ Active Participle for regular shorushim|Active Participle <br> (for regular shorushim in the _ispe’el)_]] |
+| [[_Ispe’el_ Imperative for regular shorushim|Imperative <br> (for regular shorushim in the _ispe’el)_]] | [[_Ispe’el_ Infinitive for regular shorushim|Infinitive <br> (for regular shorushim in the _ispe’el)_]] | \^ |
+
+
+[Dikduk/Aramaic/Binyanim/Ispe’el/Tenses]
+
+* Ispe’el Tenses:
+Verbs in the [[_ispe’el_]] have conjugations conjugations in various “tenses”:
+| [[_Ispe’el_ Past Tense|Past Tense <br> (of the _ispe’el_)]] | [[_Ispe’el_ Future Tense|Future Tense <br> (of the _ispe’el_)]] | [[_Ispe’el_ Active Participle|Active Participle <br> (of the _ispe’el_)]] |
+| [[_Ispe’el_ Imperative|Imperative <br> (of the _ispe’el_)]] | [[_Ispe’el_ Infinitive|Infinitive <br> (of the _ispe’el_)]] | \^ |
+
+
+[Dikduk/Aramaic/Binyanim/Ispe’el/Tenses/Active Participle]
+
+* _Ispe’el_ Active Participle:
+The [[{{_ispe’el_}} binyan]] has an [[{{active participle}} form]], which is one of the [[Ispe’el tenses|“tenses” of the _ispe’el_ binyan]].
+- The _ispe’el_ active participle has [[{_Ispe’el_ Active Participle|conjugations} for regular shorushim]]. (Conjugations for [[irregular shorushim]] are not yet available.)
+- Even though the _ispe'el_ has an [[active participle]], because the _ispe’el_ is a [[{{passive}} binyan]], the active participle still describes a [[{{passive}} action]] i.e. an action that is done to the subject.
+- The _ispe’el_ active participle corresponds to the [[_hif’il_ active participle]] of Hebrew.
+
+
+* _Ispe’el_ Active Participle for Regular Shorushim:
+The _ispe’el_ active participle has two conjugations for regular shorushim:
+- The [[_ispe’el_ active participle for regular shorushim without pronoun suffixes]]
+- The [[_ispe’el_ active participle for regular shorushim with pronoun suffixes]]
+- (Aramaic has what are called [[“{{pronoun suffixes}}.”]])
+
+
+* _Ispe’el_ Active Participle for Regular Shorushim with pronoun suffixes:
+The [[{{_ispe’el_ active participle}} form]] has the following conjugation pattern for [[regular shorushim]] when [[pronoun suffixes]] are added:
+|                 | *First-person* | *Second-person* |
+|  *Singular* | מִי[תְ]מְסֵירְנָא <br> (מִי[תְ]מְסֵיר + אֲנָא) <br><br> _mi(s’)m’seirnau <br> (mi[s’]m’seir + anau)_ <br><br><br><br><br> I am being <br> handed over | מִי[תְ]מְסֵיראַתְּ <br> (מִי[תְ]מְסֵיר + אַתְּ) <br><br> _mi[s]maserat <br> (mi[s’]m’seir + at)_ <br><br><br><br><br> You [man or woman] <br> are being handed over |
+| *Plural* | מִי[תְ]מַסְרִינַן <br> (מִי[תְ]מַסְרִי + אֲנַן) <br><br> _mi[s’]masrinan_ <br><br><br> (mi[s]masri + anan) <br><br><br><br><br> We are being <br> handed over | ‎מִי[תְ]מַסְרִיתוּ <br> (מִי[תְ]מַסְרִי + אַתּוּ) <br><br> _mismasrisu<br> (mi[s]masri + atu)_ <br><br><br><br><br> You [men or women] <br> are being handed over |
+- There is also a form of the [[_ispe’el_ active participle for regular shorushim without pronoun suffixes]].
+- Aramaic being a less-formal spoken language often has several versions of the same word. Letters in square brackets are sometimes omitted.
+- For any regular shoresh, you can replace the letters ‎מ, ‎ס, and ר above with the letters of your shoresh to produce the proper conjugations.
+- Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+
+
+* _Ispe’el_ Active Participle for Regular Shorushim without pronoun suffixes:
+The [[{{_ispe’el_ active participle}} form]] has the following conjugation pattern for [[regular shorushim]] when not using [[pronoun suffixes]]:
+|            | *Masculine* | *Feminine* |
+| *Singular* | מִי(תְ)מְסֵיר <br><br> _mi(s’)m’seir_ <br><br><br> [he is] <br> being handed over | מִי(תְ)מַסְרָא <br><br> _mi(s)masra_ <br><br><br> [she is] <br> being handed over |
+| *Plural*   | ‎מִי(תְ)מַסְרִי(ן) <br><br> _mi(s)masri(n)_ <br><br><br> [those men are] <br> being handed over | מִי(תְ)מַסְרָן <br><br> _mi(s)masraun_ <br><br><br> [those women are] <br> being handed over |
+- There is also a form of the [[_ispe’el_ active participle for regular shorushim with pronoun suffixes]], (Aramaic has what are called [[“{{pronoun suffixes}}.”]])
+- Aramaic being a less-formal spoken language often has several versions of the same word. Letters in parentheses are sometimes omitted.
+- For any regular shoresh, you can replace the letters ‎מ, ‎ס, and ר above with the letters of your shoresh to produce the proper conjugations.
+- Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+
+
+[Dikduk/Aramaic/Binyanim/Ispe’el/Tenses/Future]
+
+* _Ispe’el_ Future Tense: The [[{{_ispe’el_}} binyan]] has a [[future tense]], which is one of the [[Ispe’el tenses|“tenses” of the _ispe’el_ binyan]].
+- The _ispe’el_ future tense has [[_Ispe’el_ Future Tense for regular shorushim|conjugations for regular shorushim]]. (Conjugations for [[irregular shorushim]] are not yet available.)
+- The _ispe’el_ future tense corresponds to the [[_hif’il_ future tense]] of Hebrew.
+
+
+* _Ispe’el_ Future Tense for regular shorushim:
+The [[_ispe’el_ future tense]] follows these conjugations for [[regular shorushim]]:
+|                 | *Singular*                        | \< | *Plural*                              | \< |
+| *First- <br> Person* | אֶי(תְ)מְּסֵיר <br><br> _e(s)m’seir_ <br><br><br> I will be handed over | \< | לִי(תְ)מְּסֵיר, ‎נִי(תְ)מְּסֵיר <br><br> _ni(s’)m’seir, li(s’)m’seir_ <br><br><br> We will be handed over | \< |
+| *Second-Person* | תִּ(תְ)מְסֵיר <br><br> _ti(s’)m’seir_ <br><br><br> You [male] <br> will be handed over | תִּי(תְ)מַסְרִי(ן) <br><br> _ti(s)masri(n)_ <br><br><br> You [female] <br> will be handed over | תִּי(תְ)מַּסְרוּ <br><br> _tismasru_ <br><br><br> You [all] <br> will be handed over | \< |
+| *Third- <br> Person* | ‎לִי(תְ)מְסֵיר, ‎נִי(תְ)מְסֵיר <br><br> _li(s’)m’seir, ni(s’)m’seir_ <br><br><br> He will be <br> handed over | תִּי(תְ)מְּסֵר <br><br> _ti(s’)m’seir_ <br><br><br> She will be <br> handed over  | לִי(תְ)מַסְרוּ(ן)‎, נִי(תְ)מַסְרוּ <br><br> _li(s)masru(n), ni(s)masru_ <br><br><br> They will be <br> handed over | \< |
+- Aramaic being a less-formal spoken language often has several versions of the same word. Parentheses indicate letters that are sometimes omitted.
+- For any regular shoresh, you can replace the letters ‎מ, ‎ס, and ר above with the letters of your shoresh to produce the proper conjugations.
+- Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+
+
+[Dikduk/Aramaic/Binyanim/Ispe’el/Tenses/Imperative]
+
+* _Ispe’el_ Imperative: The _ispe’el_ binyan has an [[{{imperative}} form]], which is one of the [[Ispe’el tenses|“tenses” of the _ispe’el_ binyan]].
+- The _ispe’el_ imperative form has [[{_Ispe’el_ Imperative|conjugations} for regular shorushim]] (Conjugations for [[irregular shorushim]] are not yet available.)
+- The _ispe’el_ imperative form corresponds to the [[_hif’il_ imperative]] of Hebrew.
+
+
+* _Ispe’el_ Imperative for regular shorushim:
+The [[{{_ispe’el_ imperative}} form]] follows these conjugations for [[regular shorushim]]:
+|            | *Masculine* | *Feminine* |
+| *Singular* | אִי(תְ)מְסֵיר <br><br> _i(s’)m’seir!_ <br><br><br> [to a man] <br> be handed over! <br>(i.e. surrender!) | אִי(תְ)מְסִירִי <br><br> _i(s’)m’siri!_ <br><br><br> [to a woman] <br> be handed over! <br>(i.e. surrender!) |
+| *Plural*   | - | - |
+- Aramaic being a less-formal spoken language often has several versions of the same word. Parentheses indicate letters that sometimes are omitted.
+- For any regular shoresh, you can replace the letters ‎מ, ‎ס, and ר above with the letters of your shoresh to produce the proper conjugations.
+- Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank’s _Grammar for Gemara_.
+
+
+[Dikduk/Aramaic/Binyanim/Ispe’el/Tenses/Infinitive]
+
+* _Ispe’el_ Infinitive: The _ispe’el_ binyan has an [[{{infinitive}} form]], which is one of the [[Ispe’el tenses|“tenses” of the _ispe’el_ binyan]].
+- There is a [[{{_ispe’el_ infinitive }} form {{for regular shorushim}}]]. (Conjugations for [[irregular shorushim]] are not yet available.)
+
+
+* _Ispe’el_ Infinitive for regular shorushim:
+The [[{{_ispe’el_ infinitive}} form]] has the following conjugation pattern for [[regular shorushim]]:
+| לְאִי(תְ)מְסוֹרֵי <br><br> _l’i(s’)m’sorei_ <br><br><br> to be handed over |
+- Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+- The _ispe’el_ infinitive form corresponds to the [[_hif’il_ infinitive]] of Hebrew.
+
+
+[Dikduk/Aramaic/Binyanim/Ispe’el/Tenses/Past]
+
+* _Ispe’el_ Past Tense: The [[{{_ispe’el_}} binyan]] has a [[past tense]], which is one of the [[Ispe’el tenses|“tenses” of the _ispe’el_ binyan]].
+- The _ispe’el_ past tense has [[_Ispe’el_ Past Tense for regular shorushim|conjugations for regular shorushim]]. (Conjugations for [[irregular shorushim]] are not yet available.)
+- The _ispe’el_ past tense corresponds to the [[_hif’il_ past tense]] of Hebrew.
+
+
+* _Ispe’el_ Past Tense for regular shorushim:
+The [[_ispe’el_ past tense]] follows these conjugations for [[regular shorushim]]:
+|                 | *Singular*                        | \< | *Plural*                            | \< |
+| *First- <br> Person* | אִי(תְ)מְסֵירִי(ת) <br><br> _i(s)m'seiri(s)_ <br><br><br> I was <br> handed over | \< | אִי(תְ)מַסְרִינַן <br><br> _i(s)masrinan_ <br><br><br> we were<br> handed over | \< |
+| *Second-Person* | אִי(תְ)מְסַרְתְּ <br><br> _i(s’)m’sart_ <br><br><br> you [male] <br> were handed over | \< | אִי(תְ)מַסְרִיתוּ <br><br> _i(s)masrisu_ <br><br><br> you [all] were <br> handed over | \< |
+| *Third- <br> Person* | ‎אִי(תְ)מְסֵיר <br><br> _i(s)maseir_ <br><br><br> he was handed over | אִי(תְ)מְסִירָא‎, <br> ‎אִי(תְ)מַסְרָ(א/ה) <br><br> _i(s’)m’sirau, i(s’)masrau_ <br><br><br> she was <br> handed over  | אִי(תְ)מְסִירוּ, ‎אִי(תְ)מְסוּר, ‎אִי(תְ)מַסְרוּ <br><br> _i(s’)m’siru, i(s’)m’sur, i(s’)masru_ <br><br><br> they (men) were handed over | אִי(תְ)מַסְרַן <br><br> _i(s)masran_ <br><br><br> they (women) were handed over |
+- Aramaic being a less-formal spoken language often has several versions of the same word. Parentheses indicate letters that sometimes are omitted.
+- For any regular shoresh, you can replace the letters ‎מ, ‎ס, and ר above with the letters of your shoresh to produce the proper conjugations.
+- Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank’s _Grammar for Gemara_.
 
 
 [Dikduk/Aramaic/Binyanim/Pa’el]
@@ -77,15 +390,14 @@ Here is more information about the _pa’el_ binyan:
 - Verbs in the _pa’el_ have the properties of being [[active]] and [[intensive]].
 - The _pa’el_ [[Pa’el tenses|has various verb forms]].
 - The _pa’el_ has [[_pa’el_ {tenses for different shoresh types}]].
-- The _pa’el_ corresponds to the [[_pa’al_]] in Hebrew.
+- The _pa’el_ corresponds to the [[_pi’el_]] in Hebrew.
 
 
 [Dikduk/Aramaic/Binyanim/Pa’el/Shoresh Types]
 
 * _Pa’el_ tenses for different shoresh types:
 There are _pa’el_ forms for different shoresh types:
-- There are [[_pa’el_ tenses for regular shorushim]].
-- There are _pa’el_ forms for irregular shorushim which will be added at a later time.
+- There are [[_pa’el_ tenses for regular shorushim]]. (Conjugations for [[irregular shorushim]] are not yet available.)
 
 
 * _Pa’el_ tenses for regular shorushim:
@@ -106,9 +418,8 @@ Verbs in the [[_pa’el_]] have conjugations conjugations in various “tenses�
 
 * _Pa’el_ Active Participle:
 The [[{{_pa’el_}} binyan]] has an [[{{active participle}} form]], which is one of the [[Pa’el tenses|“tenses” of the _pa’el_ binyan]].
-- The _pa’el_ active participle has [[{_Pa’el_ Active Participle|conjugations} for regular shorushim]].
-- The _pa’el_ active participle has conjugations for irregular shorushim which will be added at a later time.
-- The _pa’el_ infinitive form corresponds to the [[_pi’el_ active participle]] of Hebrew.
+- The _pa’el_ active participle has [[{_Pa’el_ Active Participle|conjugations} for regular shorushim]]. (Conjugations for [[irregular shorushim]] are not yet available.)
+- The _pa’el_ active participle form corresponds to the [[_pi’el_ active participle]] of Hebrew.
 
 
 * _Pa’el_ Active Participle for Regular Shorushim:
@@ -121,78 +432,74 @@ The _pa’el_ active participle has two conjugations for regular shorushim:
 * _Pa’el_ Active Participle for Regular Shorushim with pronoun suffixes:
 The [[{{_pa’el_ active participle}} form]] has the following conjugation pattern for [[regular shorushim]] when [[pronoun suffixes]] are added:
 |                 | *First-person* | *Second-person* |
-|  *Singular*  |  מְקַדֵּישְׁנָא <br> (מְקַדֵּישׁ + אֲנָא) <br><br> _m'kad'd'eishnau<br>(m'kad'deish + anau)_ <br><br><br><br> I am making holy | מְקַדְּשַׁתְּ <br> (מְקַדֵּישׁ + אַתְּ) <br><br> _m'kad'd'shat<br>(m'kad'deish + at)_ <br><br><br><br> You [man or woman]<br> are making holy |
-| *Plural* | מְקַדְּשִׁינַן <br> (מְקַדְּשִׁי + אֲנַן) <br><br> _m'kad'd'shinan_ <br> (m'kad'd'shi + anan) <br><br><br><br> We are making holy | מְקַדְּשִׁיתוּ, <br>‎מְקַדְּשִׁיתוּן <br> (מְקַדְּשִׁי + אַתּוּ / אַתּוּן) <br><br> _m'kad'd'shisu<br>(m'kad'd'shi + atu / atun)_ <br><br><br><br> You [men or women]<br> are making holy |
+|  *Singular* |  מְקַדֵּישְׁנָא <br> (מְקַדֵּישׁ + אֲנָא) <br><br> _m'kad'd'eishnau <br> (m'kad'deish + anau)_ <br><br><br><br> I am making holy | מְקַדְּשַׁתְּ <br> (מְקַדֵּישׁ + אַתְּ) <br><br> _m'kad'd'shat <br> (m'kad'deish + at)_ <br><br><br><br> You [man or woman] <br> are making holy |
+| *Plural* | מְקַדְּשִׁינַן <br> (מְקַדְּשִׁי + אֲנַן) <br><br> _m'kad'd'shinan_ <br><br><br> (m'kad'd'shi + anan) <br><br><br><br> We are making holy | מְקַדְּשִׁיתוּ/ן <br> (מְקַדְּשִׁי + אַתּוּ/ן) <br><br> _m'kad'd'shisu <br> (m'kad'd'shi + atu/n)_ <br><br><br><br> You [men or women] <br> are making holy |
 - There is also a form of the [[_pa’el_ active participle for regular shorushim without pronoun suffixes]].
 - For any regular shoresh, you can replace the letters ‎ק, ‎ד, and שׁ above with the letters of your shoresh to produce the proper conjugations.
-- The Aramaic of the Gemara is not vowelized, and so attempts to vowelize it are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+- Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
 
 
 * _Pa’el_ Active Participle for Regular Shorushim without pronoun suffixes:
 The [[{{_pa’el_ active participle}} form]] has the following conjugation pattern for [[regular shorushim]] when not using [[pronoun suffixes]]:
 |            | *Masculine* | *Feminine* |
-| *Singular* | מְקַדֵּישׁ <br> _m'kad'deish_ <br><br><br> [he is] making holy | מְקַדְּשׁא‎, מְקַדְּשׁה <br> _m'kad'd'shau_ <br><br><br> [she is] making holy |
-| *Plural*   | ‎מְקַדְּשִׁין, ‎מְקַדְּשִׁי, <br>‎מְקַדְּשִׁוּ <br> _m'kad'd'shi, m'kad'd'shin, <br>m'kad'd'shu_ <br><br><br> [those men are] <br>making holy | מְקַדְּשָׁן <br> _m'kad'd'shaun_ <br><br><br> [those women are] <br>making holy |
+| *Singular* | מְקַדֵּישׁ <br><br> _m'kad'deish_ <br><br><br> [he is] making holy | מְקַדְּשׁא‎, מְקַדְּשׁה <br><br> _m'kad'd'shau_ <br><br><br> [she is] making holy |
+| *Plural*   | ‎מְקַדְּשִׁי/ן <br> ‎מְקַדְּשִׁוּ <br><br> _m'kad'd'shi/n, m'kad'd'shu_ <br><br><br> [those men are] <br> making holy | מְקַדְּשָׁן <br><br> _m'kad'd'shaun_ <br><br><br> [those women are] <br> making holy |
 - There is also a form of the [[_pa’el_ active participle for regular shorushim with pronoun suffixes]], (Aramaic has what are called [[“{{pronoun suffixes}}.”]])
 - Aramaic being a less-formal spoken language often has several versions of the same word.
 - For any regular shoresh, you can replace the letters ‎ק, ‎ד, and שׁ above with the letters of your shoresh to produce the proper conjugations.
-- The Aramaic of the Gemara is not vowelized, and so attempts to vowelize it are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+- Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
 
 
 [Dikduk/Aramaic/Binyanim/Pa’el/Tenses/Future]
 
 * _Pa’el_ Future Tense: The [[{{_pa’el_}} binyan]] has a [[future tense]], which is one of the [[Pa’el tenses|“tenses” of the _pa’el_ binyan]].
-- The _pa’el_ future tense has [[_Pa’el_ Future Tense for regular shorushim|conjugations for regular shorushim]].
-- The _pa’el_ future tense has forms for irregular shorushim which will be added at a later time.
+- The _pa’el_ future tense has [[_Pa’el_ Future Tense for regular shorushim|conjugations for regular shorushim]]. (Conjugations for [[irregular shorushim]] are not yet available.)
 - The _pa’el_ future tense corresponds to the [[_pi’el_ future tense]] of Hebrew.
 
 
 * _Pa’el_ Future Tense for regular shorushim:
 The [[_pa’el_ future tense]] follows these conjugations for [[regular shorushim]]:
 |                 | *Singular*                        | \< | *Plural*                              | \< |
-| *First-<br>Person*  | אֲקַדֵּישׁ<br><br>_ekad'deish_<br><br><br>I will make holy | \< | ‎נְקַדֵּישׁ, ‎לְקַדֵּישׁ <br><br> _n'kad'deish, l'kad'deish_<br><br><br> We will make holy | \< |
-| *Second-Person* | תְּקַדֵּישׁ <br><br>_t'kad'deish_<br><br><br> You [male]<br> will make holy | ‎תְקַדְּשׁי‎,<br>‎תְקַדְּשׁין <br><br>_t'kad'dshi, t'kad'shin_<br><br><br> You [female]<br> will make holy  | תְּקַדְּשׁוּ <br><br>_t'kad'd'shu_<br><br><br> You [males or females]<br> will make holy | \< |
-| *Third-<br>Person* | ‎לְקַדֵּישׁ, ‎לִיקַדֵּישׁ,<br>‎נְקַדֵּישׁ‎, ‎נִיקַדֵּישׁ <br><br>_l'kadeish, likadesh, n'kadesh, nikadesh_<br><br><br> He will make holy | תְּיקַדֵּישׁ <br>_t'kadeish_<br><br><br> She will make holy  | ‎לִיכְתְּוֹבוּ, ‎נִיכְתְּוֹבוּ, <br> ‎לִיכְתְּוּב, ‎נִיכְתְּוּב <br> _lichtovu, nichtovu,<br> lichtuv, nichtuv_ <br><br><br> They will make holy | \< |
+| *First- <br> Person* | אֲקַדֵּישׁ <br><br> _ekad'deish_ <br><br><br> I will make holy | \< | ‎נְקַדֵּישׁ, ‎לְקַדֵּישׁ <br><br> _n'kad'deish, l'kad'deish_ <br><br><br> We will make holy | \< |
+| *Second-Person* | תְּקַדֵּישׁ <br><br> _t'kad'deish_ <br><br><br> You [male] <br> will make holy | ‎תְקַדְּשׁי/ן <br><br> _t'kad'dshi, t'kad'shin_ <br><br><br> You [female] <br> will make holy  | תְּקַדְּשׁוּ <br><br> _t'kad'd'shu_ <br><br><br> You [males or females] <br> will make holy | \< |
+| *Third- <br> Person* | ‎לְקַדֵּישׁ, ‎לִיקַדֵּישׁ, <br> ‎נְקַדֵּישׁ‎, ‎נִיקַדֵּישׁ <br><br> _l'kadeish, likadesh, n'kadesh, nikadesh_ <br><br><br> He will make holy | תְּיקַדֵּישׁ <br><br> _t'kadeish_ <br><br><br> She will make holy  | ‎לִיכְתְּוֹבוּ, ‎נִיכְתְּוֹבוּ, <br> ‎לִיכְתְּוּב, ‎נִיכְתְּוּב <br><br> _lichtovu, nichtovu, <br> lichtuv, nichtuv_ <br><br><br> They will make holy | \< |
 - Aramaic being a less-formal spoken language often has several versions of the same word.
 - For any regular shoresh, you can replace the letters ‎ק, ‎ד, and שׁ above with the letters of your shoresh to produce the proper conjugations.
-- The Aramaic of the Gemara is not vowelized, and so attempts to vowelize it are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+- Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
 
 
 [Dikduk/Aramaic/Binyanim/Pa’el/Tenses/Imperative]
 
 * _Pa’el_ Imperative: The _pa’el_ binyan has an [[{{imperative}} form]], which is one of the [[Pa’el tenses|“tenses” of the _pa’el_ binyan]].
-- The _pa’el_ imperative form has [[{_Pa’el_ Imperative|conjugations} for regular shorushim]].
-- The _pa’el_ imperative form has conjugations for irregular shorushim which will be added at a later time.
+- The _pa’el_ imperative form has [[{_Pa’el_ Imperative|conjugations} for regular shorushim]] (Conjugations for [[irregular shorushim]] are not yet available.)
 - The _pa’el_ imperative form corresponds to the [[_pi’el_ imperative]] of Hebrew.
 
 
 * _Pa’el_ Imperative for regular shorushim:
 The [[{{_pa’el_ imperative}} form]] follows these conjugations for [[regular shorushim]]:
 |            | *Masculine* | *Feminine* |
-| *Singular* | קַדֵּישׁ <br> _kad'deish!_ <br> [to a man] make holy! | קַדֵּישִׁי <br> _kadeishi!_ <br> [to a woman] make holy! |
-| *Plural*   | קַדֵּישׁוּ <br> _kad'deishu!_ <br> [to men or women] make holy! | \< |
+| *Singular* | קַדֵּישׁ <br><br> _kad'deish!_ <br><br><br> [to a man] make holy! | קַדֵּישִׁי <br><br> _kadeishi!_ <br><br><br> [to a woman] make holy! |
+| *Plural*   | קַדֵּישׁוּ <br><br> _kad'deishu!_ <br><br><br> [to men or women] make holy! | \< |
 For any regular shoresh, you can replace the letters ‎ק, ‎ד, and שׁ above with the letters of your shoresh to produce the proper conjugation.
 
 
 [Dikduk/Aramaic/Binyanim/Pa’el/Tenses/Infinitive]
 
 * _Pa’el_ Infinitive: The _pa’el_ binyan has an [[{{infinitive}} form]], which is one of the [[Pa’el tenses|“tenses” of the _pa’el_ binyan]].
-- There is a [[{{_pa’el_ infinitive }} form {{for regular shorushim}}]].
-- There are _pa’el_ infinitive forms for irregular shorushim which will be added at a later time.
+- There is a [[{{_pa’el_ infinitive }} form {{for regular shorushim}}]]. (Conjugations for [[irregular shorushim]] are not yet available.)
 
 
 * _Pa’el_ Infinitive for regular shorushim:
 The [[{{_pa’el_ infinitive}} form]] has the following conjugation pattern for [[regular shorushim]]:
 | לְקַדּוּשֵׁי <br><br> _l'kad'dushei_ <br><br><br> to make holy |
-- The Aramaic of the Gemara is not vowelized, and so attempts to vowelize it are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+- Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
 - The _pa’el_ infinitive form corresponds to the [[_pi’el_ infinitive]] of Hebrew.
 
 
 [Dikduk/Aramaic/Binyanim/Pa’el/Tenses/Passive Participle]
 
 * _Pa’el_ Passive Participle: The _pa’el_ has a [[{{passive participle}} form]], which is one of the [[_pa’el_ tenses|“tenses” of the _pa’el_ binyan]].
-- The _pa’el_ passive participle has [[{_pa’el_ passive participle|conjugations} for regular shorushim]].
-- The _pa’el_ passive participle has conjugations for irregular shorushim which will be added at a later time.
+- The _pa’el_ passive participle has [[{_pa’el_ passive participle|conjugations} for regular shorushim]]. (Conjugations for [[irregular shorushim]] are not yet available.)
 - The _pa’el_ passive participle describes the result of a finished action, as opposed to the [[_pa’el{|’s}_ active participle]].
 - The _pa’el_ passive participle corresponds most closely to the [[_pu’al_ active participle]] of Hebrew.
 
@@ -207,40 +514,39 @@ The _pa’el_ passive participle has conjugations for regular shorushim:
 * _Pa’el_ Passive Participle for Regular Shorushim with pronoun suffixes:
 The [[{{_pa’el_ passive participle}} form]] has the following conjugation pattern for [[regular shorushim]] when [[pronoun suffixes]] are added:
 |              | *First-person* | *Second-person* |
-|  *Singular*  |  מְקַדַּשׁנָא <br> (מְקַדַּשׁ + אֲנָא) <br><br> _m'kad'dashnau<br>(m'kad'dash + anau)_ <br><br><br><br> I am made holy | מְקַדְּשַׁתְּ <br> (מְקַדַּשׁ + אַתְּ) <br><br> _m'kad'd'shat<br>(m'kad'dash + at)_ <br><br><br><br> You [man or woman]<br> are made holy |
-| *Plural* | מְקַדְּשִׁינַן <br> (מְקַדְּשִׁי + אֲנַן) <br><br> _m'kad'd'shinan_ <br> (m'kad'd'shi + anan) <br><br><br><br> We are made holy | ‎מְקַדְּשִׁיתוּ‎,<br> מְקַדְּשִׁיתוּן <br> (מְקַדְּשִׁי + אַתּוּ / אַתּוּן) <br><br> _m'kad'd'shisu<br>(m'kad'd'shi + atu / atun)_ <br><br><br><br> You [men or women]<br> are made holy |
+|  *Singular* |  מְקַדַּשׁנָא <br> (מְקַדַּשׁ + אֲנָא) <br><br> _m'kad'dashnau <br> (m'kad'dash + anau)_ <br><br><br><br> I am made holy | מְקַדְּשַׁתְּ <br> (מְקַדַּשׁ + אַתְּ) <br><br> _m'kad'd'shat <br> (m'kad'dash + at)_ <br><br><br><br> You [man or woman] <br> are made holy |
+| *Plural* | מְקַדְּשִׁינַן <br> (מְקַדְּשִׁי + אֲנַן) <br><br> _m'kad'd'shinan_ <br><br><br> (m'kad'd'shi + anan) <br><br><br><br> We are made holy | ‎מְקַדְּשִׁיתוּ/ן <br> (מְקַדְּשִׁי + אַתּוּ/ן) <br><br> _m'kad'd'shisu <br> (m'kad'd'shi + atu / atun)_ <br><br><br><br> You [men or women] <br> are made holy |
 - There is also a form of the [[_pa’el_ passive participle for regular shorushim without pronoun suffixes]].
 - For any regular shoresh, you can replace the letters ‎ק, ‎ד, and שׁ above with the letters of your shoresh to produce the proper conjugations.
-- The Aramaic of the Gemara is not vowelized, and so attempts to vowelize it are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+- Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
 
 
 * _Pa’el_ Passive Participle for Regular Shorushim without pronoun suffixes:
 The [[_pa’el_ passive participle]] has the following conjugation pattern for [[regular shorushim]] when not using [[pronoun suffixes]]:
 |            | *Masculine* | *Feminine* |
 | *Singular* | מְקַדַּשׁ <br><br> _m'kad'dash_ <br><br><br> [he/it is] made holy | מְקַדְּשָׁא <br><br> _m'kad'd'shau_ <br><br><br> [she/it is] made holy |
-| *Plural*   | מְקַדְּשִׁי, <br>‎מְקַדְּשִׁין <br><br> _m'kad'd'shi, m'kad'd'shin_ <br><br><br> [they (men)/those are] made holy | מְקַדְּשָׁן <br><br> _m'kad'd'shan_ <br><br><br> [they (women)/those are] made holy |
+| *Plural*   | מְקַדְּשִׁי/ן <br><br> _m'kad'd'shi/n_ <br><br><br> [those men / things are] made holy | מְקַדְּשָׁן <br><br> _m'kad'd'shan_ <br><br><br> [those women / things are] made holy |
 - There is also a form of the [[_pa’el_ passive participle for regular shorushim with pronoun suffixes]], (Aramaic has what are called [[“{{pronoun suffixes}}.”]])
 - For any regular shoresh, you can replace the letters ‎ק, ‎ד, and שׁ above with the letters of your shoresh to produce the proper conjugations.
-- The Aramaic of the Gemara is not vowelized, and so attempts to vowelize it are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+- Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
 
 
 [Dikduk/Aramaic/Binyanim/Pa’el/Tenses/Past]
 
 * _Pa’el_ Past Tense: The [[{{_pa’el_}} binyan]] has a [[past tense]], which is one of the [[Pa’el tenses|“tenses” of the _pa’el_ binyan]].
-- The _pa’el_ past tense has [[_Pa’el_ Past Tense for regular shorushim|conjugations for regular shorushim]].
-- The _pa’el_ past tense has conjugations for irregular shorushim which will be added at a later time.
+- The _pa’el_ past tense has [[_Pa’el_ Past Tense for regular shorushim|conjugations for regular shorushim]]. (Conjugations for [[irregular shorushim]] are not yet available.)
 - The _pa’el_ past tense corresponds to the [[_pi’el_ past tense]] of Hebrew.
 
 
 * _Pa’el_ Past Tense for regular shorushim:
 The [[_pa’el_ past tense]] follows these conjugations for [[regular shorushim]]:
 |                | *Singular* |\<                          | *Plural* |\< |
-| *First-<br>Person* | ‎קַדֵּישִי‎,<br> קַדֵּישִית<br>_kadeishi, kadeishis_<br><br><br>I made holy | \< | ‎קַדֵּישְנַן‎, <br>קַדֵּישְנָא‎ <br>_kad'deish'nan, kad'deish'nau_<br><br><br>We made holy | \< |
-| *Second-Person*    | קַדֵּישְתְּ <br>_kadeish't_<br><br> You [male or female]<br> made holy | \< | קַדֵּישְתּוּ‎,<br> קַדֵּישְתּוּן <br>_kad'deish'tu, kad'deish'tun_<br><br> You [males or females]<br> made holy  | \< |
-| *Third-Person*     | קַדֵּיש <br>_kad'deish_<br><br><br> He made holy | קַדִּישָה‎,<br> קַדִּישַת‎ <br>_kad'dishau, kad'dishas_<br><br> She made holy | קַדִּישוּ‎,<br> קַדּוּש <br>_kad'dishu, kadush_<br><br><br> They [males] made holy | קַדִּישָא‎,<br> קַדִּישָן <br>_kadishau, kadishan_<br><br><br> They [females] made holy |
+| *First- <br> Person* | ‎קַדֵּישִי‎, <br> קַדֵּישִית <br><br> _kadeishi, kadeishis_ <br><br><br> I made holy | \< | ‎קַדֵּישְנַן‎, <br> קַדֵּישְנָא‎ <br><br> _kad'deish'nan, kad'deish'nau_ <br><br><br> We made holy | \< |
+| *Second-Person*    | קַדֵּישְתְּ <br><br> _kadeish't_ <br><br><br> You [male or female] <br> made holy | \< | קַדֵּישְתּוּ‎, <br> קַדֵּישְתּוּן <br><br> _kad'deish'tu, kad'deish'tun_ <br><br><br> You [males or females] <br> made holy  | \< |
+| *Third-Person*     | קַדֵּיש <br><br> _kad'deish_ <br><br><br> He made holy | קַדִּישָה‎, <br> קַדִּישַת‎ <br><br> _kad'dishau, kad'dishas_ <br><br><br> She made holy | קַדִּישוּ‎, <br> קַדּוּש <br><br> _kad'dishu, kadush_ <br><br><br> They [males] made holy | קַדִּישָא‎, <br> קַדִּישָן <br><br> _kadishau, kadishan_ <br><br><br> They [females] made holy |
 - Aramaic being a less-formal spoken language often has several versions of the same word.
-- For any regular shoresh, you can replace the letters ‎ק, ‎ד, and ש above with the letters of your shoresh to produce the proper conjugations.
-- The Aramaic of the Gemara is not vowelized, and so attempts to vowelize it are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+- For any regular shoresh, you can replace the letters ‎ק, ‎ד, and שׁ above with the letters of your shoresh to produce the proper conjugations.
+- Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
 
 
 [Dikduk/Aramaic/Binyanim/Pe’al]
@@ -261,8 +567,7 @@ Here is more information about the _pe’al_ binyan:
 
 * _Pe’al_ tenses for different shoresh types:
 There are [[_pe’al_]] forms for different shoresh types:
-- There are [[_pe’al_ tenses for regular shorushim]].
-- There are _pe’al_ forms for irregular shorushim which will be added at a later time.
+- There are [[_pe’al_ tenses for regular shorushim]]. (Conjugations for [[irregular shorushim]] are not yet available.)
 
 
 * _Pe’al_ tenses for regular shorushim:
@@ -283,9 +588,8 @@ Verbs in the [[_pe’al_]] have conjugations conjugations in various “tenses�
 
 * _Pe’al_ Active Participle:
 The [[{{_pe’al_}} binyan]] has an [[{{active participle}} form]], which is one of the [[Pe’al tenses|“tenses” of the _pe’al_ binyan]].
-- The _pe’al_ active participle has [[{_Pe’al_ Active Participle|conjugations} for regular shorushim]].
-- The _pe’al_ active participle has conjugations for irregular shorushim which will be added at a later time.
-- The _pe’al_ infinitive form corresponds to the [[_pa’al_ active participle]] of Hebrew.
+- The _pe’al_ active participle has [[{_Pe’al_ Active Participle|conjugations} for regular shorushim]]. (Conjugations for [[irregular shorushim]] are not yet available.)
+- The _pe’al_ active participle form corresponds to the [[_pa’al_ active participle]] of Hebrew.
 
 
 * _Pe’al_ Active Participle for Regular Shorushim:
@@ -298,78 +602,74 @@ The [[_pe’al_ active participle]] has two conjugations for regular shorushim:
 * _Pe’al_ Active Participle for Regular Shorushim with pronoun suffixes:
 The [[{{_pe’al_ active participle}} form]] has the following conjugation pattern for [[regular shorushim]] when [[pronoun suffixes]] are added:
 |                 | *First-person* | *Second-person* |
-|  *Singular*  |  כָּתֵיבְנָא <br> (כָּתֵב + אֲנָא) <br><br> _kauseivnau<br>(kauseiv + anau)_ <br><br><br><br> I am writing | כָּתְבַתְּ <br> (כָּתֵב + אַתְּ) <br><br> _kausvat<br>(kauseiv + at)_ <br><br><br><br> You [man or woman]<br> are writing |
-| *Plural* | כָּתְבִינן <br> (כָּתְבִי + אֲנַן) <br><br> _kasvinan_ <br> (kausvi + anan) <br><br><br><br> We are writing | כָּתְבִיתוּ <br> (כָּתְבִי + אַתּוּ) <br><br> _ kasvisu<br>(kausvi + atu)_ <br><br><br><br> You [men or women]<br> are writing |
+|  *Singular* |  כָּתֵיבְנָא <br> (כָּתֵב + אֲנָא) <br><br> _kauseivnau <br> (kauseiv + anau)_ <br><br><br><br> I am writing | כָּתְבַתְּ <br> (כָּתֵב + אַתְּ) <br><br> _kausvat <br> (kauseiv + at)_ <br><br><br><br> You [man or woman] <br> are writing |
+| *Plural* | כָּתְבִינן <br> (כָּתְבִי + אֲנַן) <br><br> _kasvinan_ <br><br><br> (kausvi + anan) <br><br><br><br> We are writing | כָּתְבִיתוּ <br> (כָּתְבִי + אַתּוּ) <br><br> _ kasvisu <br> (kausvi + atu)_ <br><br><br><br> You [men or women] <br> are writing |
 - There is also a form of the [[_pe’al_ active participle for regular shorushim without pronoun suffixes]].
 - For any regular shoresh, you can replace the letters ‎כ, ‎ת, and ב above with the letters of your shoresh to produce the proper conjugations.
-- The Aramaic of the Gemara is not vowelized, and so attempts to vowelize it are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+- Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
 
 
 * _Pe’al_ Active Participle for Regular Shorushim without pronoun suffixes:
 The [[{{_pe’al_ active participle}} form]] has the following conjugation pattern for [[regular shorushim]] when not using [[pronoun suffixes]]:
 |            | *Masculine* | *Feminine* |
-| *Singular* | כָּתֵב <br> _kauseiv_ <br> [he is] writing | כָּתְבָא‎, כָּתְבָה <br> _kausvah_ <br> [she is] writing |
-| *Plural*   | ‎כָּתְבִי‎, ‎כָּתְבִין, ‎כָּתְבוּ <br> _kausvi, kausvin, kasvu_ <br> [those men are] writing | כָּתְבָן <br> _kausvaun_ <br> [those women are] writing |
+| *Singular* | כָּתֵב <br><br> _kauseiv_ <br><br><br> [he is] writing | כָּתְבָא‎, כָּתְבָה <br><br> _kausvah_ <br><br><br> [she is] writing |
+| *Plural*   | ‎כָּתְבִי/ן, ‎כָּתְבוּ <br><br> _kausvi/n, kasvu_ <br><br><br> [those men are] writing | כָּתְבָן <br><br> _kausvaun_ <br><br><br> [those women are] writing |
 - There is also a form of the [[_pe’al_ active participle for regular shorushim with pronoun suffixes]], (Aramaic has what are called [[“{{pronoun suffixes}}.”]])
 - Aramaic being a less-formal spoken language often has several versions of the same word.
 - For any regular shoresh, you can replace the letters ‎כ, ‎ת, and ב above with the letters of your shoresh to produce the proper conjugations.
-- The Aramaic of the Gemara is not vowelized, and so attempts to vowelize it are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+- Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
 
 
 [Dikduk/Aramaic/Binyanim/Pe’al/Tenses/Future]
 
 * _Pe’al_ Future Tense: The [[_pe’al_]] has a [[future tense]], which is one of the [[Pe’al tenses|“tenses” of the _pe’al_ binyan]].
-- The _pe’al_ future tense has [[_Pe’al_ Future Tense for regular shorushim|conjugations for regular shorushim]].
-- The _pe’al_ future tense has forms for irregular shorushim which will be added at a later time.
+- The _pe’al_ future tense has [[_Pe’al_ Future Tense for regular shorushim|conjugations for regular shorushim]]. (Conjugations for [[irregular shorushim]] are not yet available.)
 - The _pe’al_ future tense corresponds to the [[_pa’al_ future tense]] of Hebrew.
 
 
 * _Pe’al_ Future Tense for regular shorushim:
 The [[_pe’al_ future tense]] follows these conjugations for [[regular shorushim]]:
 |                 | *Singular*                        | \< | *Plural*                              | \< |
-| *First-<br>Person*  | אֶיכְתּוֹב<br>_echtov_<br><br><br>I will write | \< |  ‎לִיכְתּוֹב, ‎נִיכְתּוֹב <br> _lichtov, nichtov_<br><br><br> We will write | \< |
-| *Second-Person* | תִּיכְתּוֹב <br>_tichtov_<br><br><br> You [male]<br> will write | ‎תִּיכְתְּבִי, ‎תִּיכְתְּבִין <br>_tichtevi, tichtevin_<br><br><br> You [female]<br> will write  | תִּיכְתְּבוּן <br>_tichtevun_<br><br><br> You [males or females]<br> will write  | \< |
-| *Third-<br>Person* | ‎לִיכְתּוֹב, ‎נִיכְתּוֹב <br>_lichtov, nichtov_<br><br><br> He will write | תִּיכְתּוֹב <br>_tichtov_<br><br><br> She will write  | ‎לִיכְתְּוֹבוּ, ‎נִיכְתְּוֹבוּ, <br> ‎לִיכְתְּוּב, ‎נִיכְתְּוּב <br> _lichtovu, nichtovu,<br> lichtuv, nichtuv_ <br><br><br> They will write | \< |
+| *First- <br> Person* | אֶיכְתּוֹב <br><br> _echtov_ <br><br><br> I will write | \< | ‎לִיכְתּוֹב, ‎נִיכְתּוֹב <br><br> _lichtov, nichtov_ <br><br><br> We will write | \< |
+| *Second-Person* | תִּיכְתּוֹב <br><br> _tichtov_ <br><br><br> You [male] <br> will write | ‎תִּיכְתְּבִי/ן <br><br> _tichtevi/n_ <br><br><br> You [female] <br> will write  | תִּיכְתְּבוּן <br><br> _tichtevun_ <br><br><br> You [males or females] <br> will write  | \< |
+| *Third- <br> Person* | ‎לִיכְתּוֹב, ‎נִיכְתּוֹב <br><br> _lichtov, nichtov_ <br><br><br> He will write | תִּיכְתּוֹב <br><br> _tichtov_ <br><br><br> She will write  | ‎לִיכְתְּוֹבוּ, ‎נִיכְתְּוֹבוּ, <br> ‎לִיכְתְּוּב, ‎נִיכְתְּוּב <br><br> _lichtovu, nichtovu, <br> lichtuv, nichtuv_ <br><br><br> They will write | \< |
 - Aramaic being a less-formal spoken language often has several versions of the same word.
 - For any regular shoresh, you can replace the letters ‎כ, ‎ת, and ב above with the letters of your shoresh to produce the proper conjugations.
-- The Aramaic of the Gemara is not vowelized, and so attempts to vowelize it are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+- Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
 
 
 [Dikduk/Aramaic/Binyanim/Pe’al/Tenses/Imperative]
 
 * _Pe’al_ Imperative: The [[_pe’al_]] has an [[{{imperative}} form]], which is one of the [[Pe’al tenses|“tenses” of the _pe’al_ binyan]].
-- The _pe’al_ imperative form has [[{_Pe’al_ Imperative|conjugations} for regular shorushim]].
-- The _pe’al_ imperative form has conjugations for irregular shorushim which will be added at a later time.
+- The _pe’al_ imperative form has [[{_Pe’al_ Imperative|conjugations} for regular shorushim]] (Conjugations for [[irregular shorushim]] are not yet available.)
 - The _pe’al_ imperative form corresponds to the [[_pa’al_ imperative]] of Hebrew.
 
 
 * _Pe’al_ Imperative for regular shorushim:
 The [[{{_pe’al_ imperative}} form]] follows these conjugations for [[regular shorushim]]:
 |            | *Masculine* | *Feminine* |
-| *Singular* | כְּתוּב <br> _ksov!_ <br> [to a man] write! | כְּתוּבִי <br> _ksuvi!_ <br> [to a woman] write! |
-| *Plural*   | כְּתוּבוּ <br> _ksuvu!_ <br> [to men] write! | כְּתוּבִין <br> _ksuvin!_ <br> [to women] write! |
+| *Singular* | כְּתוּב <br><br> _ksov!_ <br><br><br> [to a man] write! | כְּתוּבִי <br><br> _ksuvi!_ <br><br><br> [to a woman] write! |
+| *Plural*   | כְּתוּבוּ <br><br> _ksuvu!_ <br><br><br> [to men] write! | כְּתוּבִין <br><br> _ksuvin!_ <br><br><br> [to women] write! |
 For any regular shoresh, you can replace the letters ‎ב, ‎ד, and ל above with the letters of your shoresh to produce the proper conjugation.
 
 
 [Dikduk/Aramaic/Binyanim/Pe’al/Tenses/Infinitive]
 
 * _Pe’al_ Infinitive: The [[_pe’al_]] has an [[{{infinitive}} form]], which is one of the [[Pe’al tenses|“tenses” of the _pe’al_ binyan]].
-- There is a [[{{_pe’al_ infinitive }} form {{for regular shorushim}}]].
-- There are _pe’al_ infinitive forms for irregular shorushim which will be added at a later time.
+- There is a [[{{_pe’al_ infinitive }} form {{for regular shorushim}}]]. (Conjugations for [[irregular shorushim]] are not yet available.)
 
 
 * _Pe’al_ Infinitive for regular shorushim:
 The [[{{_pe’al_ infinitive}} form]] has the following conjugation pattern for [[regular shorushim]]:
-| ‎לְמִכְתְּבָא‎, לְמִכְתַּב <br> _l'michtav, l'micht'vau_ <br> to write |
-- The Aramaic of the Gemara is not vowelized, and so attempts to vowelize it are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+| ‎לְמִכְתְּבָא‎, לְמִכְתַּב <br><br> _l'michtav, l'micht'vau_ <br><br><br> to write |
+- Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
 - The _pe’al_ infinitive form corresponds to the [[_pa’al_ infinitive]] of Hebrew.
 
 
 [Dikduk/Aramaic/Binyanim/Pe’al/Tenses/Passive Participle]
 
 * _Pe’al_ Passive Participle: The [[_pe’al_]] has a [[{{passive participle}} form]], which is one of the [[_pe’al_ tenses|“tenses” of the _pe’al_ binyan]].
-- The _pe’al_ passive participle has [[{_pe’al_ passive participle|conjugations} for regular shorushim]].
-- The _pe’al_ passive participle has conjugations for irregular shorushim which will be added at a later time.
+- The _pe’al_ passive participle has [[{_pe’al_ passive participle|conjugations} for regular shorushim]]. (Conjugations for [[irregular shorushim]] are not yet available.)
 - The _pe’al_ passive participle describes the result of a finished action, as opposed to the [[_pe’al{|’s}_ active participle]].
 - The _pe’al_ passive participle corresponds to the [[_pa’al_ passive participle]] of Hebrew.
 
@@ -384,46 +684,47 @@ The [[_pe’al_ passive participle]] has conjugations for regular shorushim:
 * _Pe’al_ Passive Participle for Regular Shorushim with pronoun suffixes:
 The [[{{_pe’al_ passive participle}} form]] has the following conjugation pattern for [[regular shorushim]] when [[pronoun suffixes]] are added:
 |              | *First-person* | *Second-person* |
-|  *Singular*  |  שְׁבִיקְנָא <br> (שְׁבִיק + אֲנָא) <br><br> _sh’viknau<br>(sh’vik + anau)_ <br><br><br><br> I am abandoned | שְׁבִקַתְּ <br> (שְׁבִיק + אַתְּ) <br><br> _sh’vikat<br>(sh’vik + at)_ <br><br><br><br> You [man or woman]<br> are abandoned |
-| *Plural* | שְׁבִיקִינַן <br> (שָׁבְקִי + אֲנַן) <br><br> _sh’vikinan_ <br> (sh’viki + anan) <br><br><br><br> We are abandoned | שְׁבִיקִיתוּ <br> (שָׁבְקִי + אַתּוּ) <br><br> _sh’vikisu<br>(sh’viki + atu)_ <br><br><br><br> You [men or women]<br> are abandoned |
+|  *Singular* |  שְׁבִיקְנָא <br> (שְׁבִיק + אֲנָא) <br><br> _sh’viknau <br> (sh’vik + anau)_ <br><br><br><br> I am abandoned | שְׁבִקַתְּ <br> (שְׁבִיק + אַתְּ) <br><br> _sh’vikat <br> (sh’vik + at)_ <br><br><br><br> You [man or woman] <br> are abandoned |
+| *Plural* | שְׁבִיקִינַן <br> (שָׁבְקִי + אֲנַן) <br><br> _sh’vikinan_ <br><br><br> (sh’viki + anan) <br><br><br><br> We are abandoned | שְׁבִיקִיתוּ <br> (שָׁבְקִי + אַתּוּ) <br><br> _sh’vikisu <br> (sh’viki + atu)_ <br><br><br><br> You [men or women] <br> are abandoned |
 - There is also a form of the [[_pe’al_ passive participle for regular shorushim without pronoun suffixes]].
 - For any regular shoresh, you can replace the letters ‎שׁ, ‎ב, and ק above with the letters of your shoresh to produce the proper conjugations.
-- The Aramaic of the Gemara is not vowelized, and so attempts to vowelize it are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+- Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
 
 
 * _Pe’al_ Passive Participle for Regular Shorushim without pronoun suffixes:
 The [[{{_pe’al_ active participle}} form]] has the following conjugation pattern for [[regular shorushim]] when not using [[pronoun suffixes]]:
 The [[_pe’al_ passive participle]] has the following conjugation pattern for [[regular shorushim]] when not using [[pronoun suffixes]]:
 |            | *Masculine* | *Feminine* |
-| *Singular* | שְׁבִיק <br> _sh’vik_ <br> [he/it is] abandoned | שְׁבִיקָא‎, שְׁבִיקָה <br> _sh’vikau_ <br> [she/it is] abandoned |
-| *Plural*   | שְׁבִיקִי‎, שְׁבִיקִין <br> _sh’viki, sh’vikin_ <br> [they (men)/those are] abandoned | שְׁבִיקָן <br> _sh’vikaun_ <br> [they (women)/those are] abandoned |
+| *Singular* | שְׁבִיק <br><br> _sh’vik_ <br><br><br> [he/it is] abandoned | שְׁבִיקָא‎, שְׁבִיקָה <br><br> _sh’vikau_ <br><br><br> [she/it is] abandoned |
+| *Plural*   | שְׁבִיקִי/ן <br><br> _sh’viki/n_ <br><br><br> [those men / things are] abandoned | שְׁבִיקָן <br><br> _sh’vikaun_ <br><br><br> [those women / things are] abandoned |
 - There is also a form of the [[_pe’al_ passive participle for regular shorushim with pronoun suffixes]], (Aramaic has what are called [[“{{pronoun suffixes}}.”]])
 - For any regular shoresh, you can replace the letters ‎שׁ, ‎ב, and ק above with the letters of your shoresh to produce the proper conjugations.
-- The Aramaic of the Gemara is not vowelized, and so attempts to vowelize it are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+- Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
 
 
 [Dikduk/Aramaic/Binyanim/Pe’al/Tenses/Past]
 
 * _Pe’al_ Past Tense: The [[{{_pe’al_}} binyan]] has a [[past tense]], which is one of the [[Pe’al tenses|“tenses” of the _pe’al_ binyan]].
-- The _pe’al_ past tense has [[_Pe’al_ Past Tense for regular shorushim|conjugations for regular shorushim]].
-- The _pe’al_ past tense has conjugations for irregular shorushim which will be added at a later time.
+- The _pe’al_ past tense has [[_Pe’al_ Past Tense for regular shorushim|conjugations for regular shorushim]]. (Conjugations for [[irregular shorushim]] are not yet available.)
 - The _pe’al_ past tense corresponds to the [[_pa’al_ past tense]] of Hebrew.
 
 
 * _Pe’al_ Past Tense for regular shorushim:
 The [[_pe’al_ past tense]] follows these conjugations for [[regular shorushim]]:
 |                | *Singular* |\<                          | *Plural* |\< |
-| *First-<br>Person* | כְּתַבִית‎, כְּתַבִי<br>_ksavi, ksavis_<br><br><br>I wrote | \<   | כְּתַבְנָא‎, כְּתַבְנַן‎,<br> כְּתַבַן‎, כְּתַבִינַן <br>_ksavnan, ksavnau,<br> ksavinan, ksavan_<br><br><br>We wrote | \< |
-| *Second-Person*    | כְּתַבְתְּ <br>_ksavt_<br><br> You wrote | \< | כְּתַבְתּוּן‎,<br> כְּתַבִיתוּ <br>_ksavtun,<br> ksavisu_<br><br> You [males] wrote  | כְּתַבְתִּין <br>_kesavtin_<br><br><br> You [females] wrote |
-| *Third-Person*     | כְּתַב <br>_kesav_<br><br><br> He<span>&nbsp;</span>wrote | כְּתַבָה‎, כְּתַבַת‎, כְּתַבָא <br>_ksavas, ksavau_<br><br> She wrote  | כְּתוּב‎, כְּתַבוּ <br>_ksavu, ksuv_<br><br><br> They [males] wrote | כְּתַבָן‎, כְּתַבָה <br>_ksavau, ksavaun_<br><br><br> They [females] wrote |
+| *First- <br> Person* | כְּתַבִית‎, כְּתַבִי <br><br> _ksavi, ksavis_ <br><br><br> I wrote | \<   | כְּתַבְנָא‎, כְּתַבְנַן‎, <br> כְּתַבַן‎, כְּתַבִינַן <br><br> _ksavnan, ksavnau, <br> ksavinan, ksavan_ <br><br><br> We wrote | \< |
+| *Second-Person*    | כְּתַבְתְּ <br><br> _ksavt_ <br><br><br> You wrote | \< | כְּתַבְתּוּן‎, <br> כְּתַבִיתוּ <br><br> _ksavtun, <br> ksavisu_ <br><br><br> You [males] wrote  | כְּתַבְתִּין <br><br> _kesavtin_ <br><br><br> You [females] wrote |
+| *Third-Person*     | כְּתַב <br><br> _kesav_ <br><br><br> He<span>&nbsp;</span>wrote | כְּתַבָה‎, כְּתַבָא,‎ כְּתַבַת‎ <br><br> _ksavas, ksavau_ <br><br><br> She wrote  | כְּתוּב‎, כְּתַבוּ <br><br> _ksavu, ksuv_ <br><br><br> They [males] wrote | כְּתַבָן‎, כְּתַבָה <br><br> _ksavau, ksavaun_ <br><br><br> They [females] wrote |
 - Aramaic being a less-formal spoken language often has several versions of the same word.
 - For any regular shoresh, you can replace the letters ‎כ, ‎ת, and ב above with the letters of your shoresh to produce the proper conjugations.
-- The Aramaic of the Gemara is not vowelized, and so attempts to vowelize it are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
+- Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's _Grammar for Gemara_.
 
 
 [Dikduk/Binyan]
 
-* Active: “Active” is a category of verb in Hebrew and Aramaic. Active verbs represent actions where [[the person being described is the one doing the action]]. There are [[several active binyanim in Hebrew and Aramaic]].
+* Active: “Active” is a category of verb in Hebrew and Aramaic.
+- Active verbs represent actions where [[the person being described is the one doing the action]], as opposed to [[{{passive}} verbs]].
+- There are [[several {{active binyanim}} in Hebrew and Aramaic]].
 
 The person being described is the one doing the action: Active verbs represent actions where the person being described is the one doing the action, as opposed to [[passive]] verbs. For example:
 | *Shoresh* | *Active verb* | *Passive verb* |
@@ -435,33 +736,32 @@ The person being described is the one doing the action: Active verbs represent a
 
  the verb לִקְנוֹת means “to buy,” and because it is active, the one being described is the one who is buying, as opposed to describing the thing being bought.
 
-Several active binyanim in Hebrew and Aramaic:
-There are several active binyanim in Hebrew and Aramaic:
-- Hebrew’s active [[simple]] binyan is called the [[_pa’al_]]
-- Hebrew’s active [[intensive]] binyan is called the [[_pi’el_]]
-- Hebrew’s active [[causative]] binyan is called the [[_hif’il_]]
-- Aramaic’s active simple binyan is called the [[_pe’al_]]
-- Aramaic’s active intensive binyan is called the [[_pa’el_]]
-- Aramaic’s active causative binyan is called the [[_af’el_]]
+
+* Active binyanim:
+There are several [[active]] binyanim in Hebrew and Aramaic. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
+| *Actives* | [[Simple]] | [[Intensive]] | [[Causative]] |
+| [[{Hebrew} Binyanim]]  | [[_Pa’al_]]  | [[_Pi’el_]] | [[_Hif’il_]] |
+| [[{Aramaic} Binyanim]] | [[_Pe’al_]] | [[_Pa’el_]] | [[_Af’el_]] |
 
 
 * Binyan: “Binyan” is a grammatical concept in Hebrew and Aramaic that has no direct corollary in English.
-- When you take a [[shoresh]], for example אכל, which represents “eating,” and put it into a certain “binyan,” it produces a verb, for example לְהַאֲכִיל (_l’ha’achil)_, which means “to feed.”
-- Other verbs that rhyme with לְהַאֲכִיל (_l’ha’achil)_ will often also involve someone making someone else do something, because they are from the same “binyan.”
+- If you take a [[shoresh]], for example אכל, which represents “eating,” and put it into a certain “binyan,” you produce a verb, for example לְהַאֲכִיל (_l’ha’achil)_, which means “to feed.”
+- You can identify the binyan of a verb by its vowel sounds. Other verbs that rhyme with לְהַאֲכִיל (_l’ha’achil)_ will have similar meanings, because they are from the same “binyan.”
+- Every conjugated verb has one shoresh and one binyan.
 - Advanced students can [[learn more about the concept of binyan]].
 
 Learn more about the concept of binyan:
 Here is additional explanation of the concept of “binyan”:
-- A binyan is [[like a flavor of the shoresh]].
+- Binyanim of a shoresh are [[like different flavors of the shoresh meaning]].
 - Every binyan is a combination of [[five basic types of action]].
 - There are [[seven {{Hebrew binyanim}}]] and [[six {{Aramaic binyanim}}]].
 - There are also [[nouns and adjectives that come from particular binyanim]].
 
-Like a flavor of the shoresh: You can think of a binyan as being a “flavor” that gets mixed with the shoresh to produce different verbs. For example:
+Like different flavors of the shoresh meaning: You can think of a binyan as being a “flavor” that gets mixed with the shoresh to produce different verbs. For example:
 | *The shoresh* | *Can be put into a binyan called* | *Which has a “flavor” of* | *And produces the verb* |
 | אכל <br> eating | [[_hif’il_]] | causing someone else to do something | eating + causing = <br> “to feed” |
 | כתב <br> writing | [[_pi’el_]] | doing something more intensely | writing + intense = <br> “to engrave” |
-| קנה <br> buying | [[_nif’al_]] | having something done to you | buying + <br>something done to you = <br> “to be purchased” |
+| קנה <br> buying | [[_nif’al_]] | having something done to you | buying + <br> something done to you = <br> “to be purchased” |
 In English [[we use alternative means to achieve the same effect]].
 
 Five basic types of action: There are five “types” of action that get combined to produce different binyanim:
@@ -521,11 +821,11 @@ There are several intensive binyanim in Hebrew and Aramaic:
 - Hebrew’s [[active]] intensive binyan is the [[_pi’el_]]
 - Hebrew’s [[passive]] intensive binyan is the [[_nif’al_]]
 - Aramaic’s active intensive binyan is the [[_pe’al_]]
-- Aramaic’s passive intensive [[_ispe’el_]]
+- Aramaic’s passive intensive [[_ispa’al_]]
 
 
 * Passive: “Passive” is a category of verb in Hebrew and Aramaic.
-- Passive verbs usually represent actions where [[the person being described is having an action done to them]].
+- Passive verbs usually represent actions where [[the person being described is having an action done to them]], as opposed to [[{{active}} verbs]]
 - A binyan that is passive has verbs that are passive and vice versa. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
 - There are several [[{{passive binyanim}} in Hebrew and Aramaic]].
 
@@ -539,21 +839,11 @@ The person being described is having an action done to them: Passive verbs repre
 This is a rule of thumb, although sometimes passive verbs have [[{{reflexive}} meanings]].
 
 
-* Passive binyanim: A [[binyan]] can be [[passive]] and there are several such passive binyanim [[in Hebrew]] and [[in Aramaic]].
-
-In Hebrew:
-There are several passive binyanim in Hebrew:
-- Hebrew’s passive [[simple]] binyan is called the [[_nif’al_]]
-- Hebrew’s passive [[intensive]] binyan is called the [[_pu’al_]]
-- Hebrew’s passive [[causative]] binyan is called the [[_huf’al_]]
-- Hebrew’s [[reflexive]] binyan the [[hispa’el]] can sometimes have a passive meaning.
-
-In Aramaic:
-There are several passive binyanim in Aramaic:
-- Aramaic’s passive simple binyan is called the [[_ispe’el_]]
-- Aramaic has no passive intensive binyan.
-- Aramaic’s passive causative binyan is called the [[_itaf’al_]]
-- Aramaic’s reflexive binyan the [[ispa’al]] can sometimes have a passive meaning
+* Passive binyanim:
+There are several [[passive]] binyanim in Hebrew and in Aramaic. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
+| *Passives* | [[Simple]] | [[Intensive]] | [[Causative]] |
+| [[{Hebrew} Binyanim]]  | [[_Nif’al_]]  | [[_Pu’al_]] | [[_Huf’al_]] |
+| [[{Aramaic} Binyanim]] | [[_Ispe’el_]] | [[_Ispa’al_]] | [[_Itaf’al_]] |
 
 
 * Reflexive: “Reflexive” is a category of verb in Hebrew and Aramaic.
@@ -580,8 +870,8 @@ Transformative actions: Reflexive verbs can also refer to situations where an en
 Several reflexive binyanim in Hebrew and Aramaic:
 There are several reflexive binyanim in Hebrew and Aramaic:
 - Hebrew’s reflexive binyan is called the [[_hispa’el_]]
-- Aramaic’s reflexive binyan is called the [[_ispa’al_]]
-- Hebrew and Aramaic’s [[{{passive}} verbs]] also sometimes have reflexive meanings.
+- Aramaic’s [[passive]] binyanim, [[_ispe’el_]], [[ispa’al]], and [[itaf’al]], can also be reflexive.
+- In general [[{{passive}} verbs]] can also sometimes have reflexive meanings.
 
 
 * Simple: “Simple” (also known as _kal)_ is a category of verb in Hebrew and Aramaic. Simple verbs usually have [[meanings that are similar to their shoresh]]. A binyan that is simple has verbs that are simple and vice versa. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].) There are [[several “simple” binyanim in Hebrew and Aramaic]].
@@ -666,9 +956,9 @@ Like an adjective: The participle in Hebrew and Aramaic is more like an adjectiv
 
 * Forms of the active participle in Hebrew:
 These are the examples of the participle in the masculine singular for each of the [[Hebrew binyanim]]. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
-| *Hebrew*  | [[Simple]] | [[Intensive]] | [[Causative]] | [[Reflexive]] |
+| *Hebrew* | [[Simple]] | [[Intensive]] | [[Causative]] | [[Reflexive]] |
 |---------|--------|-----------|-----------|-----------|
-| [[Active]]  | [[_Pa’al_ Active Participle|Active Participle <br> (of the _pa’al_)]] | [[_Pi’el_ (Active Participle)]] | _Hif’il_ (Active Participle) | _Hispa’el_ (Active Participle),<br><br>_Nispa’el_ (Active Participle) |
+| [[Active]]  | [[_Pa’al_ Active Participle|Active Participle <br> (of the _pa’al_)]] | [[_Pi’el_ (Active Participle)]] | _Hif’il_ (Active Participle) | _Hispa’el_ (Active Participle), <br><br> _Nispa’el_ (Active Participle) |
 | [[Passive]] | _Nif’al_ (Active Participle) | _Pu’al_ (Active Participle) | _Huf’al_ (Active Participle) | \^ |
 
 - Table might be overkill
@@ -749,12 +1039,12 @@ Can be used as nouns: The participle can be used as a noun in two ways:
 Can describe someone doing an action:
 The participle can represent someone doing a given action. For example:
 | *General* | *Specific* |
-| *רָץ* צָרִיךְ נַעְלַיִם <br> _*ratz* tzaurich na’alayim_ <br> *a runner* needs shoes | *הַרָץ* צָרִיךְ נַעְלַיִם <br> _*ha’ratz* tzaurich na’alayim_ <br> *the runner* needs shoes |
+| *רָץ* צָרִיךְ נַעְלַיִם <br><br> _*ratz* tzaurich na’alayim_ <br><br><br> *a runner* needs shoes | *הַרָץ* צָרִיךְ נַעְלַיִם <br><br> _*ha’ratz* tzaurich na’alayim_ <br><br><br> *the runner* needs shoes |
 Here, we see the Hebrew word “running” can also mean “a person who is running,” and that adding a ה means “the person who is running,” a form found often in the Mishnah.
 
 Can describe an instance of an action:
 The participle can represent an instance of an action, (although this may be very uncommon.) For example:
-|‎ *כּוֹתֵב* שֶׁלוֹ תַּמִיד <br> _*kosev* shelo tamid_ <br> his *writing* is constant | *זוֹעֵק* שֶׁלוֹ הַרְבֵּה <br> _*zo’eik* shelo harbe_ <br> his *yelling* is numerous |
+|‎ *כּוֹתֵב* שֶׁלוֹ תַּמִיד <br><br> _*kosev* shelo tamid_ <br><br><br> his *writing* is constant | *זוֹעֵק* שֶׁלוֹ הַרְבֵּה <br><br> _*zo’eik* shelo harbe_ <br><br><br> his *yelling* is numerous |
 Here, we see that the Hebrew word “writing” can be used as a noun, meaning “a particular instance of the act of writing.”
 
 Can be used as adjectives: A participle can be used as an adjective, eg:
@@ -810,9 +1100,9 @@ The Hebrew and Aramaic “present tense” correspond to both the English presen
 [Dikduk/Hebrew/Binyanim]
 
 * Hebrew binyanim: There are seven binyanim in Hebrew. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
-| *Hebrew*  | [[Simple]] | [[Intensive]] | [[Causative]] | [[Reflexive]] |
+| *Hebrew* | [[Simple]] | [[Intensive]] | [[Causative]] | [[Reflexive]] |
 |---------|--------|-----------|-----------|-----------|
-| [[Active]]  | [[_Pa’al_]] | [[_Pi’el_]] | [[_Hif’il_]] | [[_Hispa’el_]],<br>[[_Nispa’el_]] |
+| [[Active]]  | [[_Pa’al_]] | [[_Pi’el_]] | [[_Hif’il_]] | [[_Hispa’el_]], <br> [[_Nispa’el_]] |
 | [[Passive]] | [[_Nif’al_]] | [[_Pu’al_]] | [[_Huf’al_]] | \^ |
 The binyanim of Hebrew mostly align with the [[Aramaic binyanim]].
 
@@ -835,8 +1125,7 @@ Here is more information about the _hif’il_ binyan:
 
 * _Hif’il_ tenses for different shoresh types:
 There are _hif’il_ forms for different shoresh types:
-- There are [[_hif’il_ tenses for regular shorushim]].
-- There are _hif’il_ forms for irregular shorushim which will be added at a later time.
+- There are [[_hif’il_ tenses for regular shorushim]]. (Conjugations for [[irregular shorushim]] are not yet available.)
 
 
 * _Hif’il_ tenses for regular shorushim:
@@ -853,78 +1142,73 @@ Verbs in the [[_hif’il_]] have conjugations in various “tenses”:
 | [[_Hif’il_ Imperative|Imperative <br> (of the _hif’il_)]] | [[_Hif’il_ Infinitive|Infinitive <br> (of the _hif’il_)]] | \^ |
 
 
+[Dikduk/Hebrew/Binyanim/Hif’il/Tenses/Active Participle]
+
+* _Hif’il_ Active Participle:
+The [[{{_hif’il_}} binyan]] has an [[{{active participle}} form]], which is one of the [[hif’il tenses|“tenses” of the _hif’il_ binyan]].
+- The _hif’il_ active participle has [[_Hif’il_ active participle for regular shorushim|conjugations for regular shorushim]]. (Conjugations for [[irregular shorushim]] are not yet available.)
+
+
+* _Hif’il_ Active Participle for Regular Shorushim:
+The [[{{_hif’il_ active participle}} form]] has the following conjugation pattern for [[regular shorushim]]:
+|            | *Masculine* | *Feminine* |
+| *Singular* | מַבְדִּיל <br><br> _mavdil_ <br><br><br> [he is] separating | מַבְדִּילָה <br><br> _mavdilau_ <br><br><br> [she is] separating |
+| *Plural*   | מַבְדִּילִים <br><br> _mavdilim_ <br><br><br> [those men are] separating | מַבְדִּילוֹת <br><br> _mavdilos_ <br><br><br> [those women are] separating |
+For any regular shoresh, you can replace the letters ‎ב, ‎ד, and ל above with the letters of your shoresh to produce the proper conjugations.
+
+
 [Dikduk/Hebrew/Binyanim/Hif’il/Tenses/Future]
 
 * _Hif’il_ Future Tense: The [[{{_hif’il_}} binyan]] has a [[future tense]], which is one of the [[hif’il tenses|“tenses” of the _hif’il_ binyan]].
-- The _hif’il_ future tense has [[_Hif’il_ Future Tense for regular shorushim|conjugations for regular shorushim]].
-- The _hif’il_ future tense has forms for irregular shorushim which will be added at a later time.
+- The _hif’il_ future tense has [[_Hif’il_ Future Tense for regular shorushim|conjugations for regular shorushim]]. (Conjugations for [[irregular shorushim]] are not yet available.)
 
 
 * _Hif’il_ Future Tense for regular shorushim:
 The [[_hif’il_ future tense]] follows these conjugations for [[regular shorushim]]:
 |                | *Singular*                           |\< | *Plural*                             |\<  |
-| *First-Person* | אַבְדִּיל<br>_avdil_<br><br><br>I will separate | \< | נַבְדִּיל<br>_navdil_<br><br><br>We will separate | \< |
-| *Second-Person* |תַּבְדִּיל <br>_tavdil_<br><br><br> You [male] will separate | תַּבְדִּילִי <br>_tavdili_<br><br><br> You [female] will separate  | תַּבְדִּילוּ <br>_tavdilu_<br><br><br> You [males] will separate  | תַּבְדֵּלְנָה <br>_tavdeilnau_<br><br><br> You [females] will separate  |
-| *Third-Person* |יַבְדִּיל <br>_yavdil_<br><br><br> He will separate | תַּבְדִּיל <br>_tavdil_<br><br><br> She will separate  | יַבְדִּילוּ <br>_yavdilu_<br><br><br> [Those males] will separate  | תַּבְדֵּלְנָה <br>_tavdeilnau_<br><br><br> [Those females] will separate  |
+| *First-Person* | אַבְדִּיל <br><br> _avdil_ <br><br><br> I will separate | \< | נַבְדִּיל <br><br> _navdil_ <br><br><br> We will separate | \< |
+| *Second-Person* |תַּבְדִּיל <br><br> _tavdil_ <br><br><br> You [male] will separate | תַּבְדִּילִי <br><br> _tavdili_ <br><br><br> You [female] will separate  | תַּבְדִּילוּ <br><br> _tavdilu_ <br><br><br> You [males] will separate  | תַּבְדֵּלְנָה <br><br> _tavdeilnau_ <br><br><br> You [females] will separate  |
+| *Third-Person* |יַבְדִּיל <br><br> _yavdil_ <br><br><br> He will separate | תַּבְדִּיל <br><br> _tavdil_ <br><br><br> She will separate  | יַבְדִּילוּ <br><br> _yavdilu_ <br><br><br> [Those males] will separate  | תַּבְדֵּלְנָה <br><br> _tavdeilnau_ <br><br><br> [Those females] will separate  |
 For any regular shoresh, you can replace the letters ‎ב, ‎ד, and ל above with the letters of your shoresh to produce the proper conjugations.
 
 
 [Dikduk/Hebrew/Binyanim/Hif’il/Tenses/Imperative]
 
 * _Hif’il_ Imperative: The _hif’il_ binyan has an [[{{imperative}} form]], which is one of the [[hif’il tenses|“tenses” of the _hif’il_ binyan]].
-- The _hif’il_ imperative form has [[{_hif’il_ imperative|conjugations} for regular shorushim]].
-- The _hif’il_ imperative form has conjugations for irregular shorushim which will be added at a later time.
+- The _hif’il_ imperative form has [[{_hif’il_ imperative|conjugations} for regular shorushim]] (Conjugations for [[irregular shorushim]] are not yet available.)
 
 
 * _Hif’il_ Imperative for regular shorushim:
 The [[{{_hif’il_ imperative}} form]] follows these conjugations for [[regular shorushim]]:
 |            | *Masculine* | *Feminine* |
-| *Singular* | הַבְדֵּל <br> _havdeil!_ <br> [to a man] separate! | הַבְדִּילִי <br> _havdili!_ <br> [to a woman] separate! |
-| *Plural*   | הַבְדִּילוּ <br> _havdilu!_ <br> [to men] separate! | הַבְדֵּלְנָה <br> _havdeilnau!_ <br> [to women] separate! |
+| *Singular* | הַבְדֵּל <br><br> _havdeil!_ <br><br><br> [to a man] separate! | הַבְדִּילִי <br><br> _havdili!_ <br><br><br> [to a woman] separate! |
+| *Plural*   | הַבְדִּילוּ <br><br> _havdilu!_ <br><br><br> [to men] separate! | הַבְדֵּלְנָה <br><br> _havdeilnau!_ <br><br><br> [to women] separate! |
 For any regular shoresh, you can replace the letters ‎ב, ‎ד, and ל above with the letters of your shoresh to produce the proper conjugation.
 
 
 [Dikduk/Hebrew/Binyanim/Hif’il/Tenses/Infinitive]
 
 * _Hif’il_ Infinitive: The _hif’il_ binyan has an [[{{infinitive}} form]], which is one of the [[hif’il tenses|“tenses” of the _hif’il_ binyan]].
-- There is a [[{{_Hif’il_ infinitive }} form {{for regular shorushim}}]].
-- There are _hif’il_ infinitive forms for irregular shorushim which will be added at a later time.
+- There is a [[{{_Hif’il_ infinitive }} form {{for regular shorushim}}]]. (Conjugations for [[irregular shorushim]] are not yet available.)
 
 
 * _Hif’il_ Infinitive for regular shorushim:
 The [[{{_hif’il_ infinitive}} form]] has the following conjugation pattern for [[regular shorushim]]:
-| לְהַבְדִּיל <br> _lehavdil_ <br> to separate |
-
-
-[Dikduk/Hebrew/Binyanim/Hif’il/Tenses/Participle]
-
-* _Hif’il_ Active Participle:
-The [[{{_hif’il_}} binyan]] has an [[{{active participle}} form]], which is one of the [[hif’il tenses|“tenses” of the _hif’il_ binyan]].
-- The _hif’il_ active participle has [[_Hif’il_ active participle for regular shorushim|conjugations for regular shorushim]].
-- The _hif’il_ active participle has conjugations for irregular shorushim which will be added at a later time.
-
-
-* _Hif’il_ Active Participle for Regular Shorushim:
-The [[{{_hif’il_ active participle}} form]] has the following conjugation pattern for [[regular shorushim]]:
-|            | *Masculine* | *Feminine* |
-| *Singular* | מַבְדִּיל <br> _mavdil_ <br> [he is] separating | מַבְדִּילָה <br> _mavdilau_ <br> [she is] separating |
-| *Plural*   | מַבְדִּילִים <br> _mavdilim_ <br> [those men are] separating | מַבְדִּילוֹת <br> _mavdilos_ <br> [those women are] separating |
-For any regular shoresh, you can replace the letters ‎ב, ‎ד, and ל above with the letters of your shoresh to produce the proper conjugations.
+| לְהַבְדִּיל <br><br> _lehavdil_ <br><br><br> to separate |
 
 
 [Dikduk/Hebrew/Binyanim/Hif’il/Tenses/Past]
 
 * _Hif’il_ Past Tense: The [[{{_hif’il_}} binyan]] has a [[past tense]], which is one of the [[hif’il tenses|“tenses” of the _hif’il_ binyan]].
-- The _hif’il_ past tense has [[_Hif’il_ Past Tense for regular shorushim|conjugations for regular shorushim]].
-- The _hif’il_ past tense has conjugations for irregular shorushim which will be added at a later time.
+- The _hif’il_ past tense has [[_Hif’il_ Past Tense for regular shorushim|conjugations for regular shorushim]]. (Conjugations for [[irregular shorushim]] are not yet available.)
 
 
 * _Hif’il_ Past Tense for regular shorushim:
 The [[_hif’il_ past tense]] follows these conjugations for [[regular shorushim]]:
 |                | *Singular* |\<                              | *Plural* |\< |
-| *First-Person* | הִבְדַּלְתִּי<br>_hivdalti_<br>I separated | \<       | הִבְדַּלְנוּ<br>_hivdalnu_<br>We seperated | \< |
-| *Second-Person* | הִבְדַּלְתָּ <br>_hivdaltau_<br> You [male] separated | הִבְדַּלְתְּ <br>_hivdalt_<br> You [female] separated  | הִבְדַּלְתֶּם <br>_hivdaltem_<br> You [males] separated  | הִבְדַּלְתֶּן <br>_hivdalten_<br> You [females] separated |
-| *Third-Person* | הִבְדִּיל <br>_hivdil_<br> He separated | הִבְדִּילָה <br>_hivdilau_<br> She separated  | הִבְדִּילוּ <br>_hivdilu_<br> They [male or female] separated  | \< |
+| *First-Person* | הִבְדַּלְתִּי <br><br> _hivdalti_ <br><br><br> I separated | \<       | הִבְדַּלְנוּ <br><br> _hivdalnu_ <br><br><br> We seperated | \< |
+| *Second-Person* | הִבְדַּלְתָּ <br><br> _hivdaltau_ <br><br><br> You [male] separated | הִבְדַּלְתְּ <br><br> _hivdalt_ <br><br><br> You [female] separated  | הִבְדַּלְתֶּם <br><br> _hivdaltem_ <br><br><br> You [males] separated  | הִבְדַּלְתֶּן <br><br> _hivdalten_ <br><br><br> You [females] separated |
+| *Third-Person* | הִבְדִּיל <br><br> _hivdil_ <br><br><br> He separated | הִבְדִּילָה <br><br> _hivdilau_ <br><br><br> She separated  | הִבְדִּילוּ <br><br> _hivdilu_ <br><br><br> They [male or female] separated  | \< |
 For any regular shoresh, you can replace the letters ‎ב, ‎ד, and ל above with the letters of your shoresh to produce the proper conjugations.
 
 
@@ -939,7 +1223,7 @@ Here is more information about the _hispa’el_ binyan:
 - Verbs in the _hispa’el_ have the property of being [[reflexive]].
 - The _hispa’el_ [[is one of the “heavy” binyanim due to its doubled middle letter]].
 - In Mishnaic Hebrew, the _hispa’el_ sometimes appears as the [[_nispa’el_]].
-- The _hispa’el_ is one of the Hebrew binyanim that may correspond to the [[_ispa’al_]] in Aramaic.
+- The _hispa’el_ may correspond to the [[ispe’el]], [[ispa’al]], or [[_itaf’al_]] in Aramaic.
 - The _hispa’el_ [[Hispa’el tenses|has various forms]].
 - The _hispa’el_ has [[_Hispa’el_ {tenses for different shoresh types}]].
 
@@ -957,8 +1241,7 @@ Is one of the “heavy” binyanim due to its doubled middle letter: Verbs in th
 
 * _Hispa’el_ tenses for different shoresh types:
 There are _hispa’el_ forms for different shoresh types:
-- There are [[_hispa’el_ tenses for regular shorushim]].
-- There are _hispa’el_ forms for irregular shorushim which will be added at a later time.
+- There are [[_hispa’el_ tenses for regular shorushim]]. (Conjugations for [[irregular shorushim]] are not yet available.)
 
 
 * _Hispa’el_ tenses for regular shorushim:
@@ -975,6 +1258,21 @@ Verbs in the [[_hispa’el_]] have conjugations in various “tenses”:
 | [[_Hispa’el_ Imperative|Imperative <br> (of the _hispa’el_)]] | [[_Hispa’el_ Infinitive|Infinitive <br> (of the _hispa’el_)]] | \^ |
 
 
+[Dikduk/Hebrew/Binyanim/Hispa’el/Tenses/Active Participle]
+
+* _Hispa’el_ Active Participle:
+The [[{{_hispa’el_}} binyan]] has an [[{{active participle}} form]], which is one of the [[_Hispa’el_ tenses|“tenses” of the _hispa’el_ binyan]].
+- The _hispa’el_ has [[_Hispa’el_ active participle for regular shorushim|conjugations for regular shorushim]]. (Conjugations for [[irregular shorushim]] are not yet available.)
+
+
+* _Hispa’el_ Active Participle for Regular Shorushim:
+The [[{{_hispa’el_ active participle}} form]] has the following conjugation pattern for [[regular shorushim]]:
+|            | *Masculine* | *Feminine* |
+| *Singular* | מְזַמֵּן <br><br> _mezamein_ <br><br><br> [he is] inviting | מְזַמֶּנֶת <br><br> _mezamenes_ <br><br><br> [she is] inviting |
+| *Plural*   | מְזַמְּנִים <br><br> _mezamnim_ <br><br><br> [those men are] inviting | מְזַמְּנוֹת <br><br> _mezamnos_ <br><br><br> [those women are] inviting |
+For any regular shoresh, you can replace the letters ‎ז, ‎מ, and ן above with the letters of your shoresh to produce the proper conjugations.
+
+
 [Dikduk/Hebrew/Binyanim/Hispa’el/Tenses/Future]
 
 * _Hispa’el_ Future Tense: The [[{{_hispa’el_}} binyan]] has a [[future tense]], which is one of the [[_Hispa’el_ tenses|“tenses” of the _hispa’el_ binyan]].
@@ -985,69 +1283,50 @@ Verbs in the [[_hispa’el_]] have conjugations in various “tenses”:
 * _Hispa’el_ Future Tense for regular shorushim:
 The [[_hispa’el_ future tense]] follows these conjugations for [[regular shorushim]]:
 || *Singular* |\<| *Plural* |\< |
-| *First-Person* | אֲזַמֵּן<br>_azamein_<br>I will invite | \< | נְזַמֵּן<br>_nezamein_<br>We will invite | \< |
-| *Second-Person* |תְּזַמֵּן <br>_tezamein_<br> You [male] will invite | תְּזַמְּנִי <br>_tezamni_<br> You [female] will invite  | תְּזַמְּנוּ <br>_tezamnu_<br> You [males] will invite  | תְּזַמֵּנָּה <br>_tezameinnau_<br> You [females] will invite  |
-| *Third-Person* |יְזַמֵּן <br>_yezamein_<br> He will invite | תְּזַמֵּן <br>_tezamein_<br> She will invite  | יְזַמְּנוּ <br>_yezamnu_<br> [Those males] will invite  | תְּזַמֵּנָּה <br>_tezameinnau_<br> [Those females] will invite  |
+| *First-Person* | אֲזַמֵּן <br><br> _azamein_ <br><br><br> I will invite | \< | נְזַמֵּן <br><br> _nezamein_ <br><br><br> We will invite | \< |
+| *Second-Person* |תְּזַמֵּן <br><br> _tezamein_ <br><br><br> You [male] will invite | תְּזַמְּנִי <br><br> _tezamni_ <br><br><br> You [female] will invite  | תְּזַמְּנוּ <br><br> _tezamnu_ <br><br><br> You [males] will invite  | תְּזַמֵּנָּה <br><br> _tezameinnau_ <br><br><br> You [females] will invite  |
+| *Third-Person* |יְזַמֵּן <br><br> _yezamein_ <br><br><br> He will invite | תְּזַמֵּן <br><br> _tezamein_ <br><br><br> She will invite  | יְזַמְּנוּ <br><br> _yezamnu_ <br><br><br> [Those males] will invite  | תְּזַמֵּנָּה <br><br> _tezameinnau_ <br><br><br> [Those females] will invite  |
 For any regular shoresh, you can replace the letters ‎ז, ‎מ, and ן above with the letters of your shoresh to produce the proper conjugations.
 
 
 [Dikduk/Hebrew/Binyanim/Hispa’el/Tenses/Imperative]
 
 * _Hispa’el_ Imperative: The _hispa’el_ binyan has an [[{{imperative}} form]], which is one of the [[_Hispa’el_ tenses|“tenses” of the _hispa’el_ binyan]].
-- The _Hispa’el_ imperative form has [[{_Hispa’el_ Imperative|conjugations} for regular shorushim]].
-- The _Hispa’el_ imperative form has conjugations for irregular shorushim which will be added at a later time.
+- The _Hispa’el_ imperative form has [[{_Hispa’el_ Imperative|conjugations} for regular shorushim]] (Conjugations for [[irregular shorushim]] are not yet available.)
 
 
 * _Hispa’el_ Imperative for regular shorushim:
 The [[{{_hispa’el_ imperative}} form]] follows these conjugations for [[regular shorushim]]:
 |            | *Masculine* | *Feminine* |
-| *Singular* | זַמֵּן <br> _zamein!_ <br> [to a man] invite! | זַמְּנִי <br> _zamni!_ <br> [to a woman] invite! |
-| *Plural*   | זַמְּנוּ <br> _zamnu!_ <br> [to men] invite! | זַמֵּנָּה <br> _zameinnau!_ <br> [to women] invite! |
+| *Singular* | זַמֵּן <br><br> _zamein!_ <br><br><br> [to a man] invite! | זַמְּנִי <br><br> _zamni!_ <br><br><br> [to a woman] invite! |
+| *Plural*   | זַמְּנוּ <br><br> _zamnu!_ <br><br><br> [to men] invite! | זַמֵּנָּה <br><br> _zameinnau!_ <br><br><br> [to women] invite! |
 For any regular shoresh, you can replace the letters ‎ז, ‎מ, and ן above with the letters of your shoresh to produce the proper conjugations.
 
 
 [Dikduk/Hebrew/Binyanim/Hispa’el/Tenses/Infinitive]
 
 * _Hispa’el_ Infinitive: The _hispa’el_ binyan has an [[{{infinitive}} form]], which is one of the [[_Hispa’el_ tenses|“tenses” of the _hispa’el_ binyan]].
-- There is a [[{{_hispa’el_ infinitive }} form {{for regular shorushim}}]].
-- There are _hispa’el_ infinitive forms for irregular shorushim which will be added at a later time.
+- There is a [[{{_hispa’el_ infinitive }} form {{for regular shorushim}}]]. (Conjugations for [[irregular shorushim]] are not yet available.)
 
 
 * _Hispa’el_ Infinitive for regular shorushim:
 The [[{{_hispa’el_ infinitive}} form]] has the following conjugation pattern for [[regular shorushim]]:
-| לְזַמֵּן <br> _lezamein_ <br> to invite |
+| לְזַמֵּן <br><br> _lezamein_ <br><br><br> to invite |
 For any regular shoresh, you can replace the letters ‎ז, ‎מ, and ן above with the letters of your shoresh to produce the proper conjugation.
-
-
-[Dikduk/Hebrew/Binyanim/Hispa’el/Tenses/Participle]
-
-* _Hispa’el_ Active Participle:
-The [[{{_hispa’el_}} binyan]] has an [[{{active participle}} form]], which is one of the [[_Hispa’el_ tenses|“tenses” of the _hispa’el_ binyan]].
-- The _hispa’el_ has [[_Hispa’el_ active participle for regular shorushim|conjugations for regular shorushim]].
-- The _hispa’el_ has conjugations for irregular shorushim which will be added at a later time.
-
-
-* _Hispa’el_ Active Participle for Regular Shorushim:
-The [[{{_hispa’el_ active participle}} form]] has the following conjugation pattern for [[regular shorushim]]:
-|            | *Masculine* | *Feminine* |
-| *Singular* | מְזַמֵּן <br> _mezamein_ <br> [he is] inviting | מְזַמֶּנֶת <br> _mezamenes_ <br> [she is] inviting |
-| *Plural*   | מְזַמְּנִים <br> _mezamnim_ <br> [those men are] inviting | מְזַמְּנוֹת <br> _mezamnos_ <br> [those women are] inviting |
-For any regular shoresh, you can replace the letters ‎ז, ‎מ, and ן above with the letters of your shoresh to produce the proper conjugations.
 
 
 [Dikduk/Hebrew/Binyanim/Hispa’el/Tenses/Past]
 
 * _Hispa’el_ Past Tense: The [[{{_hispa’el_}} binyan]] has a [[past tense]], which is one of the [[_Hispa’el_ tenses|“tenses” of the _hispa’el_ binyan]].
-- The _hispa’el_ past tense has [[_Hispa’el_ Past Tense for regular shorushim|conjugations for regular shorushim]].
-- The _hispa’el_ past tense has conjugations for irregular shorushim which will be added at a later time.
+- The _hispa’el_ past tense has [[_Hispa’el_ Past Tense for regular shorushim|conjugations for regular shorushim]]. (Conjugations for [[irregular shorushim]] are not yet available.)
 
 
 * _Hispa’el_ Past Tense for regular shorushim:
 The [[_hispa’el_ past tense]] follows these conjugations for [[regular shorushim]]:
 |                | *Singular* |\<                            | *Plural* |\< |
-| *First-Person* | זִמַּנְתִּי<br>_zimanti_<br>I invited | \< | זִמַּנּוּ<br>_zimannu_<br>We invited | \< |
-| *Second-Person* | זִמַּנְתָּ <br>_zimantau_<br> You [male] invited | זִמַּנְתְּ <br>_zimant_<br> You [female] invited  | זִמַּנְתֶּם <br>_zimantem_<br> You [males] invited  | זִמַּנְתֶּן <br>_zimanten_<br> You [females] invited  |
-| *Third-Person* | זִמֵּן <br>_zimein_<br> He invited | זִמְּנָה <br>_zimnau_<br> She invited  | זִמְּנוּ <br>_zimnu_<br> They [male or female] invited  | \< |
+| *First-Person* | זִמַּנְתִּי <br><br> _zimanti_ <br><br><br> I invited | \< | זִמַּנּוּ <br><br> _zimannu_ <br><br><br> We invited | \< |
+| *Second-Person* | זִמַּנְתָּ <br><br> _zimantau_ <br><br><br> You [male] invited | זִמַּנְתְּ <br><br> _zimant_ <br><br><br> You [female] invited  | זִמַּנְתֶּם <br><br> _zimantem_ <br><br><br> You [males] invited  | זִמַּנְתֶּן <br><br> _zimanten_ <br><br><br> You [females] invited  |
+| *Third-Person* | זִמֵּן <br><br> _zimein_ <br><br><br> He invited | זִמְּנָה <br><br> _zimnau_ <br><br><br> She invited  | זִמְּנוּ <br><br> _zimnu_ <br><br><br> They [male or female] invited  | \< |
 For any regular shoresh, you can replace the letters ‎ז, ‎מ, and ן above with the letters of your shoresh to produce the proper conjugations.
 
 
@@ -1068,13 +1347,12 @@ More information about the _Huf’al_:
 
 * _Huf’al_ tenses for different shoresh types:
 There are _huf’al_ forms for different shoresh types:
-- There are [[_huf’al_ tenses for regular shorushim]].
-- There are _huf’al_ forms for irregular shorushim which will be added at a later time.
+- There are [[_huf’al_ tenses for regular shorushim]]. (Conjugations for [[irregular shorushim]] are not yet available.)
 
 
 * _Huf’al_ tenses for regular shorushim:
 The _huf’al_ binyan has conjugations for regular shorushim, along with [[_huf’al_ tenses for different shoresh types|forms for other shoresh types]], in three forms:
-| [[_Huf’al_ Past Tense for regular shorushim|Past Tense <br>(for regular shorushim in the _huf’al)_]] | [[_Huf’al_ Future Tense for regular shorushim|Future Tense <br> (for regular shorushim in the _huf’al)_]] | [[_Huf’al_ Active Participle for regular shorushim|Active Participle <br> (for regular shorushim in the _huf’al)_]] |
+| [[_Huf’al_ Past Tense for regular shorushim|Past Tense <br> (for regular shorushim in the _huf’al)_]] | [[_Huf’al_ Future Tense for regular shorushim|Future Tense <br> (for regular shorushim in the _huf’al)_]] | [[_Huf’al_ Active Participle for regular shorushim|Active Participle <br> (for regular shorushim in the _huf’al)_]] |
 
 
 [Dikduk/Hebrew/Binyanim/Huf’al/Tenses]
@@ -1085,19 +1363,36 @@ Verbs in the [[_huf’al_]] have conjugations in various “tenses”:
 | \> | [[_Huf’al_ Infinitive|Infinitive <br> (of the _huf’al_)]] | \^ |
 
 
+[Dikduk/Hebrew/Binyanim/Huf’al/Tenses/Active Participle]
+
+* _Huf’al_ Active Participle:
+The [[{{_huf’al_}} binyan]] has an [[{{active participle}} form]], which is one of the [[huf’al tenses|“tenses” of the _huf’al_ binyan]].
+- The _huf’al_ active participle form has [[conjugations for the {{_huf’al_ active participle for regular shorushim}}]]. (Conjugations for [[irregular shorushim]] will be added at a later time.)
+- Even though the _nif’al_ has an [[active participle]], because the _nif’al_ is a [[{passive binyan}im]], the active participle still describes a [[{{passive}} action]] i.e. an action that is done to the subject.
+- The _huf’al_ active participle corresponds to the [_itaf’al_ active participle] of Aramaic.
+
+
+* _Huf’al_ Active Participle for Regular Shorushim:
+The [[{{_huf’al_ active participle}} form]] has the following conjugation pattern for [[regular shorushim]]:
+|            | *Masculine* | *Feminine* |
+| *Singular* | מֻבְדָּל <br><br> _muvdol_ <br><br><br> [he is] being separated | מֻבְדֶּלֶת <br><br> _muvdeles_ <br><br><br> [she is] being separated |
+| *Plural*   | מֻבְדָּלִים <br><br> _muvdolim_ <br><br><br> [those men are] being separated | מֻבְדָּלוֹת <br><br> _muvdolos_ <br><br><br> [those women are] being separated |
+For any regular shoresh, you can replace the letters ‎ב, ‎ד, and ל above with the letters of your shoresh to produce the proper conjugations.
+
+
 [Dikduk/Hebrew/Binyanim/Huf’al/Tenses/Future]
 
 * _Huf’al_ Future Tense: The [[{{_huf’al_}} binyan]] has a [[future tense]], which is one of the [[huf’al tenses|“tenses” of the _huf’al_ binyan]].
-- The _Huf’al_ future tense has [[_Huf’al_ Future Tense for regular shorushim|conjugations for regular shorushim]].
-- The _Huf’al_ future tense has conjugations for irregular shorushim which will be added at a later time.
+- The _Huf’al_ future tense has [[_Huf’al_ Future Tense for regular shorushim|conjugations for regular shorushim]]. (Conjugations for [[irregular shorushim]] are not yet available.)
+- The _huf’al_ future tense corresponds to the [_itaf’al_ future tense] of Aramaic.
 
 
 * _Huf’al_ Future Tense for regular shorushim:
 The [[_huf’al_ future tense]] follows these conjugations for [[regular shorushim]]:
 |                | *Singular*                           |\<  | *Plural*                               |\< |
-| *First-Person* | אֻבְדַּל<br>_uvdal_<br>I will be separated | \< | נֻבְדַּל<br>_nuvdal_<br>We will be separated | \< |
-| *Second-Person* |תֻּבְדַּל <br>_tuvdal_<br> You [male] will be separated | תֻּבְדְּלִי <br>_tuvdeli_<br> You [female] will be separated  | תֻּבְדְּלוּ <br>_tuvdelu_<br> You [males] will be separated  | תֻּבְדַּלְנָה <br>_tuvdalno_<br> You [females] will be separated  |
-| *Third-Person* |יֻבְדַּל <br>_yuvdal_<br> He will be separated | תֻּבְדַּל <br>_tuvdal_<br> She will be separated  | יֻבְדְּלוּ <br>_yuvdelu_<br> [Those males] will be separated  | תֻּבְדַּלְנָה <br>_tuvdalnau_<br> [Those females] will be separated  |
+| *First-Person* | אֻבְדַּל <br><br> _uvdal_ <br><br><br> I will be separated | \< | נֻבְדַּל <br><br> _nuvdal_ <br><br><br> We will be separated | \< |
+| *Second-Person* |תֻּבְדַּל <br><br> _tuvdal_ <br><br><br> You [male] will be separated | תֻּבְדְּלִי <br><br> _tuvdeli_ <br><br><br> You [female] will be separated  | תֻּבְדְּלוּ <br><br> _tuvdelu_ <br><br><br> You [males] will be separated  | תֻּבְדַּלְנָה <br><br> _tuvdalno_ <br><br><br> You [females] will be separated  |
+| *Third-Person* |יֻבְדַּל <br><br> _yuvdal_ <br><br><br> He will be separated | תֻּבְדַּל <br><br> _tuvdal_ <br><br><br> She will be separated  | יֻבְדְּלוּ <br><br> _yuvdelu_ <br><br><br> [Those males] will be separated  | תֻּבְדַּלְנָה <br><br> _tuvdalnau_ <br><br><br> [Those females] will be separated  |
 For any regular shoresh, you can replace the letters ‎ב, ‎ד, and ל above with the letters of your shoresh to produce the proper conjugations.
 
 
@@ -1107,35 +1402,19 @@ For any regular shoresh, you can replace the letters ‎ב, ‎ד, and ל above 
 - This is because _hufal_ and _hif’il_ verbs are usually the same action, just differing as to whether the action is being done to someone else, or to oneself, and so they would be the same in the [[infinitive]], which isn’t conjugated to reflect who is doing the action.
 
 
-[Dikduk/Hebrew/Binyanim/Huf’al/Tenses/Participle]
-
-* _Huf’al_ Active Participle:
-The [[{{_huf’al_}} binyan]] has an [[{{active participle}} form]], which is one of the [[huf’al tenses|“tenses” of the _huf’al_ binyan]].
-- The _huf’al_ active participle form has [[conjugations for the {{_huf’al_ active participle for regular shorushim}}]].
-- The _huf’al_ active participle has conjugations for irregular shorushim which will be added at a later time.
-
-
-* _Huf’al_ Active Participle for Regular Shorushim:
-The [[{{_huf’al_ active participle}} form]] has the following conjugation pattern for [[regular shorushim]]:
-|            | *Masculine* | *Feminine* |
-| *Singular* | מֻבְדָּל <br> _muvdol_ <br> [he is] being separated | מֻבְדֶּלֶת <br> _muvdeles_ <br> [she is] being separated |
-| *Plural*   | מֻבְדָּלִים <br> _muvdolim_ <br> [those men are] being separated | מֻבְדָּלוֹת <br> _muvdolos_ <br> [those women are] being separated |
-For any regular shoresh, you can replace the letters ‎ב, ‎ד, and ל above with the letters of your shoresh to produce the proper conjugations.
-
-
 [Dikduk/Hebrew/Binyanim/Huf’al/Tenses/Past]
 
 * _Huf’al_ Past Tense: The [[{{_huf’al_}} binyan]] has a [[past tense]], which is one of the [[huf’al tenses|“tenses” of the _huf’al_ binyan]].
-- The _Huf’al_ past tense has [[_Huf’al_ Past Tense for regular shorushim|conjugations for regular shorushim]].
-- The _Huf’al_ past tense has conjugations for irregular shorushim which will be added at a later time.
+- The _huf’al_ past tense has [[_Huf’al_ Past Tense for regular shorushim|conjugations for regular shorushim]]. (Conjugations for [[irregular shorushim]] are not yet available.)
+- The _huf’al_ past tense corresponds to the [_itaf’al_ past tense] of Aramaic.
 
 
 * _Huf’al_ Past Tense for regular shorushim:
 The [[_huf’al_ past tense]] follows these conjugations for [[regular shorushim]]:
 |                | *Singular* |\<                              | *Plural* |\< |
-| *First-Person* | הֻבְדַּלְתִּי<br>_huvdalti_<br>I was separated | \<       | הֻבְדַּלְנוּ<br>_huvdalnu_<br>We were seperated | \< |
-| *Second-Person* | הֻבְדַּלְתָּ <br>_huvdaltau_<br> You [male] were separated | הֻבְדַּלְתְּ <br>_huvdalt_<br> You [female] were separated  | הֻבְדַּלְתֶּם <br>_huvdaltem_<br> You [males] were separated  | הֻבְדַּלְתֶּן <br>_huvdalten_<br> You [females] were separated |
-| *Third-Person* | הֻבְדַּל <br>_huvdal_<br> He were separated | הֻבְדְּלָה <br>_huvdelau_<br> She were separated  | הֻבְדְּלוּ <br>_huvdelu_<br> They [male or female] were separated  | \< |
+| *First-Person* | הֻבְדַּלְתִּי <br><br> _huvdalti_ <br><br><br> I was separated | \<       | הֻבְדַּלְנוּ <br><br> _huvdalnu_ <br><br><br> We were seperated | \< |
+| *Second-Person* | הֻבְדַּלְתָּ <br><br> _huvdaltau_ <br><br><br> You [male] were separated | הֻבְדַּלְתְּ <br><br> _huvdalt_ <br><br><br> You [female] were separated  | הֻבְדַּלְתֶּם <br><br> _huvdaltem_ <br><br><br> You [males] were separated  | הֻבְדַּלְתֶּן <br><br> _huvdalten_ <br><br><br> You [females] were separated |
+| *Third-Person* | הֻבְדַּל <br><br> _huvdal_ <br><br><br> He were separated | הֻבְדְּלָה <br><br> _huvdelau_ <br><br><br> She were separated  | הֻבְדְּלוּ <br><br> _huvdelu_ <br><br><br> They [male or female] were separated  | \< |
 For any regular shoresh, you can replace the letters ‎ב, ‎ד, and ל above with the letters of your shoresh to produce the proper conjugations.
 
 
@@ -1156,8 +1435,7 @@ More information about the _nif’al_:
 
 * _Nif’al_ tenses for different shoresh types:
 There are _nif’al_ forms for different shoresh types:
-- There are [[_nif’al_ tenses for regular shorushim]].
-- There are _nif’al_ forms for irregular shorushim which will be added at a later time.
+- There are [[_nif’al_ tenses for regular shorushim]]. (Conjugations for [[irregular shorushim]] are not yet available.)
 
 
 * _Nif’al_ tenses for regular shorushim:
@@ -1174,20 +1452,35 @@ Verbs in the [[_nif’al_]] have various “tenses”:
 | [[_Nif’al_ Imperative|Imperative <br> (of the _Nif’al_)]] | [[_Nif’al_ Infinitive|Infinitive <br> (of the _Nif’al_)]] | \^ |
 
 
+[Dikduk/Hebrew/Binyanim/Nif’al/Tenses/Active Participle]
+
+* _Nif’al_ Active Participle:
+The _nif’al_ has an [[active participle]] which is one of the [[Nif’al tenses|forms of the nif’al binyan]].
+- The _nif’al_ has [[_nif’al_ active participle for regular shorushim|conjugations for regular shorushim]]. (Conjugations for [[irregular shorushim]] are not yet available.)
+- Even though the _nif’al_ has an [[active participle]], because the _nif’al_ is a [[{passive binyan}im]], the active participle still describes a [[{{passive}} action]] i.e. an action that is done to the subject.
+
+
+* _Nif’al_ Active Participle for Regular Shorushim:
+The [[{{_nif’al_ active participle}} form]] has the following conjugation pattern for [[regular shorushim]]:
+|            | *Masculine* | *Feminine* |
+| *Singular* | נִכְבָּשׁ <br><br> _nichbosh_ <br><br><br> [he is] being conquered | נִכְבֶּשֶׁת <br><br> _nichbeshes_ <br><br><br> [she is] being conquered |
+| *Plural*   | נִכְבָּשִׁים <br><br> _nichboshim_ <br><br><br> [those men are] being conquered | נִכְבָּשׁוֹת <br><br> _nichboshos_ <br><br><br> [those women are] being conquered |
+For any regular shoresh, you can replace the letters ‎כ, ‎ב, and ש above with the letters of your shoresh to produce the proper conjugations.
+
+
 [Dikduk/Hebrew/Binyanim/Nif’al/Tenses/Future]
 
 * _Nif’al_ Future Tense:
 The _nif’al_ has an [[future tense]] which is one of the [[Nif’al tenses|forms of the nif’al binyan]].
-- The _nif’al_ future tense has [[_nif’al_ Future Tense for regular shorushim|conjugations for regular shorushim]].
-- The _nif’al_ future tense has conjugations for irregular shorushim which will be added at a later time.
+- The _nif’al_ future tense has [[_nif’al_ Future Tense for regular shorushim|conjugations for regular shorushim]]. (Conjugations for [[irregular shorushim]] are not yet available.)
 
 
 * _Nif’al_ Future Tense for regular shorushim:
 The [[_nif’al_ future tense]] follows these conjugations for [[regular shorushim]]:
 || *Singular* |\<| *Plural* |\< |
-| *First-Person* | אֶכָּבֵשׁ<br>_ekoveish_<br>I will be conquered | \< | נִכָּבֵשׁ<br>_nikoveish_<br>We will be conquered | \< |
-| *Second-Person* | תִּכָּבֵשׁ <br>_tikoveish_<br> You [male] will be conquered | תִּכָּבְשִׁי <br>_tikovshi_<br> You [female] will be conquered  | תִּכָּבְשׁוּ <br>_tikovshu_<br> You [males] will be conquered  | תִּכָּבַשְׁנָה <br>_tikovashno_<br> You [females] will be conquered  |
-| *Third-Person* | יִכָּבֵשׁ <br>_yikoveish_<br> He will be conquered | תִּכָּבֵשׁ <br>_tikoveish_<br> She will be conquered  | יִכָּבְשׁוּ <br>_yikovshu_<br> [Those males] will be conquered  | תִּכָּבַשְׁנָה <br>_tikovashnau_<br> [Those females] will be conquered  |
+| *First-Person* | אֶכָּבֵשׁ <br><br> _ekoveish_ <br><br><br> I will be conquered | \< | נִכָּבֵשׁ <br><br> _nikoveish_ <br><br><br> We will be conquered | \< |
+| *Second-Person* | תִּכָּבֵשׁ <br><br> _tikoveish_ <br><br><br> You [male] will be conquered | תִּכָּבְשִׁי <br><br> _tikovshi_ <br><br><br> You [female] will be conquered  | תִּכָּבְשׁוּ <br><br> _tikovshu_ <br><br><br> You [males] will be conquered  | תִּכָּבַשְׁנָה <br><br> _tikovashno_ <br><br><br> You [females] will be conquered  |
+| *Third-Person* | יִכָּבֵשׁ <br><br> _yikoveish_ <br><br><br> He will be conquered | תִּכָּבֵשׁ <br><br> _tikoveish_ <br><br><br> She will be conquered  | יִכָּבְשׁוּ <br><br> _yikovshu_ <br><br><br> [Those males] will be conquered  | תִּכָּבַשְׁנָה <br><br> _tikovashnau_ <br><br><br> [Those females] will be conquered  |
 For any regular shoresh, you can replace the letters ‎כ, ‎ב, and ש above with the letters of your shoresh to produce the proper conjugations.
 
 
@@ -1195,15 +1488,14 @@ For any regular shoresh, you can replace the letters ‎כ, ‎ב, and ש above 
 
 * _Nif’al_ Imperative:
 The _nif’al_ has an [[{{imperative}} form]] which is one of the [[Nif’al tenses|forms of the nif’al binyan]].
-- The _nif’al_ imperative form has [[{_nif’al_ Imperative|conjugations} for regular shorushim]].
-- The _nif’al_ imperative form has conjugations for irregular shorushim which will be added at a later time.
+- The _nif’al_ imperative form has [[{_nif’al_ Imperative|conjugations} for regular shorushim]] (Conjugations for [[irregular shorushim]] are not yet available.)
 
 
 * _Nif’al_ Imperative for regular shorushim:
 The [[{{_nif’al_ imperative}} form]] follows these conjugations for [[regular shorushim]]:
 |            | *Masculine* | *Feminine* |
-| *Singular* | הִכָּבֵשׁ <br> _hikoveish!_ <br> [to a man] invite! | הִכָּבְשִׁי <br> _hikovshi!_ <br> [to a woman] invite! |
-| *Plural*   | הִכָּבְשׁוּ <br> _hikovshu!_ <br> [to men] invite! | הִכָּבַשְׁנָה <br> _hikovashnau!_ <br> [to women] invite! |
+| *Singular* | הִכָּבֵשׁ <br><br> _hikoveish!_ <br><br><br> [to a man] invite! | הִכָּבְשִׁי <br><br> _hikovshi!_ <br><br><br> [to a woman] invite! |
+| *Plural*   | הִכָּבְשׁוּ <br><br> _hikovshu!_ <br><br><br> [to men] invite! | הִכָּבַשְׁנָה <br><br> _hikovashnau!_ <br><br><br> [to women] invite! |
 For any regular shoresh, you can replace the letters ‎כ, ‎ב, and ש above with the letters of your shoresh to produce the proper conjugations.
 
 
@@ -1211,30 +1503,13 @@ For any regular shoresh, you can replace the letters ‎כ, ‎ב, and ש above 
 
 * _Nif’al_ Infinitive:
 The _nif’al_ has an [[{{infinitive}} form]] which is one of the [[Nif’al tenses|forms of the nif’al binyan]].
-- The _nif’al_ has [[{_nif’al_ infinitive|conjugations} for regular shorushim]].
-- The _nif’al_ has conjugations for irregular shorushim which will be added at a later time.
+- The _nif’al_ has [[{_nif’al_ infinitive|conjugations} for regular shorushim]]. (Conjugations for [[irregular shorushim]] are not yet available.)
 
 
 * _Nif’al_ Infinitive for regular shorushim:
 The [[{{_nif’al_ infinitive}} form]] has the following conjugation pattern for [[regular shorushim]]:
-| לְהִכָּבֵשׁ <br> _lehikoveish_ <br> to be conquered |
+| לְהִכָּבֵשׁ <br><br> _lehikoveish_ <br><br><br> to be conquered |
 For any regular shoresh, you can replace the letters ‎כ, ‎ב, and ש above with the letters of your shoresh to produce the proper conjugation.
-
-
-[Dikduk/Hebrew/Binyanim/Nif’al/Tenses/Participle]
-
-* _Nif’al_ Active Participle:
-The _nif’al_ has an [[active participle]] which is one of the [[Nif’al tenses|forms of the nif’al binyan]].
-- The _nif’al_ has [[_nif’al_ active participle for regular shorushim|conjugations for regular shorushim]].
-- The _nif’al_ has conjugations for irregular shorushim which will be added at a later time.
-
-
-* _Nif’al_ Active Participle for Regular Shorushim:
-The [[{{_nif’al_ active participle}} form]] has the following conjugation pattern for [[regular shorushim]]:
-|            | *Masculine* | *Feminine* |
-| *Singular* | נִכְבָּשׁ <br> _nichbosh_ <br> [he is] being conquered | נִכְבֶּשֶׁת <br> _nichbeshes_ <br> [she is] being conquered |
-| *Plural*   | נִכְבָּשִׁים <br> _nichboshim_ <br> [those men are] being conquered | נִכְבָּשׁוֹת <br> _nichboshos_ <br> [those women are] being conquered |
-For any regular shoresh, you can replace the letters ‎כ, ‎ב, and ש above with the letters of your shoresh to produce the proper conjugations.
 
 
 [Dikduk/Hebrew/Binyanim/Nif’al/Tenses/Past]
@@ -1246,9 +1521,9 @@ For any regular shoresh, you can replace the letters ‎כ, ‎ב, and ש above 
 * _Nif’al_ Past Tense for regular shorushim:
 The [[_nif’al_ past tense]] follows these conjugations for [[regular shorushim]]:
 |                | *Singular* |\<                            | *Plural* |\< |
-| *First-Person* | נִכְבַּשְׁתִּי<br>_nichbashti_<br>I was conquered | \< | נִכְבַּשְׁנוּ<br>_nichbashnu_<br>We were conquered | \< |
-| *Second-Person* | נִכְבַּשְׁתָּ <br>_nichbashtau_<br> You [male] were conquered | נִכְבַּשְׁתְּ <br>_nichbasht_<br> You [female] were conquered  | נִכְבַּשְׁתֶּם <br>_nichbashtem_<br> You [males] were conquered  | נִכְבַּשְׁתֶּן <br>_nichbashten_<br> You [females] were conquered  |
-| *Third-Person* | נִכְבַּשׁ <br>_nichbash_<br> He was conquered | נִכְבְּשָׁה <br>_nichbeshau_<br> She was conquered  | נִכְבְּשׁוּ <br>_nichbeshu_<br> They [male or female] were conquered  | \< |
+| *First-Person* | נִכְבַּשְׁתִּי <br><br> _nichbashti_ <br><br><br> I was conquered | \< | נִכְבַּשְׁנוּ <br><br> _nichbashnu_ <br><br><br> We were conquered | \< |
+| *Second-Person* | נִכְבַּשְׁתָּ <br><br> _nichbashtau_ <br><br><br> You [male] were conquered | נִכְבַּשְׁתְּ <br><br> _nichbasht_ <br><br><br> You [female] were conquered  | נִכְבַּשְׁתֶּם <br><br> _nichbashtem_ <br><br><br> You [males] were conquered  | נִכְבַּשְׁתֶּן <br><br> _nichbashten_ <br><br><br> You [females] were conquered  |
+| *Third-Person* | נִכְבַּשׁ <br><br> _nichbash_ <br><br><br> He was conquered | נִכְבְּשָׁה <br><br> _nichbeshau_ <br><br><br> She was conquered  | נִכְבְּשׁוּ <br><br> _nichbeshu_ <br><br><br> They [male or female] were conquered  | \< |
 For any regular shoresh, you can replace the letters ‎כ, ‎ב, and ש above with the letters of your shoresh to produce the proper conjugations.
 
 
@@ -1272,14 +1547,13 @@ Here is more information about the _pa’al_:
 
 * _Pa’al_ tenses for different shoresh types:
 There are _pa’al_ forms for different shoresh types:
-- There are [[_pa’al_ tenses for regular shorushim]].
-- There are _pa’al_ forms for irregular shorushim which will be added at a later time.
+- There are [[_pa’al_ tenses for regular shorushim]]. (Conjugations for [[irregular shorushim]] are not yet available.)
 
 
 * _Pa’al_ tenses for regular shorushim:
 The _pa’al_ binyan has conjugations for regular shorushim, along with [[_pa’al_ tenses for {different|other} shoresh types]], in five forms:
-| [[_pa’al_ Past Tense for regular shorushim|Past Tense <br>(for regular shorushim in the _pa’al)_]] | [[_pa’al_ Future Tense for regular shorushim|Future Tense <br>(for regular shorushim in the _pa’al)_]] | [[_pa’al_ Active Participle for regular shorushim|Active Participle <br>(for regular shorushim in the _pa’al)_]] |
-| [[_pa’al_ Imperative for regular shorushim|Imperative <br>(for regular shorushim in the _pa’al)_]] | [[_pa’al_ Infinitive for regular shorushim|Infinitive <br>(for regular shorushim in the _pa’al)_]] | \^ |
+| [[_pa’al_ Past Tense for regular shorushim|Past Tense <br> (for regular shorushim in the _pa’al)_]] | [[_pa’al_ Future Tense for regular shorushim|Future Tense <br> (for regular shorushim in the _pa’al)_]] | [[_pa’al_ Active Participle for regular shorushim|Active Participle <br> (for regular shorushim in the _pa’al)_]] |
+| [[_pa’al_ Imperative for regular shorushim|Imperative <br> (for regular shorushim in the _pa’al)_]] | [[_pa’al_ Infinitive for regular shorushim|Infinitive <br> (for regular shorushim in the _pa’al)_]] | \^ |
 
 
 [Dikduk/Hebrew/Binyanim/Pa’al/Tenses]
@@ -1294,6 +1568,7 @@ Verbs in the [[_pa’al_]] have various “tenses”:
 
 * _Pa’al_ Active Participle: The _pa’al_ has an [[{{active participle}} form]], which is one of the [[_Pa’al_ tenses|“tenses” of the _pa’al_ binyan]].
 - The _pa’al_ active participle describes an ongoing action, as opposed to the [[_pa’al{|’s}_ passive participle]].
+- The _ispe’el_ active participle corresponds to the [[_pe’al_ active participle]] of Aramaic.
 - There are different patterns of conjugation for the _pa’al_ participle:
 | [[Pa’al Active Participle for Regular Shorushim|Regular shorushim <br> (in the _pa’al_ active participle)]] | [[Pa’al Active Participle for shorushim ending with ח or ע|Shorushim ending with ח or ע <br> (in the _pa’al_ active participle)]] |
 | [[Pa’al Active Participle for shorushim with a middle ו|Shorushim with a middle ו <br> (in the _pa’al_ active participle)]] | [[_Pa’al_ active participle for stative verbs|Stative verbs <br> (in the _pa’al_ active participle)]] |
@@ -1302,8 +1577,8 @@ Verbs in the [[_pa’al_]] have various “tenses”:
 * _Pa’al_ Active Participle for Regular Shorushim:
 The [[_pa’al_ active participle]] has the following conjugation pattern for [[regular shorushim]]:
 |            | *Masculine* | *Feminine* |
-| *Singular* | כּוֹתֵב <br> _k*o*teiv_ <br> [he is] writing | כּוֹתֶבֶת <br> _k*o*seves_ <br> [she is] writing |
-| *Plural*   | כּוֹתְבִים <br> _k*o*svim_ <br> [those men are] writing | כּוֹתְבוֹת <br> _k*o*svos_ <br> [those women are] writing |
+| *Singular* | כּוֹתֵב <br><br> _k*o*teiv_ <br><br><br> [he is] writing | כּוֹתֶבֶת <br><br> _k*o*seves_ <br><br><br> [she is] writing |
+| *Plural*   | כּוֹתְבִים <br><br> _k*o*svim_ <br><br><br> [those men are] writing | כּוֹתְבוֹת <br><br> _k*o*svos_ <br><br><br> [those women are] writing |
 - The _pa’al_ participle for regular shorushim can usually be identified by the distinctive ו between the first and second root letters.
 - For any regular shoresh, you can replace the letters ‎כ, ‎ת, and ב above with the letters of your shoresh to produce the proper conjugations.
 
@@ -1311,8 +1586,8 @@ The [[_pa’al_ active participle]] has the following conjugation pattern for [[
 * _Pa’al_ Active Participle for shorushim ending with ח or ע:
 The [[_pa’al_ active participle]] has a special conjugation for shorushim ending with “gutteral” letters like ח or ע, such as פתח, “opening.”
 |            | *Masculine* | *Feminine* |
-| *Singular* | פּוֹתֵחַ <br> _posayach_ <br> [he is] opening | פּוֹתַחַת <br> _posachas_ <br> [she is] opening |
-| *Plural*   | פּוֹתְחִים <br> _poschim_ <br> [those men are] opening | פּוֹתְחוֹת <br> _poschos_ <br> [those women are] opening |
+| *Singular* | פּוֹתֵחַ <br><br> _posayach_ <br><br><br> [he is] opening | פּוֹתַחַת <br><br> _posachas_ <br><br><br> [she is] opening |
+| *Plural*   | פּוֹתְחִים <br><br> _poschim_ <br><br><br> [those men are] opening | פּוֹתְחוֹת <br><br> _poschos_ <br><br><br> [those women are] opening |
 - This conjugation exhibits a [[vowel shift for ח and ע]].
 - You can take any shoresh ending in ח or ע and replace the letters ‎פ, ‎ת, and ‎ח in the conjugations above with the three letters of your shoresh to produce the _pa’al_ active participle of the given shoresh, (unless the shoresh has additional irregular features.)
 
@@ -1320,16 +1595,16 @@ The [[_pa’al_ active participle]] has a special conjugation for shorushim endi
 * _Pa’al_ Active Participle for shorushim with a middle ו:
 The [[_pa’al_ active participle]] has a special conjugation for shorushim with a middle ו (also known as “two letter shorushim”) like רוץ (running):
 |            | *Masculine* | *Feminine* |
-| *Singular* | רָץ <br> _rautz_ <br> [he is] running | רָצָה <br> _rautzau_ <br> [she is] running |
-| *Plural*   | רָצִים <br> _rautzim_ <br> [those men are] running | רָצוֹת <br> _rautzos_ <br> [those women are] running |
+| *Singular* | רָץ <br><br> _rautz_ <br><br><br> [he is] running | רָצָה <br><br> _rautzau_ <br><br><br> [she is] running |
+| *Plural*   | רָצִים <br><br> _rautzim_ <br><br><br> [those men are] running | רָצוֹת <br><br> _rautzos_ <br><br><br> [those women are] running |
 You can take any shoresh with a weak middle litter and replace the letters ר and צ in the conjugations above with the first and last letters of your shoresh to produce the _pa’al_ active participle of the given shoresh, (unless the shoresh has additional irregular features.)
 
 
 * _Pa’al_ active participle for stative verbs:
 The [[_pa’al_ active participle]] has a special conjugation for [[stative verbs]].
 |            | *Masculine* | *Feminine* |
-| *Singular* | זָקֵן <br> _zaukein_ <br> [he is] old | זְקֵנָה <br> _z’keinau_ <br> [she is] old |
-| *Plural*   | זְקֵנִים <br> _z’keinim_ <br> [those men are] old | זְקֵנוֹת <br> _z’keinos_ <br> [those women are] old |
+| *Singular* | זָקֵן <br><br> _zaukein_ <br><br><br> [he is] old | זְקֵנָה <br><br> _z’keinau_ <br><br><br> [she is] old |
+| *Plural*   | זְקֵנִים <br><br> _z’keinim_ <br><br><br> [those men are] old | זְקֵנוֹת <br><br> _z’keinos_ <br><br><br> [those women are] old |
 - The stative _pa’al_ lacks the ordinary ו after the first shoresh letter, such as in כּוֹתֵב _kosev_ “writing.”
 - You can take any shoresh with a stative meaning in the _pa’al_ form and replace the letters ‎ז, ‎ק, and ‎ן in the conjugations above to produce the _pa’al_ active participle of the given shoresh, (unless the shoresh has additional irregular features.)
 
@@ -1337,60 +1612,60 @@ The [[_pa’al_ active participle]] has a special conjugation for [[stative verb
 [Dikduk/Hebrew/Binyanim/Pa’al/Tenses/Future]
 
 * _Pa’al_ Future Tense: The [[{{_pa’al_}} binyan]] has a [[future tense]], which is one of the [[_Pa’al_ tenses|forms of the _pa’al_ binyan.]]
-- The _pa’al_ future tense has [[_pa’al_ Future Tense for regular shorushim|conjugations for regular shorushim]].
-- The _pa’al_ future tense has conjugations for irregular shorushim which will be added at a later time.
+- The _pa’al_ future tense has [[_pa’al_ Future Tense for regular shorushim|conjugations for regular shorushim]]. (Conjugations for [[irregular shorushim]] are not yet available.)
+- The _pa’al_ future tense corresponds to the [[_pe’al_ future tense]] of Aramaic.
 
 
 * _Pa’al_ Future Tense for regular shorushim:
 The [[_pa’al_ future tense]] follows these conjugations for [[regular shorushim]]:
 || *Singular* |\<| *Plural* |\< |
-| *First-Person* | אֶכְתֹּב<br>_echtoiv_<br>I will write | \< | נִכְתֹּב<br>_nichtoiv_<br>We will write | \< |
-| *Second-Person* | תִּכְתֹּב <br>_tichtov_<br> You [male] will write | תִּכְתְּבִי <br>_tichtevi_<br> You [female] will write  | תִּכְתְּבוּ <br>_tichtevu_<br> You [males] will write  | תִּכְתֹּבְנָה <br>_tichtoivnau_<br> You [females] will write  |
-| *Third-Person* | יִכְתֹּב <br>_yichtoiv_<br> He will write | תִּכְתֹּב <br>_tichtov_<br> She will write  | יִכְתְּבוּ <br>_yichtevu_<br> [Those males] will write  | תִּכְתֹּבְנָה <br>_tichtoivnau_<br> [Those females] will write  |
+| *First-Person* | אֶכְתֹּב <br><br> _echtoiv_ <br><br><br> I will write | \< | נִכְתֹּב <br><br> _nichtoiv_ <br><br><br> We will write | \< |
+| *Second-Person* | תִּכְתֹּב <br><br> _tichtov_ <br><br><br> You [male] will write | תִּכְתְּבִי <br><br> _tichtevi_ <br><br><br> You [female] will write  | תִּכְתְּבוּ <br><br> _tichtevu_ <br><br><br> You [males] will write  | תִּכְתֹּבְנָה <br><br> _tichtoivnau_ <br><br><br> You [females] will write  |
+| *Third-Person* | יִכְתֹּב <br><br> _yichtoiv_ <br><br><br> He will write | תִּכְתֹּב <br><br> _tichtov_ <br><br><br> She will write  | יִכְתְּבוּ <br><br> _yichtevu_ <br><br><br> [Those males] will write  | תִּכְתֹּבְנָה <br><br> _tichtoivnau_ <br><br><br> [Those females] will write  |
 For any regular shoresh, you can replace the letters ‎כ, ‎ת, and ב above with the letters of your shoresh to produce the proper conjugations.
 
 
 [Dikduk/Hebrew/Binyanim/Pa’al/Tenses/Imperative]
 
 * _Pa’al_ Imperative: The _pa’al_ binyan has an [[{{imperative}} form]], which is one of the [[_Pa’al_ tenses|forms of the _pa’al_ binyan.]]
-- The _pa’al_ imperative form has [[{_pa’al_ Imperative|conjugations} for regular shorushim]].
-- The _pa’al_ imperative form has conjugations for irregular shorushim which will be added at a later time.
+- The _pa’al_ imperative form has [[{_pa’al_ Imperative|conjugations} for regular shorushim]] (Conjugations for [[irregular shorushim]] are not yet available.)
+- The _pa’al_ imperative corresponds to the [[_pe’al_ imperative]] of Aramaic.
 
 
 * _Pa’al_ Imperative for regular shorushim:
 The [[{{_pa’al_ imperative}} form]] follows these conjugations for [[regular shorushim]]:
 |            | *Masculine* | *Feminine* |
-| *Singular* | כְּתֹב <br> _ksov!_ <br> [to a man] write! | כִּתְבִי <br> _kisvi!_ <br> [to a woman] write! |
-| *Plural*   | כִּתְבוּ <br> _kisvu!_ <br> [to men] write! | כְּתֹבְנָה <br> _ksovnau!_ <br> [to women] write! |
+| *Singular* | כְּתֹב <br><br> _ksov!_ <br><br><br> [to a man] write! | כִּתְבִי <br><br> _kisvi!_ <br><br><br> [to a woman] write! |
+| *Plural*   | כִּתְבוּ <br><br> _kisvu!_ <br><br><br> [to men] write! | כְּתֹבְנָה <br><br> _ksovnau!_ <br><br><br> [to women] write! |
 For any regular shoresh, you can replace the letters ‎כ, ‎ת, and ב above with the letters of your shoresh to produce the proper conjugations.
 
 
 [Dikduk/Hebrew/Binyanim/Pa’al/Tenses/Infinitive]
 
 * _Pa’al_ Infinitive: The _pa’al_ binyan has an [[{{infinitive}} form]], which is one of the [[_Pa’al_ tenses|forms of the _pa’al_ binyan.]]
-- There is a [[{{_pa’al_ infinitive }} form {{for regular shorushim}}]].
-- There are _pa’al_ infinitive forms for irregular shorushim which will be added at a later time.
+- There is a [[{{_pa’al_ infinitive }} form {{for regular shorushim}}]]. (Conjugations for [[irregular shorushim]] are not yet available.)
+- The _pa’al_ imperative corresponds to the [[_pe’al_ imperative]] of Aramaic.
 
 
 * _Pa’al_ Infinitive for regular shorushim:
 The [[{{_pa’al_ infinitive}} form]] has the following conjugation pattern for [[regular shorushim]]:
-| לִכְתֹּב <br> _lichtov_ <br> to write |
+| לִכְתֹּב <br><br> _lichtov_ <br><br><br> to write |
 For any regular shoresh, you can replace the letters ‎כ, ‎ת, and ב above with the letters of your shoresh to produce the proper conjugations.
 
 
 [Dikduk/Hebrew/Binyanim/Pa’al/Tenses/Passive Participle]
 
 * _Pa’al_ Passive Participle: The _pa’al_ has a [[{{passive participle}} form]], which is one of the [[_Pa’al_ tenses|“tenses” of the _pa’al_ binyan]].
-- The _pa’al_ passive participle has [[_pa’al_ passive participle for regular shorushim|conjugations for regular shorushim]].
-- The _pa’al_ passive participle has conjugations for irregular shorushim which will be added at a later time.
+- The _pa’al_ passive participle has [[_pa’al_ passive participle for regular shorushim|conjugations for regular shorushim]]. (Conjugations for [[irregular shorushim]] are not yet available.)
 - The _pa’al_ passive participle describes the result of a finished action, as opposed to the [[_pa’al{|’s}_ active participle]].
+- The _pa’al_ passive participle corresponds to the [[_pe’al_ passive participle]] of Aramaic.
 
 
 * _Pa’al_ Passive Participle for Regular Shorushim:
 The [[_pa’al_ passive participle]] has the following conjugation pattern for [[regular shorushim]]:
 |            | *Masculine* | *Feminine* |
-| *Singular* | לָבוּשׁ <br> _lauvush_ <br> [he is] dressed | לְבוּשָׁה <br> _levushau_ <br> [she is] dressed |
-| *Plural*   | לְבוּשִׁים <br> _levushim_ <br> [those men are] dressed | לְבוּשׁוֹת <br> _levushos_ <br> [those women are] dressed |
+| *Singular* | לָבוּשׁ <br><br> _lauvush_ <br><br><br> [he is] dressed | לְבוּשָׁה <br><br> _levushau_ <br><br><br> [she is] dressed |
+| *Plural*   | לְבוּשִׁים <br><br> _levushim_ <br><br><br> [those men are] dressed | לְבוּשׁוֹת <br><br> _levushos_ <br><br><br> [those women are] dressed |
 The _pa’al_ passive participle for regular shorushim can usually be identified by the distinctive י between the second and third root letters.
 For any regular shoresh, you can replace the letters ‎ל, ‎ב, and ש above with the letters of your shoresh to produce the proper conjugations.
 
@@ -1398,16 +1673,16 @@ For any regular shoresh, you can replace the letters ‎ל, ‎ב, and ש above 
 [Dikduk/Hebrew/Binyanim/Pa’al/Tenses/Past]
 
 * _Pa’al_ Past Tense: The _pa’al_ binyan has an [[past tense]], which is one of the [[_Pa’al_ tenses|forms of the _pa’al_ binyan.]]
-- The _pa’al_ past tense has [[_pa’al_ Past Tense for regular shorushim|conjugations for regular shorushim]].
-- The _pa’al_ past tense has conjugations for irregular shorushim which will be added at a later time.
+- The _pa’al_ past tense has [[_pa’al_ Past Tense for regular shorushim|conjugations for regular shorushim]]. (Conjugations for [[irregular shorushim]] are not yet available.)
+- The _pa’al_ past tense corresponds to the [[_pe’al_ past tense]] of Aramaic.
 
 
 * _Pa’al_ Past Tense for regular shorushim:
 The [[_pa’al_ past tense]] follows these conjugations for [[regular shorushim]]:
 |                | *Singular* |\<                            | *Plural* |\< |
-| *First-Person* | כָּתַבְתִּי<br>_kosavti_<br>I wrote | \< | כָּתַבְנוּ<br>_kosavnu_<br>We wrote | \< |
-| *Second-Person* | כָּתַבְתָּ <br>_kosavto_<br> You [male] wrote | כָּתַבְתְּ <br>_kosavt_<br> You [female] wrote  | כְּתַבְתֶּם <br>_ksavtem_<br> You [males] wrote  | כְּתַבְתֶּן <br>_ksavten_<br> You [females] wrote  |
-| *Third-Person* | כָּתַב <br>_kausav_<br> He wrote | כָּתְבָה <br>_kausvau_<br> She wrote  | כָּתְבוּ <br>_kausvu_<br> They [male or female] wrote  | \< |
+| *First-Person* | כָּתַבְתִּי <br><br> _kosavti_ <br><br><br> I wrote | \< | כָּתַבְנוּ <br><br> _kosavnu_ <br><br><br> We wrote | \< |
+| *Second-Person* | כָּתַבְתָּ <br><br> _kosavto_ <br><br><br> You [male] wrote | כָּתַבְתְּ <br><br> _kosavt_ <br><br><br> You [female] wrote  | כְּתַבְתֶּם <br><br> _ksavtem_ <br><br><br> You [males] wrote  | כְּתַבְתֶּן <br><br> _ksavten_ <br><br><br> You [females] wrote  |
+| *Third-Person* | כָּתַב <br><br> _kausav_ <br><br><br> He wrote | כָּתְבָה <br><br> _kausvau_ <br><br><br> She wrote  | כָּתְבוּ <br><br> _kausvu_ <br><br><br> They [male or female] wrote  | \< |
 For any regular shoresh, you can replace the letters ‎כ, ‎ת, and ב above with the letters of your shoresh to produce the proper conjugations.
 
 
@@ -1434,8 +1709,7 @@ Is one of the “heavy” binyanim due to its doubled middle letter: Verbs in th
 
 * _Pi’el_ tenses for different shoresh types:
 There are _pi’el_ forms for different shoresh types:
-- There are [[_pi’el_ tenses for regular shorushim]].
-- There are _pi’el_ forms for irregular shorushim which will be added at a later time.
+- There are [[_pi’el_ tenses for regular shorushim]]. (Conjugations for [[irregular shorushim]] are not yet available.)
 
 
 * _Pi’el_ tenses for regular shorushim:
@@ -1452,79 +1726,80 @@ Verbs in the [[_pi’el_]] have conjugations in various “tenses”:
 | [[_Pi’el_ Imperative|Imperative <br> (of the _pi’el_)]] | [[_Pi’el_ Infinitive|Infinitive <br> (of the _pi’el_)]] | \^ |
 
 
+[Dikduk/Hebrew/Binyanim/Pi’el/Tenses/Active Participle]
+
+* _Pi’el_ Active Participle:
+The [[{{_pi’el_}} binyan]] has an [[{{active participle}} form]].
+- The _pi’el_ active participle has [[_pi’el_ active participle for regular shorushim|conjugations for regular shorushim]].
+- The _pi’el_ active participle has conjugations for irregular shorushim that will be added at a later time.
+- The _pi’el_ active participle corresponds to the [[_pa’el_ active participle]] of Aramaic.
+
+
+* _Pi’el_ Active Participle for Regular Shorushim:
+The [[{{_pi’el_ active participle}} form]] has the following conjugation pattern for [[regular shorushim]]:
+|            | *Masculine* | *Feminine* |
+| *Singular* | מְזַמֵּן <br><br> _mezamein_ <br><br><br> [he is] inviting | מְזַמֶּנֶת <br><br> _mezamenes_ <br><br><br> [she is] inviting |
+| *Plural*   | מְזַמְּנִים <br><br> _mezamnim_ <br><br><br> [those men are] inviting | מְזַמְּנוֹת <br><br> _mezamnos_ <br><br><br> [those women are] inviting |
+For any regular shoresh, you can replace the letters ‎ז, ‎מ, and ן above with the letters of your shoresh to produce the proper conjugations.
+
+
 [Dikduk/Hebrew/Binyanim/Pi’el/Tenses/Future]
 
 * _Pi’el_ Future Tense: The _pi’el_ binyan has a future tense.
-- The _pi’el_ future tense has [[_Pi’el_ Future Tense for regular shorushim|conjugations for regular shorushim]].
-- The _pi’el_ future tense has conjugations for irregular shorushim which will be added at a later time.
+- The _pi’el_ future tense has [[_Pi’el_ Future Tense for regular shorushim|conjugations for regular shorushim]]. (Conjugations for [[irregular shorushim]] are not yet available.)
+- The _pi’el_ future tense corresponds to the [[_pa’el_ future tense]] of Aramaic.
 
 
 * _Pi’el_ Future Tense for regular shorushim:
 The [[_pi’el_ future tense]] follows these conjugations for [[regular shorushim]]:
 || *Singular* |\<| *Plural* |\< |
-| *First-Person* | אֲזַמֵּן<br>_azamein_<br>I will invite | \< | נְזַמֵּן<br>_nezamein_<br>We will invite | \< |
-| *Second-Person* |תְּזַמֵּן <br>_tezamein_<br> You [male] will invite | תְּזַמְּנִי <br>_tezamni_<br> You [female] will invite  | תְּזַמְּנוּ <br>_tezamnu_<br> You [males] will invite  | תְּזַמֵּנָּה <br>_tezameinnau_<br> You [females] will invite  |
-| *Third-Person* |יְזַמֵּן <br>_yezamein_<br> He will invite | תְּזַמֵּן <br>_tezamein_<br> She will invite  | יְזַמְּנוּ <br>_yezamnu_<br> [Those males] will invite  | תְּזַמֵּנָּה <br>_tezameinnau_<br> [Those females] will invite  |
+| *First-Person* | אֲזַמֵּן <br><br> _azamein_ <br><br><br> I will invite | \< | נְזַמֵּן <br><br> _nezamein_ <br><br><br> We will invite | \< |
+| *Second-Person* |תְּזַמֵּן <br><br> _tezamein_ <br><br><br> You [male] will invite | תְּזַמְּנִי <br><br> _tezamni_ <br><br><br> You [female] will invite  | תְּזַמְּנוּ <br><br> _tezamnu_ <br><br><br> You [males] will invite  | תְּזַמֵּנָּה <br><br> _tezameinnau_ <br><br><br> You [females] will invite  |
+| *Third-Person* |יְזַמֵּן <br><br> _yezamein_ <br><br><br> He will invite | תְּזַמֵּן <br><br> _tezamein_ <br><br><br> She will invite  | יְזַמְּנוּ <br><br> _yezamnu_ <br><br><br> [Those males] will invite  | תְּזַמֵּנָּה <br><br> _tezameinnau_ <br><br><br> [Those females] will invite  |
 For any regular shoresh, you can replace the letters ‎ז, ‎מ, and ן above with the letters of your shoresh to produce the proper conjugations.
 
 
 [Dikduk/Hebrew/Binyanim/Pi’el/Tenses/Imperative]
 
 * _Pi’el_ Imperative: The _pi’el_ binyan has an imperative form.
-- The _pi’el_ imperative form has [[{_Pi’el_ Imperative|conjugations} for regular shorushim]].
-- The _pi’el_ imperative form has conjugations for irregular shorushim which will be added at a later time.
+- The _pi’el_ imperative form has [[{_Pi’el_ Imperative|conjugations} for regular shorushim]] (Conjugations for [[irregular shorushim]] are not yet available.)
+- The _pi’el_ imperative corresponds to the [[_pa’el_ imperative]] of Aramaic.
 
 
 * _Pi’el_ Imperative for regular shorushim:
 The [[{{_pi’el_ imperative}} form]] follows these conjugations for [[regular shorushim]]:
 |            | *Masculine* | *Feminine* |
-| *Singular* | זַמֵּן <br> _zamein!_ <br> [to a man] invite! | זַמְּנִי <br> _zamni!_ <br> [to a woman] invite! |
-| *Plural*   | זַמְּנוּ <br> _zamnu!_ <br> [to men] invite! | זַמֵּנָּה <br> _zameinnau!_ <br> [to women] invite! |
+| *Singular* | זַמֵּן <br><br> _zamein!_ <br><br><br> [to a man] invite! | זַמְּנִי <br><br> _zamni!_ <br><br><br> [to a woman] invite! |
+| *Plural*   | זַמְּנוּ <br><br> _zamnu!_ <br><br><br> [to men] invite! | זַמֵּנָּה <br><br> _zameinnau!_ <br><br><br> [to women] invite! |
 For any regular shoresh, you can replace the letters ‎ז, ‎מ, and ן above with the letters of your shoresh to produce the proper conjugations.
 
 
 [Dikduk/Hebrew/Binyanim/Pi’el/Tenses/Infinitive]
 
 * _Pi’el_ Infinitive: The _pi’el_ binyan has an infinitive form.
-- There is a [[{{_pi’el_ infinitive }} form {{for regular shorushim}}]].
-- There are _pi’el_ infinitive forms for irregular shorushim which will be added at a later time.
+- There is a [[{{_pi’el_ infinitive }} form {{for regular shorushim}}]]. (Conjugations for [[irregular shorushim]] are not yet available.)
+- The _pi’el_ infinitive corresponds to the [[_pa’el_ infinitive]] of Aramaic.
 
 
 * _Pi’el_ Infinitive for regular shorushim:
 The [[{{_pi’el_ infinitive}} form]] has the following conjugation pattern for [[regular shorushim]]:
-| לְזַמֵּן <br> _lezamein_ <br> to invite |
+| לְזַמֵּן <br><br> _lezamein_ <br><br><br> to invite |
 For any regular shoresh, you can replace the letters ‎ז, ‎מ, and ן above with the letters of your shoresh to produce the proper conjugation.
-
-
-[Dikduk/Hebrew/Binyanim/Pi’el/Tenses/Participle]
-
-* _Pi’el_ Active Participle:
-The [[{{_pi’el_}} binyan]] has an [[{{active participle}} form]].
-- The _pi’el_ active participle has [[_pi’el_ active participle for regular shorushim|conjugations for regular shorushim]].
-- The _pi’el_ active participle has conjugations for irregular shorushim that will be added at a later time.
-
-
-* _Pi’el_ Active Participle for Regular Shorushim:
-The [[{{_pi’el_ active participle}} form]] has the following conjugation pattern for [[regular shorushim]]:
-|            | *Masculine* | *Feminine* |
-| *Singular* | מְזַמֵּן <br> _mezamein_ <br> [he is] inviting | מְזַמֶּנֶת <br> _mezamenes_ <br> [she is] inviting |
-| *Plural*   | מְזַמְּנִים <br> _mezamnim_ <br> [those men are] inviting | מְזַמְּנוֹת <br> _mezamnos_ <br> [those women are] inviting |
-For any regular shoresh, you can replace the letters ‎ז, ‎מ, and ן above with the letters of your shoresh to produce the proper conjugations.
 
 
 [Dikduk/Hebrew/Binyanim/Pi’el/Tenses/Past]
 
 * _Pi’el_ Past Tense: The _pi’el binyan has a past tense.
-- The _pi’el_ past tense has [[_Pi’el_ Past Tense for regular shorushim|conjugations for regular shorushim]].
-- The _pi’el_ past tense has conjugations for irregular shorushim which will be added at a later time.
+- The _pi’el_ past tense has [[_Pi’el_ Past Tense for regular shorushim|conjugations for regular shorushim]]. (Conjugations for [[irregular shorushim]] are not yet available.)
+- The _pi’el_ past tense corresponds to the [[_pa’el_ past tense]] of Aramaic.
 
 
 * _Pi’el_ Past Tense for regular shorushim:
 The [[_pi’el_ past tense]] follows these conjugations for [[regular shorushim]]:
 |                | *Singular* |\<                            | *Plural* |\< |
-| *First-Person* | זִמַּנְתִּי<br>_zimanti_<br>I invited | \< | זִמַּנּוּ<br>_zimannu_<br>We invited | \< |
-| *Second-Person* | זִמַּנְתָּ <br>_zimantau_<br> You [male] invited | זִמַּנְתְּ <br>_zimant_<br> You [female] invited  | זִמַּנְתֶּם <br>_zimantem_<br> You [males] invited  | זִמַּנְתֶּן <br>_zimanten_<br> You [females] invited  |
-| *Third-Person* | זִמֵּן <br>_zimein_<br> He invited | זִמְּנָה <br>_zimnau_<br> She invited  | זִמְּנוּ <br>_zimnu_<br> They [male or female] invited  | \< |
+| *First-Person* | זִמַּנְתִּי <br><br> _zimanti_ <br><br><br> I invited | \< | זִמַּנּוּ <br><br> _zimannu_ <br><br><br> We invited | \< |
+| *Second-Person* | זִמַּנְתָּ <br><br> _zimantau_ <br><br><br> You [male] invited | זִמַּנְתְּ <br><br> _zimant_ <br><br><br> You [female] invited  | זִמַּנְתֶּם <br><br> _zimantem_ <br><br><br> You [males] invited  | זִמַּנְתֶּן <br><br> _zimanten_ <br><br><br> You [females] invited  |
+| *Third-Person* | זִמֵּן <br><br> _zimein_ <br><br><br> He invited | זִמְּנָה <br><br> _zimnau_ <br><br><br> She invited  | זִמְּנוּ <br><br> _zimnu_ <br><br><br> They [male or female] invited  | \< |
 For any regular shoresh, you can replace the letters ‎ז, ‎מ, and ן above with the letters of your shoresh to produce the proper conjugations.
 
 
@@ -1538,20 +1813,19 @@ More information about the _pu’al_:
 - Verbs in the _pu’al_ have the properties of being [[passive]] and [[intensive]].
 - The _pu’al_ [[pu’al tenses|has various verb forms]].
 - The _pu’al_ has [[_Pu’al_ {tenses for different shoresh types}]].
-- The _pu’al_ is one of the Hebrew binyanim that may correspond to the [[_ispa’al_]] in Aramaic.
+- The _pu’al_ corresponds to the [[_ispa’al_]] in Aramaic.
 
 
 [Dikduk/Hebrew/Binyanim/Pu’al/Shoresh Types]
 
 * _Pu’al_ tenses for different shoresh types:
 There are _pu’al_ forms for different shoresh types:
-- There are [[_pu’al_ tenses for regular shorushim]].
-- There are _pu’al_ forms for irregular shorushim which will be added at a later time.
+- There are [[_pu’al_ tenses for regular shorushim]]. (Conjugations for [[irregular shorushim]] are not yet available.)
 
 
 * _Pu’al_ tenses for regular shorushim:
 The _pu’al_ binyan has conjugations for regular shorushim, along with [[_pu’al_ tenses for {different|other} shoresh types]], in three forms:
-| [[_pu’al_ Past Tense for regular shorushim|Past Tense <br>(for regular shorushim in the _pu’al)_]] | [[_pu’al_ Future Tense for regular shorushim|Future Tense <br> (for regular shorushim in the _pu’al)_]] | [[_pu’al_ Active Participle for regular shorushim|Active Participle <br> (for regular shorushim in the _pu’al)_]] |
+| [[_pu’al_ Past Tense for regular shorushim|Past Tense <br> (for regular shorushim in the _pu’al)_]] | [[_pu’al_ Future Tense for regular shorushim|Future Tense <br> (for regular shorushim in the _pu’al)_]] | [[_pu’al_ Active Participle for regular shorushim|Active Participle <br> (for regular shorushim in the _pu’al)_]] |
 
 
 [Dikduk/Hebrew/Binyanim/Pu’al/Tenses]
@@ -1562,19 +1836,36 @@ Verbs in the [[_pu’al_]] have conjugations in various “tenses”:
 | \> | [[_Pu’al_ Infinitive|Infinitive <br> (of the _pu’al_)]] | \^ |
 
 
+[Dikduk/Hebrew/Binyanim/Pu’al/Tenses/Active Participle]
+
+* _Pu’al_ Active Participle:
+The [[{{_pu’al_}} binyan]] has an [[{{active participle}} form]].
+- The _pu’al_ has [[_pu’al_ active participle for regular shorushim|conjugations for regular shorushim]]. (Conjugations for [[irregular shorushim]] are not yet available.)
+- Even though the _nif’al_ has an [[active participle]], because the _nif’al_ is a [[{passive binyan}im]], the active participle still describes a [[{{passive}} action]] i.e. an action that is done to the subject.
+- The _pu’al_ active participle corresponds to the [_ispa’al_ active participle] of Aramaic.
+
+
+* _Pu’al_ Active Participle for Regular Shorushim:
+The [[{{_pu’al_ active participle}} form]] has the following conjugation pattern for [[regular shorushim]]:
+|            | *Masculine* | *Feminine* |
+| *Singular* | מְזֻמָּן <br><br> _mezumon_ <br><br><br> [he is] being invited | מְזֻמֶּנֶת <br><br> _mezumenes_ <br><br><br> [she is] being invited |
+| *Plural*   | מְזֻמָּנִים <br><br> _mezumonim_ <br><br><br> [those men are] being invited | מְזֻמָּנוֹת <br><br> _mezumonois_ <br><br><br> [those women are] being invited |
+For any regular shoresh, you can replace the letters ‎ז, ‎מ, and ן above with the letters of your shoresh to produce the proper conjugations.
+
+
 [Dikduk/Hebrew/Binyanim/Pu’al/Tenses/Future]
 
 * _Pu’al_ Future Tense: The _pu’al_ binyan has a future tense.
-- The _pu’al_ future tense has [[_pu’al_ Future Tense for regular shorushim|conjugations for regular shorushim]].
-- The _pu’al_ future tense has conjugations for irregular shorushim which will be added at a later time.
+- The _pu’al_ future tense has [[_pu’al_ Future Tense for regular shorushim|conjugations for regular shorushim]]. (Conjugations for [[irregular shorushim]] are not yet available.)
+- The _pu’al_ future tense corresponds to the [_ispa’al_ future tense] of Aramaic.
 
 
 * _Pu’al_ Future Tense for regular shorushim:
 The [[_pu’al_ future tense]] follows these conjugations for [[regular shorushim]]:
 |                | *Singular*                           |\<  | *Plural*                               |\< |
-| *First-Person* | אֲזֻמַּן<br>_azuman_<br>I will be invited | \< | נְזֻמַּן<br>_nezuman_<br>We will be invited | \< |
-| *Second-Person* |תְּזֻמַּן <br>_tezuman_<br> You [male] will be invited | תְּזֻמְּנִי <br>_tezumni_<br> You [female] will be invited  | תְּזֻמְּנוּ <br>_tezumnu_<br> You [males] will be invited  | תְּזֻמַּנָּה <br>_tezumannau_<br> You [females] will be invited  |
-| *Third-Person* |יְזֻמַּן <br>_yezuman_<br> He will be invited | תְּזֻמַּן <br>_tezuman_<br> She will be invited  | יְזֻמְּנוּ <br>_yezumnu_<br> [Those males] will be invited  | תְּזֻמַּנָּה <br>_tezumannau_<br> [Those females] will be invited  |
+| *First-Person* | אֲזֻמַּן <br><br> _azuman_ <br><br><br> I will be invited | \< | נְזֻמַּן <br><br> _nezuman_ <br><br><br> We will be invited | \< |
+| *Second-Person* |תְּזֻמַּן <br><br> _tezuman_ <br><br><br> You [male] will be invited | תְּזֻמְּנִי <br><br> _tezumni_ <br><br><br> You [female] will be invited  | תְּזֻמְּנוּ <br><br> _tezumnu_ <br><br><br> You [males] will be invited  | תְּזֻמַּנָּה <br><br> _tezumannau_ <br><br><br> You [females] will be invited  |
+| *Third-Person* |יְזֻמַּן <br><br> _yezuman_ <br><br><br> He will be invited | תְּזֻמַּן <br><br> _tezuman_ <br><br><br> She will be invited  | יְזֻמְּנוּ <br><br> _yezumnu_ <br><br><br> [Those males] will be invited  | תְּזֻמַּנָּה <br><br> _tezumannau_ <br><br><br> [Those females] will be invited  |
 For any regular shoresh, you can replace the letters ‎ז, ‎מ, and ן above with the letters of your shoresh to produce the proper conjugations.
 
 
@@ -1584,35 +1875,19 @@ For any regular shoresh, you can replace the letters ‎ז, ‎מ, and ן above 
 - This is because _hufal_ and _hif’il_ verbs are usually the same action, just differing as to whether the action is being done to someone else, or to oneself, and so they would be the same in the [[infinitive]], which isn’t conjugated to reflect who is doing the action.
 
 
-[Dikduk/Hebrew/Binyanim/Pu’al/Tenses/Participle]
-
-* _Pu’al_ Active Participle:
-The [[{{_pu’al_}} binyan]] has an [[{{active participle}} form]].
-- The _pu’al_ has [[_pu’al_ active participle for regular shorushim|conjugations for regular shorushim]].
-- The _pu’al_ has conjugations for irregular shorushim which will be added at a later time.
-
-
-* _Pu’al_ Active Participle for Regular Shorushim:
-The [[{{_pu’al_ active participle}} form]] has the following conjugation pattern for [[regular shorushim]]:
-|            | *Masculine* | *Feminine* |
-| *Singular* | מְזֻמָּן <br> _mezumon_ <br> [he is] being invited | מְזֻמֶּנֶת <br> _mezumenes_ <br> [she is] being invited |
-| *Plural*   | מְזֻמָּנִים <br> _mezumonim_ <br> [those men are] being invited | מְזֻמָּנוֹת <br> _mezumonois_ <br> [those women are] being invited |
-For any regular shoresh, you can replace the letters ‎ז, ‎מ, and ן above with the letters of your shoresh to produce the proper conjugations.
-
-
 [Dikduk/Hebrew/Binyanim/Pu’al/Tenses/Past]
 
 * _Pu’al_ Past Tense: The _pu’al binyan has a past tense.
-- The _pu’al_ past tense has [[_Pu’al_ Past Tense for regular shorushim|conjugations for regular shorushim]].
-- The _pu’al_ past tense has conjugations for irregular shorushim which will be added at a later time.
+- The _pu’al_ past tense has [[_Pu’al_ Past Tense for regular shorushim|conjugations for regular shorushim]]. (Conjugations for [[irregular shorushim]] are not yet available.)
+- The _pu’al_ past tense corresponds to the [_ispa’al_ past tense] of Aramaic.
 
 
 * _Pu’al_ Past Tense for regular shorushim:
 The [[_pu’al_ past tense]] follows these conjugations for [[regular shorushim]]:
 |                | *Singular* |\<                              | *Plural* |\< |
-| *First-Person* | זֻמַּנְתִּי<br>_zumanti_<br>I was invited | \<       | זֻמַּנּוּ<br>_zumannu_<br>We were invited | \< |
-| *Second-Person* | זֻמַּנְתָּ <br>_zumanto_<br> You [male] were invited | זֻמַּנְתְּ <br>_zumant_<br> You [female] were invited  | זֻמַּנְתֶּם <br>_zumantem_<br> You [males] were invited  | זֻמַּנְתֶּן <br>_zumanten_<br> You [females] were invited |
-| *Third-Person* | זֻמַּן <br>_zuman_<br> He was invited | זֻמְּנָה <br>_zumno_<br> She was invited  | זֻמְּנוּ <br>_zumnu_<br> They [male or female] were invited  | \< |
+| *First-Person* | זֻמַּנְתִּי <br><br> _zumanti_ <br><br><br> I was invited | \<       | זֻמַּנּוּ <br><br> _zumannu_ <br><br><br> We were invited | \< |
+| *Second-Person* | זֻמַּנְתָּ <br><br> _zumanto_ <br><br><br> You [male] were invited | זֻמַּנְתְּ <br><br> _zumant_ <br><br><br> You [female] were invited  | זֻמַּנְתֶּם <br><br> _zumantem_ <br><br><br> You [males] were invited  | זֻמַּנְתֶּן <br><br> _zumanten_ <br><br><br> You [females] were invited |
+| *Third-Person* | זֻמַּן <br><br> _zuman_ <br><br><br> He was invited | זֻמְּנָה <br><br> _zumno_ <br><br><br> She was invited  | זֻמְּנוּ <br><br> _zumnu_ <br><br><br> They [male or female] were invited  | \< |
 For any regular shoresh, you can replace the letters ‎ז, ‎מ, and ן above with the letters of your shoresh to produce the proper conjugations.
 
 
@@ -2093,13 +2368,8 @@ Summary: This will be a summary of the entire perek that will allow users to jum
 
 [Lashonos/Binyanim/Aramaic]
 
-* Af’el: The _af’il_ (אַפְעֵל) is one of the [[Aramaic binyanim]]. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
-- Verbs in the _af’il_ have the properties of being [[active]] and [[causative]].
-- The _af’il_ corresponds to the [[_hif’il_]] in Hebrew.
-
-
 * Aramaic binyanim: There six binyanim in Aramaic. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
-| *Aramaic*  | [[Simple]] | [[Intensive]] | [[Causative]] |
+| *Aramaic* | [[Simple]] | [[Intensive]] | [[Causative]] |
 | [[Active]]  | [[_Pe’al_]] | [[_Pa’el_]] | [[_Af’el_]] |
 | [[Passive]] / [[Reflexive]] | [[_Ispe’el_]] | [[_Ispa’al_]] | [[_Itaf’al_]] |
 The binyanim of Aramaic mostly align with the [[Hebrew binyanim]].
@@ -2109,8 +2379,7 @@ The binyanim of Aramaic mostly align with the [[Hebrew binyanim]].
 - Verbs in the _ispa’al_ can be [[reflexive]], or [[passive]] and [[intensive]].
 - The _ispa’al_ can correspond to either the [[pu’al]] and to the [[_hispa’el_]] in Hebrew.
 
-
-* Ispe’el: The _ispe’el_ (אִתְפְּעֵל) is one of the [[Aramaic binyanim]]. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
+- Ispe’el: The _ispe’el_ (אִתְפְּעֵל) is one of the [[Aramaic binyanim]]. ([[{{Binyan}} is a special concept in Hebrew and Aramaic grammar]].)
 - Verbs in the _ispe’el_ have the properties of being [[active]] and [[causative]].
 - The _ispe’el_ corresponds to the [[_hispa’el_]] in Hebrew, and specifically is the [[reflexive]] version of a [[_pa’el_]] verb.
 
@@ -2266,18 +2535,18 @@ The noun patterns that come from [[_pi’el_]] verbs include:
 There is a standard difference between nouns in [[the _hektel_ noun pattern]] and [[the _haktala_ noun pattern]]:
 | *_Shoresh_* | *_Hif’il_ verb* | *_Hektel_ noun* | *_Haktala_ noun* |
 |-|-|-|-|
-| בדל<br> seperation | הִבְדִיל<br> _hivdil_ <br> he seperated | הֶבְדֵּל<br> _hevdel_ <br> a difference / seperation | הַבְדָּלָה<br> _havdalah_ <br>an act of seperation |
-| קדש<br> holiness | הִקְדִּישׁ<br> _hikdish_ <br> he donated to the temple | הֶקְדֵּשׁ <br> _hekdesh_ <br> property of the temple |  הַקְדָּשָׁה<br> _hakdasha_ <br> an act of donation<br> to the temple |
-| קשר<br> connection | הִקְשִׁיר<br> _hikshir_ <br> he connected | הֶקְשֵׁר<br> _heksher_ <br> a connection | הַקְשָׁרָה<br> _hakshara_ <br> an act of connecting |
+| בדל <br> seperation | הִבְדִיל <br><br> _hivdil_ <br><br><br> he seperated | הֶבְדֵּל <br><br> _hevdel_ <br><br><br> a difference / seperation | הַבְדָּלָה <br><br> _havdalah_ <br><br><br> an act of seperation |
+| קדש <br> holiness | הִקְדִּישׁ <br><br> _hikdish_ <br><br><br> he donated to the temple | הֶקְדֵּשׁ <br><br> _hekdesh_ <br><br><br> property of the temple |  הַקְדָּשָׁה <br><br> _hakdasha_ <br><br><br> an act of donation <br> to the temple |
+| קשר <br> connection | הִקְשִׁיר <br><br> _hikshir_ <br><br><br> he connected | הֶקְשֵׁר <br><br> _heksher_ <br><br><br> a connection | הַקְשָׁרָה <br><br> _hakshara_ <br><br><br> an act of connecting |
 As you can see, the _hif’il_ verb represents an action, the _haktala_ noun represents an instance of that action, and the _hektel_ noun will represent the _result_ of that action. Not every _hif’il_ verb however will have both a _hektel_ and a _haktala_ form. For a full list of _hektel-haktala_ word pairs, see [Klein on _havdalah_](https://www.sefaria.org/Klein_Dictionary%2C_%D7%94%D6%B7%D7%91%D6%B0%D7%93%D6%B8%D6%BC%D7%9C%D6%B8%D7%94.1).
 
 
 * The _haktala_ noun pattern: The _haktala_ noun pattern is one of the [[hebrew noun patterns]] and produces words such as:
 | *Shoresh* | *_Hif’il_ verb* | *_Haktala_ Noun* |
 |-|-|-|
-| דבל <br> seperation | הִדְבִּיל<br> _hivdil_ <br> he seperated | הַבְדָּלָה <br> _havdalah_ <br> an act of seperation |
-| קדש<br> holiness | הִקְדִּישׁ<br> _hikdish_ <br> he donated to temple | הַקְדָּשָׁה<br> _hakdasha_ <br> an act of donation to temple |
-| דבל <br> seperation | הִזְמִין<br> _hizmin_ <br> he invited | הַזְמָנָה <br> _hazmana_ <br> an invitation |
+| דבל <br> seperation | הִדְבִּיל <br><br> _hivdil_ <br><br><br> he seperated | הַבְדָּלָה <br><br> _havdalah_ <br><br><br> an act of seperation |
+| קדש <br> holiness | הִקְדִּישׁ <br><br> _hikdish_ <br><br><br> he donated to temple | הַקְדָּשָׁה <br><br> _hakdasha_ <br><br><br> an act of donation to temple |
+| דבל <br> seperation | הִזְמִין <br><br> _hizmin_ <br><br><br> he invited | הַזְמָנָה <br><br> _hazmana_ <br><br><br> an invitation |
 [[Nouns in the _haktala_ noun pattern come from _hif’il_ verbs]]. More examples of words in the _haktala_ noun pattern [can be found on Pealim](https://www.pealim.com/dict/?pos=noun&num-radicals=all&nm=haqtala).
 
 Nouns in the _haktala_ noun pattern come from _hif’il_ verbs: The _haktala_ noun pattern is one the [[noun patterns that come from hif’il verbs]], and there is a [[relationship between nouns in the _hektel_ noun pattern and the _haktala_ noun pattern]].
@@ -2286,9 +2555,9 @@ Nouns in the _haktala_ noun pattern come from _hif’il_ verbs: The _haktala_ no
 * The _hektel_ noun pattern: The _hektel_ noun pattern is one of the [[hebrew noun patterns]] and produces words such as:
 | *Shoresh* | *_Hif’il_ verb* | *_Hektel_ Noun* |
 |-|-|-|
-| דבל <br> seperation | הִדְבִּיל<br> _hivdil_ <br> he seperated | הֶבְדֵּל <br> _hevdel_ <br> a seperation/difference |
-| כשׁר <br> acceptable | הִכְשִׁיר<br> _hichshir_ <br> he certified | הֶכְשֵׁר <br> _hechsher_ <br> a certification |
-| ספד <br> lamentation | הִסְפִּיד<br> _hispid_ <br> he eulogized | הֶפְסֵד <br> _hesped_ <br> a eulogy |
+| דבל <br> seperation | הִדְבִּיל <br><br> _hivdil_ <br><br><br> he seperated | הֶבְדֵּל <br><br> _hevdel_ <br><br><br> a seperation/difference |
+| כשׁר <br> acceptable | הִכְשִׁיר <br><br> _hichshir_ <br><br><br> he certified | הֶכְשֵׁר <br><br> _hechsher_ <br><br><br> a certification |
+| ספד <br> lamentation | הִסְפִּיד <br><br> _hispid_ <br><br><br> he eulogized | הֶפְסֵד <br><br> _hesped_ <br><br><br> a eulogy |
 [[Nouns in the _hektel_ noun pattern come from _hif’il_ verbs]]. More examples of words in the _hektel_ noun pattern [can be found on Pealim](https://www.pealim.com/dict/?pos=noun&num-radicals=all&nm=heqtel).
 
 Nouns in the _hektel_ noun pattern come from _hif’il_ verbs: The _haktala_ noun pattern is one the [[noun patterns that come from hif’il verbs]], and there is a [[relationship between nouns in the _hektel_ noun pattern and the _haktala_ noun pattern]].
@@ -2297,43 +2566,43 @@ Nouns in the _hektel_ noun pattern come from _hif’il_ verbs: The _haktala_ nou
 * The _hiskattlut_ noun pattern: The _hiskattlut_ noun pattern is one of the [[hebrew noun patterns]] and produces words such as:
 | *Shoresh* | *_Hisp’ael_ verb* | *_Hiskattlut_ noun* |
 |-|-|-|
-| בדד <br> isolation | הִתְבּוֹדֵד <br> _hisboideid_ <br> he secluded | הִתְבּוֹדְדוּת <br> _hisboidedus_ <br> seclusion |
-| חבר <br> connection | הִתְחַבֵּר <br> _hisboideid_ <br> he joined | הִתְבּוֹדְדוּת <br> _hisboidedus_ <br> seclusion |
-| ערר <br> excite | הִתְעָרֵר <br> _his’oreir_ <br> he excited | הִתעוֹרְרוּת <br> _hisoirerus_ <br> excitement |
+| בדד <br> isolation | הִתְבּוֹדֵד <br><br> _hisboideid_ <br><br><br> he secluded | הִתְבּוֹדְדוּת <br><br> _hisboidedus_ <br><br><br> seclusion |
+| חבר <br> connection | הִתְחַבֵּר <br><br> _hisboideid_ <br><br><br> he joined | הִתְבּוֹדְדוּת <br><br> _hisboidedus_ <br><br><br> seclusion |
+| ערר <br> excite | הִתְעָרֵר <br><br> _his’oreir_ <br><br><br> he excited | הִתעוֹרְרוּת <br><br> _hisoirerus_ <br><br><br> excitement |
 Words in the _hiskattlut_ noun pattern come from verbs in the [[_hispa’el_]] binyan. More examples of words in the _hiskattlut_ noun pattern [can be found on Pealim](https://www.pealim.com/dict/?pos=noun&num-radicals=all&nm=hitqatlut).
 
 
 * The _kattala_ noun pattern: The _kattala_ noun pattern is one of the [[hebrew noun patterns]] and produces words such as:
 | *Shoresh* | *_Pi’el_ verb* | *_Kattala_ Noun* |
 |-|-|-|
-| בקשׁ <br> seeking | בִּקֵּשׁ<br> _bikeish_ <br> he requested | בַּקָּשָׁה <br> _bakasha_ <br> an instance of eating |
-| תקן<br> fixing | תִּקֵּן<br> _tikein_ <br> he fixed | תַּקָּנָה<br> _takkana_ <br> an instituted rule |
-| כפר <br> atonement | כִּפֵּר<br> _kipeir_ <br> he granted atonement | כַּפָּרָה <br> _nechama_ <br> an atonement |
+| בקשׁ <br> seeking | בִּקֵּשׁ <br><br> _bikeish_ <br><br><br> he requested | בַּקָּשָׁה <br><br> _bakasha_ <br><br><br> an instance of eating |
+| תקן <br> fixing | תִּקֵּן <br><br> _tikein_ <br><br><br> he fixed | תַּקָּנָה <br><br> _takkana_ <br><br><br> an instituted rule |
+| כפר <br> atonement | כִּפֵּר <br><br> _kipeir_ <br><br><br> he granted atonement | כַּפָּרָה <br><br> _nechama_ <br><br><br> an atonement |
 The _kattala_ pattern is one of the [[noun patterns that come from _pi’el_ verbs]]. More examples of words in the _ktila_ noun pattern [can be found on Pealim](https://www.pealim.com/dict/?pos=noun&nm=qattala).
 
 
 * The _kittul_ noun pattern: The _kittul_ noun pattern is one of the [[hebrew noun patterns]] and produces words such as:
 | *Shoresh* | *_Pi’el_ Verb* | *_Pi’el_ Noun* |
-| קדש <br> holiness | קִדֵּשׁ (_kideish)_ <br> he made holy | קִדּוּשׁ (_kiddush)_ <br> the making of holiness |
-| דבר <br> speaking | דִּבֵּר (_dibeir)_ <br> he spoke | דִּבּוּר (_dibbur)_ <br> speech |
-| בטל <br> canceling | מְבַטֵּל (_mevatel)_ <br> he canceled | בִּטּוּל (_bittul)_ <br> cancelation |
+| קדש <br> holiness | קִדֵּשׁ (_kideish)_ <br><br><br> he made holy | קִדּוּשׁ (_kiddush)_ <br><br><br> the making of holiness |
+| דבר <br> speaking | דִּבֵּר (_dibeir)_ <br><br><br> he spoke | דִּבּוּר (_dibbur)_ <br><br><br> speech |
+| בטל <br> canceling | מְבַטֵּל (_mevatel)_ <br><br><br> he canceled | בִּטּוּל (_bittul)_ <br><br><br> cancelation |
 The _kittul_ noun pattern is one of the [[noun patterns that come from _pi’el_ verbs]]. More examples of words in the _kittul_ noun pattern [can be found on Pealim](https://www.pealim.com/dict/?pos=noun&nm=qittul).
 
 
 * The _ktila_ noun pattern: The _haktala_ noun pattern is one of the [[hebrew noun patterns]] and produces words such as:
 | *Shoresh* | *_Pa’al_ verb* | *_Haktala_ Noun* |
 |-|-|-|
-| אכל <br> eating | אָכַל<br> _auchal_ <br> he ate | אֲכִילָה <br> _achilau_ <br> an instance of eating |
-| הלך<br> eating | הָלַךְ<br> _haulach_ <br> he walked | הֲלִיכָה<br> _halichau_ <br> an instance of walking |
-| נפל <br> falling | נָפַל<br> _naufal_ <br> he fell | נְפִילָה <br> _nafila_ <br> an instance of falling |
+| אכל <br> eating | אָכַל <br><br> _auchal_ <br><br><br> he ate | אֲכִילָה <br><br> _achilau_ <br><br><br> an instance of eating |
+| הלך <br> eating | הָלַךְ <br><br> _haulach_ <br><br><br> he walked | הֲלִיכָה <br><br> _halichau_ <br><br><br> an instance of walking |
+| נפל <br> falling | נָפַל <br><br> _naufal_ <br><br><br> he fell | נְפִילָה <br><br> _nafila_ <br><br><br> an instance of falling |
 The _ktila_ pattern is one of the [[noun patterns that come from _pa’al_ verbs]]. More examples of words in the _ktila_ noun pattern [can be found on Pealim](https://www.pealim.com/dict/?pos=noun&nm=qtila).
 
 
 * The _taktil_ noun pattern: The _taktil_ noun pattern is one of the [[hebrew noun patterns]] and produces words such as:
 | *Shoresh* | *_Hif’il_ Verb* | *_Pi’el_ Noun* |
-| בשׁל <br> cooking | בִּשֵּׁל (_bish’sheil)_ <br> he cooked | תַּבְשִׁיל (_tavshil)_ <br> a cooked item |
-| פקד <br> managing | הִפְקִיד (_hifkid)_ <br> he entrusted | תַּפְקִיד (_tafkid)_ <br> order, commanded duty |
-| רגל <br> routine | הִרְגִּיל (_hirg’gil)_ <br> he habituated | תַּרְגִּיל (_targ’gil)_ <br> practice |
+| בשׁל <br> cooking | בִּשֵּׁל (_bish’sheil)_ <br><br><br> he cooked | תַּבְשִׁיל (_tavshil)_ <br><br><br> a cooked item |
+| פקד <br> managing | הִפְקִיד (_hifkid)_ <br><br><br> he entrusted | תַּפְקִיד (_tafkid)_ <br><br><br> order, commanded duty |
+| רגל <br> routine | הִרְגִּיל (_hirg’gil)_ <br><br><br> he habituated | תַּרְגִּיל (_targ’gil)_ <br><br><br> practice |
 Nouns in the _taktil_ noun pattern come from [[_hif’il_]] verbs. More examples of words in the _kittul_ noun pattern [can be found on Pealim](https://www.pealim.com/dict/?pos=noun&nm=taqtil).
 
 
@@ -2348,9 +2617,9 @@ Can only have verb forms in certain binyanim:
 Four-letter shorushim can only have verb forms in [[{{binyan}}im]] with a doubled middle letter, like the [[_pi’el_]].
 - This is because the doubled letter creates room for the four consonant sounds of the shoresh:
 | *Shoresh* | *[[_Pi’el_]] example* | *Notes*|
-| דבר <br> speech | מְדַ*בֵּ*ר <br> _meda*b*’*b*er_ <br> he is saying | - This is a regular three-letter shoresh. <br>- The middle בּ (“b”) is said twice<br> - I.e. both “middle slots” are used for בּ |
-| שׁחרר <br> liberation | מְשַׁ*חְרֵ*ר <br> _mesha*ch*’*r*eir_ <br> he is liberating | - This is a four-letter shoresh<br>- First middle slot is used for ח (“ch”) <br>- Second middle slot is used for ר (“r”)|
-| טלטל <br> movement | מְטַ*לְטֵ*ל <br> _meta*l’t*el_ <br> he is moving | - This is a four-letter shoresh<br> - First middle slot is used for ל (“l”) <br> - Second middle slot is used for ט (“t”) |
+| דבר <br> speech | מְדַ*בֵּ*ר <br><br> _meda*b*’*b*er_ <br><br><br> he is saying | - This is a regular three-letter shoresh. <br> - The middle בּ (“b”) is said twice <br> - I.e. both “middle slots” are used for בּ |
+| שׁחרר <br> liberation | מְשַׁ*חְרֵ*ר <br><br> _mesha*ch*’*r*eir_ <br><br><br> he is liberating | - This is a four-letter shoresh <br> - First middle slot is used for ח (“ch”) <br> - Second middle slot is used for ר (“r”)|
+| טלטל <br> movement | מְטַ*לְטֵ*ל <br><br> _meta*l’t*el_ <br><br><br> he is moving | - This is a four-letter shoresh <br> - First middle slot is used for ל (“l”) <br> - Second middle slot is used for ט (“t”) |
 - A verb form without a doubled middle letter, like כּוֹתֵב (_kosev_, “writing”), wouldn’t have room to accomidate the four consonants of a four-letter shoresh. (For advanced students, כּוֹתֵב is an example of a form called the [[_pa’al_ active participle]].)
 
 Some seem to have intrinsic meanings: Some four letter shorushim seem to be intrinsically meaningful and are not related to other shorushim. For example:
@@ -2359,7 +2628,7 @@ Some seem to have intrinsic meanings: Some four letter shorushim seem to be intr
 
 
 * Irregular shorushim: An irregular shoresh, as opposed to a [[regular shor{ushim|esh}]], is a [[shoresh]] that has special letters that affect the vowelization of verbs produced from it. Here are some examples of irregular shorushim and their irregular verb conjugations:
-| *Shoresh* | *Irregularity* | *Expected<br>Conjugation* | * Real<br>Conjugation* | *Comment* |
+| *Shoresh* | *Irregularity* | *Expected <br> Conjugation* | * Real <br> Conjugation* | *Comment* |
 |-|-|-|-|-|
 | ישב | י in first position | מֵישִׁיב (_mayshiv)_ | מוֹשִׁיב (_moshiv)_ | י changes to וֹ |
 | נפל | נ in the first position | מַנְפִּיל (_manpil)_ | מַפִּיל (_map’pil)_ | נ drops, and the פ is doubled |
@@ -2398,8 +2667,8 @@ The meaning of the _pilpul_ form is often a more repetitive version of the meani
 - It is produced by taking a shoresh like עבד and adding a ש to the front to produce a new shoresh like שעבד.
 - A three-letter shoresh put into the _shaf’el_ will become a [[four-letter {shorushim|shoresh}]]
 - A shoresh with only two strong letters when put into the _shaf’el_ will become a three-letter shoresh, for example:
-| *Shoresh*  | *_Shif’el_ Shoresh* | *Notes* |
-| עבד <br> work | שעבד <br> subjugate<br> (to make someone else work) | This is a three-letter shoresh that becomes a four letter shoresh |
+| *Shoresh* | *_Shif’el_ Shoresh* | *Notes* |
+| עבד <br> work | שעבד <br> subjugate <br> (to make someone else work) | This is a three-letter shoresh that becomes a four letter shoresh |
 | זרע <br> seeding | שזרע <br> reseeding (causing to become seeded) | This is a three-letter shoresh that becomes a four letter shoresh |
 | נוע <br> moving | שנע <br> transporting (causing to move) | This is a “weak” shoresh with only two strong letters, and it becomes a three letter shoresh |
 The addition of the ש produces a shoresh that has a [[causative]] meaning relative to the original shoresh. Like all four-letter shorushim, a _shaf’el_ shoresh can only have forms in binyanim that feature a doubled middle consonant sound, such as the [[_pi’el_]], [[_pu’al_]], and [[_hispa’el_]] forms.
@@ -2490,10 +2759,10 @@ Kiddushin: _Kiddushin_ is a stage of the marriage process. A man creates kiddush
 
 
 * קדש: קדש is a [[shoresh]] in Hebrew and Aramaic. It has forms with different meanings in the following binyanim:
-| *Hebrew*  | [[Simple]] | [[Intensive]] | [[Causative]] | [[Reflexive]] |
+| *Hebrew* | [[Simple]] | [[Intensive]] | [[Causative]] | [[Reflexive]] |
 |---------|--------|-----------|-----------|-----------|
-| [[Active]]  | [[_Pa’al_ <br> (of קדש)]] | [[_Pi’el_ <br> (of קדש)]] | [[_Hif’il_ <br> (of קדש)]] | [[_Hispa’el_ <br> (of קדש)]] |
-| [[Passive]] | ~_Nif’al_~ | [[_Pu’al_ <br> (of קדש)]] | [[_Huf’al_ <br> (of קדש)]] | \^ |
+| [[Active]]  | [[_Pa’al_ <br><br><br> (of קדש)]] | [[_Pi’el_ <br><br><br> (of קדש)]] | [[_Hif’il_ <br><br><br> (of קדש)]] | [[_Hispa’el_ <br><br><br> (of קדש)]] |
+| [[Passive]] | ~_Nif’al_~ | [[_Pu’al_ <br><br><br> (of קדש)]] | [[_Huf’al_ <br><br><br> (of קדש)]] | \^ |
 
 More information can be found in the [Jastrow](https://www.sefaria.org/Jastrow%2C_%D7%A7%D6%B8%D7%93%D6%B7%D7%A9%D7%81.1) and [Klein](https://www.sefaria.org/Klein_Dictionary%2C_%D7%A7%D7%93%D7%A9%D7%81.1) dictionaries.
 
