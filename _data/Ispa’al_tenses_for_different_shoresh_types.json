@@ -1,0 +1,100 @@
+{
+ "displayTopicName": "_Ispa’al_ tenses for different shoresh types",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Ispa’al",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " tenses for different shoresh types",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Ispa’al tenses for different shoresh types": [
+   {
+    "text": "There are ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "ispa’al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " forms for different shoresh types: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "There are ",
+        "type": "text"
+       },
+       {
+        "text": "_ispa’al_ tenses for regular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "ispa’al",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " tenses for regular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Ispa’al tenses for regular shorushim",
+        "targetTopic": "Ispa’al tenses for regular shorushim",
+        "enclosingTopic": "Ispa’al tenses for different shoresh types",
+        "enclosingSubtopic": "Ispa’al tenses for different shoresh types"
+       },
+       {
+        "text": ". (Conjugations for ",
+        "type": "text"
+       },
+       {
+        "text": "irregular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "irregular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Irregular shorushim",
+        "targetTopic": "Irregular shorushim",
+        "enclosingTopic": "Ispa’al tenses for different shoresh types",
+        "enclosingSubtopic": "Ispa’al tenses for different shoresh types"
+       },
+       {
+        "text": " are not yet available.)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

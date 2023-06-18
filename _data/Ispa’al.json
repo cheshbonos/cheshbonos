@@ -9,20 +9,7 @@
  "paragraphsBySubtopic": {
   "Ispa’al": [
    {
-    "text": "The ",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "ispa’al",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " (אִתְפַּעַל) is one of the ",
+    "text": "The “Ispa’al” (אִתְפַּעַל) is one of the ",
     "type": "text"
    },
    {
@@ -68,7 +55,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Verbs in the ",
+        "text": "A verb in the ",
         "type": "text"
        },
        {
@@ -81,25 +68,25 @@
         ]
        },
        {
-        "text": " can be ",
+        "text": " is often a more ",
         "type": "text"
        },
        {
-        "text": "reflexive",
+        "text": "intensive",
         "type": "global",
         "tokens": [
          {
-          "text": "reflexive",
+          "text": "intensive",
           "type": "text"
          }
         ],
-        "targetSubtopic": "Reflexive",
-        "targetTopic": "Reflexive",
+        "targetSubtopic": "Intensive",
+        "targetTopic": "Intensive",
         "enclosingTopic": "Ispa’al",
         "enclosingSubtopic": "Ispa’al"
        },
        {
-        "text": ", or ",
+        "text": " and ",
         "type": "text"
        },
        {
@@ -117,6 +104,152 @@
         "enclosingSubtopic": "Ispa’al"
        },
        {
+        "text": " version of the ",
+        "type": "text"
+       },
+       {
+        "text": "shoresh",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "shoresh",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Shoresh",
+        "targetTopic": "Shoresh",
+        "enclosingTopic": "Ispa’al",
+        "enclosingSubtopic": "Ispa’al"
+       },
+       {
+        "text": " meaning.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "For example, the shoresh קדש means “holiness,” and the ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "ispa’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " verb אִתְקַדֵּשׁ means “to sanctify oneself.”",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Advanced students can read ",
+        "type": "text"
+       },
+       {
+        "text": "more information about the _ispa’al_",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "more information about the ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "ispa’al",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "More information about the ispa’al",
+        "targetTopic": "Ispa’al",
+        "enclosingTopic": "Ispa’al",
+        "enclosingSubtopic": "Ispa’al"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "More information about the ispa’al": [
+   {
+    "text": "Here is more information about the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "ispa’al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " binyan: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Verbs in the ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "ispa’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " have the properties of being ",
+        "type": "text"
+       },
+       {
+        "text": "passive",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "passive",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Passive",
+        "targetTopic": "Passive",
+        "enclosingTopic": "Ispa’al",
+        "enclosingSubtopic": "More information about the ispa’al"
+       },
+       {
         "text": " and ",
         "type": "text"
        },
@@ -132,7 +265,7 @@
         "targetSubtopic": "Intensive",
         "targetTopic": "Intensive",
         "enclosingTopic": "Ispa’al",
-        "enclosingSubtopic": "Ispa’al"
+        "enclosingSubtopic": "More information about the ispa’al"
        },
        {
         "text": ".",
@@ -159,7 +292,91 @@
         ]
        },
        {
-        "text": " can correspond to either the ",
+        "text": " ",
+        "type": "text"
+       },
+       {
+        "text": "has various verb forms",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "has various verb forms",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Ispa’al Tenses",
+        "targetTopic": "Ispa’al Tenses",
+        "enclosingTopic": "Ispa’al",
+        "enclosingSubtopic": "More information about the ispa’al"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "ispa’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " has ",
+        "type": "text"
+       },
+       {
+        "text": "tenses for different shoresh types",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "tenses for different shoresh types",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Ispa’al tenses for different shoresh types",
+        "targetTopic": "Ispa’al tenses for different shoresh types",
+        "enclosingTopic": "Ispa’al",
+        "enclosingSubtopic": "More information about the ispa’al"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "ispa’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " may correspond to the ",
         "type": "text"
        },
        {
@@ -174,33 +391,28 @@
         "targetSubtopic": "Pu’al",
         "targetTopic": "Pu’al",
         "enclosingTopic": "Ispa’al",
-        "enclosingSubtopic": "Ispa’al"
+        "enclosingSubtopic": "More information about the ispa’al"
        },
        {
-        "text": " and to the ",
+        "text": " or the ",
         "type": "text"
        },
        {
-        "text": "_hispa’el_",
+        "text": "hispa’el",
         "type": "global",
         "tokens": [
          {
-          "type": "italics",
-          "tokens": [
-           {
-            "text": "hispa’el",
-            "type": "text"
-           }
-          ]
+          "text": "hispa’el",
+          "type": "text"
          }
         ],
         "targetSubtopic": "Hispa’el",
         "targetTopic": "Hispa’el",
         "enclosingTopic": "Ispa’al",
-        "enclosingSubtopic": "Ispa’al"
+        "enclosingSubtopic": "More information about the ispa’al"
        },
        {
-        "text": " in Hebrew.",
+        "text": " of Hebrew.",
         "type": "text"
        }
       ],

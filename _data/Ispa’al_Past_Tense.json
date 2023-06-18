@@ -1,0 +1,218 @@
+{
+ "displayTopicName": "_Ispa’al_ Past Tense",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Ispa’al",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " Past Tense",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Ispa’al Past Tense": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "text": "_ispa’al_ binyan",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "ispa’al",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " binyan",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Ispa’al",
+    "targetTopic": "Ispa’al",
+    "enclosingTopic": "Ispa’al Past Tense",
+    "enclosingSubtopic": "Ispa’al Past Tense"
+   },
+   {
+    "text": " has a ",
+    "type": "text"
+   },
+   {
+    "text": "past tense",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "past tense",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Past tense",
+    "targetTopic": "Past tense",
+    "enclosingTopic": "Ispa’al Past Tense",
+    "enclosingSubtopic": "Ispa’al Past Tense"
+   },
+   {
+    "text": ", which is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "“tenses” of the _ispa’al_ binyan",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "“tenses” of the ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "ispa’al",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " binyan",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Ispa’al Tenses",
+    "targetTopic": "Ispa’al Tenses",
+    "enclosingTopic": "Ispa’al Past Tense",
+    "enclosingSubtopic": "Ispa’al Past Tense"
+   },
+   {
+    "text": ". ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "ispa’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " past tense has ",
+        "type": "text"
+       },
+       {
+        "text": "conjugations for regular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "conjugations for regular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Ispa’al Past Tense for regular shorushim",
+        "targetTopic": "Ispa’al Past Tense for regular shorushim",
+        "enclosingTopic": "Ispa’al Past Tense",
+        "enclosingSubtopic": "Ispa’al Past Tense"
+       },
+       {
+        "text": ". (Conjugations for ",
+        "type": "text"
+       },
+       {
+        "text": "irregular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "irregular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Irregular shorushim",
+        "targetTopic": "Irregular shorushim",
+        "enclosingTopic": "Ispa’al Past Tense",
+        "enclosingSubtopic": "Ispa’al Past Tense"
+       },
+       {
+        "text": " are not yet available.)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "ispa’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " past tense corresponds to the ",
+        "type": "text"
+       },
+       {
+        "text": "_hif’il_ past tense",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "hif’il",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " past tense",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Hif’il Past Tense",
+        "targetTopic": "Hif’il Past Tense",
+        "enclosingTopic": "Ispa’al Past Tense",
+        "enclosingSubtopic": "Ispa’al Past Tense"
+       },
+       {
+        "text": " of Hebrew.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

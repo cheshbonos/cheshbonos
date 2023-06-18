@@ -1,0 +1,218 @@
+{
+ "displayTopicName": "_Itaf’al_ Future Tense",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Itaf’al",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " Future Tense",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Itaf’al Future Tense": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "text": "_itaf’al_ binyan",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "itaf’al",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " binyan",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Itaf’al",
+    "targetTopic": "Itaf’al",
+    "enclosingTopic": "Itaf’al Future Tense",
+    "enclosingSubtopic": "Itaf’al Future Tense"
+   },
+   {
+    "text": " has a ",
+    "type": "text"
+   },
+   {
+    "text": "future tense",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "future tense",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Future Tense",
+    "targetTopic": "Future Tense",
+    "enclosingTopic": "Itaf’al Future Tense",
+    "enclosingSubtopic": "Itaf’al Future Tense"
+   },
+   {
+    "text": ", which is one of the ",
+    "type": "text"
+   },
+   {
+    "text": "“tenses” of the _itaf’al_ binyan",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "“tenses” of the ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "itaf’al",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " binyan",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Itaf’al Tenses",
+    "targetTopic": "Itaf’al Tenses",
+    "enclosingTopic": "Itaf’al Future Tense",
+    "enclosingSubtopic": "Itaf’al Future Tense"
+   },
+   {
+    "text": ". ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "itaf’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " future tense has ",
+        "type": "text"
+       },
+       {
+        "text": "conjugations for regular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "conjugations for regular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Itaf’al Future Tense for regular shorushim",
+        "targetTopic": "Itaf’al Future Tense for regular shorushim",
+        "enclosingTopic": "Itaf’al Future Tense",
+        "enclosingSubtopic": "Itaf’al Future Tense"
+       },
+       {
+        "text": ". (Conjugations for ",
+        "type": "text"
+       },
+       {
+        "text": "irregular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "irregular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Irregular shorushim",
+        "targetTopic": "Irregular shorushim",
+        "enclosingTopic": "Itaf’al Future Tense",
+        "enclosingSubtopic": "Itaf’al Future Tense"
+       },
+       {
+        "text": " are not yet available.)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "itaf’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " future tense corresponds to the ",
+        "type": "text"
+       },
+       {
+        "text": "_hif’il_ future tense",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "hif’il",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " future tense",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Hif’il Future Tense",
+        "targetTopic": "Hif’il Future Tense",
+        "enclosingTopic": "Itaf’al Future Tense",
+        "enclosingSubtopic": "Itaf’al Future Tense"
+       },
+       {
+        "text": " of Hebrew.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

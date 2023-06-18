@@ -1,35 +1,35 @@
 {
- "displayTopicName": "_Af’el_ Active Participle for Regular Shorushim with pronoun suffixes",
+ "displayTopicName": "_Ispa’al_ Active Participle for Regular Shorushim without pronoun suffixes",
  "topicTokens": [
   {
    "type": "italics",
    "tokens": [
     {
-     "text": "Af’el",
+     "text": "Ispa’al",
      "type": "text"
     }
    ]
   },
   {
-   "text": " Active Participle for Regular Shorushim with pronoun suffixes",
+   "text": " Active Participle for Regular Shorushim without pronoun suffixes",
    "type": "text"
   }
  ],
  "paragraphsBySubtopic": {
-  "Af’el Active Participle for Regular Shorushim with pronoun suffixes": [
+  "Ispa’al Active Participle for Regular Shorushim without pronoun suffixes": [
    {
     "text": "The ",
     "type": "text"
    },
    {
-    "text": "_af’el_ active participle form",
+    "text": "_ispa’al_ active participle form",
     "type": "global",
     "tokens": [
      {
       "type": "italics",
       "tokens": [
        {
-        "text": "af’el",
+        "text": "ispa’al",
         "type": "text"
        }
       ]
@@ -39,10 +39,10 @@
       "type": "text"
      }
     ],
-    "targetSubtopic": "Af’el Active Participle",
-    "targetTopic": "Af’el Active Participle",
-    "enclosingTopic": "Af’el Active Participle for Regular Shorushim with pronoun suffixes",
-    "enclosingSubtopic": "Af’el Active Participle for Regular Shorushim with pronoun suffixes"
+    "targetSubtopic": "Ispa’al Active Participle",
+    "targetTopic": "Ispa’al Active Participle",
+    "enclosingTopic": "Ispa’al Active Participle for Regular Shorushim without pronoun suffixes",
+    "enclosingSubtopic": "Ispa’al Active Participle for Regular Shorushim without pronoun suffixes"
    },
    {
     "text": " has the following conjugation pattern for ",
@@ -59,11 +59,11 @@
     ],
     "targetSubtopic": "Regular shorushim",
     "targetTopic": "Regular shorushim",
-    "enclosingTopic": "Af’el Active Participle for Regular Shorushim with pronoun suffixes",
-    "enclosingSubtopic": "Af’el Active Participle for Regular Shorushim with pronoun suffixes"
+    "enclosingTopic": "Ispa’al Active Participle for Regular Shorushim without pronoun suffixes",
+    "enclosingSubtopic": "Ispa’al Active Participle for Regular Shorushim without pronoun suffixes"
    },
    {
-    "text": " when ",
+    "text": " when not using ",
     "type": "text"
    },
    {
@@ -77,11 +77,11 @@
     ],
     "targetSubtopic": "Pronoun suffixes",
     "targetTopic": "Pronoun suffixes",
-    "enclosingTopic": "Af’el Active Participle for Regular Shorushim with pronoun suffixes",
-    "enclosingSubtopic": "Af’el Active Participle for Regular Shorushim with pronoun suffixes"
+    "enclosingTopic": "Ispa’al Active Participle for Regular Shorushim without pronoun suffixes",
+    "enclosingSubtopic": "Ispa’al Active Participle for Regular Shorushim without pronoun suffixes"
    },
    {
-    "text": " are added: ",
+    "text": ": ",
     "type": "text"
    },
    {
@@ -97,7 +97,7 @@
          "type": "bold",
          "tokens": [
           {
-           "text": "First-person",
+           "text": "Masculine",
            "type": "text"
           }
          ]
@@ -110,7 +110,7 @@
          "type": "bold",
          "tokens": [
           {
-           "text": "Second-person",
+           "text": "Feminine",
            "type": "text"
           }
          ]
@@ -135,15 +135,7 @@
       {
        "tokens": [
         {
-         "text": "מַפְקֵידְנָא ",
-         "type": "text"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "text": " (מַפְקֵיד + אֲנָא) ",
+         "text": "מִ(תְ)קַדַשׁ ",
          "type": "text"
         },
         {
@@ -162,15 +154,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "mafkeidnau ",
-           "type": "text"
-          },
-          {
-           "type": "html_element",
-           "html": "<br>"
-          },
-          {
-           "text": " (mafkeid + anau)",
+           "text": "mi(s)kadash",
            "type": "text"
           }
          ]
@@ -192,15 +176,7 @@
          "html": "<br>"
         },
         {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "text": " I am making holy",
+         "text": " [he is] being sanctified",
          "type": "text"
         }
        ]
@@ -208,15 +184,7 @@
       {
        "tokens": [
         {
-         "text": "מַפְקְדַתְּ ",
-         "type": "text"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "text": " (מַפְקֵיד + אַתְּ) ",
+         "text": "מִ(תְ)קַדְשָׁא ",
          "type": "text"
         },
         {
@@ -235,15 +203,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "maf’k’dat ",
-           "type": "text"
-          },
-          {
-           "type": "html_element",
-           "html": "<br>"
-          },
-          {
-           "text": " (mafkeid + at)",
+           "text": "mi(s)kadshau",
            "type": "text"
           }
          ]
@@ -265,23 +225,7 @@
          "html": "<br>"
         },
         {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "text": " You [man or woman] ",
-         "type": "text"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "text": " are making holy",
+         "text": " [she is] being sanctified",
          "type": "text"
         }
        ]
@@ -304,15 +248,7 @@
       {
        "tokens": [
         {
-         "text": "מַפְקְדִינַן ",
-         "type": "text"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "text": " (מַפְקְדִי + אֲנַן) ",
+         "text": "‎מִ(תְ)קַדְשִׁי(ן) ",
          "type": "text"
         },
         {
@@ -331,7 +267,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "maf’k’dinan",
+           "text": "mi(s)kadshi(n)",
            "type": "text"
           }
          ]
@@ -353,7 +289,7 @@
          "html": "<br>"
         },
         {
-         "text": " (maf’k’di + anan) ",
+         "text": " [those men are] ",
          "type": "text"
         },
         {
@@ -361,23 +297,7 @@
          "html": "<br>"
         },
         {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "text": " We are making holy",
+         "text": " being sanctified",
          "type": "text"
         }
        ]
@@ -385,15 +305,7 @@
       {
        "tokens": [
         {
-         "text": "‎מְקַדְּשִׁיתוּ/ן ",
-         "type": "text"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "text": " (מַפְקְדִי + אַתּוּ/ן) ",
+         "text": "מִ(תְ)קַדְשָׁן ",
          "type": "text"
         },
         {
@@ -412,15 +324,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "maf’k’disu/n ",
-           "type": "text"
-          },
-          {
-           "type": "html_element",
-           "html": "<br>"
-          },
-          {
-           "text": " (maf’k’di + atu/n)",
+           "text": "miskadshan",
            "type": "text"
           }
          ]
@@ -442,15 +346,7 @@
          "html": "<br>"
         },
         {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "text": " You [men or women] ",
+         "text": " [those women are] ",
          "type": "text"
         },
         {
@@ -458,7 +354,7 @@
          "html": "<br>"
         },
         {
-         "text": " are making holy",
+         "text": " being sanctified",
          "type": "text"
         }
        ]
@@ -481,30 +377,48 @@
         "type": "text"
        },
        {
-        "text": "_af’el_ active participle for regular shorushim without pronoun suffixes",
+        "text": "_ispa’al_ active participle for regular shorushim with pronoun suffixes",
         "type": "global",
         "tokens": [
          {
           "type": "italics",
           "tokens": [
            {
-            "text": "af’el",
+            "text": "ispa’al",
             "type": "text"
            }
           ]
          },
          {
-          "text": " active participle for regular shorushim without pronoun suffixes",
+          "text": " active participle for regular shorushim with pronoun suffixes",
           "type": "text"
          }
         ],
-        "targetSubtopic": "Af’el Active Participle for Regular Shorushim without pronoun suffixes",
-        "targetTopic": "Af’el Active Participle for Regular Shorushim without pronoun suffixes",
-        "enclosingTopic": "Af’el Active Participle for Regular Shorushim with pronoun suffixes",
-        "enclosingSubtopic": "Af’el Active Participle for Regular Shorushim with pronoun suffixes"
+        "targetSubtopic": "Ispa’al Active Participle for Regular Shorushim with pronoun suffixes",
+        "targetTopic": "Ispa’al Active Participle for Regular Shorushim with pronoun suffixes",
+        "enclosingTopic": "Ispa’al Active Participle for Regular Shorushim without pronoun suffixes",
+        "enclosingSubtopic": "Ispa’al Active Participle for Regular Shorushim without pronoun suffixes"
        },
        {
-        "text": ".",
+        "text": ", (Aramaic has what are called ",
+        "type": "text"
+       },
+       {
+        "text": "“pronoun suffixes.”",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "“pronoun suffixes.”",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pronoun suffixes",
+        "targetTopic": "Pronoun suffixes",
+        "enclosingTopic": "Ispa’al Active Participle for Regular Shorushim without pronoun suffixes",
+        "enclosingSubtopic": "Ispa’al Active Participle for Regular Shorushim without pronoun suffixes"
+       },
+       {
+        "text": ")",
         "type": "text"
        }
       ],
@@ -520,13 +434,22 @@
       "superscript": "1",
       "tokens": [
        {
-        "text": " For any regular shoresh, you can replace the letters ‎פ, ‎ק, and ד above with the letters of your shoresh to produce the proper conjugations.",
+        "text": " Because Aramaic was a less-formal spoken language, it often has several versions of the same word. Parentheses indicate letters that sometimes are omitted.",
         "type": "text"
        }
       ]
      },
      {
       "superscript": "2",
+      "tokens": [
+       {
+        "text": " For any regular shoresh, you can replace the letters ‎ק, ‎ד, and שׁ above with the letters of your shoresh to produce the proper conjugations.",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "superscript": "3",
       "tokens": [
        {
         "text": " Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's ",

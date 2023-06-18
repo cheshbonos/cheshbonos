@@ -1,11 +1,11 @@
 {
- "displayTopicName": "_Ispe’el_ Future Tense for regular shorushim",
+ "displayTopicName": "_Ispa’al_ Future Tense for regular shorushim",
  "topicTokens": [
   {
    "type": "italics",
    "tokens": [
     {
-     "text": "Ispe’el",
+     "text": "Ispa’al",
      "type": "text"
     }
    ]
@@ -16,20 +16,20 @@
   }
  ],
  "paragraphsBySubtopic": {
-  "Ispe’el Future Tense for regular shorushim": [
+  "Ispa’al Future Tense for regular shorushim": [
    {
     "text": "The ",
     "type": "text"
    },
    {
-    "text": "_ispe’el_ future tense",
+    "text": "_ispa’al_ future tense",
     "type": "global",
     "tokens": [
      {
       "type": "italics",
       "tokens": [
        {
-        "text": "ispe’el",
+        "text": "ispa’al",
         "type": "text"
        }
       ]
@@ -39,10 +39,10 @@
       "type": "text"
      }
     ],
-    "targetSubtopic": "Ispe’el Future Tense",
-    "targetTopic": "Ispe’el Future Tense",
-    "enclosingTopic": "Ispe’el Future Tense for regular shorushim",
-    "enclosingSubtopic": "Ispe’el Future Tense for regular shorushim"
+    "targetSubtopic": "Ispa’al Future Tense",
+    "targetTopic": "Ispa’al Future Tense",
+    "enclosingTopic": "Ispa’al Future Tense for regular shorushim",
+    "enclosingSubtopic": "Ispa’al Future Tense for regular shorushim"
    },
    {
     "text": " follows these conjugations for ",
@@ -59,8 +59,8 @@
     ],
     "targetSubtopic": "Regular shorushim",
     "targetTopic": "Regular shorushim",
-    "enclosingTopic": "Ispe’el Future Tense for regular shorushim",
-    "enclosingSubtopic": "Ispe’el Future Tense for regular shorushim"
+    "enclosingTopic": "Ispa’al Future Tense for regular shorushim",
+    "enclosingSubtopic": "Ispa’al Future Tense for regular shorushim"
    },
    {
     "text": ": ",
@@ -135,7 +135,7 @@
       {
        "tokens": [
         {
-         "text": "אֶי(תְ)מְּסֵיר ",
+         "text": "אֶי(תְ)קַדַּשׁ ",
          "type": "text"
         },
         {
@@ -154,7 +154,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "e(s’)m’seir",
+           "text": "e(s)kad’dash",
            "type": "text"
           }
          ]
@@ -176,7 +176,7 @@
          "html": "<br>"
         },
         {
-         "text": " I will be handed over",
+         "text": " I will be made holy",
          "type": "text"
         }
        ],
@@ -189,7 +189,7 @@
       {
        "tokens": [
         {
-         "text": "לִי(תְ)מְּסֵיר, ‎נִי(תְ)מְּסֵיר ",
+         "text": "לִי(תְ)קַדַּשׁ‎, נִי(תְ)קַדַּשׁ ",
          "type": "text"
         },
         {
@@ -208,7 +208,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "ni(s’)m’seir, li(s’)m’seir",
+           "text": "ni(s)kad’dash, li(s)kad’dash",
            "type": "text"
           }
          ]
@@ -230,7 +230,7 @@
          "html": "<br>"
         },
         {
-         "text": " We will be handed over",
+         "text": " We will make holy",
          "type": "text"
         }
        ],
@@ -258,7 +258,7 @@
       {
        "tokens": [
         {
-         "text": "תִּ(תְ)מְסֵיר ",
+         "text": "תִּי(תְ)קַדַּשׁ ",
          "type": "text"
         },
         {
@@ -277,7 +277,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "ti(s’)m’seir",
+           "text": "ti(s)kad’dash",
            "type": "text"
           }
          ]
@@ -307,7 +307,7 @@
          "html": "<br>"
         },
         {
-         "text": " will be handed over",
+         "text": " will be made holy",
          "type": "text"
         }
        ]
@@ -315,7 +315,7 @@
       {
        "tokens": [
         {
-         "text": "תִּי(תְ)מַסְרִי(ן) ",
+         "text": "‎תִּי(תְ)קַדְּשִׁי(ן) ",
          "type": "text"
         },
         {
@@ -334,7 +334,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "ti(s)masri(n)",
+           "text": "ti(s)kad’d’shi(n)",
            "type": "text"
           }
          ]
@@ -364,7 +364,7 @@
          "html": "<br>"
         },
         {
-         "text": " will be handed over",
+         "text": " will be made holy",
          "type": "text"
         }
        ]
@@ -372,7 +372,7 @@
       {
        "tokens": [
         {
-         "text": "תִּי(תְ)מַּסְרוּ ",
+         "text": "תִּי(תְ)קַדְּשׁוּ ",
          "type": "text"
         },
         {
@@ -391,7 +391,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "tismasru",
+           "text": "tiskad’d’shu",
            "type": "text"
           }
          ]
@@ -413,7 +413,7 @@
          "html": "<br>"
         },
         {
-         "text": " You [all] ",
+         "text": " You [males or females] ",
          "type": "text"
         },
         {
@@ -421,7 +421,7 @@
          "html": "<br>"
         },
         {
-         "text": " will be handed over",
+         "text": " will be made holy",
          "type": "text"
         }
        ],
@@ -457,7 +457,7 @@
       {
        "tokens": [
         {
-         "text": "‎לִי(תְ)מְסֵיר, ‎נִי(תְ)מְסֵיר ",
+         "text": "‎לִי(תְ)קַדַּשׁ‎ נִי(תְ)קַדַּשׁ ",
          "type": "text"
         },
         {
@@ -476,7 +476,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "li(s’)m’seir, ni(s’)m’seir",
+           "text": "ni(s)kad’dash, li(s)kad’dash",
            "type": "text"
           }
          ]
@@ -498,15 +498,7 @@
          "html": "<br>"
         },
         {
-         "text": " He will be ",
-         "type": "text"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "text": " handed over",
+         "text": " He will be made holy",
          "type": "text"
         }
        ]
@@ -514,7 +506,7 @@
       {
        "tokens": [
         {
-         "text": "תִּי(תְ)מְּסֵר ",
+         "text": "תִּי(תְ)קַדַּשׁ ",
          "type": "text"
         },
         {
@@ -533,7 +525,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "ti(s’)m’seir",
+           "text": "ti(s)kad’d’ash",
            "type": "text"
           }
          ]
@@ -555,15 +547,7 @@
          "html": "<br>"
         },
         {
-         "text": " She will be ",
-         "type": "text"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "text": " handed over",
+         "text": " She will be made holy",
          "type": "text"
         }
        ]
@@ -571,7 +555,15 @@
       {
        "tokens": [
         {
-         "text": "לִי(תְ)מַסְרוּ(ן)‎, נִי(תְ)מַסְרוּ ",
+         "text": "לִי(תְ)קַדְּשׁוּ(ן)‎ נִי(תְ)קַדְּשׁוּ‎",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": "לִיקַדּוּשׁ ,נִקַדּוּשׁ ",
          "type": "text"
         },
         {
@@ -590,7 +582,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "li(s)masru(n), ni(s)masru",
+           "text": "li(s)kad’d’shu(n), ni(s)kad’d’shu, likad’dush, nikad’d’ush",
            "type": "text"
           }
          ]
@@ -612,7 +604,15 @@
          "html": "<br>"
         },
         {
-         "text": " They will be ",
+         "text": " They [men] will be made holy",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "לִי(תְ)קַדְּשָׁן ",
          "type": "text"
         },
         {
@@ -620,15 +620,43 @@
          "html": "<br>"
         },
         {
-         "text": " handed over",
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "li(s)kad’d’shaun",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " They [women] will be made holy",
          "type": "text"
         }
-       ],
-       "colspan": 2
-      },
-      {
-       "tokens": [],
-       "merge": true
+       ]
       }
      ]
     ]
@@ -644,7 +672,7 @@
       "superscript": "1",
       "tokens": [
        {
-        "text": " Because Aramaic was a less-formal spoken language, it often has several versions of the same word. Parentheses indicate letters that are sometimes omitted.",
+        "text": " Because Aramaic was a less-formal spoken language, it often has several versions of the same word. Letters in parentheses are sometimes omitted.",
         "type": "text"
        }
       ]
@@ -653,7 +681,7 @@
       "superscript": "2",
       "tokens": [
        {
-        "text": " For any regular shoresh, you can replace the letters ‎מ, ‎ס, and ר above with the letters of your shoresh to produce the proper conjugations.",
+        "text": " For any regular shoresh, you can replace the letters ‎ק, ‎ד, and שׁ above with the letters of your shoresh to produce the proper conjugations.",
         "type": "text"
        }
       ]
@@ -662,7 +690,7 @@
       "superscript": "3",
       "tokens": [
        {
-        "text": " Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's ",
+        "text": " Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank’s ",
         "type": "text"
        },
        {

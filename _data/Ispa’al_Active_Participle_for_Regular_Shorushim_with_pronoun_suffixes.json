@@ -1,11 +1,11 @@
 {
- "displayTopicName": "_Af’el_ Active Participle for Regular Shorushim with pronoun suffixes",
+ "displayTopicName": "_Ispa’al_ Active Participle for Regular Shorushim with pronoun suffixes",
  "topicTokens": [
   {
    "type": "italics",
    "tokens": [
     {
-     "text": "Af’el",
+     "text": "Ispa’al",
      "type": "text"
     }
    ]
@@ -16,20 +16,20 @@
   }
  ],
  "paragraphsBySubtopic": {
-  "Af’el Active Participle for Regular Shorushim with pronoun suffixes": [
+  "Ispa’al Active Participle for Regular Shorushim with pronoun suffixes": [
    {
     "text": "The ",
     "type": "text"
    },
    {
-    "text": "_af’el_ active participle form",
+    "text": "_ispa’al_ active participle form",
     "type": "global",
     "tokens": [
      {
       "type": "italics",
       "tokens": [
        {
-        "text": "af’el",
+        "text": "ispa’al",
         "type": "text"
        }
       ]
@@ -39,10 +39,10 @@
       "type": "text"
      }
     ],
-    "targetSubtopic": "Af’el Active Participle",
-    "targetTopic": "Af’el Active Participle",
-    "enclosingTopic": "Af’el Active Participle for Regular Shorushim with pronoun suffixes",
-    "enclosingSubtopic": "Af’el Active Participle for Regular Shorushim with pronoun suffixes"
+    "targetSubtopic": "Ispa’al Active Participle",
+    "targetTopic": "Ispa’al Active Participle",
+    "enclosingTopic": "Ispa’al Active Participle for Regular Shorushim with pronoun suffixes",
+    "enclosingSubtopic": "Ispa’al Active Participle for Regular Shorushim with pronoun suffixes"
    },
    {
     "text": " has the following conjugation pattern for ",
@@ -59,8 +59,8 @@
     ],
     "targetSubtopic": "Regular shorushim",
     "targetTopic": "Regular shorushim",
-    "enclosingTopic": "Af’el Active Participle for Regular Shorushim with pronoun suffixes",
-    "enclosingSubtopic": "Af’el Active Participle for Regular Shorushim with pronoun suffixes"
+    "enclosingTopic": "Ispa’al Active Participle for Regular Shorushim with pronoun suffixes",
+    "enclosingSubtopic": "Ispa’al Active Participle for Regular Shorushim with pronoun suffixes"
    },
    {
     "text": " when ",
@@ -77,8 +77,8 @@
     ],
     "targetSubtopic": "Pronoun suffixes",
     "targetTopic": "Pronoun suffixes",
-    "enclosingTopic": "Af’el Active Participle for Regular Shorushim with pronoun suffixes",
-    "enclosingSubtopic": "Af’el Active Participle for Regular Shorushim with pronoun suffixes"
+    "enclosingTopic": "Ispa’al Active Participle for Regular Shorushim with pronoun suffixes",
+    "enclosingSubtopic": "Ispa’al Active Participle for Regular Shorushim with pronoun suffixes"
    },
    {
     "text": " are added: ",
@@ -135,7 +135,7 @@
       {
        "tokens": [
         {
-         "text": "מַפְקֵידְנָא ",
+         "text": "מִ[תְ]קַדַשְׁנָא ",
          "type": "text"
         },
         {
@@ -143,7 +143,7 @@
          "html": "<br>"
         },
         {
-         "text": " (מַפְקֵיד + אֲנָא) ",
+         "text": " (מִ[תְ]קַדַשׁ + אֲנָא) ",
          "type": "text"
         },
         {
@@ -162,7 +162,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "mafkeidnau ",
+           "text": "mi[s]kadashnau ",
            "type": "text"
           },
           {
@@ -170,7 +170,7 @@
            "html": "<br>"
           },
           {
-           "text": " (mafkeid + anau)",
+           "text": " (mi[s]kadash + anau)",
            "type": "text"
           }
          ]
@@ -208,7 +208,7 @@
       {
        "tokens": [
         {
-         "text": "מַפְקְדַתְּ ",
+         "text": "מִ[תְ]קַדְשַׁתְּ ",
          "type": "text"
         },
         {
@@ -216,7 +216,7 @@
          "html": "<br>"
         },
         {
-         "text": " (מַפְקֵיד + אַתְּ) ",
+         "text": " (מִ[תְ]קַדַשׁ + אַתְּ) ",
          "type": "text"
         },
         {
@@ -235,7 +235,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "maf’k’dat ",
+           "text": "mi[s]kad’shat ",
            "type": "text"
           },
           {
@@ -243,7 +243,7 @@
            "html": "<br>"
           },
           {
-           "text": " (mafkeid + at)",
+           "text": " (mi[s]kadash + at)",
            "type": "text"
           }
          ]
@@ -304,7 +304,7 @@
       {
        "tokens": [
         {
-         "text": "מַפְקְדִינַן ",
+         "text": "מִ[תְ]קַדְשִׁינַן ",
          "type": "text"
         },
         {
@@ -312,7 +312,7 @@
          "html": "<br>"
         },
         {
-         "text": " (מַפְקְדִי + אֲנַן) ",
+         "text": " (מִ[תְ]קַדְשִׁי + אֲנַן) ",
          "type": "text"
         },
         {
@@ -331,29 +331,25 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "maf’k’dinan",
+           "text": "mi[s]kadshinan ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (mi[s]kadshi + anan)",
            "type": "text"
           }
          ]
         },
         {
          "text": " ",
-         "type": "text"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "text": " (maf’k’di + anan) ",
          "type": "text"
         },
         {
@@ -385,7 +381,7 @@
       {
        "tokens": [
         {
-         "text": "‎מְקַדְּשִׁיתוּ/ן ",
+         "text": "‎מִ[תְ]קַדְשִׁיתוּ/ן ",
          "type": "text"
         },
         {
@@ -393,7 +389,7 @@
          "html": "<br>"
         },
         {
-         "text": " (מַפְקְדִי + אַתּוּ/ן) ",
+         "text": " (מִ[תְ]קַדְשִׁי + אַתּוּ/ן) ",
          "type": "text"
         },
         {
@@ -412,7 +408,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "maf’k’disu/n ",
+           "text": "mi[s]kadshisu/n ",
            "type": "text"
           },
           {
@@ -420,7 +416,7 @@
            "html": "<br>"
           },
           {
-           "text": " (maf’k’di + atu/n)",
+           "text": " (mi[s]kadshi + atu/n)",
            "type": "text"
           }
          ]
@@ -481,14 +477,14 @@
         "type": "text"
        },
        {
-        "text": "_af’el_ active participle for regular shorushim without pronoun suffixes",
+        "text": "_ispa’al_ active participle for regular shorushim without pronoun suffixes",
         "type": "global",
         "tokens": [
          {
           "type": "italics",
           "tokens": [
            {
-            "text": "af’el",
+            "text": "ispa’al",
             "type": "text"
            }
           ]
@@ -498,10 +494,10 @@
           "type": "text"
          }
         ],
-        "targetSubtopic": "Af’el Active Participle for Regular Shorushim without pronoun suffixes",
-        "targetTopic": "Af’el Active Participle for Regular Shorushim without pronoun suffixes",
-        "enclosingTopic": "Af’el Active Participle for Regular Shorushim with pronoun suffixes",
-        "enclosingSubtopic": "Af’el Active Participle for Regular Shorushim with pronoun suffixes"
+        "targetSubtopic": "Ispa’al Active Participle for Regular Shorushim without pronoun suffixes",
+        "targetTopic": "Ispa’al Active Participle for Regular Shorushim without pronoun suffixes",
+        "enclosingTopic": "Ispa’al Active Participle for Regular Shorushim with pronoun suffixes",
+        "enclosingSubtopic": "Ispa’al Active Participle for Regular Shorushim with pronoun suffixes"
        },
        {
         "text": ".",
@@ -520,13 +516,22 @@
       "superscript": "1",
       "tokens": [
        {
-        "text": " For any regular shoresh, you can replace the letters ‎פ, ‎ק, and ד above with the letters of your shoresh to produce the proper conjugations.",
+        "text": " Because Aramaic was a less-formal spoken language, it often has several versions of the same word. Square brackets indicate letters that sometimes are omitted.",
         "type": "text"
        }
       ]
      },
      {
       "superscript": "2",
+      "tokens": [
+       {
+        "text": " For any regular shoresh, you can replace the letters ‎ק, ‎ד, and שׁ above with the letters of your shoresh to produce the proper conjugations.",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "superscript": "3",
       "tokens": [
        {
         "text": " Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's ",

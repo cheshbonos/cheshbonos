@@ -1,51 +1,51 @@
 {
- "displayTopicName": "_Af’el_ Active Participle for Regular Shorushim with pronoun suffixes",
+ "displayTopicName": "_Ispa’al_ Past Tense for regular shorushim",
  "topicTokens": [
   {
    "type": "italics",
    "tokens": [
     {
-     "text": "Af’el",
+     "text": "Ispa’al",
      "type": "text"
     }
    ]
   },
   {
-   "text": " Active Participle for Regular Shorushim with pronoun suffixes",
+   "text": " Past Tense for regular shorushim",
    "type": "text"
   }
  ],
  "paragraphsBySubtopic": {
-  "Af’el Active Participle for Regular Shorushim with pronoun suffixes": [
+  "Ispa’al Past Tense for regular shorushim": [
    {
     "text": "The ",
     "type": "text"
    },
    {
-    "text": "_af’el_ active participle form",
+    "text": "_ispa’al_ past tense",
     "type": "global",
     "tokens": [
      {
       "type": "italics",
       "tokens": [
        {
-        "text": "af’el",
+        "text": "ispa’al",
         "type": "text"
        }
       ]
      },
      {
-      "text": " active participle form",
+      "text": " past tense",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Af’el Active Participle",
-    "targetTopic": "Af’el Active Participle",
-    "enclosingTopic": "Af’el Active Participle for Regular Shorushim with pronoun suffixes",
-    "enclosingSubtopic": "Af’el Active Participle for Regular Shorushim with pronoun suffixes"
+    "targetSubtopic": "Ispa’al Past Tense",
+    "targetTopic": "Ispa’al Past Tense",
+    "enclosingTopic": "Ispa’al Past Tense for regular shorushim",
+    "enclosingSubtopic": "Ispa’al Past Tense for regular shorushim"
    },
    {
-    "text": " has the following conjugation pattern for ",
+    "text": " follows these conjugations for ",
     "type": "text"
    },
    {
@@ -59,29 +59,11 @@
     ],
     "targetSubtopic": "Regular shorushim",
     "targetTopic": "Regular shorushim",
-    "enclosingTopic": "Af’el Active Participle for Regular Shorushim with pronoun suffixes",
-    "enclosingSubtopic": "Af’el Active Participle for Regular Shorushim with pronoun suffixes"
+    "enclosingTopic": "Ispa’al Past Tense for regular shorushim",
+    "enclosingSubtopic": "Ispa’al Past Tense for regular shorushim"
    },
    {
-    "text": " when ",
-    "type": "text"
-   },
-   {
-    "text": "pronoun suffixes",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "pronoun suffixes",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Pronoun suffixes",
-    "targetTopic": "Pronoun suffixes",
-    "enclosingTopic": "Af’el Active Participle for Regular Shorushim with pronoun suffixes",
-    "enclosingSubtopic": "Af’el Active Participle for Regular Shorushim with pronoun suffixes"
-   },
-   {
-    "text": " are added: ",
+    "text": ": ",
     "type": "text"
    },
    {
@@ -97,197 +79,18 @@
          "type": "bold",
          "tokens": [
           {
-           "text": "First-person",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "Second-person",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "type": "bold",
-         "tokens": [
-          {
            "text": "Singular",
            "type": "text"
           }
          ]
         }
-       ]
+       ],
+       "colspan": 2
       },
       {
-       "tokens": [
-        {
-         "text": "מַפְקֵידְנָא ",
-         "type": "text"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "text": " (מַפְקֵיד + אֲנָא) ",
-         "type": "text"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "text": " ",
-         "type": "text"
-        },
-        {
-         "type": "italics",
-         "tokens": [
-          {
-           "text": "mafkeidnau ",
-           "type": "text"
-          },
-          {
-           "type": "html_element",
-           "html": "<br>"
-          },
-          {
-           "text": " (mafkeid + anau)",
-           "type": "text"
-          }
-         ]
-        },
-        {
-         "text": " ",
-         "type": "text"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "text": " I am making holy",
-         "type": "text"
-        }
-       ]
+       "tokens": [],
+       "merge": true
       },
-      {
-       "tokens": [
-        {
-         "text": "מַפְקְדַתְּ ",
-         "type": "text"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "text": " (מַפְקֵיד + אַתְּ) ",
-         "type": "text"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "text": " ",
-         "type": "text"
-        },
-        {
-         "type": "italics",
-         "tokens": [
-          {
-           "text": "maf’k’dat ",
-           "type": "text"
-          },
-          {
-           "type": "html_element",
-           "html": "<br>"
-          },
-          {
-           "text": " (mafkeid + at)",
-           "type": "text"
-          }
-         ]
-        },
-        {
-         "text": " ",
-         "type": "text"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "text": " You [man or woman] ",
-         "type": "text"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "text": " are making holy",
-         "type": "text"
-        }
-       ]
-      }
-     ],
-     [
       {
        "tokens": [
         {
@@ -299,120 +102,22 @@
           }
          ]
         }
-       ]
+       ],
+       "colspan": 2
       },
+      {
+       "tokens": [],
+       "merge": true
+      }
+     ],
+     [
       {
        "tokens": [
         {
-         "text": "מַפְקְדִינַן ",
-         "type": "text"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "text": " (מַפְקְדִי + אֲנַן) ",
-         "type": "text"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "text": " ",
-         "type": "text"
-        },
-        {
-         "type": "italics",
+         "type": "bold",
          "tokens": [
           {
-           "text": "maf’k’dinan",
-           "type": "text"
-          }
-         ]
-        },
-        {
-         "text": " ",
-         "type": "text"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "text": " (maf’k’di + anan) ",
-         "type": "text"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "text": " We are making holy",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "‎מְקַדְּשִׁיתוּ/ן ",
-         "type": "text"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "text": " (מַפְקְדִי + אַתּוּ/ן) ",
-         "type": "text"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "text": " ",
-         "type": "text"
-        },
-        {
-         "type": "italics",
-         "tokens": [
-          {
-           "text": "maf’k’disu/n ",
+           "text": "First- ",
            "type": "text"
           },
           {
@@ -420,7 +125,36 @@
            "html": "<br>"
           },
           {
-           "text": " (maf’k’di + atu/n)",
+           "text": " Person",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "‎אִי(תְ)קַדַּשׁי‎ ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "i(s)kad’dashi",
            "type": "text"
           }
          ]
@@ -442,15 +176,20 @@
          "html": "<br>"
         },
         {
-         "type": "html_element",
-         "html": "<br>"
-        },
+         "text": " I made holy",
+         "type": "text"
+        }
+       ],
+       "colspan": 2
+      },
+      {
+       "tokens": [],
+       "merge": true
+      },
+      {
+       "tokens": [
         {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "text": " You [men or women] ",
+         "text": "אִי(תְ)קַדַּשְׁנַן ‎ ",
          "type": "text"
         },
         {
@@ -458,7 +197,395 @@
          "html": "<br>"
         },
         {
-         "text": " are making holy",
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "i(s)kad’dashnan",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " We became holy",
+         "type": "text"
+        }
+       ],
+       "colspan": 2
+      },
+      {
+       "tokens": [],
+       "merge": true
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Second-Person",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "‎אִי(תְ)קַדַּשְׁתְּ‎ ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "i(s)kad’dash’t",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " You [male or female] ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " became holy",
+         "type": "text"
+        }
+       ],
+       "colspan": 2
+      },
+      {
+       "tokens": [],
+       "merge": true
+      },
+      {
+       "tokens": [
+        {
+         "text": "אִי(תְ)קַדַּשִׁיתוּ ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "i(s)kad’dashisu",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " You [males or females] ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " became holy",
+         "type": "text"
+        }
+       ],
+       "colspan": 2
+      },
+      {
+       "tokens": [],
+       "merge": true
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Third-Person",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "אִי(תְ)קַדַּשׁ ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "i(s)kad’dash",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " He became holy",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "אִי(תְ)קַדַּשַׁת אִי(תְ)קַדְּשָׁ(א/ה) ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "i(s)kad’dashas, iskad’dshau",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " She became holy",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "אִי(תְ)קַדַּשׁוּ אִי(תְ)קַדּוּשׁ ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "i(s)kad’dashu, iskad’dush",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " They [males] became holy",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "אִי(תְ)קַדַּשָׁן ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "i(s)kad’dashaun",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " They [females] became holy",
          "type": "text"
         }
        ]
@@ -471,56 +598,13 @@
     "type": "text"
    },
    {
-    "topLevelNodes": [
-     {
-      "ordinal": "-",
-      "ordered": false,
-      "tokensOfLine": [
-       {
-        "text": "There is also a form of the ",
-        "type": "text"
-       },
-       {
-        "text": "_af’el_ active participle for regular shorushim without pronoun suffixes",
-        "type": "global",
-        "tokens": [
-         {
-          "type": "italics",
-          "tokens": [
-           {
-            "text": "af’el",
-            "type": "text"
-           }
-          ]
-         },
-         {
-          "text": " active participle for regular shorushim without pronoun suffixes",
-          "type": "text"
-         }
-        ],
-        "targetSubtopic": "Af’el Active Participle for Regular Shorushim without pronoun suffixes",
-        "targetTopic": "Af’el Active Participle for Regular Shorushim without pronoun suffixes",
-        "enclosingTopic": "Af’el Active Participle for Regular Shorushim with pronoun suffixes",
-        "enclosingSubtopic": "Af’el Active Participle for Regular Shorushim with pronoun suffixes"
-       },
-       {
-        "text": ".",
-        "type": "text"
-       }
-      ],
-      "children": []
-     }
-    ],
-    "type": "outline"
-   },
-   {
     "type": "footnote_lines",
     "lines": [
      {
       "superscript": "1",
       "tokens": [
        {
-        "text": " For any regular shoresh, you can replace the letters ‎פ, ‎ק, and ד above with the letters of your shoresh to produce the proper conjugations.",
+        "text": " Because Aramaic was a less-formal spoken language, it often has several versions of the same word.",
         "type": "text"
        }
       ]
@@ -529,7 +613,16 @@
       "superscript": "2",
       "tokens": [
        {
-        "text": " Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's ",
+        "text": " For any regular shoresh, you can replace the letters ‎ק, ‎ד, and שׁ above with the letters of your shoresh to produce the proper conjugations.",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "superscript": "3",
+      "tokens": [
+       {
+        "text": " Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank’s ",
         "type": "text"
        },
        {

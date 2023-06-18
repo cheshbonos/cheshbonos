@@ -1,0 +1,255 @@
+{
+ "displayTopicName": "_Itaf’al_ tenses for regular shorushim",
+ "topicTokens": [
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "Itaf’al",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "text": " tenses for regular shorushim",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Itaf’al tenses for regular shorushim": [
+   {
+    "text": "The ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "itaf’al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " binyan has conjugations for regular shorushim, along with ",
+    "type": "text"
+   },
+   {
+    "text": "_Itaf’al_ tenses for other shoresh types",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "Itaf’al",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " tenses for other shoresh types",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Itaf’al tenses for different shoresh types",
+    "targetTopic": "Itaf’al tenses for different shoresh types",
+    "enclosingTopic": "Itaf’al tenses for regular shorushim",
+    "enclosingSubtopic": "Itaf’al tenses for regular shorushim"
+   },
+   {
+    "text": ", in five forms: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "Past Tense <br> (for regular shorushim in the _itaf’al)_",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Past Tense ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (for regular shorushim in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "itaf’al)",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Itaf’al Past Tense for regular shorushim",
+         "targetTopic": "Itaf’al Past Tense for regular shorushim",
+         "enclosingTopic": "Itaf’al tenses for regular shorushim",
+         "enclosingSubtopic": "Itaf’al tenses for regular shorushim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Future Tense <br> (for regular shorushim in the _itaf’al)_",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Future Tense ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (for regular shorushim in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "itaf’al)",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Itaf’al Future Tense for regular shorushim",
+         "targetTopic": "Itaf’al Future Tense for regular shorushim",
+         "enclosingTopic": "Itaf’al tenses for regular shorushim",
+         "enclosingSubtopic": "Itaf’al tenses for regular shorushim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Active Participle <br> (for regular shorushim in the _itaf’al)_",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Active Participle ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (for regular shorushim in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "itaf’al)",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Itaf’al Active Participle for Regular Shorushim",
+         "targetTopic": "Itaf’al Active Participle for Regular Shorushim",
+         "enclosingTopic": "Itaf’al tenses for regular shorushim",
+         "enclosingSubtopic": "Itaf’al tenses for regular shorushim"
+        }
+       ],
+       "rowspan": 2
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Imperative <br> (for regular shorushim in the _itaf’al)_",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Imperative ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (for regular shorushim in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "itaf’al)",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Itaf’al Imperative for regular shorushim",
+         "targetTopic": "Itaf’al Imperative for regular shorushim",
+         "enclosingTopic": "Itaf’al tenses for regular shorushim",
+         "enclosingSubtopic": "Itaf’al tenses for regular shorushim"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Infinitive <br> (for regular shorushim in the _itaf’al)_",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Infinitive ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (for regular shorushim in the ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "itaf’al)",
+             "type": "text"
+            }
+           ]
+          }
+         ],
+         "targetSubtopic": "Itaf’al Infinitive for regular shorushim",
+         "targetTopic": "Itaf’al Infinitive for regular shorushim",
+         "enclosingTopic": "Itaf’al tenses for regular shorushim",
+         "enclosingSubtopic": "Itaf’al tenses for regular shorushim"
+        }
+       ]
+      },
+      {
+       "tokens": [],
+       "merge": true
+      }
+     ]
+    ]
+   }
+  ]
+ }
+}

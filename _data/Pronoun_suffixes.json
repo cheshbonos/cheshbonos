@@ -202,12 +202,8 @@
          "html": "<br>"
         },
         {
-         "text": " ",
+         "text": " I",
          "type": "text"
-        },
-        {
-         "type": "html_element",
-         "html": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
         }
        ]
       },
@@ -314,7 +310,7 @@
       {
        "tokens": [
         {
-         "text": "‎אַתּוּ‎ ",
+         "text": "‎אַתּוּ/ן‎ ",
          "type": "text"
         },
         {
@@ -333,7 +329,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "atu",
+           "text": "atu/n",
            "type": "text"
           }
          ]

@@ -1,51 +1,69 @@
 {
- "displayTopicName": "_Pa’al_ Active Participle for shorushim with a middle ו",
+ "displayTopicName": "_Ispa’al_ Imperative for regular shorushim",
  "topicTokens": [
   {
    "type": "italics",
    "tokens": [
     {
-     "text": "Pa’al",
+     "text": "Ispa’al",
      "type": "text"
     }
    ]
   },
   {
-   "text": " Active Participle for shorushim with a middle ו",
+   "text": " Imperative for regular shorushim",
    "type": "text"
   }
  ],
  "paragraphsBySubtopic": {
-  "Pa’al Active Participle for shorushim with a middle ו": [
+  "Ispa’al Imperative for regular shorushim": [
    {
     "text": "The ",
     "type": "text"
    },
    {
-    "text": "_pa’al_ active participle",
+    "text": "_ispa’al_ imperative form",
     "type": "global",
     "tokens": [
      {
       "type": "italics",
       "tokens": [
        {
-        "text": "pa’al",
+        "text": "ispa’al",
         "type": "text"
        }
       ]
      },
      {
-      "text": " active participle",
+      "text": " imperative form",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Pa’al Active Participle",
-    "targetTopic": "Pa’al Active Participle",
-    "enclosingTopic": "Pa’al Active Participle for shorushim with a middle ו",
-    "enclosingSubtopic": "Pa’al Active Participle for shorushim with a middle ו"
+    "targetSubtopic": "Ispa’al Imperative",
+    "targetTopic": "Ispa’al Imperative",
+    "enclosingTopic": "Ispa’al Imperative for regular shorushim",
+    "enclosingSubtopic": "Ispa’al Imperative for regular shorushim"
    },
    {
-    "text": " has a special conjugation for shorushim with a middle ו (also known as “two letter shorushim,” or “hollow roots”) like רוץ (running): ",
+    "text": " follows these conjugations for ",
+    "type": "text"
+   },
+   {
+    "text": "regular shorushim",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "regular shorushim",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Regular shorushim",
+    "targetTopic": "Regular shorushim",
+    "enclosingTopic": "Ispa’al Imperative for regular shorushim",
+    "enclosingSubtopic": "Ispa’al Imperative for regular shorushim"
+   },
+   {
+    "text": ": ",
     "type": "text"
    },
    {
@@ -99,7 +117,7 @@
       {
        "tokens": [
         {
-         "text": "רָץ ",
+         "text": "אִי(תְ)קַדַּשׁ ",
          "type": "text"
         },
         {
@@ -118,7 +136,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "rautz",
+           "text": "iskadash!",
            "type": "text"
           }
          ]
@@ -140,7 +158,7 @@
          "html": "<br>"
         },
         {
-         "text": " [he is] running",
+         "text": " [to a man] become holy!",
          "type": "text"
         }
        ]
@@ -148,7 +166,7 @@
       {
        "tokens": [
         {
-         "text": "רָצָה ",
+         "text": "אִי(תְ)קַדַּשִׁי ",
          "type": "text"
         },
         {
@@ -167,7 +185,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "rautzau",
+           "text": "iskadashi!",
            "type": "text"
           }
          ]
@@ -189,7 +207,7 @@
          "html": "<br>"
         },
         {
-         "text": " [she is] running",
+         "text": " [to a woman] become holy!",
          "type": "text"
         }
        ]
@@ -212,7 +230,7 @@
       {
        "tokens": [
         {
-         "text": "רָצִים ",
+         "text": "אִי(תְ)קַדְּשׁוּ ",
          "type": "text"
         },
         {
@@ -231,7 +249,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "rautzim",
+           "text": "iskadshu!",
            "type": "text"
           }
          ]
@@ -253,78 +271,21 @@
          "html": "<br>"
         },
         {
-         "text": " [those men are] running",
+         "text": " [to men or women] become holy!",
          "type": "text"
         }
-       ]
+       ],
+       "colspan": 2
       },
       {
-       "tokens": [
-        {
-         "text": "רָצוֹת ",
-         "type": "text"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "text": " ",
-         "type": "text"
-        },
-        {
-         "type": "italics",
-         "tokens": [
-          {
-           "text": "rautzos",
-           "type": "text"
-          }
-         ]
-        },
-        {
-         "text": " ",
-         "type": "text"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "text": " [those women are] running",
-         "type": "text"
-        }
-       ]
+       "tokens": [],
+       "merge": true
       }
      ]
     ]
    },
    {
-    "text": " You can take any shoresh with a weak middle litter and replace the letters ר and צ in the conjugations above with the first and last letters of your shoresh to produce the ",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "pa’al",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " active participle of the given shoresh, (unless the shoresh has additional irregular features.)",
+    "text": " For any regular shoresh, you can replace the letters ‎ק, ‎ד, and שׁ above with the letters of your shoresh to produce the proper conjugation.",
     "type": "text"
    }
   ]

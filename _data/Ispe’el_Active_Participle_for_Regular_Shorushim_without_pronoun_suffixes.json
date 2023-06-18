@@ -439,35 +439,36 @@
        }
       ],
       "children": []
-     },
+     }
+    ],
+    "type": "outline"
+   },
+   {
+    "type": "footnote_lines",
+    "lines": [
      {
-      "ordinal": "-",
-      "ordered": false,
-      "tokensOfLine": [
+      "superscript": "1",
+      "tokens": [
        {
-        "text": "Aramaic being a less-formal spoken language often has several versions of the same word. Letters in parentheses are sometimes omitted.",
+        "text": " Because Aramaic was a less-formal spoken language, it often has several versions of the same word. Letters in parentheses are sometimes omitted.",
         "type": "text"
        }
-      ],
-      "children": []
+      ]
      },
      {
-      "ordinal": "-",
-      "ordered": false,
-      "tokensOfLine": [
+      "superscript": "2",
+      "tokens": [
        {
-        "text": "For any regular shoresh, you can replace the letters ‎מ, ‎ס, and ר above with the letters of your shoresh to produce the proper conjugations.",
+        "text": " For any regular shoresh, you can replace the letters ‎מ, ‎ס, and ר above with the letters of your shoresh to produce the proper conjugations.",
         "type": "text"
        }
-      ],
-      "children": []
+      ]
      },
      {
-      "ordinal": "-",
-      "ordered": false,
-      "tokensOfLine": [
+      "superscript": "3",
+      "tokens": [
        {
-        "text": "Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's ",
+        "text": " Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's ",
         "type": "text"
        },
        {
@@ -483,11 +484,9 @@
         "text": ".",
         "type": "text"
        }
-      ],
-      "children": []
+      ]
      }
-    ],
-    "type": "outline"
+    ]
    }
   ]
  }

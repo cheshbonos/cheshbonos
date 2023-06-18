@@ -1,35 +1,35 @@
 {
- "displayTopicName": "_Af’el_ Active Participle for Regular Shorushim with pronoun suffixes",
+ "displayTopicName": "_Itaf’al_ Active Participle for Regular Shorushim",
  "topicTokens": [
   {
    "type": "italics",
    "tokens": [
     {
-     "text": "Af’el",
+     "text": "Itaf’al",
      "type": "text"
     }
    ]
   },
   {
-   "text": " Active Participle for Regular Shorushim with pronoun suffixes",
+   "text": " Active Participle for Regular Shorushim",
    "type": "text"
   }
  ],
  "paragraphsBySubtopic": {
-  "Af’el Active Participle for Regular Shorushim with pronoun suffixes": [
+  "Itaf’al Active Participle for Regular Shorushim": [
    {
     "text": "The ",
     "type": "text"
    },
    {
-    "text": "_af’el_ active participle form",
+    "text": "_itaf’al_ active participle form",
     "type": "global",
     "tokens": [
      {
       "type": "italics",
       "tokens": [
        {
-        "text": "af’el",
+        "text": "itaf’al",
         "type": "text"
        }
       ]
@@ -39,13 +39,39 @@
       "type": "text"
      }
     ],
-    "targetSubtopic": "Af’el Active Participle",
-    "targetTopic": "Af’el Active Participle",
-    "enclosingTopic": "Af’el Active Participle for Regular Shorushim with pronoun suffixes",
-    "enclosingSubtopic": "Af’el Active Participle for Regular Shorushim with pronoun suffixes"
+    "targetSubtopic": "Itaf’al Active Participle",
+    "targetTopic": "Itaf’al Active Participle",
+    "enclosingTopic": "Itaf’al Active Participle for Regular Shorushim",
+    "enclosingSubtopic": "Itaf’al Active Participle for Regular Shorushim"
    },
    {
-    "text": " has the following conjugation pattern for ",
+    "text": " does not occur frequently enough in the Talmud to determine its regular conjugations. This is the conjugation pattern of the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "itaf’al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " in ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "Targum Onkolos",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " for ",
     "type": "text"
    },
    {
@@ -59,29 +85,11 @@
     ],
     "targetSubtopic": "Regular shorushim",
     "targetTopic": "Regular shorushim",
-    "enclosingTopic": "Af’el Active Participle for Regular Shorushim with pronoun suffixes",
-    "enclosingSubtopic": "Af’el Active Participle for Regular Shorushim with pronoun suffixes"
+    "enclosingTopic": "Itaf’al Active Participle for Regular Shorushim",
+    "enclosingSubtopic": "Itaf’al Active Participle for Regular Shorushim"
    },
    {
-    "text": " when ",
-    "type": "text"
-   },
-   {
-    "text": "pronoun suffixes",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "pronoun suffixes",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Pronoun suffixes",
-    "targetTopic": "Pronoun suffixes",
-    "enclosingTopic": "Af’el Active Participle for Regular Shorushim with pronoun suffixes",
-    "enclosingSubtopic": "Af’el Active Participle for Regular Shorushim with pronoun suffixes"
-   },
-   {
-    "text": " are added: ",
+    "text": ": ",
     "type": "text"
    },
    {
@@ -97,7 +105,7 @@
          "type": "bold",
          "tokens": [
           {
-           "text": "First-person",
+           "text": "Masculine",
            "type": "text"
           }
          ]
@@ -110,7 +118,7 @@
          "type": "bold",
          "tokens": [
           {
-           "text": "Second-person",
+           "text": "Feminine",
            "type": "text"
           }
          ]
@@ -135,15 +143,7 @@
       {
        "tokens": [
         {
-         "text": "מַפְקֵידְנָא ",
-         "type": "text"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "text": " (מַפְקֵיד + אֲנָא) ",
+         "text": "מִיתַּפְקַד ",
          "type": "text"
         },
         {
@@ -162,15 +162,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "mafkeidnau ",
-           "type": "text"
-          },
-          {
-           "type": "html_element",
-           "html": "<br>"
-          },
-          {
-           "text": " (mafkeid + anau)",
+           "text": "mitafkad",
            "type": "text"
           }
          ]
@@ -192,15 +184,15 @@
          "html": "<br>"
         },
         {
-         "type": "html_element",
-         "html": "<br>"
+         "text": " [he is] ",
+         "type": "text"
         },
         {
          "type": "html_element",
          "html": "<br>"
         },
         {
-         "text": " I am making holy",
+         "text": " being deposited",
          "type": "text"
         }
        ]
@@ -208,15 +200,7 @@
       {
        "tokens": [
         {
-         "text": "מַפְקְדַתְּ ",
-         "type": "text"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "text": " (מַפְקֵיד + אַתְּ) ",
+         "text": "מִיתַּפְקַדָא ",
          "type": "text"
         },
         {
@@ -235,15 +219,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "maf’k’dat ",
-           "type": "text"
-          },
-          {
-           "type": "html_element",
-           "html": "<br>"
-          },
-          {
-           "text": " (mafkeid + at)",
+           "text": "mitafkadau",
            "type": "text"
           }
          ]
@@ -265,15 +241,7 @@
          "html": "<br>"
         },
         {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "text": " You [man or woman] ",
+         "text": " [she is] ",
          "type": "text"
         },
         {
@@ -281,7 +249,7 @@
          "html": "<br>"
         },
         {
-         "text": " are making holy",
+         "text": " being handed over",
          "type": "text"
         }
        ]
@@ -304,15 +272,7 @@
       {
        "tokens": [
         {
-         "text": "מַפְקְדִינַן ",
-         "type": "text"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "text": " (מַפְקְדִי + אֲנַן) ",
+         "text": "מִיתַּפְקַדִין ",
          "type": "text"
         },
         {
@@ -331,7 +291,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "maf’k’dinan",
+           "text": "mitafkadin",
            "type": "text"
           }
          ]
@@ -353,7 +313,7 @@
          "html": "<br>"
         },
         {
-         "text": " (maf’k’di + anan) ",
+         "text": " [those men are] ",
          "type": "text"
         },
         {
@@ -361,23 +321,7 @@
          "html": "<br>"
         },
         {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "text": " We are making holy",
+         "text": " being desposited",
          "type": "text"
         }
        ]
@@ -385,15 +329,7 @@
       {
        "tokens": [
         {
-         "text": "‎מְקַדְּשִׁיתוּ/ן ",
-         "type": "text"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "text": " (מַפְקְדִי + אַתּוּ/ן) ",
+         "text": "מִיתַּפְקַדָן ",
          "type": "text"
         },
         {
@@ -412,15 +348,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "maf’k’disu/n ",
-           "type": "text"
-          },
-          {
-           "type": "html_element",
-           "html": "<br>"
-          },
-          {
-           "text": " (maf’k’di + atu/n)",
+           "text": "mitafkadaun",
            "type": "text"
           }
          ]
@@ -442,15 +370,7 @@
          "html": "<br>"
         },
         {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "type": "html_element",
-         "html": "<br>"
-        },
-        {
-         "text": " You [men or women] ",
+         "text": " [those women are] ",
          "type": "text"
         },
         {
@@ -458,7 +378,7 @@
          "html": "<br>"
         },
         {
-         "text": " are making holy",
+         "text": " being deposited",
          "type": "text"
         }
        ]
@@ -469,49 +389,6 @@
    {
     "text": " ",
     "type": "text"
-   },
-   {
-    "topLevelNodes": [
-     {
-      "ordinal": "-",
-      "ordered": false,
-      "tokensOfLine": [
-       {
-        "text": "There is also a form of the ",
-        "type": "text"
-       },
-       {
-        "text": "_af’el_ active participle for regular shorushim without pronoun suffixes",
-        "type": "global",
-        "tokens": [
-         {
-          "type": "italics",
-          "tokens": [
-           {
-            "text": "af’el",
-            "type": "text"
-           }
-          ]
-         },
-         {
-          "text": " active participle for regular shorushim without pronoun suffixes",
-          "type": "text"
-         }
-        ],
-        "targetSubtopic": "Af’el Active Participle for Regular Shorushim without pronoun suffixes",
-        "targetTopic": "Af’el Active Participle for Regular Shorushim without pronoun suffixes",
-        "enclosingTopic": "Af’el Active Participle for Regular Shorushim with pronoun suffixes",
-        "enclosingSubtopic": "Af’el Active Participle for Regular Shorushim with pronoun suffixes"
-       },
-       {
-        "text": ".",
-        "type": "text"
-       }
-      ],
-      "children": []
-     }
-    ],
-    "type": "outline"
    },
    {
     "type": "footnote_lines",
@@ -529,7 +406,7 @@
       "superscript": "2",
       "tokens": [
        {
-        "text": " Attempts to vowelize the Gemara are speculative. These conjugations are based on R Yitzchok Frank's ",
+        "text": " These conjugations are based on R Yitzchok Frank's ",
         "type": "text"
        },
        {

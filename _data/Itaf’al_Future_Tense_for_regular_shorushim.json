@@ -1,11 +1,11 @@
 {
- "displayTopicName": "_Ispe’el_ Future Tense for regular shorushim",
+ "displayTopicName": "_Itaf’al_ Future Tense for regular shorushim",
  "topicTokens": [
   {
    "type": "italics",
    "tokens": [
     {
-     "text": "Ispe’el",
+     "text": "Itaf’al",
      "type": "text"
     }
    ]
@@ -16,20 +16,20 @@
   }
  ],
  "paragraphsBySubtopic": {
-  "Ispe’el Future Tense for regular shorushim": [
+  "Itaf’al Future Tense for regular shorushim": [
    {
     "text": "The ",
     "type": "text"
    },
    {
-    "text": "_ispe’el_ future tense",
+    "text": "_itaf’al_ future tense",
     "type": "global",
     "tokens": [
      {
       "type": "italics",
       "tokens": [
        {
-        "text": "ispe’el",
+        "text": "itaf’al",
         "type": "text"
        }
       ]
@@ -39,13 +39,39 @@
       "type": "text"
      }
     ],
-    "targetSubtopic": "Ispe’el Future Tense",
-    "targetTopic": "Ispe’el Future Tense",
-    "enclosingTopic": "Ispe’el Future Tense for regular shorushim",
-    "enclosingSubtopic": "Ispe’el Future Tense for regular shorushim"
+    "targetSubtopic": "Itaf’al Future Tense",
+    "targetTopic": "Itaf’al Future Tense",
+    "enclosingTopic": "Itaf’al Future Tense for regular shorushim",
+    "enclosingSubtopic": "Itaf’al Future Tense for regular shorushim"
    },
    {
-    "text": " follows these conjugations for ",
+    "text": " does not occur frequently enough in the Talmud to determine its regular conjugations. This is the conjugation pattern of the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "itaf’al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " in ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "Targum Onkolos",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " for ",
     "type": "text"
    },
    {
@@ -59,8 +85,8 @@
     ],
     "targetSubtopic": "Regular shorushim",
     "targetTopic": "Regular shorushim",
-    "enclosingTopic": "Ispe’el Future Tense for regular shorushim",
-    "enclosingSubtopic": "Ispe’el Future Tense for regular shorushim"
+    "enclosingTopic": "Itaf’al Future Tense for regular shorushim",
+    "enclosingSubtopic": "Itaf’al Future Tense for regular shorushim"
    },
    {
     "text": ": ",
@@ -135,7 +161,7 @@
       {
        "tokens": [
         {
-         "text": "אֶי(תְ)מְּסֵיר ",
+         "text": "אִתַּפְקַד ",
          "type": "text"
         },
         {
@@ -154,7 +180,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "e(s’)m’seir",
+           "text": "itafkad",
            "type": "text"
           }
          ]
@@ -176,7 +202,7 @@
          "html": "<br>"
         },
         {
-         "text": " I will be handed over",
+         "text": " I will be deposited",
          "type": "text"
         }
        ],
@@ -189,7 +215,7 @@
       {
        "tokens": [
         {
-         "text": "לִי(תְ)מְּסֵיר, ‎נִי(תְ)מְּסֵיר ",
+         "text": "נִתַּפְקַד ",
          "type": "text"
         },
         {
@@ -208,7 +234,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "ni(s’)m’seir, li(s’)m’seir",
+           "text": "titafkad",
            "type": "text"
           }
          ]
@@ -230,7 +256,7 @@
          "html": "<br>"
         },
         {
-         "text": " We will be handed over",
+         "text": " We will be deposited",
          "type": "text"
         }
        ],
@@ -258,7 +284,7 @@
       {
        "tokens": [
         {
-         "text": "תִּ(תְ)מְסֵיר ",
+         "text": "תִּתַּפְקַד ",
          "type": "text"
         },
         {
@@ -277,7 +303,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "ti(s’)m’seir",
+           "text": "titafkad",
            "type": "text"
           }
          ]
@@ -307,7 +333,7 @@
          "html": "<br>"
         },
         {
-         "text": " will be handed over",
+         "text": " will be deposited",
          "type": "text"
         }
        ]
@@ -315,7 +341,7 @@
       {
        "tokens": [
         {
-         "text": "תִּי(תְ)מַסְרִי(ן) ",
+         "text": "תִּתַּפְקְדִין ",
          "type": "text"
         },
         {
@@ -334,7 +360,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "ti(s)masri(n)",
+           "text": "titaf’k’din",
            "type": "text"
           }
          ]
@@ -364,7 +390,7 @@
          "html": "<br>"
         },
         {
-         "text": " will be handed over",
+         "text": " will be deposited",
          "type": "text"
         }
        ]
@@ -372,7 +398,7 @@
       {
        "tokens": [
         {
-         "text": "תִּי(תְ)מַּסְרוּ ",
+         "text": "תִּתַּפְקְדָן ",
          "type": "text"
         },
         {
@@ -391,7 +417,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "tismasru",
+           "text": "titaf’k’daun",
            "type": "text"
           }
          ]
@@ -421,15 +447,67 @@
          "html": "<br>"
         },
         {
-         "text": " will be handed over",
+         "text": " will be deposited",
          "type": "text"
         }
-       ],
-       "colspan": 2
+       ]
       },
       {
-       "tokens": [],
-       "merge": true
+       "tokens": [
+        {
+         "text": "תִּתַּפְקְדוּן ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "titaf’k’dun",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " You [all] ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " will be deposited",
+         "type": "text"
+        }
+       ]
       }
      ],
      [
@@ -457,7 +535,7 @@
       {
        "tokens": [
         {
-         "text": "‎לִי(תְ)מְסֵיר, ‎נִי(תְ)מְסֵיר ",
+         "text": "יִתַּפְקַד ",
          "type": "text"
         },
         {
@@ -476,7 +554,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "li(s’)m’seir, ni(s’)m’seir",
+           "text": "yitafkad",
            "type": "text"
           }
          ]
@@ -506,7 +584,7 @@
          "html": "<br>"
         },
         {
-         "text": " handed over",
+         "text": " deposited",
          "type": "text"
         }
        ]
@@ -514,7 +592,7 @@
       {
        "tokens": [
         {
-         "text": "תִּי(תְ)מְּסֵר ",
+         "text": "תִּתַּפְקַד ",
          "type": "text"
         },
         {
@@ -533,7 +611,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "ti(s’)m’seir",
+           "text": "titafkad",
            "type": "text"
           }
          ]
@@ -563,7 +641,7 @@
          "html": "<br>"
         },
         {
-         "text": " handed over",
+         "text": " deposited",
          "type": "text"
         }
        ]
@@ -571,7 +649,7 @@
       {
        "tokens": [
         {
-         "text": "לִי(תְ)מַסְרוּ(ן)‎, נִי(תְ)מַסְרוּ ",
+         "text": "יִתַּפְקְדָן ",
          "type": "text"
         },
         {
@@ -590,7 +668,7 @@
          "type": "italics",
          "tokens": [
           {
-           "text": "li(s)masru(n), ni(s)masru",
+           "text": "yitaf’k’daun",
            "type": "text"
           }
          ]
@@ -612,7 +690,7 @@
          "html": "<br>"
         },
         {
-         "text": " They will be ",
+         "text": " They [men] will be ",
          "type": "text"
         },
         {
@@ -620,15 +698,67 @@
          "html": "<br>"
         },
         {
-         "text": " handed over",
+         "text": " deposited",
          "type": "text"
         }
-       ],
-       "colspan": 2
+       ]
       },
       {
-       "tokens": [],
-       "merge": true
+       "tokens": [
+        {
+         "text": "יִתַּפְקְדוּן ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "yitaf’k’adun",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " They [women] will be ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " deposited",
+         "type": "text"
+        }
+       ]
       }
      ]
     ]

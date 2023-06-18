@@ -1,11 +1,11 @@
 {
- "displayTopicName": "_Nif’al_ Active Participle",
+ "displayTopicName": "_Itaf’al_ Active Participle",
  "topicTokens": [
   {
    "type": "italics",
    "tokens": [
     {
-     "text": "Nif’al",
+     "text": "Itaf’al",
      "type": "text"
     }
    ]
@@ -16,55 +16,82 @@
   }
  ],
  "paragraphsBySubtopic": {
-  "Nif’al Active Participle": [
+  "Itaf’al Active Participle": [
    {
     "text": "The ",
     "type": "text"
    },
    {
-    "type": "italics",
+    "text": "_itaf’al_ binyan",
+    "type": "global",
     "tokens": [
      {
-      "text": "nif’al",
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "itaf’al",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " binyan",
       "type": "text"
      }
-    ]
+    ],
+    "targetSubtopic": "Itaf’al",
+    "targetTopic": "Itaf’al",
+    "enclosingTopic": "Itaf’al Active Participle",
+    "enclosingSubtopic": "Itaf’al Active Participle"
    },
    {
     "text": " has an ",
     "type": "text"
    },
    {
-    "text": "active participle",
+    "text": "active participle form",
     "type": "global",
     "tokens": [
      {
-      "text": "active participle",
+      "text": "active participle form",
       "type": "text"
      }
     ],
     "targetSubtopic": "Active Participle",
     "targetTopic": "Active Participle",
-    "enclosingTopic": "Nif’al Active Participle",
-    "enclosingSubtopic": "Nif’al Active Participle"
+    "enclosingTopic": "Itaf’al Active Participle",
+    "enclosingSubtopic": "Itaf’al Active Participle"
    },
    {
-    "text": " which is one of the ",
+    "text": ", which is one of the ",
     "type": "text"
    },
    {
-    "text": "forms of the nif’al binyan",
+    "text": "“tenses” of the _itaf’al_ binyan",
     "type": "global",
     "tokens": [
      {
-      "text": "forms of the nif’al binyan",
+      "text": "“tenses” of the ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "itaf’al",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " binyan",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Nif’al Tenses",
-    "targetTopic": "Nif’al Tenses",
-    "enclosingTopic": "Nif’al Active Participle",
-    "enclosingSubtopic": "Nif’al Active Participle"
+    "targetSubtopic": "Itaf’al Tenses",
+    "targetTopic": "Itaf’al Tenses",
+    "enclosingTopic": "Itaf’al Active Participle",
+    "enclosingSubtopic": "Itaf’al Active Participle"
    },
    {
     "text": ". ",
@@ -84,13 +111,13 @@
         "type": "italics",
         "tokens": [
          {
-          "text": "nif’al",
+          "text": "itaf’al",
           "type": "text"
          }
         ]
        },
        {
-        "text": " has ",
+        "text": " active participle has ",
         "type": "text"
        },
        {
@@ -102,10 +129,10 @@
           "type": "text"
          }
         ],
-        "targetSubtopic": "Nif’al Active Participle for Regular Shorushim",
-        "targetTopic": "Nif’al Active Participle for Regular Shorushim",
-        "enclosingTopic": "Nif’al Active Participle",
-        "enclosingSubtopic": "Nif’al Active Participle"
+        "targetSubtopic": "Itaf’al Active Participle for Regular Shorushim",
+        "targetTopic": "Itaf’al Active Participle for Regular Shorushim",
+        "enclosingTopic": "Itaf’al Active Participle",
+        "enclosingSubtopic": "Itaf’al Active Participle"
        },
        {
         "text": ". (Conjugations for ",
@@ -122,8 +149,8 @@
         ],
         "targetSubtopic": "Irregular shorushim",
         "targetTopic": "Irregular shorushim",
-        "enclosingTopic": "Nif’al Active Participle",
-        "enclosingSubtopic": "Nif’al Active Participle"
+        "enclosingTopic": "Itaf’al Active Participle",
+        "enclosingSubtopic": "Itaf’al Active Participle"
        },
        {
         "text": " are not yet available.)",
@@ -144,7 +171,7 @@
         "type": "italics",
         "tokens": [
          {
-          "text": "nif’al",
+          "text": "itaf’al",
           "type": "text"
          }
         ]
@@ -164,8 +191,8 @@
         ],
         "targetSubtopic": "Active Participle",
         "targetTopic": "Active Participle",
-        "enclosingTopic": "Nif’al Active Participle",
-        "enclosingSubtopic": "Nif’al Active Participle"
+        "enclosingTopic": "Itaf’al Active Participle",
+        "enclosingSubtopic": "Itaf’al Active Participle"
        },
        {
         "text": ", because the ",
@@ -175,7 +202,7 @@
         "type": "italics",
         "tokens": [
          {
-          "text": "nif’al",
+          "text": "itaf’al",
           "type": "text"
          }
         ]
@@ -193,10 +220,10 @@
           "type": "text"
          }
         ],
-        "targetSubtopic": "Passive binyanim",
-        "targetTopic": "Passive binyanim",
-        "enclosingTopic": "Nif’al Active Participle",
-        "enclosingSubtopic": "Nif’al Active Participle"
+        "targetSubtopic": "Passive",
+        "targetTopic": "Passive",
+        "enclosingTopic": "Itaf’al Active Participle",
+        "enclosingSubtopic": "Itaf’al Active Participle"
        },
        {
         "text": ", the active participle still describes a ",
@@ -213,11 +240,62 @@
         ],
         "targetSubtopic": "Passive",
         "targetTopic": "Passive",
-        "enclosingTopic": "Nif’al Active Participle",
-        "enclosingSubtopic": "Nif’al Active Participle"
+        "enclosingTopic": "Itaf’al Active Participle",
+        "enclosingSubtopic": "Itaf’al Active Participle"
        },
        {
         "text": " i.e. an action that is done to the subject or a quality the subject becomes.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "itaf’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " active participle corresponds to the ",
+        "type": "text"
+       },
+       {
+        "text": "_hif’il_ active participle",
+        "type": "global",
+        "tokens": [
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "hif’il",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " active participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Hif’il Active Participle",
+        "targetTopic": "Hif’il Active Participle",
+        "enclosingTopic": "Itaf’al Active Participle",
+        "enclosingSubtopic": "Itaf’al Active Participle"
+       },
+       {
+        "text": " of Hebrew.",
         "type": "text"
        }
       ],

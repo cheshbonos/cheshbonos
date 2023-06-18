@@ -9,20 +9,7 @@
  "paragraphsBySubtopic": {
   "Itaf’al": [
    {
-    "text": "The ",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "itaf’al",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " (אִתַּפְעַל) is one of the ",
+    "text": "The “Itaf’al” (אִתַּפְעַל) is one of the ",
     "type": "text"
    },
    {
@@ -68,6 +55,147 @@
       "ordered": false,
       "tokensOfLine": [
        {
+        "text": "A verb in the ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "itaf’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " often has a meaning of something being made to have a quality of the ",
+        "type": "text"
+       },
+       {
+        "text": "shoresh",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "shoresh",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Shoresh",
+        "targetTopic": "Shoresh",
+        "enclosingTopic": "Itaf’al",
+        "enclosingSubtopic": "Itaf’al"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "For example, the shoresh תוב means “returning” and the ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "itaf’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " verb אִיתָּתַב (",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "itausav",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ") means “to be brought back.”",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Advanced students can read ",
+        "type": "text"
+       },
+       {
+        "text": "more information about the _itaf’al_",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "more information about the ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "itaf’al",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "More information about the itaf’al",
+        "targetTopic": "Itaf’al",
+        "enclosingTopic": "Itaf’al",
+        "enclosingSubtopic": "Itaf’al"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "More information about the itaf’al": [
+   {
+    "text": "Here is more information about the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "itaf’al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " binyan: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
         "text": "Verbs in the ",
         "type": "text"
        },
@@ -85,18 +213,18 @@
         "type": "text"
        },
        {
-        "text": "active",
+        "text": "passive",
         "type": "global",
         "tokens": [
          {
-          "text": "active",
+          "text": "passive",
           "type": "text"
          }
         ],
-        "targetSubtopic": "Active",
-        "targetTopic": "Active",
+        "targetSubtopic": "Passive",
+        "targetTopic": "Passive",
         "enclosingTopic": "Itaf’al",
-        "enclosingSubtopic": "Itaf’al"
+        "enclosingSubtopic": "More information about the itaf’al"
        },
        {
         "text": " and ",
@@ -114,7 +242,91 @@
         "targetSubtopic": "Causative",
         "targetTopic": "Causative",
         "enclosingTopic": "Itaf’al",
-        "enclosingSubtopic": "Itaf’al"
+        "enclosingSubtopic": "More information about the itaf’al"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "itaf’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " ",
+        "type": "text"
+       },
+       {
+        "text": "has various verb forms",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "has various verb forms",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Itaf’al Tenses",
+        "targetTopic": "Itaf’al Tenses",
+        "enclosingTopic": "Itaf’al",
+        "enclosingSubtopic": "More information about the itaf’al"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "itaf’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " has ",
+        "type": "text"
+       },
+       {
+        "text": "tenses for different shoresh types",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "tenses for different shoresh types",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Itaf’al tenses for different shoresh types",
+        "targetTopic": "Itaf’al tenses for different shoresh types",
+        "enclosingTopic": "Itaf’al",
+        "enclosingSubtopic": "More information about the itaf’al"
        },
        {
         "text": ".",
@@ -161,7 +373,7 @@
         "targetSubtopic": "Huf’al",
         "targetTopic": "Huf’al",
         "enclosingTopic": "Itaf’al",
-        "enclosingSubtopic": "Itaf’al"
+        "enclosingSubtopic": "More information about the itaf’al"
        },
        {
         "text": " in Hebrew.",
