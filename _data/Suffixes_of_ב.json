@@ -1,0 +1,536 @@
+{
+ "displayTopicName": "Suffixes of ב",
+ "topicTokens": [
+  {
+   "text": "Suffixes of ב",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Suffixes of ב": [
+   {
+    "text": "The prefix ב",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "The prefix ב",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "The prefix ב",
+    "targetTopic": "The prefix ב",
+    "enclosingTopic": "Suffixes of ב",
+    "enclosingSubtopic": "Suffixes of ב"
+   },
+   {
+    "text": " in Hebrew has several suffixes that can be attached to indicate who or what is being referred to. ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "‎ ",
+         "type": "text"
+        },
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "ב with suffix",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Transliteration",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Person",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "bold",
+         "tokens": [
+          {
+           "text": "Example meaning",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "בִּי",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "bi",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "I",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "with",
+         "type": "text"
+        },
+        {
+         "type": "footnote_marker",
+         "text": "1"
+        },
+        {
+         "text": " me",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "בָּנוּ",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "banu",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "We",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "with us",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "בְּךָ",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "becha",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "You (masculine)",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "with you, a man",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "בָּךְ",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "bach",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "You (feminine)",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "with you, a woman",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "בָּכֶם",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "bachem",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "You all (masculine)",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "with you men",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "בָּכֶן",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "bachen",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "You all (feminine)",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "with you women",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "בּוֹ",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "bo",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "He / it (masculine)",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "with him",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "בָּהּ",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "bah",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "She / it (feminine)",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "with her",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "בָּהֶם or בָּם",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "bahem",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " or ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "bam",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Them / those (masculine)",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "with those men",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "בָּהֶן or בָּן",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "bahen",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "text": " or ",
+         "type": "text"
+        },
+        {
+         "type": "italics",
+         "tokens": [
+          {
+           "text": "ban",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Them / those (feminine)",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "with those women",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   },
+   {
+    "text": " ",
+    "type": "text"
+   },
+   {
+    "type": "footnote_lines",
+    "lines": [
+     {
+      "superscript": "1",
+      "tokens": [
+       {
+        "text": " This table translates ב as “with,” but each of these words can also mean “on,” “in,” “with”, “via,” etc.",
+        "type": "text"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

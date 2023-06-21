@@ -63,7 +63,7 @@
     "enclosingSubtopic": "Pu’al Active Participle for Regular Shorushim"
    },
    {
-    "text": ": ",
+    "text": " like זמן: ",
     "type": "text"
    },
    {
@@ -117,7 +117,15 @@
       {
        "tokens": [
         {
-         "text": "מְזֻמָּן ",
+         "text": "מְזוּמָּן ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": "מְזוּמָּן ",
          "type": "text"
         },
         {
@@ -167,6 +175,14 @@
        "tokens": [
         {
          "text": "מְזֻמֶּנֶת ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": "מְזוּמֶּנֶת ",
          "type": "text"
         },
         {
@@ -238,6 +254,14 @@
          "html": "<br>"
         },
         {
+         "text": "מְזוּמָּנִים ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
          "type": "html_element",
          "html": "<br>"
         },
@@ -287,6 +311,14 @@
          "html": "<br>"
         },
         {
+         "text": "מְזוּמָּנוֹת ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
          "type": "html_element",
          "html": "<br>"
         },
@@ -329,8 +361,62 @@
     ]
    },
    {
-    "text": " For any regular shoresh, you can replace the letters ‎ז, ‎מ, and ן above with the letters of your shoresh to produce the proper conjugations.",
+    "text": " When dealing with texts that are not vowelized, often a וֹ will be inserted after the second shoresh letter to differentiate the ",
     "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pu’al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " active participle from the ",
+    "type": "text"
+   },
+   {
+    "text": "_pi’el_ active participle",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "pi’el",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " active participle",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Pi’el Active Participle for Regular Shorushim",
+    "targetTopic": "Pi’el Active Participle for Regular Shorushim",
+    "enclosingTopic": "Pu’al Active Participle for Regular Shorushim",
+    "enclosingSubtopic": "Pu’al Active Participle for Regular Shorushim"
+   },
+   {
+    "text": ". ",
+    "type": "text"
+   },
+   {
+    "type": "footnote_lines",
+    "lines": [
+     {
+      "superscript": "1",
+      "tokens": [
+       {
+        "text": " For any regular shoresh, you can replace the letters ‎ז, ‎מ, and ן above with the letters of your shoresh to produce the proper conjugations.",
+        "type": "text"
+       }
+      ]
+     }
+    ]
    }
   ]
  }

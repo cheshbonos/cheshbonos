@@ -1,0 +1,106 @@
+{
+ "displayTopicName": "Verb forms beginning with ה",
+ "topicTokens": [
+  {
+   "text": "Verb forms beginning with ה",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Verb forms beginning with ה": [
+   {
+    "text": "There are several verb forms in Hebrew and Aramaic that begin with a ה prefix: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "text": "hifil past tense",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "hifil past tense",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Hif’il Past Tense for regular shorushim",
+        "targetTopic": "Hif’il Past Tense for regular shorushim",
+        "enclosingTopic": "Verb forms beginning with ה",
+        "enclosingSubtopic": "Verb forms beginning with ה"
+       },
+       {
+        "text": " (e.g., הִבְדִּיל, ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hivdil,",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " “he separated.”)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "text": "hifil imperative",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "hifil imperative",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Hif’il Imperative for regular shorushim",
+        "targetTopic": "Hif’il Imperative for regular shorushim",
+        "enclosingTopic": "Verb forms beginning with ה",
+        "enclosingSubtopic": "Verb forms beginning with ה"
+       },
+       {
+        "text": " (e.g., הַבְדֵּל, ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "havdeil,",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " “separate!”)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

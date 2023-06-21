@@ -1,0 +1,278 @@
+{
+ "displayTopicName": "First pass of האיש מקדש את בתו כשהיא נערה בו ובשלוחו",
+ "topicTokens": [
+  {
+   "text": "First pass of האיש מקדש את בתו כשהיא נערה בו ובשלוחו",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "First pass of האיש מקדש את בתו כשהיא נערה בו ובשלוחו": [
+   {
+    "text": "In order to understand the third clause of the Mishnah “האיש מקדש את בתו כשהיא נערה בו ובשלוחו”: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "First, we’ll translate the individual words:",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   },
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "האיש",
+      "type": "local",
+      "tokens": [
+       {
+        "text": "האיש",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "האיש",
+      "targetTopic": "First pass of האיש מקדש את בתו כשהיא נערה בו ובשלוחו",
+      "enclosingTopic": "First pass of האיש מקדש את בתו כשהיא נערה בו ובשלוחו",
+      "enclosingSubtopic": "First pass of האיש מקדש את בתו כשהיא נערה בו ובשלוחו"
+     },
+     {
+      "text": " ",
+      "type": "text"
+     },
+     {
+      "text": "מקדש",
+      "type": "local",
+      "tokens": [
+       {
+        "text": "מקדש",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "מקדש",
+      "targetTopic": "First pass of האיש מקדש את בתו כשהיא נערה בו ובשלוחו",
+      "enclosingTopic": "First pass of האיש מקדש את בתו כשהיא נערה בו ובשלוחו",
+      "enclosingSubtopic": "First pass of האיש מקדש את בתו כשהיא נערה בו ובשלוחו"
+     },
+     {
+      "text": " ",
+      "type": "text"
+     },
+     {
+      "text": "את",
+      "type": "local",
+      "tokens": [
+       {
+        "text": "את",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "את",
+      "targetTopic": "First pass of האיש מקדש את בתו כשהיא נערה בו ובשלוחו",
+      "enclosingTopic": "First pass of האיש מקדש את בתו כשהיא נערה בו ובשלוחו",
+      "enclosingSubtopic": "First pass of האיש מקדש את בתו כשהיא נערה בו ובשלוחו"
+     },
+     {
+      "text": " ",
+      "type": "text"
+     },
+     {
+      "text": "בתו",
+      "type": "local",
+      "tokens": [
+       {
+        "text": "בתו",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "בתו",
+      "targetTopic": "First pass of האיש מקדש את בתו כשהיא נערה בו ובשלוחו",
+      "enclosingTopic": "First pass of האיש מקדש את בתו כשהיא נערה בו ובשלוחו",
+      "enclosingSubtopic": "First pass of האיש מקדש את בתו כשהיא נערה בו ובשלוחו"
+     },
+     {
+      "text": " ",
+      "type": "text"
+     },
+     {
+      "text": "כשהיא",
+      "type": "local",
+      "tokens": [
+       {
+        "text": "כשהיא",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "כשהיא",
+      "targetTopic": "First pass of האיש מקדש את בתו כשהיא נערה בו ובשלוחו",
+      "enclosingTopic": "First pass of האיש מקדש את בתו כשהיא נערה בו ובשלוחו",
+      "enclosingSubtopic": "First pass of האיש מקדש את בתו כשהיא נערה בו ובשלוחו"
+     },
+     {
+      "text": " ",
+      "type": "text"
+     },
+     {
+      "text": "נערה",
+      "type": "local",
+      "tokens": [
+       {
+        "text": "נערה",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "נערה",
+      "targetTopic": "First pass of האיש מקדש את בתו כשהיא נערה בו ובשלוחו",
+      "enclosingTopic": "First pass of האיש מקדש את בתו כשהיא נערה בו ובשלוחו",
+      "enclosingSubtopic": "First pass of האיש מקדש את בתו כשהיא נערה בו ובשלוחו"
+     },
+     {
+      "text": " ",
+      "type": "text"
+     },
+     {
+      "text": "בו",
+      "type": "local",
+      "tokens": [
+       {
+        "text": "בו",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "בו",
+      "targetTopic": "First pass of האיש מקדש את בתו כשהיא נערה בו ובשלוחו",
+      "enclosingTopic": "First pass of האיש מקדש את בתו כשהיא נערה בו ובשלוחו",
+      "enclosingSubtopic": "First pass of האיש מקדש את בתו כשהיא נערה בו ובשלוחו"
+     },
+     {
+      "text": " ",
+      "type": "text"
+     },
+     {
+      "text": "ובשלוחו",
+      "type": "local",
+      "tokens": [
+       {
+        "text": "ובשלוחו",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "ובשלוחו",
+      "targetTopic": "First pass of האיש מקדש את בתו כשהיא נערה בו ובשלוחו",
+      "enclosingTopic": "First pass of האיש מקדש את בתו כשהיא נערה בו ובשלוחו",
+      "enclosingSubtopic": "First pass of האיש מקדש את בתו כשהיא נערה בו ובשלוחו"
+     }
+    ],
+    "direction": "rtl"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Then, we’ll put together a ",
+        "type": "text"
+       },
+       {
+        "text": "literal translation of the full sentence",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "literal translation of the full sentence",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Literal translation of the full sentence",
+        "targetTopic": "First pass of האיש מקדש את בתו כשהיא נערה בו ובשלוחו",
+        "enclosingTopic": "First pass of האיש מקדש את בתו כשהיא נערה בו ובשלוחו",
+        "enclosingSubtopic": "First pass of האיש מקדש את בתו כשהיא נערה בו ובשלוחו"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "We’ll ",
+        "type": "text"
+       },
+       {
+        "text": "identify ambiguities",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "identify ambiguities",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Identify ambiguities",
+        "targetTopic": "First pass of האיש מקדש את בתו כשהיא נערה בו ובשלוחו",
+        "enclosingTopic": "First pass of האיש מקדש את בתו כשהיא נערה בו ובשלוחו",
+        "enclosingSubtopic": "First pass of האיש מקדש את בתו כשהיא נערה בו ובשלוחו"
+       },
+       {
+        "text": " and clarify the meaning of the text",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Lastly, we’ll consider ",
+        "type": "text"
+       },
+       {
+        "text": "comprehension questions",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "comprehension questions",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Comprehension questions",
+        "targetTopic": "First pass of האיש מקדש את בתו כשהיא נערה בו ובשלוחו",
+        "enclosingTopic": "First pass of האיש מקדש את בתו כשהיא נערה בו ובשלוחו",
+        "enclosingSubtopic": "First pass of האיש מקדש את בתו כשהיא נערה בו ובשלוחו"
+       },
+       {
+        "text": " about this sentence",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "האיש": [],
+  "מקדש": [],
+  "את": [],
+  "בתו": [],
+  "כשהיא": [],
+  "נערה": [],
+  "בו": [],
+  "ובשלוחו": [],
+  "Literal translation of the full sentence": [],
+  "Identify ambiguities": [],
+  "Comprehension questions": []
+ }
+}

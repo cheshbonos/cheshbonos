@@ -63,7 +63,7 @@
     "enclosingSubtopic": "Hif’il Active Participle for Regular Shorushim"
    },
    {
-    "text": ": ",
+    "text": " like בדל: ",
     "type": "text"
    },
    {
@@ -329,8 +329,102 @@
     ]
    },
    {
-    "text": " For any regular shoresh, you can replace the letters ‎ב, ‎ד, and ל above with the letters of your shoresh to produce the proper conjugations.",
+    "text": " The ",
     "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "hif’il",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " active participle features a מ prefix in all of its forms, making it easy to mistake for ",
+    "type": "text"
+   },
+   {
+    "text": "the pi’el active participle",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "the pi’el active participle",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Pi’el Active Participle for Regular Shorushim",
+    "targetTopic": "Pi’el Active Participle for Regular Shorushim",
+    "enclosingTopic": "Hif’il Active Participle for Regular Shorushim",
+    "enclosingSubtopic": "Hif’il Active Participle for Regular Shorushim"
+   },
+   {
+    "text": ", ",
+    "type": "text"
+   },
+   {
+    "text": "the pu’al active participle",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "the pu’al active participle",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Pu’al Active Participle for Regular Shorushim",
+    "targetTopic": "Pu’al Active Participle for Regular Shorushim",
+    "enclosingTopic": "Hif’il Active Participle for Regular Shorushim",
+    "enclosingSubtopic": "Hif’il Active Participle for Regular Shorushim"
+   },
+   {
+    "text": ", or ",
+    "type": "text"
+   },
+   {
+    "text": "the huf’al active participle",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "the huf’al active participle",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Huf’al Active Participle for Regular Shorushim",
+    "targetTopic": "Huf’al Active Participle for Regular Shorushim",
+    "enclosingTopic": "Hif’il Active Participle for Regular Shorushim",
+    "enclosingSubtopic": "Hif’il Active Participle for Regular Shorushim"
+   },
+   {
+    "text": ". The presence of a י between the second and third root letters identifies the verb as a ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "hif’il",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ". ",
+    "type": "text"
+   },
+   {
+    "type": "footnote_lines",
+    "lines": [
+     {
+      "superscript": "1",
+      "tokens": [
+       {
+        "text": " For any regular shoresh, you can replace the letters ‎ב, ‎ד, and ל above with the letters of your shoresh to produce the proper conjugations.",
+        "type": "text"
+       }
+      ]
+     }
+    ]
    }
   ]
  }

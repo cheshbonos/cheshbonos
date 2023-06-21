@@ -63,7 +63,7 @@
     "enclosingSubtopic": "Pa’al Passive Participle for Regular Shorushim"
    },
    {
-    "text": ": ",
+    "text": " like לבש: ",
     "type": "text"
    },
    {
@@ -342,8 +342,22 @@
     ]
    },
    {
-    "text": " passive participle for regular shorushim can usually be identified by the distinctive י between the second and third root letters. For any regular shoresh, you can replace the letters ‎ל, ‎ב, and ש above with the letters of your shoresh to produce the proper conjugations.",
+    "text": " passive participle for regular shorushim can usually be identified by the distinctive י between the second and third root letters. ",
     "type": "text"
+   },
+   {
+    "type": "footnote_lines",
+    "lines": [
+     {
+      "superscript": "1",
+      "tokens": [
+       {
+        "text": " For any regular shoresh, you can replace the letters ‎ל, ‎ב, and ש above with the letters of your shoresh to produce the proper conjugations.",
+        "type": "text"
+       }
+      ]
+     }
+    ]
    }
   ]
  }

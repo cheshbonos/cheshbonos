@@ -63,7 +63,7 @@
     "enclosingSubtopic": "Hispa’el Past Tense for regular shorushim"
    },
    {
-    "text": ": ",
+    "text": " like זמן: ",
     "type": "text"
    },
    {
@@ -614,8 +614,22 @@
     ]
    },
    {
-    "text": " For any regular shoresh, you can replace the letters ‎ז, ‎מ, and ן above with the letters of your shoresh to produce the proper conjugations.",
+    "text": " ",
     "type": "text"
+   },
+   {
+    "type": "footnote_lines",
+    "lines": [
+     {
+      "superscript": "1",
+      "tokens": [
+       {
+        "text": " For any regular shoresh, you can replace the letters ‎ז, ‎מ, and ן above with the letters of your shoresh to produce the proper conjugations.",
+        "type": "text"
+       }
+      ]
+     }
+    ]
    }
   ]
  }

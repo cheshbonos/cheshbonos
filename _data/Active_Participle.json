@@ -9,7 +9,7 @@
  "paragraphsBySubtopic": {
   "Active Participle": [
    {
-    "text": "The active participle, usually just called “the participle” (and sometimes called ",
+    "text": "The active participle, usually just called “the participle” (and sometimes called the present participle or ",
     "type": "text"
    },
    {
@@ -26,16 +26,16 @@
     "type": "text"
    },
    {
-    "text": "verb forms of Hebrew and Aramaic",
+    "text": "\"tenses\" of Hebrew and Aramaic",
     "type": "global",
     "tokens": [
      {
-      "text": "verb forms of Hebrew and Aramaic",
+      "text": "\"tenses\" of Hebrew and Aramaic",
       "type": "text"
      }
     ],
-    "targetSubtopic": "Verb forms of Hebrew and Aramaic",
-    "targetTopic": "Verb forms of Hebrew and Aramaic",
+    "targetSubtopic": "“Tenses” of Hebrew and Aramaic",
+    "targetTopic": "“Tenses” of Hebrew and Aramaic",
     "enclosingTopic": "Active Participle",
     "enclosingSubtopic": "Active Participle"
    },

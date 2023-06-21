@@ -7,6 +7,176 @@
   }
  ],
  "paragraphsBySubtopic": {
-  "Hebrew definite article": []
+  "Hebrew definite article": [
+   {
+    "text": "The Hebrew definite article is a grammatical entity in the Hebrew language. ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Most languages have a concept called ",
+        "type": "text"
+       },
+       {
+        "text": "definite article",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "definite article",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Definite Article",
+        "targetTopic": "Definite Article",
+        "enclosingTopic": "Hebrew definite article",
+        "enclosingSubtopic": "Hebrew definite article"
+       },
+       {
+        "text": ", one of the two types of ",
+        "type": "text"
+       },
+       {
+        "text": "articles",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "articles",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Articles",
+        "targetTopic": "Articles",
+        "enclosingTopic": "Hebrew definite article",
+        "enclosingSubtopic": "Hebrew definite article"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "In Hebrew, the definite article is a ה prefix before a noun, usually vowelized הַ, ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "ha",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Sometimes, the הַ gets combined with ",
+        "type": "text"
+       },
+       {
+        "text": "the prefix ב",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "the prefix ב",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "The prefix ב",
+        "targetTopic": "The prefix ב",
+        "enclosingTopic": "Hebrew definite article",
+        "enclosingSubtopic": "Hebrew definite article"
+       },
+       {
+        "text": " or ",
+        "type": "text"
+       },
+       {
+        "text": "the prefix ל",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "the prefix ל",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "The prefix ל",
+        "targetTopic": "The prefix ל",
+        "enclosingTopic": "Hebrew definite article",
+        "enclosingSubtopic": "Hebrew definite article"
+       },
+       {
+        "text": " and becomes a בַ or לַ.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Aramaic also has a ",
+        "type": "text"
+       },
+       {
+        "text": "definite article",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "definite article",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Aramaic definite article",
+        "targetTopic": "Aramaic definite article",
+        "enclosingTopic": "Hebrew definite article",
+        "enclosingSubtopic": "Hebrew definite article"
+       },
+       {
+        "text": ", but it is an א suffix, like עָלְמָא (",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "alma,",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " “the world”)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
  }
 }

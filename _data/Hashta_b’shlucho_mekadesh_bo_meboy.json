@@ -22,7 +22,7 @@
     ]
    },
    {
-    "text": ", ",
+    "text": " is ",
     "type": "text"
    },
    {
@@ -40,78 +40,314 @@
     "enclosingSubtopic": "Hashta b’shlucho mekadesh bo meboy"
    },
    {
-    "text": ", can be ",
+    "text": ". ",
     "type": "text"
    },
    {
-    "text": "learned inside",
-    "type": "local",
+    "type": "italics",
     "tokens": [
      {
-      "text": "learned inside",
+      "text": "Sugyas",
       "type": "text"
      }
-    ],
-    "targetSubtopic": "Full text",
-    "targetTopic": "Hashta b’shlucho mekadesh bo meboy",
-    "enclosingTopic": "Hashta b’shlucho mekadesh bo meboy",
-    "enclosingSubtopic": "Hashta b’shlucho mekadesh bo meboy"
+    ]
    },
    {
-    "text": ".",
-    "type": "text"
-   }
-  ],
-  "Full text": [
-   {
-    "text": "Select a sentences below to learn more: ",
+    "text": " in Cheshbonos are learned in four reviews: ",
     "type": "text"
    },
    {
-    "type": "block_quote",
-    "tokens": [
-     {
-      "text": "גמ’ ",
-      "type": "text"
-     },
-     {
-      "text": "השתא בשלוחו מקדש בו מיבעיא",
-      "type": "global",
-      "tokens": [
-       {
-        "text": "השתא בשלוחו מקדש בו מיבעיא",
-        "type": "text"
-       }
-      ],
-      "targetSubtopic": "השתא בשלוחו מקדש בו מיבעיא",
-      "targetTopic": "השתא בשלוחו מקדש בו מיבעיא",
-      "enclosingTopic": "Hashta b’shlucho mekadesh bo meboy",
-      "enclosingSubtopic": "Full text"
-     },
-     {
-      "text": " ",
-      "type": "text"
-     },
-     {
-      "text": "אמר\nרב יוסף מצוה בו יותר מבשלוחו",
-      "type": "global",
-      "tokens": [
-       {
-        "text": "אמר\nרב יוסף מצוה בו יותר מבשלוחו",
-        "type": "text"
-       }
-      ],
-      "targetSubtopic": "אמר רב יוסף מצוה בו יותר מבשלוחו",
-      "targetTopic": "אמר רב יוסף מצוה בו יותר מבשלוחו",
-      "enclosingTopic": "Hashta b’shlucho mekadesh bo meboy",
-      "enclosingSubtopic": "Full text"
-     },
-     {
-      "text": " כי הא דרב\nספרא מחריך רישא רבא מלח שיבוטא\nאיכא דאמרי בהא איסורא נמי אית בה\nכדרב יהודה אמר רב דאמר רב יהודה\nאמר רב אסור לאדם שיקדש את האשה\nעד שיראנה שמא יראה בה דבר מגונה\nותתגנה עליו ורחמנא אמר ואהבת לרעך\nכמוך וכי איתמר דרב יוסף אסיפא איתמר\nהאשה מתקדשת בה ובשלוחה השתא\nבשלוחה מיקדשא בה מיבעיא אמר רב יוסף\nמצוה בה יותר מבשלוחה כי הא דרב ספרא\nמחריך רישא רבא מלח שיבוטא אבל בהא\nאיסורא לית בה כדר״ל דאמר ר״ל טב\nלמיתב טן דו מלמיתב ארמלו:",
-      "type": "text"
-     }
-    ],
-    "direction": "rtl"
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "First Pass: <br> _Pashut Peshat_ <br> (\"The Simple Understanding\")",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "First Pass: ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Pashut Peshat",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (\"The Simple Understanding\")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "First Pass of hashta b’shlucho mekadesh bo meboy",
+         "targetTopic": "First Pass of hashta b’shlucho mekadesh bo meboy",
+         "enclosingTopic": "Hashta b’shlucho mekadesh bo meboy",
+         "enclosingSubtopic": "Hashta b’shlucho mekadesh bo meboy"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " A literal translation of the Gemara with clarifications paraphrased from Rashi and comprehension questions",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Second Pass: <br> _Eimek Hadavar_ <br> (\"The Depth Of The Matter\")",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Second Pass: ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Eimek Hadavar",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (\"The Depth Of The Matter\")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Second Pass of hashta b’shlucho mekadesh bo meboy",
+         "targetTopic": "Second Pass of hashta b’shlucho mekadesh bo meboy",
+         "enclosingTopic": "Hashta b’shlucho mekadesh bo meboy",
+         "enclosingSubtopic": "Hashta b’shlucho mekadesh bo meboy"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " A review of the Gemara and close read of Rashi with hints to discover the analytical questions of later authorities",
+         "type": "text"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Third Pass: <br> _Milchamas Torah_ <br> (“War of Torah”)",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Third Pass: ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Milchamas Torah",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (“War of Torah”)",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Third Pass of hashta b’shlucho mekadesh bo meboy",
+         "targetTopic": "Third Pass of hashta b’shlucho mekadesh bo meboy",
+         "enclosingTopic": "Hashta b’shlucho mekadesh bo meboy",
+         "enclosingSubtopic": "Hashta b’shlucho mekadesh bo meboy"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " Comparing the views of Rashi, Tosofos, and others in competitive analysis",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Fourth Pass: <br> _Siyum v’sikum_ <br> (\"Conclusion and Summary\")",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Fourth Pass: ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " ",
+           "type": "text"
+          },
+          {
+           "type": "italics",
+           "tokens": [
+            {
+             "text": "Siyum v’sikum",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "text": " ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " (\"Conclusion and Summary\")",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Fourth Pass of hashta b’shlucho mekadesh bo meboy",
+         "targetTopic": "Fourth Pass of hashta b’shlucho mekadesh bo meboy",
+         "enclosingTopic": "Hashta b’shlucho mekadesh bo meboy",
+         "enclosingSubtopic": "Hashta b’shlucho mekadesh bo meboy"
+        },
+        {
+         "text": " ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " A recap of the points made previously with halachic conclusions in various organizational schemes",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
    }
   ],
   "Picture": [

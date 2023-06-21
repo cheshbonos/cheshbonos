@@ -1,0 +1,146 @@
+{
+ "displayTopicName": "Aramaic definite article",
+ "topicTokens": [
+  {
+   "text": "Aramaic definite article",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Aramaic definite article": [
+   {
+    "text": "The Aramaic definite article is a grammatical entity in the Aramaic language. ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Most languages have a concept called ",
+        "type": "text"
+       },
+       {
+        "text": "definite article",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "definite article",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Definite Article",
+        "targetTopic": "Definite Article",
+        "enclosingTopic": "Aramaic definite article",
+        "enclosingSubtopic": "Aramaic definite article"
+       },
+       {
+        "text": ", one of the two types of ",
+        "type": "text"
+       },
+       {
+        "text": "articles",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "articles",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Articles",
+        "targetTopic": "Articles",
+        "enclosingTopic": "Aramaic definite article",
+        "enclosingSubtopic": "Aramaic definite article"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "In Aramaic, the definite article is an א suffix after a noun, usually vowelized אָ, ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "au",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Sometimes Aramaic uses the א suffix in situations that we wouldn’t use the word “the” in English, for difficult to understand reasons.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Hebrew also has a ",
+        "type": "text"
+       },
+       {
+        "text": "definite article",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "definite article",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Hebrew definite article",
+        "targetTopic": "Hebrew definite article",
+        "enclosingTopic": "Aramaic definite article",
+        "enclosingSubtopic": "Aramaic definite article"
+       },
+       {
+        "text": ", but it is a ה prefix, like הַמֶלֶךְ (",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hamelech,",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " “the king.”)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

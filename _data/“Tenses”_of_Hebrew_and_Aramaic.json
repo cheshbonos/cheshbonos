@@ -1,0 +1,134 @@
+{
+ "displayTopicName": "“Tenses” of Hebrew and Aramaic",
+ "topicTokens": [
+  {
+   "text": "“Tenses” of Hebrew and Aramaic",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "“Tenses” of Hebrew and Aramaic": [
+   {
+    "text": "There are several verb forms and tenses in Hebrew and Aramaic: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "Past Tense",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Past Tense",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Past tense",
+         "targetTopic": "Past tense",
+         "enclosingTopic": "“Tenses” of Hebrew and Aramaic",
+         "enclosingSubtopic": "“Tenses” of Hebrew and Aramaic"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Future Tense",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Future Tense",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Future Tense",
+         "targetTopic": "Future Tense",
+         "enclosingTopic": "“Tenses” of Hebrew and Aramaic",
+         "enclosingSubtopic": "“Tenses” of Hebrew and Aramaic"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Active Participle",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Active Participle",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Active Participle",
+         "targetTopic": "Active Participle",
+         "enclosingTopic": "“Tenses” of Hebrew and Aramaic",
+         "enclosingSubtopic": "“Tenses” of Hebrew and Aramaic"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Imperative",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Imperative",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Imperative",
+         "targetTopic": "Imperative",
+         "enclosingTopic": "“Tenses” of Hebrew and Aramaic",
+         "enclosingSubtopic": "“Tenses” of Hebrew and Aramaic"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Infinitive",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Infinitive",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Infinitive",
+         "targetTopic": "Infinitive",
+         "enclosingTopic": "“Tenses” of Hebrew and Aramaic",
+         "enclosingSubtopic": "“Tenses” of Hebrew and Aramaic"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Passive Participle",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Passive Participle",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Passive Participle",
+         "targetTopic": "Passive Participle",
+         "enclosingTopic": "“Tenses” of Hebrew and Aramaic",
+         "enclosingSubtopic": "“Tenses” of Hebrew and Aramaic"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ]
+ }
+}

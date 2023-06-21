@@ -1,0 +1,232 @@
+{
+ "displayTopicName": "First pass of האשה מתקדשת בה ובשלוחה",
+ "topicTokens": [
+  {
+   "text": "First pass of האשה מתקדשת בה ובשלוחה",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "First pass of האשה מתקדשת בה ובשלוחה": [
+   {
+    "text": "In order to understand the second clause of the Mishnah “האשה מתקדשת בה ובשלוחה”: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "First, we'll ",
+        "type": "text"
+       },
+       {
+        "text": "identify where to end the sentence",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "identify where to end the sentence",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Identify where to end the sentence",
+        "targetTopic": "First pass of האשה מתקדשת בה ובשלוחה",
+        "enclosingTopic": "First pass of האשה מתקדשת בה ובשלוחה",
+        "enclosingSubtopic": "First pass of האשה מתקדשת בה ובשלוחה"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Then, we’ll translate the individual words:",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   },
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "האשה",
+      "type": "local",
+      "tokens": [
+       {
+        "text": "האשה",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "האשה",
+      "targetTopic": "First pass of האשה מתקדשת בה ובשלוחה",
+      "enclosingTopic": "First pass of האשה מתקדשת בה ובשלוחה",
+      "enclosingSubtopic": "First pass of האשה מתקדשת בה ובשלוחה"
+     },
+     {
+      "text": " ",
+      "type": "text"
+     },
+     {
+      "text": "מתקדשת",
+      "type": "local",
+      "tokens": [
+       {
+        "text": "מתקדשת",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "מתקדשת",
+      "targetTopic": "First pass of האשה מתקדשת בה ובשלוחה",
+      "enclosingTopic": "First pass of האשה מתקדשת בה ובשלוחה",
+      "enclosingSubtopic": "First pass of האשה מתקדשת בה ובשלוחה"
+     },
+     {
+      "text": " ",
+      "type": "text"
+     },
+     {
+      "text": "בה",
+      "type": "local",
+      "tokens": [
+       {
+        "text": "בה",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "בה",
+      "targetTopic": "First pass of האשה מתקדשת בה ובשלוחה",
+      "enclosingTopic": "First pass of האשה מתקדשת בה ובשלוחה",
+      "enclosingSubtopic": "First pass of האשה מתקדשת בה ובשלוחה"
+     },
+     {
+      "text": " ",
+      "type": "text"
+     },
+     {
+      "text": "ובשלוחה",
+      "type": "local",
+      "tokens": [
+       {
+        "text": "ובשלוחה",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "ובשלוחה",
+      "targetTopic": "First pass of האשה מתקדשת בה ובשלוחה",
+      "enclosingTopic": "First pass of האשה מתקדשת בה ובשלוחה",
+      "enclosingSubtopic": "First pass of האשה מתקדשת בה ובשלוחה"
+     }
+    ],
+    "direction": "rtl"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Then, we’ll put together a ",
+        "type": "text"
+       },
+       {
+        "text": "literal translation of the full sentence",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "literal translation of the full sentence",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Literal translation of the full sentence",
+        "targetTopic": "First pass of האשה מתקדשת בה ובשלוחה",
+        "enclosingTopic": "First pass of האשה מתקדשת בה ובשלוחה",
+        "enclosingSubtopic": "First pass of האשה מתקדשת בה ובשלוחה"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "We’ll ",
+        "type": "text"
+       },
+       {
+        "text": "identify ambiguities",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "identify ambiguities",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Identify ambiguities",
+        "targetTopic": "First pass of האשה מתקדשת בה ובשלוחה",
+        "enclosingTopic": "First pass of האשה מתקדשת בה ובשלוחה",
+        "enclosingSubtopic": "First pass of האשה מתקדשת בה ובשלוחה"
+       },
+       {
+        "text": " and clarify the meaning of the text",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Lastly, we’ll consider ",
+        "type": "text"
+       },
+       {
+        "text": "comprehension questions",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "comprehension questions",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Comprehension questions",
+        "targetTopic": "First pass of האשה מתקדשת בה ובשלוחה",
+        "enclosingTopic": "First pass of האשה מתקדשת בה ובשלוחה",
+        "enclosingSubtopic": "First pass of האשה מתקדשת בה ובשלוחה"
+       },
+       {
+        "text": " about this sentence",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "Identify where to end the sentence": [],
+  "האשה": [],
+  "מתקדשת": [],
+  "בה": [],
+  "ובשלוחה": [],
+  "Literal translation of the full sentence": [],
+  "Identify ambiguities": [],
+  "Comprehension questions": []
+ }
+}

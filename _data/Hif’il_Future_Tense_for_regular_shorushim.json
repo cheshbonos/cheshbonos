@@ -63,7 +63,7 @@
     "enclosingSubtopic": "Hif’il Future Tense for regular shorushim"
    },
    {
-    "text": ": ",
+    "text": " like בדל: ",
     "type": "text"
    },
    {
@@ -658,8 +658,22 @@
     ]
    },
    {
-    "text": " For any regular shoresh, you can replace the letters ‎ב, ‎ד, and ל above with the letters of your shoresh to produce the proper conjugations.",
+    "text": " ",
     "type": "text"
+   },
+   {
+    "type": "footnote_lines",
+    "lines": [
+     {
+      "superscript": "1",
+      "tokens": [
+       {
+        "text": " For any regular shoresh, you can replace the letters ‎ב, ‎ד, and ל above with the letters of your shoresh to produce the proper conjugations.",
+        "type": "text"
+       }
+      ]
+     }
+    ]
    }
   ]
  }

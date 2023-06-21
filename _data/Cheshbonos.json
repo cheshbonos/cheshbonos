@@ -9,173 +9,378 @@
  "paragraphsBySubtopic": {
   "Cheshbonos": [
    {
-    "text": "This is an early beta version of Cheshbonos, a tool for improving Gemara skills. You can navigate by using the mouse or arrow keys. You can use Cheshbonos to learn ",
+    "text": "This is an early draft of Cheshbonos, a tool for improving Gemara skills. ",
     "type": "text"
    },
    {
-    "text": "Kiddushin 41a",
-    "type": "global",
-    "tokens": [
+    "topLevelNodes": [
      {
-      "text": "Kiddushin 41a",
-      "type": "text"
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "You can navigate by using the mouse or arrow keys.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "You can use Cheshbonos to learn ",
+        "type": "text"
+       },
+       {
+        "text": "the second chapter of _Meseches Kiddushin_, _Perek Ha’ish Mekadesh_",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "the second chapter of ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "Meseches Kiddushin",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": ", ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "Perek Ha’ish Mekadesh",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Perek Ha’ish Mekadesh",
+        "targetTopic": "Perek Ha’ish Mekadesh",
+        "enclosingTopic": "Cheshbonos",
+        "enclosingSubtopic": "Cheshbonos"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "You can also ",
+        "type": "text"
+       },
+       {
+        "text": "learn more about the Cheshbonos project",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "learn more about the Cheshbonos project",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Learn more about the Cheshbonos project",
+        "targetTopic": "Cheshbonos",
+        "enclosingTopic": "Cheshbonos",
+        "enclosingSubtopic": "Cheshbonos"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
      }
     ],
-    "targetSubtopic": "Kiddushin 41a",
-    "targetTopic": "Kiddushin 41a",
-    "enclosingTopic": "Cheshbonos",
-    "enclosingSubtopic": "Cheshbonos"
-   },
-   {
-    "text": ". If you are new to Gemara, you can use the ",
-    "type": "text"
-   },
-   {
-    "text": "getting started guide",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "getting started guide",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Getting Started",
-    "targetTopic": "Getting Started",
-    "enclosingTopic": "Cheshbonos",
-    "enclosingSubtopic": "Cheshbonos"
-   },
-   {
-    "text": ". You can also ",
-    "type": "text"
-   },
-   {
-    "text": "learn more about the project",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "learn more about the project",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Learn more about the project",
-    "targetTopic": "Cheshbonos",
-    "enclosingTopic": "Cheshbonos",
-    "enclosingSubtopic": "Cheshbonos"
-   },
-   {
-    "text": ".",
-    "type": "text"
+    "type": "outline"
    }
   ],
-  "Learn more about the project": [
+  "Learn more about the Cheshbonos project": [
    {
-    "text": "Cheshbonos has a ",
+    "text": "You can learn more about the Cheshbonos project: ",
     "type": "text"
    },
    {
-    "text": "dedication",
-    "type": "local",
-    "tokens": [
+    "topLevelNodes": [
      {
-      "text": "dedication",
-      "type": "text"
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Cheshbonos has a ",
+        "type": "text"
+       },
+       {
+        "text": "dedication",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "dedication",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Dedication",
+        "targetTopic": "Cheshbonos",
+        "enclosingTopic": "Cheshbonos",
+        "enclosingSubtopic": "Learn more about the Cheshbonos project"
+       },
+       {
+        "text": ", ",
+        "type": "text"
+       },
+       {
+        "text": "disclaimers",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "disclaimers",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Disclaimers",
+        "targetTopic": "Cheshbonos",
+        "enclosingTopic": "Cheshbonos",
+        "enclosingSubtopic": "Learn more about the Cheshbonos project"
+       },
+       {
+        "text": ", and ",
+        "type": "text"
+       },
+       {
+        "text": "acknowledgements",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "acknowledgements",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Acknowledgements",
+        "targetTopic": "Cheshbonos",
+        "enclosingTopic": "Cheshbonos",
+        "enclosingSubtopic": "Learn more about the Cheshbonos project"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "You can post your questions, comments, or corrections on the ",
+        "type": "text"
+       },
+       {
+        "type": "url",
+        "url": "https://github.com/cheshbonos/cheshbonos/issues",
+        "text": "issues page",
+        "tokens": [
+         {
+          "text": "issues page",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ", ",
+        "type": "text"
+       },
+       {
+        "type": "url",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSclr0B1tknEZb6xUY07zHOcP0SURogv6daE6Vuls0NErZlWWA/viewform?usp=sf_link",
+        "text": "Google forms",
+        "tokens": [
+         {
+          "text": "Google forms",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " or ",
+        "type": "text"
+       },
+       {
+        "type": "url",
+        "url": "mailto:cheshbonos.project@gmail.com?subject=Feedback",
+        "text": "by email",
+        "tokens": [
+         {
+          "text": "by email",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "You can sign up for occasional ",
+        "type": "text"
+       },
+       {
+        "text": "email updates",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "email updates",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Email updates",
+        "targetTopic": "Cheshbonos",
+        "enclosingTopic": "Cheshbonos",
+        "enclosingSubtopic": "Learn more about the Cheshbonos project"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "You can download the Cheshbonos ",
+        "type": "text"
+       },
+       {
+        "type": "url",
+        "url": "https://github.com/cheshbonos/cheshbonos/releases/tag/latest",
+        "text": "desktop app",
+        "tokens": [
+         {
+          "text": "desktop app",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Cheshbonos is built using ",
+        "type": "text"
+       },
+       {
+        "type": "url",
+        "url": "https://github.com/canopy-js/canopy-js",
+        "text": "Canopy.js",
+        "tokens": [
+         {
+          "text": "Canopy.js",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
      }
     ],
-    "targetSubtopic": "Dedication",
-    "targetTopic": "Cheshbonos",
-    "enclosingTopic": "Cheshbonos",
-    "enclosingSubtopic": "Learn more about the project"
-   },
+    "type": "outline"
+   }
+  ],
+  "Acknowledgements": [
    {
-    "text": ". Cheshbonos is published with various ",
-    "type": "text"
-   },
-   {
-    "text": "disclaimers",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "disclaimers",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Disclaimers",
-    "targetTopic": "Cheshbonos",
-    "enclosingTopic": "Cheshbonos",
-    "enclosingSubtopic": "Learn more about the project"
-   },
-   {
-    "text": ". You can post your questions or comments on the ",
-    "type": "text"
-   },
-   {
-    "type": "url",
-    "url": "https://github.com/cheshbonos/cheshbonos/issues",
-    "text": "issues page",
-    "tokens": [
-     {
-      "text": "issues page",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": ". You can sign up for occasional ",
-    "type": "text"
-   },
-   {
-    "text": "email updates",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "email updates",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Email updates",
-    "targetTopic": "Cheshbonos",
-    "enclosingTopic": "Cheshbonos",
-    "enclosingSubtopic": "Learn more about the project"
-   },
-   {
-    "text": ". You can download the Cheshbonos ",
-    "type": "text"
-   },
-   {
-    "type": "url",
-    "url": "https://github.com/cheshbonos/cheshbonos/releases/tag/latest",
-    "text": "desktop app",
-    "tokens": [
-     {
-      "text": "desktop app",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": ". Cheshbonos is built using ",
-    "type": "text"
-   },
-   {
-    "type": "url",
-    "url": "https://github.com/canopy-js/canopy-js",
-    "text": "Canopy.js",
-    "tokens": [
-     {
-      "text": "Canopy.js",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": ".",
+    "text": "Cheshbonos was made possible by the assistance of many individuals.",
     "type": "text"
    }
   ],
   "Disclaimers": [
    {
-    "text": "Cheshbonos is published without expert endorsement and is a product of novice efforts. Persons wishing to improve their Gemara skills who have the resources should enroll in a full-time yeshiva program. Short of that, such people should find a Gemara rebbe with whom they can form a relationship and learn from directly. Cheshbonos is intended for individuals who lack these resources, or as a tool for reviewing content already learned in a yeshiva setting. Individuals should ask their communal rabbinic advisors if Cheshbonos is the appropriate tool for their learning. Cheshbonos can be downloaded and used without an internet connection, and the existence of a web interface does not represent an endorsement of internet use.",
+    "text": "Cheshbonos has various disclaimers: ",
     "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Cheshbonos is published without expert endorsement and is a product of novice efforts.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Persons wishing to improve their Gemara skills who have the resources should enroll in a full-time yeshiva program. Short of that, such people should find a Gemara rebbe with whom they can form a relationship and learn from directly. Cheshbonos is intended for individuals who lack these resources, or as a tool for reviewing content already learned in a yeshiva setting.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Individuals should ask their communal rabbinic advisors if Cheshbonos is the appropriate tool for their learning.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Cheshbonos can be downloaded and used without an internet connection, and the existence of a web interface does not represent an endorsement of internet use.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
    }
   ],
   "Email updates": [

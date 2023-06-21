@@ -1,0 +1,31 @@
+{
+ "displayTopicName": "Third clause of the Mishnah on Kiddushin 41a",
+ "topicTokens": [
+  {
+   "text": "Third clause of the Mishnah on Kiddushin 41a",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Third clause of the Mishnah on Kiddushin 41a": [
+   {
+    "text": "This is the third clause of the Mishnah: ",
+    "type": "text"
+   },
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "האיש מקדש את בתו כשהיא נערה בו ובשלוחו",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   },
+   {
+    "text": "It has context, content, and commentary.",
+    "type": "text"
+   }
+  ]
+ }
+}

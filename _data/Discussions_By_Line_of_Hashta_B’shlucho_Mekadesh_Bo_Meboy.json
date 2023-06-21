@@ -1,0 +1,257 @@
+{
+ "displayTopicName": "Discussions By Line of Hashta B’shlucho Mekadesh Bo Meboy",
+ "topicTokens": [
+  {
+   "text": "Discussions By Line of Hashta B’shlucho Mekadesh Bo Meboy",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Discussions By Line of Hashta B’shlucho Mekadesh Bo Meboy": [
+   {
+    "text": "For the fourth pass, we'll summarize everything we've said so far on each line: ",
+    "type": "text"
+   },
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "האיש מקדש בו ובשלוחו",
+      "type": "global",
+      "tokens": [
+       {
+        "text": "האיש מקדש בו ובשלוחו",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "Fourth pass of האיש מקדש בו ובשלוחו",
+      "targetTopic": "Fourth pass of האיש מקדש בו ובשלוחו",
+      "enclosingTopic": "Discussions By Line of Hashta B’shlucho Mekadesh Bo Meboy",
+      "enclosingSubtopic": "Discussions By Line of Hashta B’shlucho Mekadesh Bo Meboy"
+     },
+     {
+      "text": " ",
+      "type": "text"
+     },
+     {
+      "text": "האשה\nמתקדשת בה ובשלוחה",
+      "type": "global",
+      "tokens": [
+       {
+        "text": "האשה\nמתקדשת בה ובשלוחה",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "Fourth pass of האשה מתקדשת בה ובשלוחה",
+      "targetTopic": "Fourth pass of האשה מתקדשת בה ובשלוחה",
+      "enclosingTopic": "Discussions By Line of Hashta B’shlucho Mekadesh Bo Meboy",
+      "enclosingSubtopic": "Discussions By Line of Hashta B’shlucho Mekadesh Bo Meboy"
+     },
+     {
+      "text": " ",
+      "type": "text"
+     },
+     {
+      "text": "האיש\nמקדש את בתו כשהיא נערה בו ובשלוחו",
+      "type": "global",
+      "tokens": [
+       {
+        "text": "האיש\nמקדש את בתו כשהיא נערה בו ובשלוחו",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "Fourth pass of האיש מקדש את בתו כשהיא נערה בו ובשלוחו",
+      "targetTopic": "Fourth pass of האיש מקדש את בתו כשהיא נערה בו ובשלוחו",
+      "enclosingTopic": "Discussions By Line of Hashta B’shlucho Mekadesh Bo Meboy",
+      "enclosingSubtopic": "Discussions By Line of Hashta B’shlucho Mekadesh Bo Meboy"
+     },
+     {
+      "text": "\n...\nגמ‘ ",
+      "type": "text"
+     },
+     {
+      "text": "השתא בשלוחו מקדש בו מיבעיא",
+      "type": "global",
+      "tokens": [
+       {
+        "text": "השתא בשלוחו מקדש בו מיבעיא",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "Fourth pass of השתא בשלוחו מקדש בו מיבעיא",
+      "targetTopic": "Fourth pass of השתא בשלוחו מקדש בו מיבעיא",
+      "enclosingTopic": "Discussions By Line of Hashta B’shlucho Mekadesh Bo Meboy",
+      "enclosingSubtopic": "Discussions By Line of Hashta B’shlucho Mekadesh Bo Meboy"
+     },
+     {
+      "text": " ",
+      "type": "text"
+     },
+     {
+      "text": "אמר\nרב יוסף מצוה בו יותר מבשלוחו",
+      "type": "global",
+      "tokens": [
+       {
+        "text": "אמר\nרב יוסף מצוה בו יותר מבשלוחו",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "Fourth pass of אמר רב יוסף מצוה בו יותר מבשלוחו",
+      "targetTopic": "Fourth pass of אמר רב יוסף מצוה בו יותר מבשלוחו",
+      "enclosingTopic": "Discussions By Line of Hashta B’shlucho Mekadesh Bo Meboy",
+      "enclosingSubtopic": "Discussions By Line of Hashta B’shlucho Mekadesh Bo Meboy"
+     },
+     {
+      "text": " ",
+      "type": "text"
+     },
+     {
+      "text": "כי הא דרב\nספרא מחריך רישא רבא מלח שיבוטא",
+      "type": "global",
+      "tokens": [
+       {
+        "text": "כי הא דרב\nספרא מחריך רישא רבא מלח שיבוטא",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "Fourth pass of כי הא דרב ספרא מחריך רישא רבא מלח שיבוטא",
+      "targetTopic": "Fourth pass of כי הא דרב ספרא מחריך רישא רבא מלח שיבוטא",
+      "enclosingTopic": "Discussions By Line of Hashta B’shlucho Mekadesh Bo Meboy",
+      "enclosingSubtopic": "Discussions By Line of Hashta B’shlucho Mekadesh Bo Meboy"
+     },
+     {
+      "text": "\n",
+      "type": "text"
+     },
+     {
+      "text": "איכא דאמרי בהא איסורא נמי אית בה\nכדרב יהודה אמר רב",
+      "type": "global",
+      "tokens": [
+       {
+        "text": "איכא דאמרי בהא איסורא נמי אית בה\nכדרב יהודה אמר רב",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "Fourth pass of איכא דאמרי בהא איסורא נמי אית בה כדרב יהודה אמר רב",
+      "targetTopic": "Fourth pass of איכא דאמרי בהא איסורא נמי אית בה כדרב יהודה אמר רב",
+      "enclosingTopic": "Discussions By Line of Hashta B’shlucho Mekadesh Bo Meboy",
+      "enclosingSubtopic": "Discussions By Line of Hashta B’shlucho Mekadesh Bo Meboy"
+     },
+     {
+      "text": " ",
+      "type": "text"
+     },
+     {
+      "text": "דאמר רב יהודה\nאמר רב אסור לאדם שיקדש את האשה\nעד שיראנה",
+      "type": "global",
+      "tokens": [
+       {
+        "text": "דאמר רב יהודה\nאמר רב אסור לאדם שיקדש את האשה\nעד שיראנה",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "Fourth pass of דאמר רב יהודה אמר רב אסור לאדם שיקדש את האשה עד שיראנה",
+      "targetTopic": "Fourth pass of דאמר רב יהודה אמר רב אסור לאדם שיקדש את האשה עד שיראנה",
+      "enclosingTopic": "Discussions By Line of Hashta B’shlucho Mekadesh Bo Meboy",
+      "enclosingSubtopic": "Discussions By Line of Hashta B’shlucho Mekadesh Bo Meboy"
+     },
+     {
+      "text": " ",
+      "type": "text"
+     },
+     {
+      "text": "שמא יראה בה דבר מגונה\nותתגנה עליו",
+      "type": "global",
+      "tokens": [
+       {
+        "text": "שמא יראה בה דבר מגונה\nותתגנה עליו",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "Fourth pass of שמא יראה בה דבר מגונה ותתגנה עליו",
+      "targetTopic": "Fourth pass of שמא יראה בה דבר מגונה ותתגנה עליו",
+      "enclosingTopic": "Discussions By Line of Hashta B’shlucho Mekadesh Bo Meboy",
+      "enclosingSubtopic": "Discussions By Line of Hashta B’shlucho Mekadesh Bo Meboy"
+     },
+     {
+      "text": " ",
+      "type": "text"
+     },
+     {
+      "text": "ורחמנא אמר ואהבת לרעך\nכמוך",
+      "type": "global",
+      "tokens": [
+       {
+        "text": "ורחמנא אמר ואהבת לרעך\nכמוך",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "Fourth pass of ורחמנא אמר ואהבת לרעך כמוך",
+      "targetTopic": "Fourth pass of ורחמנא אמר ואהבת לרעך כמוך",
+      "enclosingTopic": "Discussions By Line of Hashta B’shlucho Mekadesh Bo Meboy",
+      "enclosingSubtopic": "Discussions By Line of Hashta B’shlucho Mekadesh Bo Meboy"
+     },
+     {
+      "text": " ",
+      "type": "text"
+     },
+     {
+      "text": "וכי איתמר דרב יוסף אסיפא איתמר",
+      "type": "global",
+      "tokens": [
+       {
+        "text": "וכי איתמר דרב יוסף אסיפא איתמר",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "Fourth pass of וכי איתמר דרב יוסף אסיפא איתמר",
+      "targetTopic": "Fourth pass of וכי איתמר דרב יוסף אסיפא איתמר",
+      "enclosingTopic": "Discussions By Line of Hashta B’shlucho Mekadesh Bo Meboy",
+      "enclosingSubtopic": "Discussions By Line of Hashta B’shlucho Mekadesh Bo Meboy"
+     },
+     {
+      "text": "\n",
+      "type": "text"
+     },
+     {
+      "text": "האשה מתקדשת בה ובשלוחה השתא\nבשלוחה מיקדשא בה מיבעיא אמר רב יוסף\nמצוה בה יותר מבשלוחה כי הא דרב ספרא\nמחריך רישא רבא מלח שיבוטא",
+      "type": "global",
+      "tokens": [
+       {
+        "text": "האשה מתקדשת בה ובשלוחה השתא\nבשלוחה מיקדשא בה מיבעיא אמר רב יוסף\nמצוה בה יותר מבשלוחה כי הא דרב ספרא\nמחריך רישא רבא מלח שיבוטא",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "Fourth pass of האשה מתקדשת בה ובשלוחה השתא בשלוחה מיקדשא בה מיבעיא אמר רב יוסף מצוה בה יותר מבשלוחה כי הא דרב ספרא מחריך רישא רבא מלח שיבוטא",
+      "targetTopic": "Fourth pass of האשה מתקדשת בה ובשלוחה השתא בשלוחה מיקדשא בה מיבעיא אמר רב יוסף מצוה בה יותר מבשלוחה כי הא דרב ספרא מחריך רישא רבא מלח שיבוטא",
+      "enclosingTopic": "Discussions By Line of Hashta B’shlucho Mekadesh Bo Meboy",
+      "enclosingSubtopic": "Discussions By Line of Hashta B’shlucho Mekadesh Bo Meboy"
+     },
+     {
+      "text": " ",
+      "type": "text"
+     },
+     {
+      "text": "אבל בהא\nאיסורא לית בה כדר״ל דאמר ר״ל טב\nלמיתב טן דו מלמיתב ארמלו",
+      "type": "global",
+      "tokens": [
+       {
+        "text": "אבל בהא\nאיסורא לית בה כדר״ל דאמר ר״ל טב\nלמיתב טן דו מלמיתב ארמלו",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "Fourth pass of אבל בהא איסורא לית בה כדר״ל דאמר ר״ל טב למיתב טן דו מלמיתב ארמלו",
+      "targetTopic": "Fourth pass of אבל בהא איסורא לית בה כדר״ל דאמר ר״ל טב למיתב טן דו מלמיתב ארמלו",
+      "enclosingTopic": "Discussions By Line of Hashta B’shlucho Mekadesh Bo Meboy",
+      "enclosingSubtopic": "Discussions By Line of Hashta B’shlucho Mekadesh Bo Meboy"
+     },
+     {
+      "text": ":",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   }
+  ]
+ }
+}

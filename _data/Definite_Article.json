@@ -1,0 +1,134 @@
+{
+ "displayTopicName": "Definite Article",
+ "topicTokens": [
+  {
+   "text": "Definite Article",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Definite Article": [
+   {
+    "text": "A definite article is a grammatical entity in most languages. ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "A definite article is one of the ",
+        "type": "text"
+       },
+       {
+        "text": "two types of articles",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "two types of articles",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Articles",
+        "targetTopic": "Articles",
+        "enclosingTopic": "Definite Article",
+        "enclosingSubtopic": "Definite Article"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "A definite article clarifies that the noun being spoken about is already known to the listener",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "In English, the definite article is the word \"the,\" as in \"the cat,\" as opposed to \"a cat,\" which is the ",
+        "type": "text"
+       },
+       {
+        "text": "indefinite article",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "indefinite article",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Indefinite Article",
+        "targetTopic": "Indefinite Article",
+        "enclosingTopic": "Definite Article",
+        "enclosingSubtopic": "Definite Article"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "There is a ",
+        "type": "text"
+       },
+       {
+        "text": "Hebrew definite article",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Hebrew definite article",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Hebrew definite article",
+        "targetTopic": "Hebrew definite article",
+        "enclosingTopic": "Definite Article",
+        "enclosingSubtopic": "Definite Article"
+       },
+       {
+        "text": " and an ",
+        "type": "text"
+       },
+       {
+        "text": "Aramaic definite article",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Aramaic definite article",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Aramaic definite article",
+        "targetTopic": "Aramaic definite article",
+        "enclosingTopic": "Definite Article",
+        "enclosingSubtopic": "Definite Article"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

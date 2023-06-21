@@ -1,0 +1,181 @@
+{
+ "displayTopicName": "Prose Summary of Hashta B’shlucho Mekadesh Bo Meboy",
+ "topicTokens": [
+  {
+   "text": "Prose Summary of Hashta B’shlucho Mekadesh Bo Meboy",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Prose Summary of Hashta B’shlucho Mekadesh Bo Meboy": [
+   {
+    "text": "The Mishnah teaches that a man can be _mekadesh_ a woman himself or with a shaliach",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "The Mishnah teaches that a man can be ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "mekadesh",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " a woman himself or with a shaliach",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "The Mishnah teaches that a man can be mekadesh a woman himself or with a shaliach",
+    "targetTopic": "Prose Summary of Hashta B’shlucho Mekadesh Bo Meboy",
+    "enclosingTopic": "Prose Summary of Hashta B’shlucho Mekadesh Bo Meboy",
+    "enclosingSubtopic": "Prose Summary of Hashta B’shlucho Mekadesh Bo Meboy"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "The Mishnah teaches that a man can be mekadesh a woman himself or with a shaliach": [
+   {
+    "text": "The Gemara asks why the Mishnah needed to specify a man can be _mekadesh_ himself",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "The Gemara asks why the Mishnah needed to specify a man can be ",
+      "type": "text"
+     },
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "mekadesh",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " himself",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "The Gemara asks why the Mishnah needed to specify a man can be mekadesh himself",
+    "targetTopic": "Prose Summary of Hashta B’shlucho Mekadesh Bo Meboy",
+    "enclosingTopic": "Prose Summary of Hashta B’shlucho Mekadesh Bo Meboy",
+    "enclosingSubtopic": "The Mishnah teaches that a man can be mekadesh a woman himself or with a shaliach"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "The Gemara asks why the Mishnah needed to specify a man can be mekadesh himself": [
+   {
+    "text": "The Gemara brings two traditions of answers to the question why the tana included בו: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "R Yosef answers that the tana of the Mishnah included בו in order to teach the principle of _mitzvah bo yoser m'b'shlucho_",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "R Yosef answers that the tana of the Mishnah included בו in order to teach the principle of ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "mitzvah bo yoser m'b'shlucho",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "R Yosef answers that the tana of the Mishnah included בו in order to teach the principle of mitzvah bo yoser m'b'shlucho",
+        "targetTopic": "Prose Summary of Hashta B’shlucho Mekadesh Bo Meboy",
+        "enclosingTopic": "Prose Summary of Hashta B’shlucho Mekadesh Bo Meboy",
+        "enclosingSubtopic": "The Gemara asks why the Mishnah needed to specify a man can be mekadesh himself"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "An unnamed Amora suggests that the tana included בו to teach a halacha also taught by R Yehuda in the name of Rav that a man has to see a woman before marrying her",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "An unnamed Amora suggests that the tana included בו to teach a halacha also taught by R Yehuda in the name of Rav that a man has to see a woman before marrying her",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "An unnamed amora suggests that the tana included בו to teach a halacha also taught by R Yehuda in the name of Rav that a man has to see a woman before marrying her",
+        "targetTopic": "Prose Summary of Hashta B’shlucho Mekadesh Bo Meboy",
+        "enclosingTopic": "Prose Summary of Hashta B’shlucho Mekadesh Bo Meboy",
+        "enclosingSubtopic": "The Gemara asks why the Mishnah needed to specify a man can be mekadesh himself"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "R Yosef answers that the tana of the Mishnah included בו in order to teach the principle of mitzvah bo yoser m'b'shlucho": [],
+  "An unnamed amora suggests that the tana included בו to teach a halacha also taught by R Yehuda in the name of Rav that a man has to see a woman before marrying her": [
+   {
+    "text": "The suggestion that בו is to teach a man must see the woman before marrying her presents several problems: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "What happened to R Yosef?",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Isn't that a stira to the Mishnah?",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "displayTopicName": "Articles",
+ "topicTokens": [
+  {
+   "text": "Articles",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Articles": [
+   {
+    "text": "Articles are a grammatical entity that exists in most languages. ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Articles are words like “the” or “a” that come before a noun.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Articles clarify whether the thing being spoken about is known to the listener (“the dog” i.e. the ",
+        "type": "text"
+       },
+       {
+        "text": "definite article",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "definite article",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Definite Article",
+        "targetTopic": "Definite Article",
+        "enclosingTopic": "Articles",
+        "enclosingSubtopic": "Articles"
+       },
+       {
+        "text": "), or whether we are speaking in general (“a dog” i.e. the ",
+        "type": "text"
+       },
+       {
+        "text": "indefinite article",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "indefinite article",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Indefinite Article",
+        "targetTopic": "Indefinite Article",
+        "enclosingTopic": "Articles",
+        "enclosingSubtopic": "Articles"
+       },
+       {
+        "text": ".)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

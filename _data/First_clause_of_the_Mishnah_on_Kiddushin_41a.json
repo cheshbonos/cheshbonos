@@ -1,0 +1,65 @@
+{
+ "displayTopicName": "First clause of the Mishnah on Kiddushin 41a",
+ "topicTokens": [
+  {
+   "text": "First clause of the Mishnah on Kiddushin 41a",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "First clause of the Mishnah on Kiddushin 41a": [
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "האיש מקדש בו ובשלוחו",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   },
+   {
+    "text": "In order to learn the first clause of the Mishnah, we'll need to learn: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Required Context",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Vocabulary",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Literal Translation",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "displayTopicName": "Fourth Pass of _hashta b’shlucho mekadesh bo meboy_",
+ "topicTokens": [
+  {
+   "text": "Fourth Pass of ",
+   "type": "text"
+  },
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "hashta b’shlucho mekadesh bo meboy",
+     "type": "text"
+    }
+   ]
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Fourth Pass of hashta b’shlucho mekadesh bo meboy": [
+   {
+    "text": "For the fourth pass: ",
+    "type": "text"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "Discussions By Line",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Discussions By Line",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Discussions By Line of Hashta B’shlucho Mekadesh Bo Meboy",
+         "targetTopic": "Discussions By Line of Hashta B’shlucho Mekadesh Bo Meboy",
+         "enclosingTopic": "Fourth Pass of hashta b’shlucho mekadesh bo meboy",
+         "enclosingSubtopic": "Fourth Pass of hashta b’shlucho mekadesh bo meboy"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Prose Summary",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Prose Summary",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Prose Summary of Hashta B’shlucho Mekadesh Bo Meboy",
+         "targetTopic": "Prose Summary of Hashta B’shlucho Mekadesh Bo Meboy",
+         "enclosingTopic": "Fourth Pass of hashta b’shlucho mekadesh bo meboy",
+         "enclosingSubtopic": "Fourth Pass of hashta b’shlucho mekadesh bo meboy"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Halachos So Far",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Halachos So Far",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Halachos So Far for Hashta B’shlucho Mekadesh Bo Meboy",
+         "targetTopic": "Halachos So Far for Hashta B’shlucho Mekadesh Bo Meboy",
+         "enclosingTopic": "Fourth Pass of hashta b’shlucho mekadesh bo meboy",
+         "enclosingSubtopic": "Fourth Pass of hashta b’shlucho mekadesh bo meboy"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ]
+ }
+}

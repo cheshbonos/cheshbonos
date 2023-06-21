@@ -1,0 +1,221 @@
+{
+ "displayTopicName": "First pass of השתא בשלוחו מקדש בו מיבעיא",
+ "topicTokens": [
+  {
+   "text": "First pass of השתא בשלוחו מקדש בו מיבעיא",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "First pass of השתא בשלוחו מקדש בו מיבעיא": [
+   {
+    "text": "In order to understand the sentence “השתא בשלוחו מקדש בו מיבעיא”: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "First, we’ll translate the individual words:",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   },
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "השתא",
+      "type": "local",
+      "tokens": [
+       {
+        "text": "השתא",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "השתא",
+      "targetTopic": "First pass of השתא בשלוחו מקדש בו מיבעיא",
+      "enclosingTopic": "First pass of השתא בשלוחו מקדש בו מיבעיא",
+      "enclosingSubtopic": "First pass of השתא בשלוחו מקדש בו מיבעיא"
+     },
+     {
+      "text": " ",
+      "type": "text"
+     },
+     {
+      "text": "בשלוחו",
+      "type": "local",
+      "tokens": [
+       {
+        "text": "בשלוחו",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "בשלוחו",
+      "targetTopic": "First pass of השתא בשלוחו מקדש בו מיבעיא",
+      "enclosingTopic": "First pass of השתא בשלוחו מקדש בו מיבעיא",
+      "enclosingSubtopic": "First pass of השתא בשלוחו מקדש בו מיבעיא"
+     },
+     {
+      "text": " ",
+      "type": "text"
+     },
+     {
+      "text": "מקדש",
+      "type": "local",
+      "tokens": [
+       {
+        "text": "מקדש",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "מקדש",
+      "targetTopic": "First pass of השתא בשלוחו מקדש בו מיבעיא",
+      "enclosingTopic": "First pass of השתא בשלוחו מקדש בו מיבעיא",
+      "enclosingSubtopic": "First pass of השתא בשלוחו מקדש בו מיבעיא"
+     },
+     {
+      "text": " ",
+      "type": "text"
+     },
+     {
+      "text": "בו",
+      "type": "local",
+      "tokens": [
+       {
+        "text": "בו",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "בו",
+      "targetTopic": "First pass of השתא בשלוחו מקדש בו מיבעיא",
+      "enclosingTopic": "First pass of השתא בשלוחו מקדש בו מיבעיא",
+      "enclosingSubtopic": "First pass of השתא בשלוחו מקדש בו מיבעיא"
+     },
+     {
+      "text": " ",
+      "type": "text"
+     },
+     {
+      "text": "מיבעיא",
+      "type": "local",
+      "tokens": [
+       {
+        "text": "מיבעיא",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "מיבעיא",
+      "targetTopic": "First pass of השתא בשלוחו מקדש בו מיבעיא",
+      "enclosingTopic": "First pass of השתא בשלוחו מקדש בו מיבעיא",
+      "enclosingSubtopic": "First pass of השתא בשלוחו מקדש בו מיבעיא"
+     }
+    ],
+    "direction": "rtl"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Then, we’ll put together a ",
+        "type": "text"
+       },
+       {
+        "text": "literal translation of the full sentence",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "literal translation of the full sentence",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Literal translation of the full sentence",
+        "targetTopic": "First pass of השתא בשלוחו מקדש בו מיבעיא",
+        "enclosingTopic": "First pass of השתא בשלוחו מקדש בו מיבעיא",
+        "enclosingSubtopic": "First pass of השתא בשלוחו מקדש בו מיבעיא"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "We’ll ",
+        "type": "text"
+       },
+       {
+        "text": "identify ambiguities",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "identify ambiguities",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Identify ambiguities",
+        "targetTopic": "First pass of השתא בשלוחו מקדש בו מיבעיא",
+        "enclosingTopic": "First pass of השתא בשלוחו מקדש בו מיבעיא",
+        "enclosingSubtopic": "First pass of השתא בשלוחו מקדש בו מיבעיא"
+       },
+       {
+        "text": " and clarify the meaning of the text",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Lastly, we’ll consider ",
+        "type": "text"
+       },
+       {
+        "text": "comprehension questions",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "comprehension questions",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Comprehension questions",
+        "targetTopic": "First pass of השתא בשלוחו מקדש בו מיבעיא",
+        "enclosingTopic": "First pass of השתא בשלוחו מקדש בו מיבעיא",
+        "enclosingSubtopic": "First pass of השתא בשלוחו מקדש בו מיבעיא"
+       },
+       {
+        "text": " about this sentence",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "השתא": [],
+  "בשלוחו": [],
+  "מקדש": [],
+  "בו": [],
+  "מיבעיא": [],
+  "Literal translation of the full sentence": [],
+  "Identify ambiguities": [],
+  "Comprehension questions": []
+ }
+}

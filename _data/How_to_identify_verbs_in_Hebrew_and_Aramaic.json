@@ -66,7 +66,7 @@
         "enclosingSubtopic": "How to identify verbs in Hebrew and Aramaic"
        },
        {
-        "text": " which produces a verb, which might have several possible meanings.",
+        "text": " which produces a verb, which might have several possible meanings. If you can figure out the shoresh and binyan, that will narrow down the action being spoken about to a few possibilities, but we still wont know who is doing the action, or when.",
         "type": "text"
        }
       ],
@@ -77,20 +77,20 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "A verb is then conjugated into a particular ",
+        "text": "Next we try to determine ",
         "type": "text"
        },
        {
-        "text": "form",
+        "text": "the tense of the verb",
         "type": "global",
         "tokens": [
          {
-          "text": "form",
+          "text": "the tense of the verb",
           "type": "text"
          }
         ],
-        "targetSubtopic": "Verb forms of Hebrew and Aramaic",
-        "targetTopic": "Verb forms of Hebrew and Aramaic",
+        "targetSubtopic": "“Tenses” of Hebrew and Aramaic",
+        "targetTopic": "“Tenses” of Hebrew and Aramaic",
         "enclosingTopic": "How to identify verbs in Hebrew and Aramaic",
         "enclosingSubtopic": "How to identify verbs in Hebrew and Aramaic"
        },
@@ -117,16 +117,16 @@
         "type": "text"
        },
        {
-        "text": "infinitive",
+        "text": "past tense",
         "type": "global",
         "tokens": [
          {
-          "text": "infinitive",
+          "text": "past tense",
           "type": "text"
          }
         ],
-        "targetSubtopic": "Infinitive",
-        "targetTopic": "Infinitive",
+        "targetSubtopic": "Past tense",
+        "targetTopic": "Past tense",
         "enclosingTopic": "How to identify verbs in Hebrew and Aramaic",
         "enclosingSubtopic": "How to identify verbs in Hebrew and Aramaic"
        },
@@ -142,7 +142,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Within a form there are several “persons,” eg “first-person” (“I run”) or “second-person” (“you run”), etc.",
+        "text": "Next we try to determine the “person” of the verb, eg first-person (“I run”) or “second-person” (“you run”), etc.",
         "type": "text"
        }
       ],
@@ -153,7 +153,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "So, when we see a verb in the Gemara, we want to identify the shoresh, the binyan, the form, and the person.",
+        "text": "So, when we see a verb in the Gemara, we want to identify the shoresh, the binyan, the tense, and the person.",
         "type": "text"
        }
       ],

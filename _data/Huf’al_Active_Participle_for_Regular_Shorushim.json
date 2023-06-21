@@ -63,7 +63,7 @@
     "enclosingSubtopic": "Huf’al Active Participle for Regular Shorushim"
    },
    {
-    "text": ": ",
+    "text": " like בדל: ",
     "type": "text"
    },
    {
@@ -125,6 +125,14 @@
          "html": "<br>"
         },
         {
+         "text": " מוּבְדָּל ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
          "type": "html_element",
          "html": "<br>"
         },
@@ -167,6 +175,14 @@
        "tokens": [
         {
          "text": "מֻבְדֶּלֶת ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": " מוּבְדֶּלֶת ",
          "type": "text"
         },
         {
@@ -238,6 +254,14 @@
          "html": "<br>"
         },
         {
+         "text": " מוּבְדָּלִים ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
          "type": "html_element",
          "html": "<br>"
         },
@@ -287,6 +311,14 @@
          "html": "<br>"
         },
         {
+         "text": " מוּבְדָּלוֹת ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
          "type": "html_element",
          "html": "<br>"
         },
@@ -329,8 +361,62 @@
     ]
    },
    {
-    "text": " For any regular shoresh, you can replace the letters ‎ב, ‎ד, and ל above with the letters of your shoresh to produce the proper conjugations.",
+    "text": " When dealing with texts that are not vowelized, often a וֹ will be inserted after the first letter to differentiate the ",
     "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "huf’al",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " active participle from the ",
+    "type": "text"
+   },
+   {
+    "text": "_hif’il_ active participle",
+    "type": "global",
+    "tokens": [
+     {
+      "type": "italics",
+      "tokens": [
+       {
+        "text": "hif’il",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "text": " active participle",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Hif’il Active Participle for Regular Shorushim",
+    "targetTopic": "Hif’il Active Participle for Regular Shorushim",
+    "enclosingTopic": "Huf’al Active Participle for Regular Shorushim",
+    "enclosingSubtopic": "Huf’al Active Participle for Regular Shorushim"
+   },
+   {
+    "text": ". ",
+    "type": "text"
+   },
+   {
+    "type": "footnote_lines",
+    "lines": [
+     {
+      "superscript": "1",
+      "tokens": [
+       {
+        "text": " For any regular shoresh, you can replace the letters ‎ב, ‎ד, and ל above with the letters of your shoresh to produce the proper conjugations.",
+        "type": "text"
+       }
+      ]
+     }
+    ]
    }
   ]
  }

@@ -1,0 +1,31 @@
+{
+ "displayTopicName": "Second clause of the Mishnah on Kiddushin 41a",
+ "topicTokens": [
+  {
+   "text": "Second clause of the Mishnah on Kiddushin 41a",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Second clause of the Mishnah on Kiddushin 41a": [
+   {
+    "text": "This is the second clause of the Mishnah: ",
+    "type": "text"
+   },
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "האשה מתקדשת בה ובשלוחה",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   },
+   {
+    "text": "It has context, content, and commentary.",
+    "type": "text"
+   }
+  ]
+ }
+}

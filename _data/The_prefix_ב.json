@@ -9,258 +9,391 @@
  "paragraphsBySubtopic": {
   "The prefix ב": [
    {
-    "text": "There is a prefix ב in Hebrew and Aramaic. It has various ",
+    "text": "There is a prefix ב in Hebrew and Aramaic. ",
     "type": "text"
    },
    {
-    "text": "meanings",
-    "type": "local",
-    "tokens": [
+    "topLevelNodes": [
      {
-      "text": "meanings",
-      "type": "text"
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ב prefix has ",
+        "type": "text"
+       },
+       {
+        "text": "various meanings",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "various meanings",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Meanings",
+        "targetTopic": "The prefix ב",
+        "enclosingTopic": "The prefix ב",
+        "enclosingSubtopic": "The prefix ב"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ב prefix can be followed ",
+        "type": "text"
+       },
+       {
+        "text": "by a noun",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "by a noun",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "By a noun",
+        "targetTopic": "The prefix ב",
+        "enclosingTopic": "The prefix ב",
+        "enclosingSubtopic": "The prefix ב"
+       },
+       {
+        "text": ", or ",
+        "type": "text"
+       },
+       {
+        "text": "by various suffixes",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "by various suffixes",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Suffixes of ב",
+        "targetTopic": "Suffixes of ב",
+        "enclosingTopic": "The prefix ב",
+        "enclosingSubtopic": "The prefix ב"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
      }
     ],
-    "targetSubtopic": "Meanings",
-    "targetTopic": "The prefix ב",
-    "enclosingTopic": "The prefix ב",
-    "enclosingSubtopic": "The prefix ב"
-   },
-   {
-    "text": ", and can be ",
-    "type": "text"
-   },
-   {
-    "text": "followed by a noun",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "followed by a noun",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Followed by a noun",
-    "targetTopic": "The prefix ב",
-    "enclosingTopic": "The prefix ב",
-    "enclosingSubtopic": "The prefix ב"
-   },
-   {
-    "text": ", or a ",
-    "type": "text"
-   },
-   {
-    "text": "suffix",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "suffix",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Suffixes",
-    "targetTopic": "The prefix ב",
-    "enclosingTopic": "The prefix ב",
-    "enclosingSubtopic": "The prefix ב"
-   },
-   {
-    "text": ".",
-    "type": "text"
+    "type": "outline"
    }
   ],
   "Meanings": [
    {
-    "text": "The prefix ב can mean ",
+    "text": "The prefix ב can mean: ",
     "type": "text"
    },
    {
-    "text": "“inside”",
-    "type": "local",
-    "tokens": [
+    "topLevelNodes": [
      {
-      "text": "“inside”",
-      "type": "text"
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "“inside”",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "“inside”",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "“inside”",
+        "targetTopic": "The prefix ב",
+        "enclosingTopic": "The prefix ב",
+        "enclosingSubtopic": "Meanings"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "“with”",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "“with”",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "“with”",
+        "targetTopic": "The prefix ב",
+        "enclosingTopic": "The prefix ב",
+        "enclosingSubtopic": "Meanings"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "“by” or “via”",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "“by” or “via”",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "“by” or “via”",
+        "targetTopic": "The prefix ב",
+        "enclosingTopic": "The prefix ב",
+        "enclosingSubtopic": "Meanings"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "“on”",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "“on”",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "“on”",
+        "targetTopic": "The prefix ב",
+        "enclosingTopic": "The prefix ב",
+        "enclosingSubtopic": "Meanings"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "“because of”",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "“because of”",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "“because of”",
+        "targetTopic": "The prefix ב",
+        "enclosingTopic": "The prefix ב",
+        "enclosingSubtopic": "Meanings"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "“using”",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "“using”",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "“using”",
+        "targetTopic": "The prefix ב",
+        "enclosingTopic": "The prefix ב",
+        "enclosingSubtopic": "Meanings"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "“at the time of”",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "“at the time of”",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "“at the time of”",
+        "targetTopic": "The prefix ב",
+        "enclosingTopic": "The prefix ב",
+        "enclosingSubtopic": "Meanings"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
      }
     ],
-    "targetSubtopic": "“inside”",
-    "targetTopic": "The prefix ב",
-    "enclosingTopic": "The prefix ב",
-    "enclosingSubtopic": "Meanings"
-   },
-   {
-    "text": ", ",
-    "type": "text"
-   },
-   {
-    "text": "“with”",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "“with”",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "“with”",
-    "targetTopic": "The prefix ב",
-    "enclosingTopic": "The prefix ב",
-    "enclosingSubtopic": "Meanings"
-   },
-   {
-    "text": ", ",
-    "type": "text"
-   },
-   {
-    "text": "“by” or “via”",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "“by” or “via”",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "“by” or “via”",
-    "targetTopic": "The prefix ב",
-    "enclosingTopic": "The prefix ב",
-    "enclosingSubtopic": "Meanings"
-   },
-   {
-    "text": ", ",
-    "type": "text"
-   },
-   {
-    "text": "“on”",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "“on”",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "“on”",
-    "targetTopic": "The prefix ב",
-    "enclosingTopic": "The prefix ב",
-    "enclosingSubtopic": "Meanings"
-   },
-   {
-    "text": ", ",
-    "type": "text"
-   },
-   {
-    "text": "“because of”",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "“because of”",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "“because of”",
-    "targetTopic": "The prefix ב",
-    "enclosingTopic": "The prefix ב",
-    "enclosingSubtopic": "Meanings"
-   },
-   {
-    "text": ", ",
-    "type": "text"
-   },
-   {
-    "text": "“using”",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "“using”",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "“using”",
-    "targetTopic": "The prefix ב",
-    "enclosingTopic": "The prefix ב",
-    "enclosingSubtopic": "Meanings"
-   },
-   {
-    "text": " or ",
-    "type": "text"
-   },
-   {
-    "text": "“at the time of”",
-    "type": "local",
-    "tokens": [
-     {
-      "text": "“at the time of”",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "“at the time of”",
-    "targetTopic": "The prefix ב",
-    "enclosingTopic": "The prefix ב",
-    "enclosingSubtopic": "Meanings"
-   },
-   {
-    "text": ".",
-    "type": "text"
+    "type": "outline"
    }
   ],
   "“inside”": [
    {
-    "text": "The prefix ב can be short for the word בתוך meaning “inside,” for example ",
+    "text": "The prefix ב can be short for the word בתוך meaning “inside.” ",
     "type": "text"
    },
    {
-    "type": "bold",
-    "tokens": [
+    "topLevelNodes": [
      {
-      "text": "ב",
-      "type": "text"
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "For example, ",
+        "type": "text"
+       },
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "ב",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": "בית, ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "type": "bold",
+          "tokens": [
+           {
+            "text": "b",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": "’bayis,",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " “",
+        "type": "text"
+       },
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "in",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " the house.”",
+        "type": "text"
+       }
+      ],
+      "children": []
      }
-    ]
-   },
-   {
-    "text": "בית, “",
-    "type": "text"
-   },
-   {
-    "type": "bold",
-    "tokens": [
-     {
-      "text": "in",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " the house.”",
-    "type": "text"
+    ],
+    "type": "outline"
    }
   ],
   "“with”": [
    {
-    "text": "The prefix ב can mean something that is “with” something else, eg הוא בא ",
+    "text": "The prefix ב can mean something that is “with” something else. ",
     "type": "text"
    },
    {
-    "type": "bold",
-    "tokens": [
+    "topLevelNodes": [
      {
-      "text": "ב",
-      "type": "text"
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "For example, הוא בא ",
+        "type": "text"
+       },
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "ב",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": "חבריו, ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hu ba ",
+          "type": "text"
+         },
+         {
+          "type": "bold",
+          "tokens": [
+           {
+            "text": "b",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": "chaverav,",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " “he came ",
+        "type": "text"
+       },
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "with",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " his friends”",
+        "type": "text"
+       }
+      ],
+      "children": []
      }
-    ]
-   },
-   {
-    "text": "חברו, “he came ",
-    "type": "text"
-   },
-   {
-    "type": "bold",
-    "tokens": [
-     {
-      "text": "with",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " his friends”",
-    "type": "text"
+    ],
+    "type": "outline"
    }
   ],
   "“by” or “via”": [
@@ -275,7 +408,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "הוא עושה כן ",
+        "text": "הוא עושה ",
         "type": "text"
        },
        {
@@ -288,7 +421,33 @@
         ]
        },
        {
-        "text": "שליח - “he did it ",
+        "text": "שליח - ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hu ose ",
+          "type": "text"
+         },
+         {
+          "type": "bold",
+          "tokens": [
+           {
+            "text": "b",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": "shlucho",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " “he acted ",
         "type": "text"
        },
        {
@@ -325,7 +484,33 @@
         ]
        },
        {
-        "text": "חמור - “he came ",
+        "text": "חמור - ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hu ba ",
+          "type": "text"
+         },
+         {
+          "type": "bold",
+          "tokens": [
+           {
+            "text": "b",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": "chamor,",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " “he came ",
         "type": "text"
        },
        {
@@ -350,621 +535,303 @@
   ],
   "“on”": [
    {
-    "text": "The prefix ב can mean something that is on top of something else, eg ",
+    "text": "The prefix ב can mean something that is on top of something else. ",
     "type": "text"
    },
    {
-    "type": "bold",
-    "tokens": [
+    "topLevelNodes": [
      {
-      "text": "ב",
-      "type": "text"
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "For example, ",
+        "type": "text"
+       },
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "ב",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": "שלחן, ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "type": "bold",
+          "tokens": [
+           {
+            "text": "b",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": "’shulchan,",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " “on the table”",
+        "type": "text"
+       }
+      ],
+      "children": []
      }
-    ]
-   },
-   {
-    "text": "שלחן, “on the table”",
-    "type": "text"
+    ],
+    "type": "outline"
    }
   ],
   "“because of”": [
    {
-    "text": "The prefix ב can be short for the word בשביל meaning “because of”, eg הוא בא ",
+    "text": "The prefix ב can be short for the word בשביל meaning “because of.” ",
     "type": "text"
    },
    {
-    "type": "bold",
-    "tokens": [
+    "topLevelNodes": [
      {
-      "text": "ב",
-      "type": "text"
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "For example, הוא בא ",
+        "type": "text"
+       },
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "ב",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": "ך, ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hu ba ",
+          "type": "text"
+         },
+         {
+          "type": "bold",
+          "tokens": [
+           {
+            "text": "b",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": "echa,",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " “he came for you.”",
+        "type": "text"
+       }
+      ],
+      "children": []
      }
-    ]
-   },
-   {
-    "text": "ך, “he came for you.”",
-    "type": "text"
+    ],
+    "type": "outline"
    }
   ],
   "“using”": [
    {
-    "text": "The prefix ב can mean “using” eg הוא חותך ",
+    "text": "The prefix ב can mean “using.” ",
     "type": "text"
    },
    {
-    "type": "bold",
-    "tokens": [
+    "topLevelNodes": [
      {
-      "text": "ב",
-      "type": "text"
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "For example, הוא חותך ",
+        "type": "text"
+       },
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "ב",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": "סכין, ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hu choteich ",
+          "type": "text"
+         },
+         {
+          "type": "bold",
+          "tokens": [
+           {
+            "text": "b",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": "’sachin",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ", “he cuts using a knife.”",
+        "type": "text"
+       }
+      ],
+      "children": []
      }
-    ]
-   },
-   {
-    "text": "סכין “he cuts using a knife.”",
-    "type": "text"
+    ],
+    "type": "outline"
    }
   ],
   "“at the time of”": [
    {
-    "text": "The prefix ב can mean “at” a certain time eg הוא הגיע ",
+    "text": "The prefix ב can mean “at” a certain time. ",
     "type": "text"
    },
    {
-    "type": "bold",
-    "tokens": [
+    "topLevelNodes": [
      {
-      "text": "ב",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": "צהריים “he came ",
-    "type": "text"
-   },
-   {
-    "type": "bold",
-    "tokens": [
-     {
-      "text": "at",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " noon.”",
-    "type": "text"
-   }
-  ],
-  "Followed by a noun": [
-   {
-    "text": "The prefix ב can be followed by a noun, for example, “",
-    "type": "text"
-   },
-   {
-    "type": "bold",
-    "tokens": [
-     {
-      "text": "ב",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": "בית”, which is the prefix ב followed by the noun בית ie “house,” which together means “in a house” or “in the house.”",
-    "type": "text"
-   }
-  ],
-  "Suffixes": [
-   {
-    "text": "The prefix ב in Hebrew has several suffixes that can be attached to indicate who or what is being referred to. ",
-    "type": "text"
-   },
-   {
-    "type": "table",
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "‎ ",
-         "type": "text"
-        },
-        {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "ב with suffix",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "Transliteration",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "Person",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "bold",
-         "tokens": [
-          {
-           "text": "Example meaning",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "בִּי",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "italics",
-         "tokens": [
-          {
-           "text": "bi",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "I",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "with",
-         "type": "text"
-        },
-        {
-         "type": "footnote_marker",
-         "text": "1"
-        },
-        {
-         "text": " me",
-         "type": "text"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "בָּנוּ",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "italics",
-         "tokens": [
-          {
-           "text": "banu",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "We",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "with us",
-         "type": "text"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "בְּךָ",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "italics",
-         "tokens": [
-          {
-           "text": "becha",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "You (masculine)",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "with you, a man",
-         "type": "text"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "בָּךְ",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "italics",
-         "tokens": [
-          {
-           "text": "bach",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "You (feminine)",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "with you, a woman",
-         "type": "text"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "בָּכֶם",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "italics",
-         "tokens": [
-          {
-           "text": "bachem",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "You all (masculine)",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "with you men",
-         "type": "text"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "בָּכֶן",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "italics",
-         "tokens": [
-          {
-           "text": "bachen",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "You all (feminine)",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "with you women",
-         "type": "text"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "בּוֹ",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "italics",
-         "tokens": [
-          {
-           "text": "bo",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "He / it (masculine)",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "with him",
-         "type": "text"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "בָּהּ",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "italics",
-         "tokens": [
-          {
-           "text": "bah",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "She / it (feminine)",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "with her",
-         "type": "text"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "בָּהֶם or בָּם",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "italics",
-         "tokens": [
-          {
-           "text": "bahem",
-           "type": "text"
-          }
-         ]
-        },
-        {
-         "text": " or ",
-         "type": "text"
-        },
-        {
-         "type": "italics",
-         "tokens": [
-          {
-           "text": "bam",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Them / those (masculine)",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "with those men",
-         "type": "text"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "בָּהֶן or בָּן",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "type": "italics",
-         "tokens": [
-          {
-           "text": "bahen",
-           "type": "text"
-          }
-         ]
-        },
-        {
-         "text": " or ",
-         "type": "text"
-        },
-        {
-         "type": "italics",
-         "tokens": [
-          {
-           "text": "ban",
-           "type": "text"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Them / those (feminine)",
-         "type": "text"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "with those women",
-         "type": "text"
-        }
-       ]
-      }
-     ]
-    ]
-   },
-   {
-    "text": " ",
-    "type": "text"
-   },
-   {
-    "type": "footnote_lines",
-    "lines": [
-     {
-      "superscript": "1",
-      "tokens": [
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
        {
-        "text": " This table translates ב as “with,” but each of these words can also mean “on,” “in,” “with”, “via,” etc.",
+        "text": "For example, הוא הגיע ",
+        "type": "text"
+       },
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "ב",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": "צהריים, ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hu higia ",
+          "type": "text"
+         },
+         {
+          "type": "bold",
+          "tokens": [
+           {
+            "text": "b",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": "’tzahorayim",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ", “he came ",
+        "type": "text"
+       },
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "at",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " noon.”",
         "type": "text"
        }
-      ]
+      ],
+      "children": []
      }
-    ]
+    ],
+    "type": "outline"
+   }
+  ],
+  "By a noun": [
+   {
+    "text": "The prefix ב can be followed by a noun. ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "For example, “",
+        "type": "text"
+       },
+       {
+        "type": "bold",
+        "tokens": [
+         {
+          "text": "בְ",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": "שִׁמְעֹון”, ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "b’Shimeon",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ", which is the prefix ב followed by the name Shimeon which together means \"with Shimeon.\"",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
    }
   ]
  }

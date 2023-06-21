@@ -63,7 +63,7 @@
     "enclosingSubtopic": "Pa’al Imperative for regular shorushim"
    },
    {
-    "text": ": ",
+    "text": " like כתב: ",
     "type": "text"
    },
    {
@@ -118,6 +118,14 @@
        "tokens": [
         {
          "text": "כְּתֹב ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
+         "text": "כְּתוֹב ",
          "type": "text"
         },
         {
@@ -238,6 +246,14 @@
          "html": "<br>"
         },
         {
+         "text": "כִּתְבוּ ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
          "type": "html_element",
          "html": "<br>"
         },
@@ -287,6 +303,14 @@
          "html": "<br>"
         },
         {
+         "text": "כְּתוֹבְנָה ",
+         "type": "text"
+        },
+        {
+         "type": "html_element",
+         "html": "<br>"
+        },
+        {
          "type": "html_element",
          "html": "<br>"
         },
@@ -329,8 +353,70 @@
     ]
    },
    {
-    "text": " For any regular shoresh, you can replace the letters ‎כ, ‎ת, and ב above with the letters of your shoresh to produce the proper conjugations.",
+    "text": " ",
     "type": "text"
+   },
+   {
+    "type": "footnote_lines",
+    "lines": [
+     {
+      "superscript": "1",
+      "tokens": [
+       {
+        "text": " For any regular shoresh, you can replace the letters ‎כ, ‎ת, and ב above with the letters of your shoresh to produce the proper conjugations.",
+        "type": "text"
+       }
+      ]
+     },
+     {
+      "superscript": "2",
+      "tokens": [
+       {
+        "text": " When dealing with texts that are not vowelized, often a וֹ (also known as a ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "cholam malay",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " when functioning as an \"o\" vowel) will be inserted after letters with a ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "kubutz",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " vowel (i.e. אֻ) or a ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "cholam",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " vowel (i.e. אֹ) to clarify what the vowel sound is.",
+        "type": "text"
+       }
+      ]
+     }
+    ]
    }
   ]
  }

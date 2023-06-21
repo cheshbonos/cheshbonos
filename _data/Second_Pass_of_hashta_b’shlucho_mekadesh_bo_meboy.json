@@ -1,0 +1,266 @@
+{
+ "displayTopicName": "Second Pass of _hashta b’shlucho mekadesh bo meboy_",
+ "topicTokens": [
+  {
+   "text": "Second Pass of ",
+   "type": "text"
+  },
+  {
+   "type": "italics",
+   "tokens": [
+    {
+     "text": "hashta b’shlucho mekadesh bo meboy",
+     "type": "text"
+    }
+   ]
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Second Pass of hashta b’shlucho mekadesh bo meboy": [
+   {
+    "text": "For the second pass, we'll look at the Gemara and comments of Rashi and identify difficulties with both: ",
+    "type": "text"
+   },
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "האיש מקדש בו ובשלוחו",
+      "type": "global",
+      "tokens": [
+       {
+        "text": "האיש מקדש בו ובשלוחו",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "Second pass of האיש מקדש בו ובשלוחו",
+      "targetTopic": "Second pass of האיש מקדש בו ובשלוחו",
+      "enclosingTopic": "Second Pass of hashta b’shlucho mekadesh bo meboy",
+      "enclosingSubtopic": "Second Pass of hashta b’shlucho mekadesh bo meboy"
+     },
+     {
+      "text": " ",
+      "type": "text"
+     },
+     {
+      "text": "האשה\nמתקדשת בה ובשלוחה",
+      "type": "global",
+      "tokens": [
+       {
+        "text": "האשה\nמתקדשת בה ובשלוחה",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "Second pass of האשה מתקדשת בה ובשלוחה",
+      "targetTopic": "Second pass of האשה מתקדשת בה ובשלוחה",
+      "enclosingTopic": "Second Pass of hashta b’shlucho mekadesh bo meboy",
+      "enclosingSubtopic": "Second Pass of hashta b’shlucho mekadesh bo meboy"
+     },
+     {
+      "text": " ",
+      "type": "text"
+     },
+     {
+      "text": "האיש\nמקדש את בתו כשהיא נערה בו ובשלוחו",
+      "type": "global",
+      "tokens": [
+       {
+        "text": "האיש\nמקדש את בתו כשהיא נערה בו ובשלוחו",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "Second pass of האיש מקדש את בתו כשהיא נערה בו ובשלוחו",
+      "targetTopic": "Second pass of האיש מקדש את בתו כשהיא נערה בו ובשלוחו",
+      "enclosingTopic": "Second Pass of hashta b’shlucho mekadesh bo meboy",
+      "enclosingSubtopic": "Second Pass of hashta b’shlucho mekadesh bo meboy"
+     },
+     {
+      "text": "\n...\nגמ‘ ",
+      "type": "text"
+     },
+     {
+      "text": "השתא בשלוחו מקדש בו מיבעיא",
+      "type": "global",
+      "tokens": [
+       {
+        "text": "השתא בשלוחו מקדש בו מיבעיא",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "Second pass of השתא בשלוחו מקדש בו מיבעיא",
+      "targetTopic": "Second pass of השתא בשלוחו מקדש בו מיבעיא",
+      "enclosingTopic": "Second Pass of hashta b’shlucho mekadesh bo meboy",
+      "enclosingSubtopic": "Second Pass of hashta b’shlucho mekadesh bo meboy"
+     },
+     {
+      "text": " ",
+      "type": "text"
+     },
+     {
+      "text": "אמר\nרב יוסף מצוה בו יותר מבשלוחו",
+      "type": "global",
+      "tokens": [
+       {
+        "text": "אמר\nרב יוסף מצוה בו יותר מבשלוחו",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "Second pass of אמר רב יוסף מצוה בו יותר מבשלוחו",
+      "targetTopic": "Second pass of אמר רב יוסף מצוה בו יותר מבשלוחו",
+      "enclosingTopic": "Second Pass of hashta b’shlucho mekadesh bo meboy",
+      "enclosingSubtopic": "Second Pass of hashta b’shlucho mekadesh bo meboy"
+     },
+     {
+      "text": " ",
+      "type": "text"
+     },
+     {
+      "text": "כי הא דרב\nספרא מחריך רישא רבא מלח שיבוטא",
+      "type": "global",
+      "tokens": [
+       {
+        "text": "כי הא דרב\nספרא מחריך רישא רבא מלח שיבוטא",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "Second pass of כי הא דרב ספרא מחריך רישא רבא מלח שיבוטא",
+      "targetTopic": "Second pass of כי הא דרב ספרא מחריך רישא רבא מלח שיבוטא",
+      "enclosingTopic": "Second Pass of hashta b’shlucho mekadesh bo meboy",
+      "enclosingSubtopic": "Second Pass of hashta b’shlucho mekadesh bo meboy"
+     },
+     {
+      "text": "\n",
+      "type": "text"
+     },
+     {
+      "text": "איכא דאמרי בהא איסורא נמי אית בה\nכדרב יהודה אמר רב",
+      "type": "global",
+      "tokens": [
+       {
+        "text": "איכא דאמרי בהא איסורא נמי אית בה\nכדרב יהודה אמר רב",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "Second pass of איכא דאמרי בהא איסורא נמי אית בה כדרב יהודה אמר רב",
+      "targetTopic": "Second pass of איכא דאמרי בהא איסורא נמי אית בה כדרב יהודה אמר רב",
+      "enclosingTopic": "Second Pass of hashta b’shlucho mekadesh bo meboy",
+      "enclosingSubtopic": "Second Pass of hashta b’shlucho mekadesh bo meboy"
+     },
+     {
+      "text": " ",
+      "type": "text"
+     },
+     {
+      "text": "דאמר רב יהודה\nאמר רב אסור לאדם שיקדש את האשה\nעד שיראנה",
+      "type": "global",
+      "tokens": [
+       {
+        "text": "דאמר רב יהודה\nאמר רב אסור לאדם שיקדש את האשה\nעד שיראנה",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "Second pass of דאמר רב יהודה אמר רב אסור לאדם שיקדש את האשה עד שיראנה",
+      "targetTopic": "Second pass of דאמר רב יהודה אמר רב אסור לאדם שיקדש את האשה עד שיראנה",
+      "enclosingTopic": "Second Pass of hashta b’shlucho mekadesh bo meboy",
+      "enclosingSubtopic": "Second Pass of hashta b’shlucho mekadesh bo meboy"
+     },
+     {
+      "text": " ",
+      "type": "text"
+     },
+     {
+      "text": "שמא יראה בה דבר מגונה\nותתגנה עליו",
+      "type": "global",
+      "tokens": [
+       {
+        "text": "שמא יראה בה דבר מגונה\nותתגנה עליו",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "Second pass of שמא יראה בה דבר מגונה ותתגנה עליו",
+      "targetTopic": "Second pass of שמא יראה בה דבר מגונה ותתגנה עליו",
+      "enclosingTopic": "Second Pass of hashta b’shlucho mekadesh bo meboy",
+      "enclosingSubtopic": "Second Pass of hashta b’shlucho mekadesh bo meboy"
+     },
+     {
+      "text": " ",
+      "type": "text"
+     },
+     {
+      "text": "ורחמנא אמר ואהבת לרעך\nכמוך",
+      "type": "global",
+      "tokens": [
+       {
+        "text": "ורחמנא אמר ואהבת לרעך\nכמוך",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "Second pass of ורחמנא אמר ואהבת לרעך כמוך",
+      "targetTopic": "Second pass of ורחמנא אמר ואהבת לרעך כמוך",
+      "enclosingTopic": "Second Pass of hashta b’shlucho mekadesh bo meboy",
+      "enclosingSubtopic": "Second Pass of hashta b’shlucho mekadesh bo meboy"
+     },
+     {
+      "text": " ",
+      "type": "text"
+     },
+     {
+      "text": "וכי איתמר דרב יוסף אסיפא איתמר",
+      "type": "global",
+      "tokens": [
+       {
+        "text": "וכי איתמר דרב יוסף אסיפא איתמר",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "Second pass of וכי איתמר דרב יוסף אסיפא איתמר",
+      "targetTopic": "Second pass of וכי איתמר דרב יוסף אסיפא איתמר",
+      "enclosingTopic": "Second Pass of hashta b’shlucho mekadesh bo meboy",
+      "enclosingSubtopic": "Second Pass of hashta b’shlucho mekadesh bo meboy"
+     },
+     {
+      "text": "\n",
+      "type": "text"
+     },
+     {
+      "text": "האשה מתקדשת בה ובשלוחה השתא\nבשלוחה מיקדשא בה מיבעיא אמר רב יוסף\nמצוה בה יותר מבשלוחה כי הא דרב ספרא\nמחריך רישא רבא מלח שיבוטא",
+      "type": "global",
+      "tokens": [
+       {
+        "text": "האשה מתקדשת בה ובשלוחה השתא\nבשלוחה מיקדשא בה מיבעיא אמר רב יוסף\nמצוה בה יותר מבשלוחה כי הא דרב ספרא\nמחריך רישא רבא מלח שיבוטא",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "Second pass of האשה מתקדשת בה ובשלוחה השתא בשלוחה מיקדשא בה מיבעיא אמר רב יוסף מצוה בה יותר מבשלוחה כי הא דרב ספרא מחריך רישא רבא מלח שיבוטא",
+      "targetTopic": "Second pass of האשה מתקדשת בה ובשלוחה השתא בשלוחה מיקדשא בה מיבעיא אמר רב יוסף מצוה בה יותר מבשלוחה כי הא דרב ספרא מחריך רישא רבא מלח שיבוטא",
+      "enclosingTopic": "Second Pass of hashta b’shlucho mekadesh bo meboy",
+      "enclosingSubtopic": "Second Pass of hashta b’shlucho mekadesh bo meboy"
+     },
+     {
+      "text": " ",
+      "type": "text"
+     },
+     {
+      "text": "אבל בהא\nאיסורא לית בה כדר״ל דאמר ר״ל טב\nלמיתב טן דו מלמיתב ארמלו",
+      "type": "global",
+      "tokens": [
+       {
+        "text": "אבל בהא\nאיסורא לית בה כדר״ל דאמר ר״ל טב\nלמיתב טן דו מלמיתב ארמלו",
+        "type": "text"
+       }
+      ],
+      "targetSubtopic": "Second pass of אבל בהא איסורא לית בה כדר״ל דאמר ר״ל טב למיתב טן דו מלמיתב ארמלו",
+      "targetTopic": "Second pass of אבל בהא איסורא לית בה כדר״ל דאמר ר״ל טב למיתב טן דו מלמיתב ארמלו",
+      "enclosingTopic": "Second Pass of hashta b’shlucho mekadesh bo meboy",
+      "enclosingSubtopic": "Second Pass of hashta b’shlucho mekadesh bo meboy"
+     },
+     {
+      "text": ":",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   }
+  ]
+ }
+}

@@ -1,0 +1,689 @@
+{
+ "displayTopicName": "Halachos So Far for Hashta B’shlucho Mekadesh Bo Meboy",
+ "topicTokens": [
+  {
+   "text": "Halachos So Far for Hashta B’shlucho Mekadesh Bo Meboy",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Halachos So Far for Hashta B’shlucho Mekadesh Bo Meboy": [
+   {
+    "text": "The Torah created a relationship called marriage, and created ",
+    "type": "text"
+   },
+   {
+    "text": "steps for initiating marriage",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "steps for initiating marriage",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Steps for initiating marriage",
+    "targetTopic": "Halachos So Far for Hashta B’shlucho Mekadesh Bo Meboy",
+    "enclosingTopic": "Halachos So Far for Hashta B’shlucho Mekadesh Bo Meboy",
+    "enclosingSubtopic": "Halachos So Far for Hashta B’shlucho Mekadesh Bo Meboy"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "Steps for initiating marriage": [
+   {
+    "text": "The Torah created: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "the state of _kiddushin_ and means to establish it",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "the state of ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "kiddushin",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " and means to establish it",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "The state of kiddushin and means to establish it",
+        "targetTopic": "Halachos So Far for Hashta B’shlucho Mekadesh Bo Meboy",
+        "enclosingTopic": "Halachos So Far for Hashta B’shlucho Mekadesh Bo Meboy",
+        "enclosingSubtopic": "Steps for initiating marriage"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "the state of _nisuyin_ and means to establish it",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "the state of ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "nisuyin",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " and means to establish it",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "The state of nisuyin and means to establish it",
+        "targetTopic": "Halachos So Far for Hashta B’shlucho Mekadesh Bo Meboy",
+        "enclosingTopic": "Halachos So Far for Hashta B’shlucho Mekadesh Bo Meboy",
+        "enclosingSubtopic": "Steps for initiating marriage"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "The state of kiddushin and means to establish it": [
+   {
+    "text": "The Torah created the state of ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "kiddushin",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ", and: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "established ",
+        "type": "text"
+       },
+       {
+        "text": "various means to establish _kiddushin_",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "various means to establish ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "kiddushin",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Means to establish kiddushin",
+        "targetTopic": "Halachos So Far for Hashta B’shlucho Mekadesh Bo Meboy",
+        "enclosingTopic": "Halachos So Far for Hashta B’shlucho Mekadesh Bo Meboy",
+        "enclosingSubtopic": "The state of kiddushin and means to establish it"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "designated ",
+        "type": "text"
+       },
+       {
+        "text": "various agents permitted to establish _kiddushin_",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "various agents permitted to establish ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "kiddushin",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Agents permitted to establish kiddushin",
+        "targetTopic": "Halachos So Far for Hashta B’shlucho Mekadesh Bo Meboy",
+        "enclosingTopic": "Halachos So Far for Hashta B’shlucho Mekadesh Bo Meboy",
+        "enclosingSubtopic": "The state of kiddushin and means to establish it"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "enacted ",
+        "type": "text"
+       },
+       {
+        "text": "various requirements for the establishment of _kiddushin_",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "various requirements for the establishment of ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "kiddushin",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Requirements for the establishment of kiddushin",
+        "targetTopic": "Halachos So Far for Hashta B’shlucho Mekadesh Bo Meboy",
+        "enclosingTopic": "Halachos So Far for Hashta B’shlucho Mekadesh Bo Meboy",
+        "enclosingSubtopic": "The state of kiddushin and means to establish it"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "Means to establish kiddushin": [
+   {
+    "text": "We learn in the first perek of Kiddushin that ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "kiddushin",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " can be established with ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "kesef",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " (money), ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "shtar",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " (contract), or ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "biah",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " (marital relations.)",
+    "type": "text"
+   }
+  ],
+  "Agents permitted to establish kiddushin": [
+   {
+    "text": "We learn in the Mishnah on Kiddushin 41a that a ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "shaliach",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " is permitted to establish ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "kiddushin",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " on behalf of his sender. ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "However, we also learned that ",
+        "type": "text"
+       },
+       {
+        "text": "according to R Yosef it is “better” for a man to establish _kiddushin_ himself",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "according to R Yosef it is “better” for a man to establish ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "kiddushin",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " himself",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "According to R Yosef it is better for a man to establish kiddushin himself",
+        "targetTopic": "Halachos So Far for Hashta B’shlucho Mekadesh Bo Meboy",
+        "enclosingTopic": "Halachos So Far for Hashta B’shlucho Mekadesh Bo Meboy",
+        "enclosingSubtopic": "Agents permitted to establish kiddushin"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "According to R Yosef it is better for a man to establish kiddushin himself": [
+   {
+    "text": "According to R Yosef it is better for a man to establish ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "kiddushin",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " himself: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "There are ",
+        "type": "text"
+       },
+       {
+        "text": "various opinions what R Yosef means for it to be “better” to do mitzvos yourself",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "various opinions what R Yosef means for it to be “better” to do mitzvos yourself",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Various opinions what R Yosef means for it to be “better” to do mitzvos yourself",
+        "targetTopic": "Halachos So Far for Hashta B’shlucho Mekadesh Bo Meboy",
+        "enclosingTopic": "Halachos So Far for Hashta B’shlucho Mekadesh Bo Meboy",
+        "enclosingSubtopic": "According to R Yosef it is better for a man to establish kiddushin himself"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "There are ",
+        "type": "text"
+       },
+       {
+        "text": "various opinions why marriage specifically is better to do yourself",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "various opinions why marriage specifically is better to do yourself",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Various opinions why marriage specifically is better to do yourself",
+        "targetTopic": "Halachos So Far for Hashta B’shlucho Mekadesh Bo Meboy",
+        "enclosingTopic": "Halachos So Far for Hashta B’shlucho Mekadesh Bo Meboy",
+        "enclosingSubtopic": "According to R Yosef it is better for a man to establish kiddushin himself"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "Various opinions what R Yosef means for it to be “better” to do mitzvos yourself": [
+   {
+    "text": "There are various opinions how doing a mitzvah yourself could be “better” than using a shaliach if both are still valid: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The Rambam seems to imply that it is better to do mitzvos yourself because it gives more kavod to the mitzvah",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Rashi seems to imply that it is better to do mitzvos yourself because you get more schar, which is because your body is involved in the mitzvah",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "Various opinions why marriage specifically is better to do yourself": [
+   {
+    "text": "Even if it is better to do mitzvos yourself, why does this apply to marriage? ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "According to the Rambam who holds ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "kiddushin",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " is a mitzvah, R Yosef can hold it is better to be ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "mekadesh",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " yourself because it is better to do all mitzvos yourself.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "According to the Rosh who holds ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "kiddushin",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " is only a ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hechsher mitzvah",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ", R Yosef might hold it is better to be ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "mekadesh",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " yourself because it is even better to do ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hechsher mitzvos",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " yourself.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "Requirements for the establishment of kiddushin": [
+   {
+    "text": "The Torah instituted various requirements for establishing ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "kiddushin",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ": ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "We learn from the Gemara on Kiddusin 41a that ",
+        "type": "text"
+       },
+       {
+        "text": "it is _assur_ for a man to marry a woman without seeing her first",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "it is ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "assur",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " for a man to marry a woman without seeing her first",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "It is assur for a man to marry a woman without seeing her first",
+        "targetTopic": "Halachos So Far for Hashta B’shlucho Mekadesh Bo Meboy",
+        "enclosingTopic": "Halachos So Far for Hashta B’shlucho Mekadesh Bo Meboy",
+        "enclosingSubtopic": "Requirements for the establishment of kiddushin"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "It is assur for a man to marry a woman without seeing her first": [
+   {
+    "text": "Tosofos seems to think this is a true ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "issur",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ", whereas Rashi seems to think that it is a strong suggestion.",
+    "type": "text"
+   }
+  ],
+  "The state of nisuyin and means to establish it": []
+ }
+}
