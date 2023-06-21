@@ -1,8 +1,24 @@
-Cheshbonos: This is an early beta version of Cheshbonos, a tool for improving Gemara skills. You can navigate by using the mouse or arrow keys. You can use Cheshbonos to learn [[Kiddushin 41a]]. If you are new to Gemara, you can use the [[{{getting started}} guide]]. You can also [[learn more about the project]].
+Cheshbonos: This is an early draft of Cheshbonos, a tool for improving Gemara skills.
+- You can navigate by using the mouse or arrow keys.
+- You can use Cheshbonos to learn [[the second chapter of _Meseches Kiddushin_, {{_Perek Ha’ish Mekadesh_}}]].
+- You can also [[learn more about the Cheshbonos project]].
 
-Learn more about the project: Cheshbonos has a [[dedication]]. Cheshbonos is published with various [[disclaimers]]. You can post your questions or comments on the [issues page](https://github.com/cheshbonos/cheshbonos/issues). You can sign up for occasional [[email updates]]. You can download the Cheshbonos [desktop app](https://github.com/cheshbonos/cheshbonos/releases/tag/latest). Cheshbonos is built using [Canopy.js](https://github.com/canopy-js/canopy-js).
+Learn more about the Cheshbonos project:
+You can learn more about the Cheshbonos project:
+- Cheshbonos has a [[dedication]], [[disclaimers]], and [[acknowledgements]].
+- You can post your questions, comments, or corrections on the [issues page](https://github.com/cheshbonos/cheshbonos/issues), [Google forms](https://docs.google.com/forms/d/e/1FAIpQLSclr0B1tknEZb6xUY07zHOcP0SURogv6daE6Vuls0NErZlWWA/viewform?usp=sf_link) or [by email](mailto:cheshbonos.project@gmail.com?subject=Feedback).
+- You can sign up for occasional [[email updates]].
+- You can download the Cheshbonos [desktop app](https://github.com/cheshbonos/cheshbonos/releases/tag/latest).
+- Cheshbonos is built using [Canopy.js](https://github.com/canopy-js/canopy-js).
 
-Disclaimers: Cheshbonos is published without expert endorsement and is a product of novice efforts. Persons wishing to improve their Gemara skills who have the resources should enroll in a full-time yeshiva program. Short of that, such people should find a Gemara rebbe with whom they can form a relationship and learn from directly. Cheshbonos is intended for individuals who lack these resources, or as a tool for reviewing content already learned in a yeshiva setting. Individuals should ask their communal rabbinic advisors if Cheshbonos is the appropriate tool for their learning. Cheshbonos can be downloaded and used without an internet connection, and the existence of a web interface does not represent an endorsement of internet use.
+Acknowledgements: Cheshbonos was made possible by the assistance of many individuals.
+
+Disclaimers:
+Cheshbonos has various disclaimers:
+- Cheshbonos is published without expert endorsement and is a product of novice efforts.
+- Persons wishing to improve their Gemara skills who have the resources should enroll in a full-time yeshiva program. Short of that, such people should find a Gemara rebbe with whom they can form a relationship and learn from directly. Cheshbonos is intended for individuals who lack these resources, or as a tool for reviewing content already learned in a yeshiva setting.
+- Individuals should ask their communal rabbinic advisors if Cheshbonos is the appropriate tool for their learning.
+- Cheshbonos can be downloaded and used without an internet connection, and the existence of a web interface does not represent an endorsement of internet use.
 
 Email updates:
 <!-- MailerLite Universal --><script>(function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[]).push(arguments);},l=d.createElement(e),l.async=1,l.src=u,n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})(window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');ml('account', '281081');</script><!-- End MailerLite Universal --><br><div id="email_updates" class="ml-embedded" data-form="OW1QxJ"></div>
