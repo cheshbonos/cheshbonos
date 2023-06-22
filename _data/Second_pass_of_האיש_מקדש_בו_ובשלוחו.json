@@ -7,6 +7,605 @@
   }
  ],
  "paragraphsBySubtopic": {
-  "Second pass of האיש מקדש בו ובשלוחו": []
+  "Second pass of האיש מקדש בו ובשלוחו": [
+   {
+    "text": "On the second pass, lets consider further questions we might have with this line: ",
+    "type": "text"
+   },
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "האיש מקדש בו ובשלוחו",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "(You can ",
+        "type": "text"
+       },
+       {
+        "text": "review the literal meaning of the line if you need to first",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "review the literal meaning of the line if you need to first",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "First pass of האיש מקדש בו ובשלוחו",
+        "targetTopic": "First pass of האיש מקדש בו ובשלוחו",
+        "enclosingTopic": "Second pass of האיש מקדש בו ובשלוחו",
+        "enclosingSubtopic": "Second pass of האיש מקדש בו ובשלוחו"
+       },
+       {
+        "text": ".)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Think for yourself, and then consider these ",
+        "type": "text"
+       },
+       {
+        "text": "hints",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "hints",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Hints",
+        "targetTopic": "Second pass of האיש מקדש בו ובשלוחו",
+        "enclosingTopic": "Second pass of האיש מקדש בו ובשלוחו",
+        "enclosingSubtopic": "Second pass of האיש מקדש בו ובשלוחו"
+       },
+       {
+        "text": ". (Think before clicking!)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "Hints": [
+   {
+    "text": "This clause of the Mishnah teaches that there are two permissible ways for a man to be ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "makdesh",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " a woman. ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "What questions might we have on that",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "What questions might we have on that",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "What questions might we have on there are two permissible ways for a man to be makdesh a woman",
+        "targetTopic": "Second pass of האיש מקדש בו ובשלוחו",
+        "enclosingTopic": "Second pass of האיש מקדש בו ובשלוחו",
+        "enclosingSubtopic": "Hints"
+       },
+       {
+        "text": "? (Think before clicking!)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "What questions might we have on there are two permissible ways for a man to be makdesh a woman": [
+   {
+    "text": "R Yehuda HaNasi was the compiler of the Mishnah. ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "We might ask, ",
+        "type": "text"
+       },
+       {
+        "text": "what did he put in it?",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "what did he put in it?",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "What did R Yehuda HaNasi put in The Mishnah?",
+        "targetTopic": "Second pass of האיש מקדש בו ובשלוחו",
+        "enclosingTopic": "Second pass of האיש מקדש בו ובשלוחו",
+        "enclosingSubtopic": "What questions might we have on there are two permissible ways for a man to be makdesh a woman"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "What did R Yehuda HaNasi put in The Mishnah?": [
+   {
+    "text": "When R Yehuda HaNasi was writing the Mishnah, ",
+    "type": "text"
+   },
+   {
+    "text": "did he just write his personal opinions about various things?",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "did he just write his personal opinions about various things?",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Did R Yehuda HaNasi just write his personal opinions about various things?",
+    "targetTopic": "Second pass of האיש מקדש בו ובשלוחו",
+    "enclosingTopic": "Second pass of האיש מקדש בו ובשלוחו",
+    "enclosingSubtopic": "What did R Yehuda HaNasi put in The Mishnah?"
+   }
+  ],
+  "Did R Yehuda HaNasi just write his personal opinions about various things?": [
+   {
+    "text": "Let's remember that when R Yehuda HaNasi wrote the Mishnah, he was encoding the oral understandings of Torah that had existed long before him. ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Lets see if ",
+        "type": "text"
+       },
+       {
+        "text": "that helps us think of a question on this Mishnah",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "that helps us think of a question on this Mishnah",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "The fact that the Mishnah encodes the oral law helps us think of a question on this Mishnah",
+        "targetTopic": "Second pass of האיש מקדש בו ובשלוחו",
+        "enclosingTopic": "Second pass of האיש מקדש בו ובשלוחו",
+        "enclosingSubtopic": "Did R Yehuda HaNasi just write his personal opinions about various things?"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "The fact that the Mishnah encodes the oral law helps us think of a question on this Mishnah": [
+   {
+    "text": "We might ask tangentially, ",
+    "type": "text"
+   },
+   {
+    "text": "what sorts of things are in the Oral Torah?",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "what sorts of things are in the Oral Torah?",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "What sorts of things are in the Oral Torah?",
+    "targetTopic": "Second pass of האיש מקדש בו ובשלוחו",
+    "enclosingTopic": "Second pass of האיש מקדש בו ובשלוחו",
+    "enclosingSubtopic": "The fact that the Mishnah encodes the oral law helps us think of a question on this Mishnah"
+   }
+  ],
+  "What sorts of things are in the Oral Torah?": [
+   {
+    "text": "Generally, we say that the Oral Torah contains the details of the mitzvos that Hashem chose not to put in the written Torah. ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "If so, ",
+        "type": "text"
+       },
+       {
+        "text": "what is something you wouldn't find in the Oral Torah?",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "what is something you wouldn't find in the Oral Torah?",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "What is something you wouldn't find in the Oral Torah?",
+        "targetTopic": "Second pass of האיש מקדש בו ובשלוחו",
+        "enclosingTopic": "Second pass of האיש מקדש בו ובשלוחו",
+        "enclosingSubtopic": "What sorts of things are in the Oral Torah?"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "What is something you wouldn't find in the Oral Torah?": [
+   {
+    "text": "You might say: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "If the Oral Torah is for details of mitzvos mentioned in the written Torah, then perhaps we wouldn't expect the Oral Torah to include any mitzvos or details of mitzvos that aren't mentioned in the written Torah.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Does the fact that the Oral Torah doesn't include mitzvos not written in the Torah help us formulate a question on our Mishnah?",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Does the fact that the Oral Torah doesn't include mitzvos not written in the Torah help us formulate a question on our Mishnah?",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Does the fact that the Oral Torah doesn't include mitzvos not written in the Torah help us formulate a question on our Mishnah?",
+        "targetTopic": "Second pass of האיש מקדש בו ובשלוחו",
+        "enclosingTopic": "Second pass of האיש מקדש בו ובשלוחו",
+        "enclosingSubtopic": "What is something you wouldn't find in the Oral Torah?"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "Does the fact that the Oral Torah doesn't include mitzvos not written in the Torah help us formulate a question on our Mishnah?": [
+   {
+    "text": "So we have established thus far: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The Oral Torah and thus the Mishnah are elaborating on what is written in the written Torah.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Our Mishnah speaks about a man being allowed to make ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "kiddushin",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " via a shaliach.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Can we think of a question yet?",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Can we think of a question yet?",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Can we connect the Oral Torah elaborating on the written Torah with the din of the Mishnah?",
+        "targetTopic": "Second pass of האיש מקדש בו ובשלוחו",
+        "enclosingTopic": "Second pass of האיש מקדש בו ובשלוחו",
+        "enclosingSubtopic": "Does the fact that the Oral Torah doesn't include mitzvos not written in the Torah help us formulate a question on our Mishnah?"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "Can we connect the Oral Torah elaborating on the written Torah with the din of the Mishnah?": [
+   {
+    "text": "If the Oral Torah and thus the Mishnah only teaches the details of mitzvos mentioned in the written Torah, then perhaps we would expect things written in the Mishnah to relate to something written in the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "Chumash",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ". ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Does the fact that things in the Mishnah should relate to something in the _chumash_ give us a question about this Mishnah?",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Does the fact that things in the Mishnah should relate to something in the ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "chumash",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " give us a question about this Mishnah?",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Does the fact that things in the Mishnah should relate to something in the chumash give us a question about this Mishnah?",
+        "targetTopic": "Second pass of האיש מקדש בו ובשלוחו",
+        "enclosingTopic": "Second pass of האיש מקדש בו ובשלוחו",
+        "enclosingSubtopic": "Can we connect the Oral Torah elaborating on the written Torah with the din of the Mishnah?"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "Does the fact that things in the Mishnah should relate to something in the chumash give us a question about this Mishnah?": [
+   {
+    "text": "So, the Mishnah encodes the Oral Law which contains details of the things written in the written Torah. ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "As another hint, our Mishnah is the first Mishnah to mention the idea that you can use a ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "shaliach",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " to do a mitzvah.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Does the fact that this Mishnah is the first to mention that you can use a _shaliach_ help us formulate a question on our Mishnah?",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Does the fact that this Mishnah is the first to mention that you can use a ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "shaliach",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " help us formulate a question on our Mishnah?",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Does the fact that this Mishnah is the first to mention that you can use a shaliach help us formulate a question on our Mishnah?",
+        "targetTopic": "Second pass of האיש מקדש בו ובשלוחו",
+        "enclosingTopic": "Second pass of האיש מקדש בו ובשלוחו",
+        "enclosingSubtopic": "Does the fact that things in the Mishnah should relate to something in the chumash give us a question about this Mishnah?"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "Does the fact that this Mishnah is the first to mention that you can use a shaliach help us formulate a question on our Mishnah?": [
+   {
+    "text": "We said that the Mishnah encodes the Oral Law which includes details of halachos written in the written Torah. ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "We said that our Mishnah is the first to mention that you can do a mitzvah via ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "shaliach",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "We also said the Mishnah is transmitting the Oral Law which merely ellaborates on what is said in the written Torah.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "So, you might ask, where in the ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "written",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " Torah do we find a source for the ability to use a ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "shaliach",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": "?",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
  }
 }

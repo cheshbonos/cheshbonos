@@ -1,0 +1,334 @@
+{
+ "displayTopicName": "Aramaic verb forms beginning with מ",
+ "topicTokens": [
+  {
+   "text": "Aramaic verb forms beginning with מ",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Aramaic verb forms beginning with מ": [
+   {
+    "text": "Several of the ",
+    "type": "text"
+   },
+   {
+    "text": "verb forms beginning with מ",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "verb forms beginning with מ",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Verb forms beginning with מ",
+    "targetTopic": "Verb forms beginning with מ",
+    "enclosingTopic": "Aramaic verb forms beginning with מ",
+    "enclosingSubtopic": "Aramaic verb forms beginning with מ"
+   },
+   {
+    "text": " are from Aramaic: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The Aramaic ",
+        "type": "text"
+       },
+       {
+        "text": "pa’el active participle",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "pa’el active participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pa’el Active Participle for Regular Shorushim",
+        "targetTopic": "Pa’el Active Participle for Regular Shorushim",
+        "enclosingTopic": "Aramaic verb forms beginning with מ",
+        "enclosingSubtopic": "Aramaic verb forms beginning with מ"
+       },
+       {
+        "text": " (e.g., מְזַמֵּן, ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "mezamen,",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " “he is inviting.”)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The Hebrew ",
+        "type": "text"
+       },
+       {
+        "text": "pu’al active participle",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "pu’al active participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pu’al Active Participle for Regular Shorushim",
+        "targetTopic": "Pu’al Active Participle for Regular Shorushim",
+        "enclosingTopic": "Aramaic verb forms beginning with מ",
+        "enclosingSubtopic": "Aramaic verb forms beginning with מ"
+       },
+       {
+        "text": " (e.g., מְזוֹמָּן, ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "mezumen,",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " “he is being invited.”)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The Hebrew ",
+        "type": "text"
+       },
+       {
+        "text": "hif’il active participle",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "hif’il active participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Hif’il Active Participle for Regular Shorushim",
+        "targetTopic": "Hif’il Active Participle for Regular Shorushim",
+        "enclosingTopic": "Aramaic verb forms beginning with מ",
+        "enclosingSubtopic": "Aramaic verb forms beginning with מ"
+       },
+       {
+        "text": " (e.g., מַבְדִּיל, ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "mavdil,",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " “he is separating.”)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The Hebrew ",
+        "type": "text"
+       },
+       {
+        "text": "huf’al active participle",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "huf’al active participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Huf’al Active Participle for Regular Shorushim",
+        "targetTopic": "Huf’al Active Participle for Regular Shorushim",
+        "enclosingTopic": "Aramaic verb forms beginning with מ",
+        "enclosingSubtopic": "Aramaic verb forms beginning with מ"
+       },
+       {
+        "text": " (e.g., מוֹבְדָּל, ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "muvdal,",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " “it is being separated.”)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The Hebrew ",
+        "type": "text"
+       },
+       {
+        "text": "ispe’el active participle",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "ispe’el active participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Ispe’el Active Participle for Regular Shorushim",
+        "targetTopic": "Ispe’el Active Participle for Regular Shorushim",
+        "enclosingTopic": "Aramaic verb forms beginning with מ",
+        "enclosingSubtopic": "Aramaic verb forms beginning with מ"
+       },
+       {
+        "text": " (e.g., מִי(תְ)מְסֵיר, ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "mi(s’)m’seir,",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " “he is being handed over.”)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The Hebrew ",
+        "type": "text"
+       },
+       {
+        "text": "ispa’al active participle",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "ispa’al active participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Ispa’al Active Participle for Regular Shorushim",
+        "targetTopic": "Ispa’al Active Participle for Regular Shorushim",
+        "enclosingTopic": "Aramaic verb forms beginning with מ",
+        "enclosingSubtopic": "Aramaic verb forms beginning with מ"
+       },
+       {
+        "text": " (e.g., מִ(תְ)קַדַשׁ, ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "mi(s)kadash",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " “he is being sanctified.”)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The Hebrew ",
+        "type": "text"
+       },
+       {
+        "text": "itaf’al active participle",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "itaf’al active participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Itaf’al Active Participle for Regular Shorushim",
+        "targetTopic": "Itaf’al Active Participle for Regular Shorushim",
+        "enclosingTopic": "Aramaic verb forms beginning with מ",
+        "enclosingSubtopic": "Aramaic verb forms beginning with מ"
+       },
+       {
+        "text": " (e.g., מִיתַּפְקַד, ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "mitafkad",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " “he is being deposited.”)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

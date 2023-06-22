@@ -1,0 +1,250 @@
+{
+ "displayTopicName": "Hebrew verb forms beginning with מ",
+ "topicTokens": [
+  {
+   "text": "Hebrew verb forms beginning with מ",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Hebrew verb forms beginning with מ": [
+   {
+    "text": "Several of the ",
+    "type": "text"
+   },
+   {
+    "text": "verb forms beginning with מ",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "verb forms beginning with מ",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Verb forms beginning with מ",
+    "targetTopic": "Verb forms beginning with מ",
+    "enclosingTopic": "Hebrew verb forms beginning with מ",
+    "enclosingSubtopic": "Hebrew verb forms beginning with מ"
+   },
+   {
+    "text": " are from Hebrew: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The Hebrew ",
+        "type": "text"
+       },
+       {
+        "text": "pa’el active participle",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "pa’el active participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pa’el Active Participle for Regular Shorushim",
+        "targetTopic": "Pa’el Active Participle for Regular Shorushim",
+        "enclosingTopic": "Hebrew verb forms beginning with מ",
+        "enclosingSubtopic": "Hebrew verb forms beginning with מ"
+       },
+       {
+        "text": " (e.g., מְקַדֵּישׁ, ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "mekadeish,",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " “he is making holy.”)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The Hebrew ",
+        "type": "text"
+       },
+       {
+        "text": "pa’el passive participle",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "pa’el passive participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pa’el Passive Participle for Regular Shorushim",
+        "targetTopic": "Pa’el Passive Participle for Regular Shorushim",
+        "enclosingTopic": "Hebrew verb forms beginning with מ",
+        "enclosingSubtopic": "Hebrew verb forms beginning with מ"
+       },
+       {
+        "text": " (e.g., מְקַדַּשׁ, ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "mekadash,",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " “it is being made holy.”)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The Hebrew ",
+        "type": "text"
+       },
+       {
+        "text": "af’el active participle",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "af’el active participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Af’el Active Participle for Regular Shorushim",
+        "targetTopic": "Af’el Active Participle for Regular Shorushim",
+        "enclosingTopic": "Hebrew verb forms beginning with מ",
+        "enclosingSubtopic": "Hebrew verb forms beginning with מ"
+       },
+       {
+        "text": " (e.g., מַפְקֵיד, ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "mafkeid,",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " “he is depositing.”)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The Hebrew ",
+        "type": "text"
+       },
+       {
+        "text": "af’el passive participle",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "af’el passive participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Af’el Passive Participle for Regular Shorushim",
+        "targetTopic": "Af’el Passive Participle for Regular Shorushim",
+        "enclosingTopic": "Hebrew verb forms beginning with מ",
+        "enclosingSubtopic": "Hebrew verb forms beginning with מ"
+       },
+       {
+        "text": " (e.g., מַלְבַּשׁ, ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "malbash,",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " “he is being dressed.”)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The Hebrew ",
+        "type": "text"
+       },
+       {
+        "text": "hispa’el active participle",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "hispa’el active participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Hispa’el Active Participle for Regular Shorushim",
+        "targetTopic": "Hispa’el Active Participle for Regular Shorushim",
+        "enclosingTopic": "Hebrew verb forms beginning with מ",
+        "enclosingSubtopic": "Hebrew verb forms beginning with מ"
+       },
+       {
+        "text": " (e.g., מִתְלַבֵּשׁ, ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "mislabeish,",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " “he dressed himself.”)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
+ }
+}

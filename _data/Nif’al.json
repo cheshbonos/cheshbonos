@@ -97,15 +97,15 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Advanced students can read ",
+        "text": "Advanced students can ",
         "type": "text"
        },
        {
-        "text": "more information about the _nif’al_",
+        "text": "learn more about the _nif’al_",
         "type": "local",
         "tokens": [
          {
-          "text": "more information about the ",
+          "text": "learn more about the ",
           "type": "text"
          },
          {
@@ -118,7 +118,7 @@
           ]
          }
         ],
-        "targetSubtopic": "More information about the nif’al",
+        "targetSubtopic": "Learn more about the nif’al",
         "targetTopic": "Nif’al",
         "enclosingTopic": "Nif’al",
         "enclosingSubtopic": "Nif’al"
@@ -134,7 +134,7 @@
     "type": "outline"
    }
   ],
-  "More information about the nif’al": [
+  "Learn more about the nif’al": [
    {
     "topLevelNodes": [
      {
@@ -170,7 +170,7 @@
         "targetSubtopic": "Passive",
         "targetTopic": "Passive",
         "enclosingTopic": "Nif’al",
-        "enclosingSubtopic": "More information about the nif’al"
+        "enclosingSubtopic": "Learn more about the nif’al"
        },
        {
         "text": " and ",
@@ -188,7 +188,7 @@
         "targetSubtopic": "Simple",
         "targetTopic": "Simple",
         "enclosingTopic": "Nif’al",
-        "enclosingSubtopic": "More information about the nif’al"
+        "enclosingSubtopic": "Learn more about the nif’al"
        },
        {
         "text": ".",
@@ -230,7 +230,7 @@
         "targetSubtopic": "Nif’al Tenses",
         "targetTopic": "Nif’al Tenses",
         "enclosingTopic": "Nif’al",
-        "enclosingSubtopic": "More information about the nif’al"
+        "enclosingSubtopic": "Learn more about the nif’al"
        },
        {
         "text": ".",
@@ -272,7 +272,7 @@
         "targetSubtopic": "Nif’al tenses for different shoresh types",
         "targetTopic": "Nif’al tenses for different shoresh types",
         "enclosingTopic": "Nif’al",
-        "enclosingSubtopic": "More information about the nif’al"
+        "enclosingSubtopic": "Learn more about the nif’al"
        }
       ],
       "children": []
@@ -315,7 +315,7 @@
         "targetSubtopic": "Ispe’el",
         "targetTopic": "Ispe’el",
         "enclosingTopic": "Nif’al",
-        "enclosingSubtopic": "More information about the nif’al"
+        "enclosingSubtopic": "Learn more about the nif’al"
        },
        {
         "text": " in Aramaic.",

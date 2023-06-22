@@ -42,22 +42,8 @@
         ]
        },
        {
-        "text": " begins with ",
+        "text": " begins with the Mishnah on Kiddushin 41a.",
         "type": "text"
-       },
-       {
-        "text": "the Mishnah on Kiddushin 41a",
-        "type": "global",
-        "tokens": [
-         {
-          "text": "the Mishnah on Kiddushin 41a",
-          "type": "text"
-         }
-        ],
-        "targetSubtopic": "The Mishnah on Kiddushin 41a",
-        "targetTopic": "The Mishnah on Kiddushin 41a",
-        "enclosingTopic": "Perek Ha’ish Mekadesh",
-        "enclosingSubtopic": "Perek Ha’ish Mekadesh"
        }
       ],
       "children": []

@@ -167,15 +167,15 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Advanced students can read ",
+        "text": "Advanced students can ",
         "type": "text"
        },
        {
-        "text": "more information about the _huf’al_",
+        "text": "learn more about the _huf’al_",
         "type": "local",
         "tokens": [
          {
-          "text": "more information about the ",
+          "text": "learn more about the ",
           "type": "text"
          },
          {
@@ -188,7 +188,7 @@
           ]
          }
         ],
-        "targetSubtopic": "More information about the Huf’al",
+        "targetSubtopic": "Learn more about the Huf’al",
         "targetTopic": "Huf’al",
         "enclosingTopic": "Huf’al",
         "enclosingSubtopic": "Huf’al"
@@ -204,7 +204,7 @@
     "type": "outline"
    }
   ],
-  "More information about the Huf’al": [
+  "Learn more about the Huf’al": [
    {
     "topLevelNodes": [
      {
@@ -240,7 +240,7 @@
         "targetSubtopic": "Passive",
         "targetTopic": "Passive",
         "enclosingTopic": "Huf’al",
-        "enclosingSubtopic": "More information about the Huf’al"
+        "enclosingSubtopic": "Learn more about the Huf’al"
        },
        {
         "text": " and ",
@@ -258,7 +258,7 @@
         "targetSubtopic": "Causative",
         "targetTopic": "Causative",
         "enclosingTopic": "Huf’al",
-        "enclosingSubtopic": "More information about the Huf’al"
+        "enclosingSubtopic": "Learn more about the Huf’al"
        },
        {
         "text": ".",
@@ -300,7 +300,7 @@
         "targetSubtopic": "Huf’al Tenses",
         "targetTopic": "Huf’al Tenses",
         "enclosingTopic": "Huf’al",
-        "enclosingSubtopic": "More information about the Huf’al"
+        "enclosingSubtopic": "Learn more about the Huf’al"
        },
        {
         "text": ".",
@@ -342,7 +342,7 @@
         "targetSubtopic": "Huf’al tenses for different shoresh types",
         "targetTopic": "Huf’al tenses for different shoresh types",
         "enclosingTopic": "Huf’al",
-        "enclosingSubtopic": "More information about the Huf’al"
+        "enclosingSubtopic": "Learn more about the Huf’al"
        },
        {
         "text": ".",
@@ -389,7 +389,7 @@
         "targetSubtopic": "Itaf’al",
         "targetTopic": "Itaf’al",
         "enclosingTopic": "Huf’al",
-        "enclosingSubtopic": "More information about the Huf’al"
+        "enclosingSubtopic": "Learn more about the Huf’al"
        },
        {
         "text": " in Aramaic.",

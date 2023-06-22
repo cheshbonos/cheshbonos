@@ -97,15 +97,15 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Advanced students can read ",
+        "text": "Advanced students can ",
         "type": "text"
        },
        {
-        "text": "more information about the _hif’il_",
+        "text": "learn more about the _hif’il_",
         "type": "local",
         "tokens": [
          {
-          "text": "more information about the ",
+          "text": "learn more about the ",
           "type": "text"
          },
          {
@@ -118,7 +118,7 @@
           ]
          }
         ],
-        "targetSubtopic": "More information about the Hif’il",
+        "targetSubtopic": "Learn more about the Hif’il",
         "targetTopic": "Hif’il",
         "enclosingTopic": "Hif’il",
         "enclosingSubtopic": "Hif’il"
@@ -134,7 +134,7 @@
     "type": "outline"
    }
   ],
-  "More information about the Hif’il": [
+  "Learn more about the Hif’il": [
    {
     "text": "Here is more information about the ",
     "type": "text"
@@ -187,7 +187,7 @@
         "targetSubtopic": "Active",
         "targetTopic": "Active",
         "enclosingTopic": "Hif’il",
-        "enclosingSubtopic": "More information about the Hif’il"
+        "enclosingSubtopic": "Learn more about the Hif’il"
        },
        {
         "text": " and ",
@@ -205,7 +205,7 @@
         "targetSubtopic": "Causative",
         "targetTopic": "Causative",
         "enclosingTopic": "Hif’il",
-        "enclosingSubtopic": "More information about the Hif’il"
+        "enclosingSubtopic": "Learn more about the Hif’il"
        },
        {
         "text": ".",
@@ -247,7 +247,7 @@
         "targetSubtopic": "Hif’il Tenses",
         "targetTopic": "Hif’il Tenses",
         "enclosingTopic": "Hif’il",
-        "enclosingSubtopic": "More information about the Hif’il"
+        "enclosingSubtopic": "Learn more about the Hif’il"
        },
        {
         "text": ".",
@@ -289,7 +289,7 @@
         "targetSubtopic": "Hif’il tenses for different shoresh types",
         "targetTopic": "Hif’il tenses for different shoresh types",
         "enclosingTopic": "Hif’il",
-        "enclosingSubtopic": "More information about the Hif’il"
+        "enclosingSubtopic": "Learn more about the Hif’il"
        },
        {
         "text": ".",
@@ -336,7 +336,7 @@
         "targetSubtopic": "Af’el",
         "targetTopic": "Af’el",
         "enclosingTopic": "Hif’il",
-        "enclosingSubtopic": "More information about the Hif’il"
+        "enclosingSubtopic": "Learn more about the Hif’il"
        },
        {
         "text": " in Aramaic.",

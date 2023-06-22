@@ -1,0 +1,53 @@
+{
+ "displayTopicName": "Verb forms beginning with מ",
+ "topicTokens": [
+  {
+   "text": "Verb forms beginning with מ",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Verb forms beginning with מ": [
+   {
+    "text": "There are ",
+    "type": "text"
+   },
+   {
+    "text": "several Hebrew verb forms beginning with מ",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "several Hebrew verb forms beginning with מ",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Hebrew verb forms beginning with מ",
+    "targetTopic": "Hebrew verb forms beginning with מ",
+    "enclosingTopic": "Verb forms beginning with מ",
+    "enclosingSubtopic": "Verb forms beginning with מ"
+   },
+   {
+    "text": ", and ",
+    "type": "text"
+   },
+   {
+    "text": "several Aramaic verb forms beginning with מ",
+    "type": "global",
+    "tokens": [
+     {
+      "text": "several Aramaic verb forms beginning with מ",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Aramaic verb forms beginning with מ",
+    "targetTopic": "Aramaic verb forms beginning with מ",
+    "enclosingTopic": "Verb forms beginning with מ",
+    "enclosingSubtopic": "Verb forms beginning with מ"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ]
+ }
+}

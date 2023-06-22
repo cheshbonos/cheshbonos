@@ -7,6 +7,138 @@
   }
  ],
  "paragraphsBySubtopic": {
-  "Second pass of אמר רב יוסף מצוה בו יותר מבשלוחו": []
+  "Second pass of אמר רב יוסף מצוה בו יותר מבשלוחו": [
+   {
+    "text": "On the second pass, lets consider further questions we might have with this line: ",
+    "type": "text"
+   },
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "אמר רב יוסף מצוה בו יותר מבשלוחו",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   },
+   {
+    "text": "Think for yourself, and then consider these ",
+    "type": "text"
+   },
+   {
+    "text": "hints",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "hints",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Hints",
+    "targetTopic": "Second pass of אמר רב יוסף מצוה בו יותר מבשלוחו",
+    "enclosingTopic": "Second pass of אמר רב יוסף מצוה בו יותר מבשלוחו",
+    "enclosingSubtopic": "Second pass of אמר רב יוסף מצוה בו יותר מבשלוחו"
+   },
+   {
+    "type": "footnote_marker",
+    "text": "1"
+   },
+   {
+    "text": ". ",
+    "type": "text"
+   },
+   {
+    "type": "footnote_lines",
+    "lines": [
+     {
+      "superscript": "1",
+      "tokens": [
+       {
+        "text": " You will improve much more quickly if you read the hints sparingly and try to figure out the answer yourself first.",
+        "type": "text"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "Hints": [
+   {
+    "text": "The Mishnah had an extra word, and R Yosef is coming to suggest that the extra word was included to teach the idea that it is better to do mitzvos yourself. ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Do we have ",
+        "type": "text"
+       },
+       {
+        "text": "any questions regarding this principle that R Yosef is mentioning",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "any questions regarding this principle that R Yosef is mentioning",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Any questions regarding this principle that R Yosef is mentioning",
+        "targetTopic": "Second pass of אמר רב יוסף מצוה בו יותר מבשלוחו",
+        "enclosingTopic": "Second pass of אמר רב יוסף מצוה בו יותר מבשלוחו",
+        "enclosingSubtopic": "Hints"
+       },
+       {
+        "text": "? (Pause and think before reading.)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "Any questions regarding this principle that R Yosef is mentioning": [
+   {
+    "text": "R Yosef is telling us that even though you can do a mitzvah with a shaliach, it is better to do it yourself. ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Can we think of any questions regarding that?",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Can we think of any questions regarding that?",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Can we think of any questions regarding the idea that that even though you can do a mitzvah with a shaliach, it is better to do it yourself?",
+        "targetTopic": "Second pass of אמר רב יוסף מצוה בו יותר מבשלוחו",
+        "enclosingTopic": "Second pass of אמר רב יוסף מצוה בו יותר מבשלוחו",
+        "enclosingSubtopic": "Any questions regarding this principle that R Yosef is mentioning"
+       },
+       {
+        "text": " (Pause and think before reading.)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "Can we think of any questions regarding the idea that that even though you can do a mitzvah with a shaliach, it is better to do it yourself?": []
  }
 }

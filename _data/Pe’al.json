@@ -123,15 +123,15 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Advanced students can read ",
+        "text": "Advanced students can ",
         "type": "text"
        },
        {
-        "text": "more information about the _pe’al_",
+        "text": "learn more about the _pe’al_",
         "type": "local",
         "tokens": [
          {
-          "text": "more information about the ",
+          "text": "learn more about the ",
           "type": "text"
          },
          {
@@ -144,7 +144,7 @@
           ]
          }
         ],
-        "targetSubtopic": "More information about the pe’al",
+        "targetSubtopic": "Learn more about the pe’al",
         "targetTopic": "Pe’al",
         "enclosingTopic": "Pe’al",
         "enclosingSubtopic": "Pe’al"
@@ -160,7 +160,7 @@
     "type": "outline"
    }
   ],
-  "More information about the pe’al": [
+  "Learn more about the pe’al": [
    {
     "text": "Here is more information about the ",
     "type": "text"
@@ -213,7 +213,7 @@
         "targetSubtopic": "Active",
         "targetTopic": "Active",
         "enclosingTopic": "Pe’al",
-        "enclosingSubtopic": "More information about the pe’al"
+        "enclosingSubtopic": "Learn more about the pe’al"
        },
        {
         "text": " and ",
@@ -231,7 +231,7 @@
         "targetSubtopic": "Simple",
         "targetTopic": "Simple",
         "enclosingTopic": "Pe’al",
-        "enclosingSubtopic": "More information about the pe’al"
+        "enclosingSubtopic": "Learn more about the pe’al"
        },
        {
         "text": ".",
@@ -273,7 +273,7 @@
         "targetSubtopic": "Pe’al Tenses",
         "targetTopic": "Pe’al Tenses",
         "enclosingTopic": "Pe’al",
-        "enclosingSubtopic": "More information about the pe’al"
+        "enclosingSubtopic": "Learn more about the pe’al"
        },
        {
         "text": ".",
@@ -315,7 +315,7 @@
         "targetSubtopic": "Pe’al tenses for different shoresh types",
         "targetTopic": "Pe’al tenses for different shoresh types",
         "enclosingTopic": "Pe’al",
-        "enclosingSubtopic": "More information about the pe’al"
+        "enclosingSubtopic": "Learn more about the pe’al"
        },
        {
         "text": ".",
@@ -362,7 +362,7 @@
         "targetSubtopic": "Pa’al",
         "targetTopic": "Pa’al",
         "enclosingTopic": "Pe’al",
-        "enclosingSubtopic": "More information about the pe’al"
+        "enclosingSubtopic": "Learn more about the pe’al"
        },
        {
         "text": " in Hebrew.",

@@ -97,15 +97,15 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Advanced students can read ",
+        "text": "Advanced students can ",
         "type": "text"
        },
        {
-        "text": "more information about the _pi’el_",
+        "text": "learn more about the _pi’el_",
         "type": "local",
         "tokens": [
          {
-          "text": "more information about the ",
+          "text": "learn more about the ",
           "type": "text"
          },
          {
@@ -118,7 +118,7 @@
           ]
          }
         ],
-        "targetSubtopic": "More information about the pi’el",
+        "targetSubtopic": "Learn more about the pi’el",
         "targetTopic": "Pi’el",
         "enclosingTopic": "Pi’el",
         "enclosingSubtopic": "Pi’el"
@@ -134,7 +134,24 @@
     "type": "outline"
    }
   ],
-  "More information about the pi’el": [
+  "Learn more about the pi’el": [
+   {
+    "text": "Here is more information about the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "pi’el",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ": ",
+    "type": "text"
+   },
    {
     "topLevelNodes": [
      {
@@ -170,7 +187,7 @@
         "targetSubtopic": "Active",
         "targetTopic": "Active",
         "enclosingTopic": "Pi’el",
-        "enclosingSubtopic": "More information about the pi’el"
+        "enclosingSubtopic": "Learn more about the pi’el"
        },
        {
         "text": " and ",
@@ -188,7 +205,7 @@
         "targetSubtopic": "Intensive",
         "targetTopic": "Intensive",
         "enclosingTopic": "Pi’el",
-        "enclosingSubtopic": "More information about the pi’el"
+        "enclosingSubtopic": "Learn more about the pi’el"
        },
        {
         "text": ".",
@@ -230,7 +247,7 @@
         "targetSubtopic": "Pi’el Tenses",
         "targetTopic": "Pi’el Tenses",
         "enclosingTopic": "Pi’el",
-        "enclosingSubtopic": "More information about the pi’el"
+        "enclosingSubtopic": "Learn more about the pi’el"
        },
        {
         "text": ".",
@@ -272,7 +289,7 @@
         "targetSubtopic": "Pi’el tenses for different shoresh types",
         "targetTopic": "Pi’el tenses for different shoresh types",
         "enclosingTopic": "Pi’el",
-        "enclosingSubtopic": "More information about the pi’el"
+        "enclosingSubtopic": "Learn more about the pi’el"
        },
        {
         "text": ".",
@@ -319,7 +336,7 @@
         "targetSubtopic": "Pa’el",
         "targetTopic": "Pa’el",
         "enclosingTopic": "Pi’el",
-        "enclosingSubtopic": "More information about the pi’el"
+        "enclosingSubtopic": "Learn more about the pi’el"
        },
        {
         "text": " in Aramaic.",
@@ -361,7 +378,7 @@
         "targetSubtopic": "Is one of the “heavy” binyanim due to its doubled middle letter",
         "targetTopic": "Pi’el",
         "enclosingTopic": "Pi’el",
-        "enclosingSubtopic": "More information about the pi’el"
+        "enclosingSubtopic": "Learn more about the pi’el"
        },
        {
         "text": ".",
@@ -403,7 +420,7 @@
         "targetSubtopic": "Four-letter shorushim",
         "targetTopic": "Four-letter shorushim",
         "enclosingTopic": "Pi’el",
-        "enclosingSubtopic": "More information about the pi’el"
+        "enclosingSubtopic": "Learn more about the pi’el"
        }
       ],
       "children": []

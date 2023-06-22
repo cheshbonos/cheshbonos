@@ -134,15 +134,15 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Advanced students can read ",
+        "text": "Advanced students can ",
         "type": "text"
        },
        {
-        "text": "more information about the _itaf’al_",
+        "text": "learn more about the _itaf’al_",
         "type": "local",
         "tokens": [
          {
-          "text": "more information about the ",
+          "text": "learn more about the ",
           "type": "text"
          },
          {
@@ -155,7 +155,7 @@
           ]
          }
         ],
-        "targetSubtopic": "More information about the itaf’al",
+        "targetSubtopic": "Learn more about the itaf’al",
         "targetTopic": "Itaf’al",
         "enclosingTopic": "Itaf’al",
         "enclosingSubtopic": "Itaf’al"
@@ -171,7 +171,7 @@
     "type": "outline"
    }
   ],
-  "More information about the itaf’al": [
+  "Learn more about the itaf’al": [
    {
     "text": "Here is more information about the ",
     "type": "text"
@@ -224,7 +224,7 @@
         "targetSubtopic": "Passive",
         "targetTopic": "Passive",
         "enclosingTopic": "Itaf’al",
-        "enclosingSubtopic": "More information about the itaf’al"
+        "enclosingSubtopic": "Learn more about the itaf’al"
        },
        {
         "text": " and ",
@@ -242,7 +242,7 @@
         "targetSubtopic": "Causative",
         "targetTopic": "Causative",
         "enclosingTopic": "Itaf’al",
-        "enclosingSubtopic": "More information about the itaf’al"
+        "enclosingSubtopic": "Learn more about the itaf’al"
        },
        {
         "text": ".",
@@ -284,7 +284,7 @@
         "targetSubtopic": "Itaf’al Tenses",
         "targetTopic": "Itaf’al Tenses",
         "enclosingTopic": "Itaf’al",
-        "enclosingSubtopic": "More information about the itaf’al"
+        "enclosingSubtopic": "Learn more about the itaf’al"
        },
        {
         "text": ".",
@@ -326,7 +326,7 @@
         "targetSubtopic": "Itaf’al tenses for different shoresh types",
         "targetTopic": "Itaf’al tenses for different shoresh types",
         "enclosingTopic": "Itaf’al",
-        "enclosingSubtopic": "More information about the itaf’al"
+        "enclosingSubtopic": "Learn more about the itaf’al"
        },
        {
         "text": ".",
@@ -373,7 +373,7 @@
         "targetSubtopic": "Huf’al",
         "targetTopic": "Huf’al",
         "enclosingTopic": "Itaf’al",
-        "enclosingSubtopic": "More information about the itaf’al"
+        "enclosingSubtopic": "Learn more about the itaf’al"
        },
        {
         "text": " in Hebrew.",

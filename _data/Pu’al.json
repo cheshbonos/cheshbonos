@@ -167,15 +167,15 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Advanced students can read ",
+        "text": "Advanced students can ",
         "type": "text"
        },
        {
-        "text": "more information about the _pu’al_",
+        "text": "learn more about the _pu’al_",
         "type": "local",
         "tokens": [
          {
-          "text": "more information about the ",
+          "text": "learn more about the ",
           "type": "text"
          },
          {
@@ -188,7 +188,7 @@
           ]
          }
         ],
-        "targetSubtopic": "More information about the pu’al",
+        "targetSubtopic": "Learn more about the pu’al",
         "targetTopic": "Pu’al",
         "enclosingTopic": "Pu’al",
         "enclosingSubtopic": "Pu’al"
@@ -204,7 +204,7 @@
     "type": "outline"
    }
   ],
-  "More information about the pu’al": [
+  "Learn more about the pu’al": [
    {
     "topLevelNodes": [
      {
@@ -240,7 +240,7 @@
         "targetSubtopic": "Passive",
         "targetTopic": "Passive",
         "enclosingTopic": "Pu’al",
-        "enclosingSubtopic": "More information about the pu’al"
+        "enclosingSubtopic": "Learn more about the pu’al"
        },
        {
         "text": " and ",
@@ -258,7 +258,7 @@
         "targetSubtopic": "Intensive",
         "targetTopic": "Intensive",
         "enclosingTopic": "Pu’al",
-        "enclosingSubtopic": "More information about the pu’al"
+        "enclosingSubtopic": "Learn more about the pu’al"
        },
        {
         "text": ".",
@@ -300,7 +300,7 @@
         "targetSubtopic": "Pu’al Tenses",
         "targetTopic": "Pu’al Tenses",
         "enclosingTopic": "Pu’al",
-        "enclosingSubtopic": "More information about the pu’al"
+        "enclosingSubtopic": "Learn more about the pu’al"
        },
        {
         "text": ".",
@@ -342,7 +342,7 @@
         "targetSubtopic": "Pu’al tenses for different shoresh types",
         "targetTopic": "Pu’al tenses for different shoresh types",
         "enclosingTopic": "Pu’al",
-        "enclosingSubtopic": "More information about the pu’al"
+        "enclosingSubtopic": "Learn more about the pu’al"
        },
        {
         "text": ".",
@@ -389,7 +389,7 @@
         "targetSubtopic": "Ispa’al",
         "targetTopic": "Ispa’al",
         "enclosingTopic": "Pu’al",
-        "enclosingSubtopic": "More information about the pu’al"
+        "enclosingSubtopic": "Learn more about the pu’al"
        },
        {
         "text": " in Aramaic.",

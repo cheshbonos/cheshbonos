@@ -121,15 +121,15 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Advanced students can read ",
+        "text": "Advanced students can ",
         "type": "text"
        },
        {
-        "text": "more information about the _af’el_",
+        "text": "learn more about the _af’el_",
         "type": "local",
         "tokens": [
          {
-          "text": "more information about the ",
+          "text": "learn more about the ",
           "type": "text"
          },
          {
@@ -142,7 +142,7 @@
           ]
          }
         ],
-        "targetSubtopic": "More information about the af’el",
+        "targetSubtopic": "Learn more about the af’el",
         "targetTopic": "Af’el",
         "enclosingTopic": "Af’el",
         "enclosingSubtopic": "Af’el"
@@ -158,7 +158,7 @@
     "type": "outline"
    }
   ],
-  "More information about the af’el": [
+  "Learn more about the af’el": [
    {
     "text": "Here is more information about the ",
     "type": "text"
@@ -211,7 +211,7 @@
         "targetSubtopic": "Active",
         "targetTopic": "Active",
         "enclosingTopic": "Af’el",
-        "enclosingSubtopic": "More information about the af’el"
+        "enclosingSubtopic": "Learn more about the af’el"
        },
        {
         "text": " and ",
@@ -229,7 +229,7 @@
         "targetSubtopic": "Causative",
         "targetTopic": "Causative",
         "enclosingTopic": "Af’el",
-        "enclosingSubtopic": "More information about the af’el"
+        "enclosingSubtopic": "Learn more about the af’el"
        },
        {
         "text": ".",
@@ -271,7 +271,7 @@
         "targetSubtopic": "Af’el Tenses",
         "targetTopic": "Af’el Tenses",
         "enclosingTopic": "Af’el",
-        "enclosingSubtopic": "More information about the af’el"
+        "enclosingSubtopic": "Learn more about the af’el"
        },
        {
         "text": ".",
@@ -313,7 +313,7 @@
         "targetSubtopic": "Af’el tenses for different shoresh types",
         "targetTopic": "Af’el tenses for different shoresh types",
         "enclosingTopic": "Af’el",
-        "enclosingSubtopic": "More information about the af’el"
+        "enclosingSubtopic": "Learn more about the af’el"
        },
        {
         "text": ".",
@@ -360,7 +360,7 @@
         "targetSubtopic": "Hif’il",
         "targetTopic": "Hif’il",
         "enclosingTopic": "Af’el",
-        "enclosingSubtopic": "More information about the af’el"
+        "enclosingSubtopic": "Learn more about the af’el"
        },
        {
         "text": " in Hebrew.",

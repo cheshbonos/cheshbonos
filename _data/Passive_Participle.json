@@ -107,25 +107,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Finished participles are adjectives that are formed from ",
-        "type": "text"
-       },
-       {
-        "text": "simple",
-        "type": "global",
-        "tokens": [
-         {
-          "text": "simple",
-          "type": "text"
-         }
-        ],
-        "targetSubtopic": "Simple",
-        "targetTopic": "Simple",
-        "enclosingTopic": "Passive Participle",
-        "enclosingSubtopic": "Additional information about the passive participle"
-       },
-       {
-        "text": " verbs, for example “burnt” comes from the verb “to burn.”",
+        "text": "Passive participles are adjectives that are formed from verbs, for example “burnt” comes from the verb “to burn.”",
         "type": "text"
        }
       ],
@@ -173,15 +155,15 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "The passive participle only exists in certain binyanim, namely ",
+        "text": "In Hebrew the passive participle only exists in ",
         "type": "text"
        },
        {
-        "text": "the Hebrew _pa’al_",
+        "text": "the _pa’al_ binyan",
         "type": "global",
         "tokens": [
          {
-          "text": "the Hebrew ",
+          "text": "the ",
           "type": "text"
          },
          {
@@ -192,6 +174,10 @@
             "type": "text"
            }
           ]
+         },
+         {
+          "text": " binyan",
+          "type": "text"
          }
         ],
         "targetSubtopic": "Pa’al",
@@ -200,20 +186,85 @@
         "enclosingSubtopic": "Additional information about the passive participle"
        },
        {
-        "text": " and ",
+        "text": ", i.e. ",
         "type": "text"
        },
        {
-        "text": "the Aramaic pe’al",
+        "text": "the pa'al passive participle",
         "type": "global",
         "tokens": [
          {
-          "text": "the Aramaic pe’al",
+          "text": "the pa'al passive participle",
           "type": "text"
          }
         ],
-        "targetSubtopic": "Pe’al",
-        "targetTopic": "Pe’al",
+        "targetSubtopic": "Pa’al Passive Participle",
+        "targetTopic": "Pa’al Passive Participle",
+        "enclosingTopic": "Passive Participle",
+        "enclosingSubtopic": "Additional information about the passive participle"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "In Aramaic, there are passive participles in all of the active binyanim, i.e. the ",
+        "type": "text"
+       },
+       {
+        "text": "pe’al passive participle",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "pe’al passive participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pe’al Passive Participle",
+        "targetTopic": "Pe’al Passive Participle",
+        "enclosingTopic": "Passive Participle",
+        "enclosingSubtopic": "Additional information about the passive participle"
+       },
+       {
+        "text": ", the ",
+        "type": "text"
+       },
+       {
+        "text": "pa’el passive participle",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "pa’el passive participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pa’el Passive Participle",
+        "targetTopic": "Pa’el Passive Participle",
+        "enclosingTopic": "Passive Participle",
+        "enclosingSubtopic": "Additional information about the passive participle"
+       },
+       {
+        "text": ", and the ",
+        "type": "text"
+       },
+       {
+        "text": "af’el passive participle",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "af’el passive participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Af’el Passive Participle",
+        "targetTopic": "Af’el Passive Participle",
         "enclosingTopic": "Passive Participle",
         "enclosingSubtopic": "Additional information about the passive participle"
        },

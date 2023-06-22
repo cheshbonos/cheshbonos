@@ -120,7 +120,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "There is ",
+        "text": "The first clause has ",
         "type": "text"
        },
        {
@@ -138,7 +138,7 @@
         "enclosingSubtopic": "Prepare to read the first clause"
        },
        {
-        "text": " to understand the first clause of the Mishnah.",
+        "text": ".",
         "type": "text"
        }
       ],
@@ -165,6 +165,10 @@
         "targetTopic": "First pass of האיש מקדש בו ובשלוחו",
         "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
         "enclosingSubtopic": "Prepare to read the first clause"
+       },
+       {
+        "text": ".",
+        "type": "text"
        }
       ],
       "children": []
@@ -435,105 +439,6 @@
     "type": "outline"
    }
   ],
-  "Understand the first clause": [
-   {
-    "text": "Now that we've read the first clause, we will ask some clarifying questions. ",
-    "type": "text"
-   },
-   {
-    "topLevelNodes": [
-     {
-      "ordinal": "-",
-      "ordered": false,
-      "tokensOfLine": [
-       {
-        "text": "What would I have thought in the absence of this Mishnah?",
-        "type": "local",
-        "tokens": [
-         {
-          "text": "What would I have thought in the absence of this Mishnah?",
-          "type": "text"
-         }
-        ],
-        "targetSubtopic": "What would I have thought in the absence of this Mishnah?",
-        "targetTopic": "First pass of האיש מקדש בו ובשלוחו",
-        "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
-        "enclosingSubtopic": "Understand the first clause"
-       }
-      ],
-      "children": []
-     },
-     {
-      "ordinal": "-",
-      "ordered": false,
-      "tokensOfLine": [
-       {
-        "text": "What would I have thought if it didn’t say בו?",
-        "type": "local",
-        "tokens": [
-         {
-          "text": "What would I have thought if it didn’t say בו?",
-          "type": "text"
-         }
-        ],
-        "targetSubtopic": "What would I have thought if it didn’t say בו?",
-        "targetTopic": "First pass of האיש מקדש בו ובשלוחו",
-        "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
-        "enclosingSubtopic": "Understand the first clause"
-       }
-      ],
-      "children": []
-     },
-     {
-      "ordinal": "-",
-      "ordered": false,
-      "tokensOfLine": [
-       {
-        "text": "What would I have thought if it didn’t say ובשלוחו?",
-        "type": "local",
-        "tokens": [
-         {
-          "text": "What would I have thought if it didn’t say ובשלוחו?",
-          "type": "text"
-         }
-        ],
-        "targetSubtopic": "What would I have thought if it didn’t say ובשלוחו?",
-        "targetTopic": "First pass of האיש מקדש בו ובשלוחו",
-        "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
-        "enclosingSubtopic": "Understand the first clause"
-       }
-      ],
-      "children": []
-     },
-     {
-      "ordinal": "-",
-      "ordered": false,
-      "tokensOfLine": [
-       {
-        "text": "Where does this halacha come from?",
-        "type": "local",
-        "tokens": [
-         {
-          "text": "Where does this halacha come from?",
-          "type": "text"
-         }
-        ],
-        "targetSubtopic": "Where does this halacha come from?",
-        "targetTopic": "First pass of האיש מקדש בו ובשלוחו",
-        "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
-        "enclosingSubtopic": "Understand the first clause"
-       }
-      ],
-      "children": []
-     }
-    ],
-    "type": "outline"
-   }
-  ],
-  "What would I have thought in the absence of this Mishnah?": [],
-  "What would I have thought if it didn’t say בו?": [],
-  "What would I have thought if it didn’t say ובשלוחו?": [],
-  "Where does this halacha come from?": [],
   "Identify where the sentence ends": [
    {
     "text": "How do we know where the first clause of the Mishnah ends? Even if we don't know the meaning of the words, we should be able to notice some similar-looking patterns being repeated: ",
@@ -670,7 +575,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "For more advanced students, we'll give a ",
+        "text": "For advanced students, we'll give a ",
         "type": "text"
        },
        {
@@ -695,7 +600,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "We'll explain ",
+        "text": "For advanced students we'll explain ",
         "type": "text"
        },
        {
@@ -733,31 +638,47 @@
   ],
   "Grammatical explanation of האיש": [
    {
-    "text": "This is the ",
+    "text": "We can giev a grammatical explanation of האיש: ",
     "type": "text"
    },
    {
-    "text": "Hebrew definite article",
-    "type": "global",
-    "tokens": [
+    "topLevelNodes": [
      {
-      "text": "Hebrew definite article",
-      "type": "text"
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "האיש is the ",
+        "type": "text"
+       },
+       {
+        "text": "Hebrew definite article “ה”",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Hebrew definite article “ה”",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Hebrew definite article",
+        "targetTopic": "Hebrew definite article",
+        "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
+        "enclosingSubtopic": "Grammatical explanation of האיש"
+       },
+       {
+        "text": " before the noun “איש”.",
+        "type": "text"
+       }
+      ],
+      "children": []
      }
     ],
-    "targetSubtopic": "Hebrew definite article",
-    "targetTopic": "Hebrew definite article",
-    "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
-    "enclosingSubtopic": "Grammatical explanation of האיש"
-   },
-   {
-    "text": " before the noun איש.",
-    "type": "text"
+    "type": "outline"
    }
   ],
   "How you could figure the meaning of האיש out yourself": [
    {
-    "text": "Here is how you could figure out the meaning of האיש yourself: ",
+    "text": "Here’s how you could figure out the meaning of האיש yourself: ",
     "type": "text"
    },
    {
@@ -955,7 +876,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "We’ll explain ",
+        "text": "For advanced students we’ll explain ",
         "type": "text"
        },
        {
@@ -979,14 +900,719 @@
     "type": "outline"
    }
   ],
-  "General translation of מקדש": [],
-  "Contextual translation of מקדש": [],
-  "Grammatical explanation of מקדש": [],
-  "How you could figure the meaning of מקדש out yourself": [],
+  "General translation of מקדש": [
+   {
+    "text": "To translate the word מקדש in general, first we should note that it is an ongoing “ing” verb like “running,” and it refers to someone who is making holiness in some way. For example: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Hashem is ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "mekadesh es hashabos",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ", which means Hashem makes the Sabbath holy by designating it as special.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "When we say ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "kiddush",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " before a holiday meal, this is referred to as “being ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "mekadesh",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ".”",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "When a man wants to marry a woman, he must first create the “binding engagement” stage called ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "kiddushin",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ", and doing so is refered to as the man “being ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "mekadesh",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": "” a woman.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   },
+   {
+    "text": "The word מקדש is also in the “masculine singular,” so we are speaking about one man doing the action. So, מקדש means some man or masculine entity is doing one of the previously mentioned actions in an ongoing way.",
+    "type": "text"
+   }
+  ],
+  "Contextual translation of מקדש": [
+   {
+    "text": "We can give a contextual translation of the word מקדש. ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "In this context, we are in ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "Meseches Kiddushin",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " so we know we are probably speaking about marriage, and so even though “מקדש” can have several meanings, here we are probably referring to a man who is creating the binding engagement stage of marriage called ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "kiddushin",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " with one woman.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "However, the ongoing nature of the verb makes it sound like we are telling a story about a particular man doing this, but that seems a bit out of place here, and so we’ll have to remember that in the Mishnah, the ongoing “present tense” is used to communicate halachic rulings, and so if it says “we are making ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "kiddush",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": "” that might mean “individuals are obligated to make kiddush” and if it says “a man is buying an item with a contract,” that would mean “a man is ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "able",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " to buy an item using a contract.”",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Thus, the word מקדש here means “[a man is] able to create the ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "kiddushin",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " stage of marriage [...],” and we are anticipating further details about how this is done.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "Grammatical explanation of מקדש": [
+   {
+    "text": "We can give a grammatical explanation of the word מקדש: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "מקדש comes from the ",
+        "type": "text"
+       },
+       {
+        "text": "shoresh",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "shoresh",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Shoresh",
+        "targetTopic": "Shoresh",
+        "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
+        "enclosingSubtopic": "Grammatical explanation of מקדש"
+       },
+       {
+        "text": " קדש",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "מקדש is from the ",
+        "type": "text"
+       },
+       {
+        "text": "pi’el binyan",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "pi’el binyan",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pi’el",
+        "targetTopic": "Pi’el",
+        "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
+        "enclosingSubtopic": "Grammatical explanation of מקדש"
+       },
+       {
+        "text": ". (",
+        "type": "text"
+       },
+       {
+        "text": "Binyan is a grammatical concept in Hebrew and Aramaic",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Binyan is a grammatical concept in Hebrew and Aramaic",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Binyan",
+        "targetTopic": "Binyan",
+        "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
+        "enclosingSubtopic": "Grammatical explanation of מקדש"
+       },
+       {
+        "text": ".)",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The meaning of מקדש is determined by the meanings of [the shoresh קדש in the pi’el].",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "מקדש is a ",
+        "type": "text"
+       },
+       {
+        "text": "pi'el active participle",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "pi'el active participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pi’el Active Participle",
+        "targetTopic": "Pi’el Active Participle",
+        "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
+        "enclosingSubtopic": "Grammatical explanation of מקדש"
+       },
+       {
+        "text": ", an example of an ",
+        "type": "text"
+       },
+       {
+        "text": "active participle",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "active participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Active Participle",
+        "targetTopic": "Active Participle",
+        "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
+        "enclosingSubtopic": "Grammatical explanation of מקדש"
+       },
+       {
+        "text": " which is one of ",
+        "type": "text"
+       },
+       {
+        "text": "the two types of participle",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "the two types of participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Participle",
+        "targetTopic": "Participle",
+        "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
+        "enclosingSubtopic": "Grammatical explanation of מקדש"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "מקדש is in the masculine singular, so we are speaking about one man or one masculine entity.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "How you could figure the meaning of מקדש out yourself": [
+   {
+    "text": "Here's how you could figure out the meaning of מקדש yourself: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "First, let's remember that we're reading a Mishnah, and so the language is going to be Hebrew.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "We might know that there is a noun spelled מקדש, מִקְדָּשׁ meaning temple or sanctuary, but because we just saw האיש which is a noun, now we are probably looking for a verb.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "So, every verb should have 2-3 visible letters of the ",
+        "type": "text"
+       },
+       {
+        "text": "shoresh",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "shoresh",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Shoresh",
+        "targetTopic": "Shoresh",
+        "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
+        "enclosingSubtopic": "How you could figure the meaning of מקדש out yourself"
+       },
+       {
+        "text": ", so we'll want to identify what shoresh this is.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "We have 4 ",
+        "type": "text"
+       },
+       {
+        "text": "strong letters",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "strong letters",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Strong letters",
+        "targetTopic": "Strong letters",
+        "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
+        "enclosingSubtopic": "How you could figure the meaning of מקדש out yourself"
+       },
+       {
+        "text": ", so only three of those can be part of the verb, so either the מ is a prefix, or the ש is a suffix.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "There are ",
+        "type": "text"
+       },
+       {
+        "text": "several Hebrew verb forms beginning with מ",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "several Hebrew verb forms beginning with מ",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Hebrew verb forms beginning with מ",
+        "targetTopic": "Hebrew verb forms beginning with מ",
+        "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
+        "enclosingSubtopic": "How you could figure the meaning of מקדש out yourself"
+       },
+       {
+        "text": ", but ש is never a suffix, so we've narrowed it down to those verb forms.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The only one of those forms that has only a מ prefix and not an extra ת or י or ו is the ",
+        "type": "text"
+       },
+       {
+        "text": "pi'el active participle for regular shorushim",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "pi'el active participle for regular shorushim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pi’el Active Participle",
+        "targetTopic": "Pi’el Active Participle",
+        "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
+        "enclosingSubtopic": "How you could figure the meaning of מקדש out yourself"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Once we know the binyan and tense, we can see that the lack of a suffix indicates this is a masculine singular.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
   "בו": [],
   "ובשלוחו": [],
   "Literal translation of the full sentence": [],
   "Identify ambiguities": [],
-  "Comprehension questions": []
+  "Understand the first clause": [
+   {
+    "text": "Now that we've read the first clause, we will ask some clarifying questions. ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "How can we understand the specificity of the Mishnah?",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "How can we understand the specificity of the Mishnah?",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "How can we understand the specificity of the Mishnah?",
+        "targetTopic": "First pass of האיש מקדש בו ובשלוחו",
+        "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
+        "enclosingSubtopic": "Understand the first clause"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "What would I have thought in the absence of this Mishnah?",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "What would I have thought in the absence of this Mishnah?",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "What would I have thought in the absence of this Mishnah?",
+        "targetTopic": "First pass of האיש מקדש בו ובשלוחו",
+        "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
+        "enclosingSubtopic": "Understand the first clause"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "What would I have thought if it didn’t say בו?",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "What would I have thought if it didn’t say בו?",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "What would I have thought if it didn’t say בו?",
+        "targetTopic": "First pass of האיש מקדש בו ובשלוחו",
+        "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
+        "enclosingSubtopic": "Understand the first clause"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "What would I have thought if it didn’t say ובשלוחו?",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "What would I have thought if it didn’t say ובשלוחו?",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "What would I have thought if it didn’t say ובשלוחו?",
+        "targetTopic": "First pass of האיש מקדש בו ובשלוחו",
+        "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
+        "enclosingSubtopic": "Understand the first clause"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Whose opinion are we trying to figure out?",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Whose opinion are we trying to figure out?",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Whose opinion are we trying to figure out?",
+        "targetTopic": "First pass of האיש מקדש בו ובשלוחו",
+        "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
+        "enclosingSubtopic": "Understand the first clause"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "How can we understand the specificity of the Mishnah?": [
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "There being three ways of understanding specificity",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Going through the options here",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "What would I have thought in the absence of this Mishnah?": [],
+  "What would I have thought if it didn’t say בו?": [],
+  "What would I have thought if it didn’t say ובשלוחו?": [],
+  "Whose opinion are we trying to figure out?": [
+   {
+    "text": "Is there someone whose mind we could read to see if R Yosef is correct about what he is saying?",
+    "type": "text"
+   }
+  ]
  }
 }

@@ -104,31 +104,25 @@
         "enclosingSubtopic": "Pi’el Active Participle"
        },
        {
-        "text": ".",
-        "type": "text"
-       }
-      ],
-      "children": []
-     },
-     {
-      "ordinal": "-",
-      "ordered": false,
-      "tokensOfLine": [
-       {
-        "text": "The ",
+        "text": ". (Conjugations for ",
         "type": "text"
        },
        {
-        "type": "italics",
+        "text": "irregular shorushim",
+        "type": "global",
         "tokens": [
          {
-          "text": "pi’el",
+          "text": "irregular shorushim",
           "type": "text"
          }
-        ]
+        ],
+        "targetSubtopic": "Irregular shorushim",
+        "targetTopic": "Irregular shorushim",
+        "enclosingTopic": "Pi’el Active Participle",
+        "enclosingSubtopic": "Pi’el Active Participle"
        },
        {
-        "text": " active participle has conjugations for irregular shorushim that will be added at a later time.",
+        "text": " are not yet available.)",
         "type": "text"
        }
       ],

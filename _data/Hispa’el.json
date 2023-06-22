@@ -110,15 +110,15 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Advanced students can read ",
+        "text": "Advanced students can ",
         "type": "text"
        },
        {
-        "text": "more information about the _hispa’el_",
+        "text": "learn more about the _hispa’el_",
         "type": "local",
         "tokens": [
          {
-          "text": "more information about the ",
+          "text": "learn more about the ",
           "type": "text"
          },
          {
@@ -131,7 +131,7 @@
           ]
          }
         ],
-        "targetSubtopic": "More information about the hispa’el",
+        "targetSubtopic": "Learn more about the hispa’el",
         "targetTopic": "Hispa’el",
         "enclosingTopic": "Hispa’el",
         "enclosingSubtopic": "Hispa’el"
@@ -147,7 +147,7 @@
     "type": "outline"
    }
   ],
-  "More information about the hispa’el": [
+  "Learn more about the hispa’el": [
    {
     "text": "Here is more information about the ",
     "type": "text"
@@ -200,7 +200,7 @@
         "targetSubtopic": "Reflexive",
         "targetTopic": "Reflexive",
         "enclosingTopic": "Hispa’el",
-        "enclosingSubtopic": "More information about the hispa’el"
+        "enclosingSubtopic": "Learn more about the hispa’el"
        },
        {
         "text": ".",
@@ -242,7 +242,7 @@
         "targetSubtopic": "Is one of the “heavy” binyanim due to its doubled middle letter",
         "targetTopic": "Hispa’el",
         "enclosingTopic": "Hispa’el",
-        "enclosingSubtopic": "More information about the hispa’el"
+        "enclosingSubtopic": "Learn more about the hispa’el"
        },
        {
         "text": ".",
@@ -289,7 +289,7 @@
         "targetSubtopic": "Nispa’el",
         "targetTopic": "Nispa’el",
         "enclosingTopic": "Hispa’el",
-        "enclosingSubtopic": "More information about the hispa’el"
+        "enclosingSubtopic": "Learn more about the hispa’el"
        },
        {
         "text": ".",
@@ -331,7 +331,7 @@
         "targetSubtopic": "Ispe’el",
         "targetTopic": "Ispe’el",
         "enclosingTopic": "Hispa’el",
-        "enclosingSubtopic": "More information about the hispa’el"
+        "enclosingSubtopic": "Learn more about the hispa’el"
        },
        {
         "text": ", ",
@@ -349,7 +349,7 @@
         "targetSubtopic": "Ispa’al",
         "targetTopic": "Ispa’al",
         "enclosingTopic": "Hispa’el",
-        "enclosingSubtopic": "More information about the hispa’el"
+        "enclosingSubtopic": "Learn more about the hispa’el"
        },
        {
         "text": ", or ",
@@ -372,7 +372,7 @@
         "targetSubtopic": "Itaf’al",
         "targetTopic": "Itaf’al",
         "enclosingTopic": "Hispa’el",
-        "enclosingSubtopic": "More information about the hispa’el"
+        "enclosingSubtopic": "Learn more about the hispa’el"
        },
        {
         "text": " in Aramaic.",
@@ -414,7 +414,7 @@
         "targetSubtopic": "Hispa’el Tenses",
         "targetTopic": "Hispa’el Tenses",
         "enclosingTopic": "Hispa’el",
-        "enclosingSubtopic": "More information about the hispa’el"
+        "enclosingSubtopic": "Learn more about the hispa’el"
        },
        {
         "text": ".",
@@ -456,7 +456,7 @@
         "targetSubtopic": "Hispa’el tenses for different shoresh types",
         "targetTopic": "Hispa’el tenses for different shoresh types",
         "enclosingTopic": "Hispa’el",
-        "enclosingSubtopic": "More information about the hispa’el"
+        "enclosingSubtopic": "Learn more about the hispa’el"
        },
        {
         "text": ".",

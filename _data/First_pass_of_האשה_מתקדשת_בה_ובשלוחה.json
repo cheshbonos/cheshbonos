@@ -9,9 +9,107 @@
  "paragraphsBySubtopic": {
   "First pass of האשה מתקדשת בה ובשלוחה": [
    {
-    "text": "In order to understand the second clause of the Mishnah “האשה מתקדשת בה ובשלוחה”: ",
+    "text": "In order to understand the second clause of the Mishnah: ",
     "type": "text"
    },
+   {
+    "type": "block_quote",
+    "tokens": [
+     {
+      "text": "האשה מתקדשת בה ובשלוחה",
+      "type": "text"
+     }
+    ],
+    "direction": "rtl"
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "Prepare to read <br> the third clause",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Prepare to read ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " the third clause",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Prepare to read the third clause",
+         "targetTopic": "First pass of האשה מתקדשת בה ובשלוחה",
+         "enclosingTopic": "First pass of האשה מתקדשת בה ובשלוחה",
+         "enclosingSubtopic": "First pass of האשה מתקדשת בה ובשלוחה"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Read the <br> third clause",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Read the ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " third clause",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Read the third clause",
+         "targetTopic": "First pass of האשה מתקדשת בה ובשלוחה",
+         "enclosingTopic": "First pass of האשה מתקדשת בה ובשלוחה",
+         "enclosingSubtopic": "First pass of האשה מתקדשת בה ובשלוחה"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Understand the <br> third clause",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Understand the ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " third clause",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Understand the third clause",
+         "targetTopic": "First pass of האשה מתקדשת בה ובשלוחה",
+         "enclosingTopic": "First pass of האשה מתקדשת בה ובשלוחה",
+         "enclosingSubtopic": "First pass of האשה מתקדשת בה ובשלוחה"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Prepare to read the third clause": [],
+  "Read the third clause": [
    {
     "topLevelNodes": [
      {
@@ -34,7 +132,7 @@
         "targetSubtopic": "Identify where to end the sentence",
         "targetTopic": "First pass of האשה מתקדשת בה ובשלוחה",
         "enclosingTopic": "First pass of האשה מתקדשת בה ובשלוחה",
-        "enclosingSubtopic": "First pass of האשה מתקדשת בה ובשלוחה"
+        "enclosingSubtopic": "Read the third clause"
        },
        {
         "text": ".",
@@ -72,7 +170,7 @@
       "targetSubtopic": "האשה",
       "targetTopic": "First pass of האשה מתקדשת בה ובשלוחה",
       "enclosingTopic": "First pass of האשה מתקדשת בה ובשלוחה",
-      "enclosingSubtopic": "First pass of האשה מתקדשת בה ובשלוחה"
+      "enclosingSubtopic": "Read the third clause"
      },
      {
       "text": " ",
@@ -90,7 +188,7 @@
       "targetSubtopic": "מתקדשת",
       "targetTopic": "First pass of האשה מתקדשת בה ובשלוחה",
       "enclosingTopic": "First pass of האשה מתקדשת בה ובשלוחה",
-      "enclosingSubtopic": "First pass of האשה מתקדשת בה ובשלוחה"
+      "enclosingSubtopic": "Read the third clause"
      },
      {
       "text": " ",
@@ -108,7 +206,7 @@
       "targetSubtopic": "בה",
       "targetTopic": "First pass of האשה מתקדשת בה ובשלוחה",
       "enclosingTopic": "First pass of האשה מתקדשת בה ובשלוחה",
-      "enclosingSubtopic": "First pass of האשה מתקדשת בה ובשלוחה"
+      "enclosingSubtopic": "Read the third clause"
      },
      {
       "text": " ",
@@ -126,7 +224,7 @@
       "targetSubtopic": "ובשלוחה",
       "targetTopic": "First pass of האשה מתקדשת בה ובשלוחה",
       "enclosingTopic": "First pass of האשה מתקדשת בה ובשלוחה",
-      "enclosingSubtopic": "First pass of האשה מתקדשת בה ובשלוחה"
+      "enclosingSubtopic": "Read the third clause"
      }
     ],
     "direction": "rtl"
@@ -153,7 +251,7 @@
         "targetSubtopic": "Literal translation of the full sentence",
         "targetTopic": "First pass of האשה מתקדשת בה ובשלוחה",
         "enclosingTopic": "First pass of האשה מתקדשת בה ובשלוחה",
-        "enclosingSubtopic": "First pass of האשה מתקדשת בה ובשלוחה"
+        "enclosingSubtopic": "Read the third clause"
        }
       ],
       "children": []
@@ -178,39 +276,10 @@
         "targetSubtopic": "Identify ambiguities",
         "targetTopic": "First pass of האשה מתקדשת בה ובשלוחה",
         "enclosingTopic": "First pass of האשה מתקדשת בה ובשלוחה",
-        "enclosingSubtopic": "First pass of האשה מתקדשת בה ובשלוחה"
+        "enclosingSubtopic": "Read the third clause"
        },
        {
         "text": " and clarify the meaning of the text",
-        "type": "text"
-       }
-      ],
-      "children": []
-     },
-     {
-      "ordinal": "-",
-      "ordered": false,
-      "tokensOfLine": [
-       {
-        "text": "Lastly, we’ll consider ",
-        "type": "text"
-       },
-       {
-        "text": "comprehension questions",
-        "type": "local",
-        "tokens": [
-         {
-          "text": "comprehension questions",
-          "type": "text"
-         }
-        ],
-        "targetSubtopic": "Comprehension questions",
-        "targetTopic": "First pass of האשה מתקדשת בה ובשלוחה",
-        "enclosingTopic": "First pass of האשה מתקדשת בה ובשלוחה",
-        "enclosingSubtopic": "First pass of האשה מתקדשת בה ובשלוחה"
-       },
-       {
-        "text": " about this sentence",
         "type": "text"
        }
       ],
@@ -227,6 +296,27 @@
   "ובשלוחה": [],
   "Literal translation of the full sentence": [],
   "Identify ambiguities": [],
-  "Comprehension questions": []
+  "Understand the third clause": [
+   {
+    "text": "Now that we've read the first clause, we will ask some clarifying questions. ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Like this.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ]
  }
 }

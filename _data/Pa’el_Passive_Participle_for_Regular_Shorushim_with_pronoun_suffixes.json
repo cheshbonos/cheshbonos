@@ -461,6 +461,64 @@
       "ordered": false,
       "tokensOfLine": [
        {
+        "text": "A participle with a pronoun suffix forms a ",
+        "type": "text"
+       },
+       {
+        "text": "present tense sentence",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "present tense sentence",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Present tense",
+        "targetTopic": "Present tense",
+        "enclosingTopic": "Pa’el Passive Participle for Regular Shorushim with pronoun suffixes",
+        "enclosingSubtopic": "Pa’el Passive Participle for Regular Shorushim with pronoun suffixes"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "A participle with a pronoun suffix forms a ",
+        "type": "text"
+       },
+       {
+        "text": "present tense sentence",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "present tense sentence",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Present tense",
+        "targetTopic": "Present tense",
+        "enclosingTopic": "Pa’el Passive Participle for Regular Shorushim with pronoun suffixes",
+        "enclosingSubtopic": "Pa’el Passive Participle for Regular Shorushim with pronoun suffixes"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
         "text": "There is also a form of the ",
         "type": "text"
        },

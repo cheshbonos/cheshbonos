@@ -329,114 +329,141 @@
     ]
    },
    {
-    "text": " The ",
+    "text": " ",
     "type": "text"
    },
    {
-    "type": "italics",
-    "tokens": [
+    "topLevelNodes": [
      {
-      "text": "pi’el",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " active participle features a מ prefix in all of its forms, making it easy to mistake for ",
-    "type": "text"
-   },
-   {
-    "text": "the pu’al active participle",
-    "type": "global",
-    "tokens": [
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pi’el",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " active participle features a מ prefix in all of its forms, making it easy to mistake for ",
+        "type": "text"
+       },
+       {
+        "text": "the pu’al active participle",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "the pu’al active participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pu’al Active Participle for Regular Shorushim",
+        "targetTopic": "Pu’al Active Participle for Regular Shorushim",
+        "enclosingTopic": "Pi’el Active Participle for Regular Shorushim",
+        "enclosingSubtopic": "Pi’el Active Participle for Regular Shorushim"
+       },
+       {
+        "text": ", ",
+        "type": "text"
+       },
+       {
+        "text": "the hif’il active participle",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "the hif’il active participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Hif’il Active Participle for Regular Shorushim",
+        "targetTopic": "Hif’il Active Participle for Regular Shorushim",
+        "enclosingTopic": "Pi’el Active Participle for Regular Shorushim",
+        "enclosingSubtopic": "Pi’el Active Participle for Regular Shorushim"
+       },
+       {
+        "text": ", and ",
+        "type": "text"
+       },
+       {
+        "text": "the huf’al active participle",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "the huf’al active participle",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Huf’al Active Participle for Regular Shorushim",
+        "targetTopic": "Huf’al Active Participle for Regular Shorushim",
+        "enclosingTopic": "Pi’el Active Participle for Regular Shorushim",
+        "enclosingSubtopic": "Pi’el Active Participle for Regular Shorushim"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
      {
-      "text": "the pu’al active participle",
-      "type": "text"
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "The lack of a י between the second and third root letters differentiates it from a ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hif’il",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ", and the lack of a ו after the first letter differentiates it from the ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "pu’al",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " and ",
+        "type": "text"
+       },
+       {
+        "type": "italics",
+        "tokens": [
+         {
+          "text": "hufal",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
      }
     ],
-    "targetSubtopic": "Pu’al Active Participle for Regular Shorushim",
-    "targetTopic": "Pu’al Active Participle for Regular Shorushim",
-    "enclosingTopic": "Pi’el Active Participle for Regular Shorushim",
-    "enclosingSubtopic": "Pi’el Active Participle for Regular Shorushim"
-   },
-   {
-    "text": ", ",
-    "type": "text"
-   },
-   {
-    "text": "the hif’il active participle",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "the hif’il active participle",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Hif’il Active Participle for Regular Shorushim",
-    "targetTopic": "Hif’il Active Participle for Regular Shorushim",
-    "enclosingTopic": "Pi’el Active Participle for Regular Shorushim",
-    "enclosingSubtopic": "Pi’el Active Participle for Regular Shorushim"
-   },
-   {
-    "text": ", or ",
-    "type": "text"
-   },
-   {
-    "text": "the huf’al active participle",
-    "type": "global",
-    "tokens": [
-     {
-      "text": "the huf’al active participle",
-      "type": "text"
-     }
-    ],
-    "targetSubtopic": "Huf’al Active Participle for Regular Shorushim",
-    "targetTopic": "Huf’al Active Participle for Regular Shorushim",
-    "enclosingTopic": "Pi’el Active Participle for Regular Shorushim",
-    "enclosingSubtopic": "Pi’el Active Participle for Regular Shorushim"
-   },
-   {
-    "text": ". The lack of a י between the second and third root letters differentiates it from a ",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "hif’il",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": ", and the lack of a ו after the first letter differentiates it from the ",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "pu’al",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " and ",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "hufal",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": ". ",
-    "type": "text"
+    "type": "outline"
    },
    {
     "type": "footnote_lines",
