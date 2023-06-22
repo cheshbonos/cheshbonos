@@ -5,8 +5,8 @@ In order to learn the first clause of the Mishnah:
 
 Prepare to read the first clause:
 There are various things you should know before trying to read the first clause.
-- There is [[required background knowledge]] to understand the first clause of the Mishnah.
-- You should [[try to predict what you think the halacha will be]]
+- The first clause has [[required background knowledge]].
+- You should [[try to predict what you think the halacha will be]].
 
 Required background knowledge:
 There is required background knowledge to understand the first clause.
@@ -24,23 +24,6 @@ In order to read the first clause of the Mishnah “האיש מקדש בו וב�
 - Then, we’ll put together a [[literal translation of the full sentence]]
 - We’ll [[identify ambiguities]] and clarify the meaning of the text
 
-Understand the first clause:
-Now that we've read the first clause, we will ask some clarifying questions.
-- [[What would I have thought in the absence of this Mishnah?]]
-- [[What would I have thought if it didn’t say בו?]]
-- [[What would I have thought if it didn’t say ובשלוחו?]]
-- [[Where does this halacha come from?]]
-
-What would I have thought in the absence of this Mishnah?
-
-- Introduce the idea of there being three types of specificity, but leave it ambiguous until the Gemara which kind the Gemara thinks the Mishnah is.
-
-What would I have thought if it didn’t say בו?
-
-What would I have thought if it didn’t say ובשלוחו?
-
-Where does this halacha come from?
-
 Identify where the sentence ends:
 How do we know where the first clause of the Mishnah ends? Even if we don't know the meaning of the words, we should be able to notice some similar-looking patterns being repeated:
 < *האיש מקדש* בו ובשלוחו *האשה מתקדשת* בה ובשלוחה *האיש מקדש* את בתו כשהיא נערה בו ובשלוחו
@@ -51,17 +34,19 @@ Based on this pattern, we should be able to recognize that the Mishnah is compos
 To understand the word “האיש”:
 - We'll give a [[general translation of האיש]]
 - We'll give a [[contextual translation of האיש]]
-- For more advanced students, we'll give a [[grammatical explanation of האיש]]
-- We'll explain [[how you could figure the meaning of האיש out yourself]]
+- For advanced students, we'll give a [[grammatical explanation of האיש]]
+- For advanced students we'll explain [[how you could figure the meaning of האיש out yourself]]
 
 General translation of האיש: In general the word “האיש” means “the man.”
 
 Contextual translation of האיש: In this context, it means “a man” because we’re not speaking about any one man in particular. Sometimes the Mishnah will use the word “the” slightly differently than we would in English.
 
-Grammatical explanation of האיש: This is the [[Hebrew definite article]] before the noun איש.
+Grammatical explanation of האיש:
+We can giev a grammatical explanation of האיש:
+- האיש is the [[{{Hebrew definite article}} “ה”]] before the noun “איש”.
 
 How you could figure the meaning of האיש out yourself:
-Here is how you could figure out the meaning of האיש yourself:
+Here’s how you could figure out the meaning of האיש yourself:
 - First, let's remember that we're reading a Mishnah and so the language is going to be Hebrew and not Aramaic.
 - Next, we should see if any of the letters are potentially prefixes or suffixes rather than being part of the underlying word.
 - ה is sometimes a prefix, but ש is never a suffix, so we can conclude that either “האיש” is one big word, or the ה is a prefix, and the real word is איש.
@@ -74,15 +59,38 @@ To understand the word “מקדש”:
 - We’ll give a [[general translation of מקדש]]
 - We’ll give a [[contextual translation of מקדש]]
 - For more advanced students, we’ll give a [[grammatical explanation of מקדש]]
-- We’ll explain [[how you could figure the meaning of מקדש out yourself]]
+- For advanced students we’ll explain [[how you could figure the meaning of מקדש out yourself]]
 
 General translation of מקדש:
+To translate the word מקדש in general, first we should note that it is an ongoing “ing” verb like “running,” and it refers to someone who is making holiness in some way. For example:
+- Hashem is _mekadesh es hashabos_, which means Hashem makes the Sabbath holy by designating it as special.
+- When we say _kiddush_ before a holiday meal, this is referred to as “being _mekadesh_.”
+- When a man wants to marry a woman, he must first create the “binding engagement” stage called _kiddushin_, and doing so is refered to as the man “being _mekadesh_” a woman.
+The word מקדש is also in the “masculine singular,” so we are speaking about one man doing the action. So, מקדש means some man or masculine entity is doing one of the previously mentioned actions in an ongoing way.
 
 Contextual translation of מקדש:
+We can give a contextual translation of the word מקדש.
+- In this context, we are in _Meseches Kiddushin_ so we know we are probably speaking about marriage, and so even though “מקדש” can have several meanings, here we are probably referring to a man who is creating the binding engagement stage of marriage called _kiddushin_ with one woman.
+- However, the ongoing nature of the verb makes it sound like we are telling a story about a particular man doing this, but that seems a bit out of place here, and so we’ll have to remember that in the Mishnah, the ongoing “present tense” is used to communicate halachic rulings, and so if it says “we are making _kiddush_” that might mean “individuals are obligated to make kiddush” and if it says “a man is buying an item with a contract,” that would mean “a man is _able_ to buy an item using a contract.”
+- Thus, the word מקדש here means “[a man is] able to create the _kiddushin_ stage of marriage [...],” and we are anticipating further details about how this is done.
 
 Grammatical explanation of מקדש:
+We can give a grammatical explanation of the word מקדש:
+- מקדש comes from the [[shoresh]] קדש
+- מקדש is from the [[{{pi’el}} binyan]]. ([[{{Binyan}} is a grammatical concept in Hebrew and Aramaic]].)
+- The meaning of מקדש is determined by the meanings of [the shoresh קדש in the pi’el].
+- מקדש is a [[pi'el active participle]], an example of an [[active participle]] which is one of [[the two types of {{participle}}]], which are two of the [[“tenses” of Hebrew and Aramaic]].
+- מקדש is in the masculine singular, so we are speaking about one man or one masculine entity.
 
 How you could figure the meaning of מקדש out yourself:
+Here's how you could figure out the meaning of מקדש yourself:
+- First, let's remember that we're reading a Mishnah, and so the language is going to be Hebrew.
+- We might know that there is a noun spelled מקדש, מִקְדָּשׁ meaning temple or sanctuary, but because we just saw האיש which is a noun, now we are probably looking for a verb.
+- So, every verb should have 2-3 visible letters of the [[shoresh]], so we'll want to identify what shoresh this is.
+- We have 4 [[strong letters]], so only three of those can be part of the verb, so either the מ is a prefix, or the ש is a suffix.
+- There are [[several {{Hebrew verb forms beginning with מ}}]], but ש is never a suffix, so we've narrowed it down to those verb forms.
+- The only one of those forms that has only a מ prefix and not an extra ת or י or ו is the [[{{pi'el active participle}} for regular shorushim]].
+- Once we know the binyan and tense, we can see that the lack of a suffix indicates this is a masculine singular.
 
 בו:
 
@@ -92,4 +100,25 @@ Literal translation of the full sentence:
 
 Identify ambiguities:
 
-Comprehension questions:
+Understand the first clause:
+Now that we've read the first clause, we will ask some clarifying questions.
+- [[How can we understand the specificity of the Mishnah?]]
+- [[What would I have thought in the absence of this Mishnah?]]
+- [[What would I have thought if it didn’t say בו?]]
+- [[What would I have thought if it didn’t say ובשלוחו?]]
+- [[Whose opinion are we trying to figure out?]]
+
+How can we understand the specificity of the Mishnah?
+- There being three ways of understanding specificity
+- Going through the options here
+
+What would I have thought in the absence of this Mishnah?
+
+- Introduce the idea of there being three types of specificity, but leave it ambiguous until the Gemara which kind the Gemara thinks the Mishnah is.
+
+What would I have thought if it didn’t say בו?
+
+What would I have thought if it didn’t say ובשלוחו?
+
+Whose opinion are we trying to figure out?
+Is there someone whose mind we could read to see if R Yosef is correct about what he is saying?
