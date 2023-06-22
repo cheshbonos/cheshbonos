@@ -571,7 +571,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "So, you might ask, where in the ",
+        "text": "So, a question we might have is, where in the ",
         "type": "text"
        },
        {
@@ -598,6 +598,17 @@
        },
        {
         "text": "?",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "🎉🎉🎉",
         "type": "text"
        }
       ],
