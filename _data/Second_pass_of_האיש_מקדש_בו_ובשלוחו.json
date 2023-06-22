@@ -571,33 +571,98 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "So, a question we might have is, where in the ",
+        "text": "So, a question we might have is, ",
+        "type": "text"
+       },
+       {
+        "text": "where in the _written_ Torah do we find a source for the ability to use a _shaliach_?",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "where in the ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "written",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " Torah do we find a source for the ability to use a ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "shaliach",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": "?",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Where in the written Torah do we find a source for the ability to use a shaliach?",
+        "targetTopic": "Second pass of האיש מקדש בו ובשלוחו",
+        "enclosingTopic": "Second pass of האיש מקדש בו ובשלוחו",
+        "enclosingSubtopic": "Does the fact that this Mishnah is the first to mention that you can use a shaliach help us formulate a question on our Mishnah?"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "Where in the written Torah do we find a source for the ability to use a shaliach?": [
+   {
+    "text": "Now, what if I told you there was no such verse?",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "Now, what if I told you there was no such verse?",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Now, what if I told you there was no such verse?",
+    "targetTopic": "Second pass of האיש מקדש בו ובשלוחו",
+    "enclosingTopic": "Second pass of האיש מקדש בו ובשלוחו",
+    "enclosingSubtopic": "Where in the written Torah do we find a source for the ability to use a shaliach?"
+   }
+  ],
+  "Now, what if I told you there was no such verse?": [
+   {
+    "text": "Then, you might have a good question on the Mishnah: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "“Where is the Mishnah getting the concept of ",
         "type": "text"
        },
        {
         "type": "italics",
         "tokens": [
          {
-          "text": "written",
+          "text": "shlichus",
           "type": "text"
          }
         ]
        },
        {
-        "text": " Torah do we find a source for the ability to use a ",
-        "type": "text"
-       },
-       {
-        "type": "italics",
-        "tokens": [
-         {
-          "text": "shaliach",
-          "type": "text"
-         }
-        ]
-       },
-       {
-        "text": "?",
+        "text": " from if there is no such verse explicit in the Torah”",
         "type": "text"
        }
       ],
