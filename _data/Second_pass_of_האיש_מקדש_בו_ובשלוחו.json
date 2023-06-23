@@ -151,15 +151,15 @@
         "type": "text"
        },
        {
-        "text": "what did he put in it?",
+        "text": "what sorts of things did R Yehuda HaNasi put in The Mishnah?",
         "type": "local",
         "tokens": [
          {
-          "text": "what did he put in it?",
+          "text": "what sorts of things did R Yehuda HaNasi put in The Mishnah?",
           "type": "text"
          }
         ],
-        "targetSubtopic": "What did R Yehuda HaNasi put in The Mishnah?",
+        "targetSubtopic": "What sorts of things did R Yehuda HaNasi put in The Mishnah?",
         "targetTopic": "Second pass of האיש מקדש בו ובשלוחו",
         "enclosingTopic": "Second pass of האיש מקדש בו ובשלוחו",
         "enclosingSubtopic": "What questions might we have on there are two permissible ways for a man to be makdesh a woman"
@@ -171,7 +171,7 @@
     "type": "outline"
    }
   ],
-  "What did R Yehuda HaNasi put in The Mishnah?": [
+  "What sorts of things did R Yehuda HaNasi put in The Mishnah?": [
    {
     "text": "When R Yehuda HaNasi was writing the Mishnah, ",
     "type": "text"
@@ -188,7 +188,7 @@
     "targetSubtopic": "Did R Yehuda HaNasi just write his personal opinions about various things?",
     "targetTopic": "Second pass of האיש מקדש בו ובשלוחו",
     "enclosingTopic": "Second pass of האיש מקדש בו ובשלוחו",
-    "enclosingSubtopic": "What did R Yehuda HaNasi put in The Mishnah?"
+    "enclosingSubtopic": "What sorts of things did R Yehuda HaNasi put in The Mishnah?"
    }
   ],
   "Did R Yehuda HaNasi just write his personal opinions about various things?": [
@@ -289,22 +289,11 @@
   ],
   "What is something you wouldn't find in the Oral Torah?": [
    {
-    "text": "You might say: ",
+    "text": "If the Oral Torah is for details of mitzvos mentioned in the written Torah, then perhaps we wouldn't expect the Oral Torah to include details about mitzvos that aren't mentioned in the written Torah. ",
     "type": "text"
    },
    {
     "topLevelNodes": [
-     {
-      "ordinal": "-",
-      "ordered": false,
-      "tokensOfLine": [
-       {
-        "text": "If the Oral Torah is for details of mitzvos mentioned in the written Torah, then perhaps we wouldn't expect the Oral Torah to include any mitzvos or details of mitzvos that aren't mentioned in the written Torah.",
-        "type": "text"
-       }
-      ],
-      "children": []
-     },
      {
       "ordinal": "-",
       "ordered": false,

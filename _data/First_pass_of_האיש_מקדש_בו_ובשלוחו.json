@@ -1275,6 +1275,24 @@
         "enclosingSubtopic": "Grammatical explanation of מקדש"
        },
        {
+        "text": ", which are two of the ",
+        "type": "text"
+       },
+       {
+        "text": "“tenses” of Hebrew and Aramaic",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "“tenses” of Hebrew and Aramaic",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "“Tenses” of Hebrew and Aramaic",
+        "targetTopic": "“Tenses” of Hebrew and Aramaic",
+        "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
+        "enclosingSubtopic": "Grammatical explanation of מקדש"
+       },
+       {
         "text": ".",
         "type": "text"
        }
