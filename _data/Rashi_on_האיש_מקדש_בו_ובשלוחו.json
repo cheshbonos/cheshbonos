@@ -288,7 +288,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "Is it _confusing_ to see a Mishnah and not know the Gemara will later derive it from verses?",
+        "text": "Is it _confusing_ to see a ruling of the Mishnah and not know the Gemara will later derive it from verses?",
         "type": "local",
         "tokens": [
          {
@@ -305,11 +305,11 @@
           ]
          },
          {
-          "text": " to see a Mishnah and not know the Gemara will later derive it from verses?",
+          "text": " to see a ruling of the Mishnah and not know the Gemara will later derive it from verses?",
           "type": "text"
          }
         ],
-        "targetSubtopic": "Is it confusing to see a Mishnah and not know the Gemara will later derive it from verses?",
+        "targetSubtopic": "Is it confusing to see a ruling of the Mishnah and not know the Gemara will later derive it from verses?",
         "targetTopic": "Rashi on האיש מקדש בו ובשלוחו",
         "enclosingTopic": "Rashi on האיש מקדש בו ובשלוחו",
         "enclosingSubtopic": "Do we find that Rashi does this?"
@@ -321,7 +321,7 @@
     "type": "outline"
    }
   ],
-  "Is it confusing to see a Mishnah and not know the Gemara will later derive it from verses?": [
+  "Is it confusing to see a ruling of the Mishnah and not know the Gemara will later derive it from verses?": [
    {
     "text": "It doesn't seem confusing. You might be ",
     "type": "text"
@@ -346,18 +346,18 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "What is so confusing that Rashi can't just let us read on in the Gemara for the Mishnah's source?",
+        "text": "What is so confusing about this Mishnah that Rashi can't just let us read on in the Gemara for the Mishnah's source?",
         "type": "local",
         "tokens": [
          {
-          "text": "What is so confusing that Rashi can't just let us read on in the Gemara for the Mishnah's source?",
+          "text": "What is so confusing about this Mishnah that Rashi can't just let us read on in the Gemara for the Mishnah's source?",
           "type": "text"
          }
         ],
-        "targetSubtopic": "What is so confusing that Rashi can't just let us read on in the Gemara for the Mishnah's source?",
+        "targetSubtopic": "What is so confusing about this Mishnah that Rashi can't just let us read on in the Gemara for the Mishnah's source?",
         "targetTopic": "Rashi on האיש מקדש בו ובשלוחו",
         "enclosingTopic": "Rashi on האיש מקדש בו ובשלוחו",
-        "enclosingSubtopic": "Is it confusing to see a Mishnah and not know the Gemara will later derive it from verses?"
+        "enclosingSubtopic": "Is it confusing to see a ruling of the Mishnah and not know the Gemara will later derive it from verses?"
        }
       ],
       "children": []
@@ -366,9 +366,147 @@
     "type": "outline"
    }
   ],
-  "What is so confusing that Rashi can't just let us read on in the Gemara for the Mishnah's source?": [
+  "What is so confusing about this Mishnah that Rashi can't just let us read on in the Gemara for the Mishnah's source?": [
    {
-    "text": "Can we think of a difference between this ruling and other rulings in the Mishnah? ",
+    "text": "And one last problem – ",
+    "type": "text"
+   },
+   {
+    "text": "why do I even need Rashi?",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "why do I even need Rashi?",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "Why do I even need Rashi?",
+    "targetTopic": "Rashi on האיש מקדש בו ובשלוחו",
+    "enclosingTopic": "Rashi on האיש מקדש בו ובשלוחו",
+    "enclosingSubtopic": "What is so confusing about this Mishnah that Rashi can't just let us read on in the Gemara for the Mishnah's source?"
+   }
+  ],
+  "Why do I even need Rashi?": [
+   {
+    "text": "Rashi is telling me the Mishnah comes from verses. ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "What else would I have thought without Rashi?",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "What else would I have thought without Rashi?",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "What else would I have thought without Rashi?",
+        "targetTopic": "Rashi on האיש מקדש בו ובשלוחו",
+        "enclosingTopic": "Rashi on האיש מקדש בו ובשלוחו",
+        "enclosingSubtopic": "Why do I even need Rashi?"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "What else would I have thought without Rashi?": [
+   {
+    "text": "Where else would a Mishnah be coming from except verses? ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Doesn't the Gemara always explain the scriptural sources of Mishnas?",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Isn't it obvious that the Gemara is going to explain which verses the Mishnah comes from?",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "What is Rashi doing here?",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "What is Rashi doing here?",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "What is Rashi doing here?",
+        "targetTopic": "Rashi on האיש מקדש בו ובשלוחו",
+        "enclosingTopic": "Rashi on האיש מקדש בו ובשלוחו",
+        "enclosingSubtopic": "What else would I have thought without Rashi?"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "What is Rashi doing here?": [
+   {
+    "text": "Is there a reason here specifically we would need Rashi to comment? ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Can we think of a difference between this ruling and other rulings in the Mishnah that would make it more confusing?",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Can we think of a difference between this ruling and other rulings in the Mishnah that would make it more confusing?",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Can we think of a difference between this ruling and other rulings in the Mishnah that would make it more confusing?",
+        "targetTopic": "Rashi on האיש מקדש בו ובשלוחו",
+        "enclosingTopic": "Rashi on האיש מקדש בו ובשלוחו",
+        "enclosingSubtopic": "What is Rashi doing here?"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "Can we think of a difference between this ruling and other rulings in the Mishnah that would make it more confusing?": [
+   {
+    "text": "Is there a reason here specifically Rashi would need to tell me the ruling comes from verses? ",
     "type": "text"
    },
    {
@@ -402,7 +540,7 @@
         "targetSubtopic": "Why might the ruling of shlichus be uniquely confusing to the reader?",
         "targetTopic": "Rashi on האיש מקדש בו ובשלוחו",
         "enclosingTopic": "Rashi on האיש מקדש בו ובשלוחו",
-        "enclosingSubtopic": "What is so confusing that Rashi can't just let us read on in the Gemara for the Mishnah's source?"
+        "enclosingSubtopic": "Can we think of a difference between this ruling and other rulings in the Mishnah that would make it more confusing?"
        }
       ],
       "children": []
@@ -585,7 +723,75 @@
     ]
    },
    {
-    "text": " specifically I'm not sure what verses the Mishnah is coming from. ",
+    "text": " specifically you wouldn't be sure what verses the Mishnah is coming from. ",
+    "type": "text"
+   },
+   {
+    "text": "You might think the Mishnah isn't coming from verses at all",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "You might think the Mishnah isn't coming from verses at all",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "You might think the Mishnah isn't coming from verses at all",
+    "targetTopic": "Rashi on האיש מקדש בו ובשלוחו",
+    "enclosingTopic": "Rashi on האיש מקדש בו ובשלוחו",
+    "enclosingSubtopic": "What is so confusing about the Mishnah that Rashi has to tell me now that the Gemara will derive the ruling from verses?"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "You might think the Mishnah isn't coming from verses at all": [
+   {
+    "text": "So, ",
+    "type": "text"
+   },
+   {
+    "text": "you would have a pretty big difficulty with the Mishnah",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "you would have a pretty big difficulty with the Mishnah",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "You would have a pretty big difficulty with the Mishnah",
+    "targetTopic": "Rashi on האיש מקדש בו ובשלוחו",
+    "enclosingTopic": "Rashi on האיש מקדש בו ובשלוחו",
+    "enclosingSubtopic": "You might think the Mishnah isn't coming from verses at all"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "You would have a pretty big difficulty with the Mishnah": [
+   {
+    "text": "You might not be able to wait until the Gemara for an answer",
+    "type": "local",
+    "tokens": [
+     {
+      "text": "You might not be able to wait until the Gemara for an answer",
+      "type": "text"
+     }
+    ],
+    "targetSubtopic": "You might not be able to wait until the Gemara for an answer",
+    "targetTopic": "Rashi on האיש מקדש בו ובשלוחו",
+    "enclosingTopic": "Rashi on האיש מקדש בו ובשלוחו",
+    "enclosingSubtopic": "You would have a pretty big difficulty with the Mishnah"
+   },
+   {
+    "text": ".",
+    "type": "text"
+   }
+  ],
+  "You might not be able to wait until the Gemara for an answer": [
+   {
+    "text": "So, that might be what is bothering Rashi! ",
     "type": "text"
    },
    {
@@ -595,51 +801,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "I might think the Mishnah isn't coming from verses at all.",
-        "type": "text"
-       }
-      ],
-      "children": []
-     },
-     {
-      "ordinal": "-",
-      "ordered": false,
-      "tokensOfLine": [
-       {
-        "text": "So, I would have a pretty big difficulty with the Mishnah",
-        "type": "text"
-       }
-      ],
-      "children": []
-     },
-     {
-      "ordinal": "-",
-      "ordered": false,
-      "tokensOfLine": [
-       {
-        "text": "I might not be able to wait until the Gemara for an answer",
-        "type": "text"
-       }
-      ],
-      "children": []
-     },
-     {
-      "ordinal": "-",
-      "ordered": false,
-      "tokensOfLine": [
-       {
-        "text": "So that difficulty might be what is bothering Rashi",
-        "type": "text"
-       }
-      ],
-      "children": []
-     },
-     {
-      "ordinal": "-",
-      "ordered": false,
-      "tokensOfLine": [
-       {
-        "text": "🎉",
+        "text": "🎉 🎉 🎉",
         "type": "text"
        }
       ],
