@@ -19,7 +19,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "You can navigate by using the mouse or arrow keys.",
+        "text": "Browse by clicking links and adding further paragraphs to the page.",
         "type": "text"
        }
       ],
@@ -186,22 +186,7 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "You can post your questions, comments, or corrections on the ",
-        "type": "text"
-       },
-       {
-        "type": "url",
-        "url": "https://github.com/cheshbonos/cheshbonos/issues",
-        "text": "issues page",
-        "tokens": [
-         {
-          "text": "issues page",
-          "type": "text"
-         }
-        ]
-       },
-       {
-        "text": ", ",
+        "text": "You can post your questions, comments, or corrections with ",
         "type": "text"
        },
        {

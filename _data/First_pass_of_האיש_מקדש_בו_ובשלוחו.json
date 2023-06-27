@@ -153,15 +153,15 @@
         "type": "text"
        },
        {
-        "text": "try to predict what you think the halacha will be",
+        "text": "try to predict what you think the Mishnah will say",
         "type": "local",
         "tokens": [
          {
-          "text": "try to predict what you think the halacha will be",
+          "text": "try to predict what you think the Mishnah will say",
           "type": "text"
          }
         ],
-        "targetSubtopic": "Try to predict what you think the halacha will be",
+        "targetSubtopic": "Try to predict what you think the Mishnah will say",
         "targetTopic": "First pass of האיש מקדש בו ובשלוחו",
         "enclosingTopic": "First pass of האיש מקדש בו ובשלוחו",
         "enclosingSubtopic": "Prepare to read the first clause"
@@ -249,7 +249,7 @@
     "type": "outline"
    }
   ],
-  "Try to predict what you think the halacha will be": [
+  "Try to predict what you think the Mishnah will say": [
    {
     "text": "The first clause of the Mishnah is speaking about whether a man is allowed to create a binding engagement with a woman via a messenger. Do you think this should be possible? Why or why not?",
     "type": "text"
@@ -1476,8 +1476,18 @@
   ],
   "בו": [],
   "ובשלוחו": [],
-  "Literal translation of the full sentence": [],
-  "Identify ambiguities": [],
+  "Literal translation of the full sentence": [
+   {
+    "text": "Work in progress.",
+    "type": "text"
+   }
+  ],
+  "Identify ambiguities": [
+   {
+    "text": "Work in progress.",
+    "type": "text"
+   }
+  ],
   "Understand the first clause": [
    {
     "text": "Now that we've read the first clause, we will ask some clarifying questions. ",
@@ -1596,31 +1606,8 @@
   ],
   "How can we understand the specificity of the Mishnah?": [
    {
-    "topLevelNodes": [
-     {
-      "ordinal": "-",
-      "ordered": false,
-      "tokensOfLine": [
-       {
-        "text": "There being three ways of understanding specificity",
-        "type": "text"
-       }
-      ],
-      "children": []
-     },
-     {
-      "ordinal": "-",
-      "ordered": false,
-      "tokensOfLine": [
-       {
-        "text": "Going through the options here",
-        "type": "text"
-       }
-      ],
-      "children": []
-     }
-    ],
-    "type": "outline"
+    "text": "When the Mishnah gives a list of things, is that generally davka, lav davka, or the biggest chiddush and kol shekain all less-surprising examples?",
+    "type": "text"
    }
   ],
   "What would I have thought in the absence of this Mishnah?": [],
@@ -1628,7 +1615,7 @@
   "What would I have thought if it didn’t say ובשלוחו?": [],
   "Whose opinion are we trying to figure out?": [
    {
-    "text": "Is there someone whose mind we could read to see if R Yosef is correct about what he is saying?",
+    "text": "Is there someone whose mind we could read to see if R Yosef is correct about what he is saying? (Getting the student to recognize that this is a machlochus over the intent of the tana, not stam over what the halacha is.)",
     "type": "text"
    }
   ]

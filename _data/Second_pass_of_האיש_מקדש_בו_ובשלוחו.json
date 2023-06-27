@@ -573,18 +573,18 @@
   ],
   "Where in the written Torah do we find a source for the ability to use a shaliach?": [
    {
-    "text": "Can you think of any verses that discuss _shlichus_?",
+    "text": "Can you think of any verses that say you can use a _shaliach_?",
     "type": "local",
     "tokens": [
      {
-      "text": "Can you think of any verses that discuss ",
+      "text": "Can you think of any verses that say you can use a ",
       "type": "text"
      },
      {
       "type": "italics",
       "tokens": [
        {
-        "text": "shlichus",
+        "text": "shaliach",
         "type": "text"
        }
       ]
@@ -594,13 +594,13 @@
       "type": "text"
      }
     ],
-    "targetSubtopic": "Can you think of any verses that discuss shlichus?",
+    "targetSubtopic": "Can you think of any verses that say you can use a shaliach?",
     "targetTopic": "Second pass of האיש מקדש בו ובשלוחו",
     "enclosingTopic": "Second pass of האיש מקדש בו ובשלוחו",
     "enclosingSubtopic": "Where in the written Torah do we find a source for the ability to use a shaliach?"
    }
   ],
-  "Can you think of any verses that discuss shlichus?": [
+  "Can you think of any verses that say you can use a shaliach?": [
    {
     "text": "Think very hard",
     "type": "local",
@@ -613,7 +613,7 @@
     "targetSubtopic": "Think very hard",
     "targetTopic": "Second pass of האיש מקדש בו ובשלוחו",
     "enclosingTopic": "Second pass of האיש מקדש בו ובשלוחו",
-    "enclosingSubtopic": "Can you think of any verses that discuss shlichus?"
+    "enclosingSubtopic": "Can you think of any verses that say you can use a shaliach?"
    },
    {
     "text": ".",
@@ -648,14 +648,14 @@
       "ordered": false,
       "tokensOfLine": [
        {
-        "text": "“Where is the Mishnah getting the concept of ",
+        "text": "“Where is the Mishnah getting the concept of using a ",
         "type": "text"
        },
        {
         "type": "italics",
         "tokens": [
          {
-          "text": "shlichus",
+          "text": "shaliach",
           "type": "text"
          }
         ]

@@ -674,7 +674,20 @@
   ],
   "What about shlichus?": [
    {
-    "text": "It would seem there is no explicit verse in the Torah teaching slichus. ",
+    "text": "It would seem there is no explicit verse in the Torah teaching that you can use a ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "shaliach",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ". ",
     "type": "text"
    },
    {
@@ -710,14 +723,14 @@
   ],
   "What is so confusing about the Mishnah that Rashi has to tell me now that the Gemara will derive the ruling from verses?": [
    {
-    "text": "The answer may be, by ",
+    "text": "The answer may be, regarding using a ",
     "type": "text"
    },
    {
     "type": "italics",
     "tokens": [
      {
-      "text": "shlichus",
+      "text": "shaliach",
       "type": "text"
      }
     ]
