@@ -1,14 +1,14 @@
 [Cheshbonos]
 
 ** Cheshbonos: This is an early draft of Cheshbonos, a tool for improving Gemara skills.
-- You can navigate by using the mouse or arrow keys.
+- Browse by clicking links and adding further paragraphs to the page.
 - You can use Cheshbonos to learn [[the second chapter of _Meseches Kiddushin_, {{_Perek Ha’ish Mekadesh_}}]].
 - You can also [[learn more about the Cheshbonos project]].
 
 Learn more about the Cheshbonos project:
 You can learn more about the Cheshbonos project:
 - Cheshbonos has a [[dedication]], [[disclaimers]], and [[acknowledgements]].
-- You can post your questions, comments, or corrections on the [issues page](https://github.com/cheshbonos/cheshbonos/issues), [Google forms](https://docs.google.com/forms/d/e/1FAIpQLSclr0B1tknEZb6xUY07zHOcP0SURogv6daE6Vuls0NErZlWWA/viewform?usp=sf_link) or [by email](mailto:cheshbonos.project@gmail.com?subject=Feedback).
+- You can post your questions, comments, or corrections with [Google forms](https://docs.google.com/forms/d/e/1FAIpQLSclr0B1tknEZb6xUY07zHOcP0SURogv6daE6Vuls0NErZlWWA/viewform?usp=sf_link) or [by email](mailto:cheshbonos.project@gmail.com?subject=Feedback).
 - You can sign up for occasional [[email updates]].
 - You can download the Cheshbonos [desktop app](https://github.com/cheshbonos/cheshbonos/releases/tag/latest).
 - Cheshbonos is built using [Canopy.js](https://github.com/canopy-js/canopy-js).
@@ -2707,14 +2707,14 @@ In order to learn the first clause of the Mishnah:
 Prepare to read the first clause:
 There are various things you should know before trying to read the first clause.
 - The first clause has [[required background knowledge]].
-- You should [[try to predict what you think the halacha will be]].
+- You should [[try to predict what you think the Mishnah will say]].
 
 Required background knowledge:
 There is required background knowledge to understand the first clause.
 - You'll need to know what _kiddushin_ and _nisuyin_ are.
 - You'll need to know what _shlichus_ is.
 
-Try to predict what you think the halacha will be:
+Try to predict what you think the Mishnah will say:
 The first clause of the Mishnah is speaking about whether a man is allowed to create a binding engagement with a woman via a messenger. Do you think this should be possible? Why or why not?
 
 Read the first clause:
@@ -2797,9 +2797,9 @@ Here's how you could figure out the meaning of מקדש yourself:
 
 ובשלוחו:
 
-Literal translation of the full sentence:
+Literal translation of the full sentence: Work in progress.
 
-Identify ambiguities:
+Identify ambiguities: Work in progress.
 
 Understand the first clause:
 Now that we've read the first clause, we will ask some clarifying questions.
@@ -2810,8 +2810,7 @@ Now that we've read the first clause, we will ask some clarifying questions.
 - [[Whose opinion are we trying to figure out?]]
 
 How can we understand the specificity of the Mishnah?
-- There being three ways of understanding specificity
-- Going through the options here
+When the Mishnah gives a list of things, is that generally davka, lav davka, or the biggest chiddush and kol shekain all less-surprising examples?
 
 What would I have thought in the absence of this Mishnah?
 
@@ -2822,7 +2821,7 @@ What would I have thought if it didn’t say בו?
 What would I have thought if it didn’t say ובשלוחו?
 
 Whose opinion are we trying to figure out?
-Is there someone whose mind we could read to see if R Yosef is correct about what he is saying?
+Is there someone whose mind we could read to see if R Yosef is correct about what he is saying? (Getting the student to recognize that this is a machlochus over the intent of the tana, not stam over what the halacha is.)
 
 
 [Gemara/Kiddushin/Perek Ha'ish Mekadesh/Hashta B’shlucho Mekadesh Bo Meboy/Pass 1/Sentence 02]
@@ -3066,9 +3065,9 @@ We said that the Mishnah encodes the Oral Law which includes details of halachos
 - So, a question we might have is, [[where in the _written_ Torah do we find a source for the ability to use a _shaliach_?]]
 
 Where in the _written_ Torah do we find a source for the ability to use a _shaliach_?
-[[Can you think of any verses that discuss _shlichus_?]]
+[[Can you think of any verses that say you can use a _shaliach_?]]
 
-Can you think of any verses that discuss _shlichus_?
+Can you think of any verses that say you can use a _shaliach_?
 [[Think very hard]].
 
 Think very hard:
@@ -3076,7 +3075,7 @@ Think very hard:
 
 Now, what if I told you there was no such verse?
 Then, you might have a good question on the Mishnah!
-- “Where is the Mishnah getting the concept of _shlichus_ from, if there is no such verse explicit in the Torah?”
+- “Where is the Mishnah getting the concept of using a _shaliach_ from, if there is no such verse explicit in the Torah?”
 - 🎉🎉🎉
 
 
@@ -3255,11 +3254,11 @@ You could probably find the verse in the Torah.
 - [[What about _shlichus_?]]
 
 What about _shlichus_?
-It would seem there is no explicit verse in the Torah teaching slichus.
+It would seem there is no explicit verse in the Torah teaching that you can use a _shaliach_.
 - So, [[what is so confusing about the Mishnah that Rashi has to tell me now that the Gemara will derive the ruling from verses?]]
 
 What is so confusing about the Mishnah that Rashi has to tell me now that the Gemara will derive the ruling from verses?
-The answer may be, by _shlichus_ specifically you wouldn't be sure what verses the Mishnah is coming from.
+The answer may be, regarding using a _shaliach_ specifically you wouldn't be sure what verses the Mishnah is coming from.
 [[You might think the Mishnah isn't coming from verses at all]].
 
 You might think the Mishnah isn't coming from verses at all:
